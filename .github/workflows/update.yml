@@ -1,0 +1,41 @@
+name: Actualizar panel de noticias
+
+on:
+  schedule:
+    # Cada 3 horas, en UTC.
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}  # permite correrlo manualmente desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Recolectar titulares
+        run: python scripts/fetch_news.py
+
+      - name: Curar con Claude y regenerar index.html
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/curate_and_render.py
+
+      - name: Commit y push si hubo cambios
+        run: |
+          git config user.name "panel-sonora-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html raw_items.json data/today.json
+          git diff --cached --quiet || git commit -m "Actualización automática del panel"
+          git push
