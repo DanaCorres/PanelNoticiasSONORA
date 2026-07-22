@@ -1,8 +1,15 @@
 {
   "date": "2026-07-22",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Aseguran tres toneladas de metanfetamina en Sonora",
+        "summary": "Autoridades decomisaron grandes cantidades de metanfetamina ocultas entre alimento para ganado en la entidad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/asegura-fgr-tres-toneladas-de-metanfetamina-en-sonora/260867",
+        "_added_at": "2026-07-22T03:56:16.439074-07:00"
+      },
       {
         "title": "Autoridades aseguran tres toneladas de metanfetamina en Sonora",
         "summary": "Gobernador Durazo reconoce a SSPC y FGR por decomiso de droga oculta entre alimento para ganado.",
@@ -33,6 +40,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Gobernador reconoce a corporaciones por aseguramiento de drogas",
+        "summary": "Alfonso Durazo felicitó a SSPC y FGR por decomiso importante de metanfetamina en Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/gobernador-alfonso-durazo-reconoce-a-sspc-y-fgr-por-el-aseguramiento-de-mas-de-tres-toneladas-de-metanfetamina-en-sonora/",
+        "_added_at": "2026-07-22T03:56:16.439074-07:00"
+      },
       {
         "title": "Senadora Valles destaca ruta aérea Mexicana en Hermosillo",
         "summary": "Lorenia Valles resalta vuelo inaugural y compromiso con infraestructura de transporte.",
@@ -80,6 +94,27 @@
     ],
     "sociedad": [
       {
+        "title": "Lluvias cierran paso vehicular en Río San Miguel, Rayón",
+        "summary": "Autoridades municipales advierten sobre caudal elevado e indican no intentar cruzar vados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/cierran-temporalmente-paso-vehicular-por-el-rio-san-miguel-en-rayon-ante-aumento-del-caudal/",
+        "_added_at": "2026-07-22T03:56:16.439074-07:00"
+      },
+      {
+        "title": "Bomberos alertan sobre riesgos por crecida de ríos hermosillenses",
+        "summary": "Lluvia en sierra eleva niveles de agua; ciudadanía debe tomar precauciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/21/lluvias-en-la-sierra-elevan-el-nivel-de-rios-en-hermosillo-bomberos-advierten-sobre-riesgos/",
+        "_added_at": "2026-07-22T03:56:16.439074-07:00"
+      },
+      {
+        "title": "UCAN inaugura campus en Hermosillo con modelo de Texas",
+        "summary": "Nueva institución educativa ofrece alianza académica con Universidad de Texas en Dallas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/inaugura-ucan-en-hermosillo-con-modelo-educativo-en-alianza-con-la-universidad-de-texas-en-dallas/",
+        "_added_at": "2026-07-22T03:56:16.439074-07:00"
+      },
+      {
         "title": "Fundación busca padrinos para útiles de niños hermosillenses",
         "summary": "Con Causa requiere apoyo para cubrir útiles escolares de 25 menores.",
         "source": "El Imparcial",
@@ -109,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-22T01:03:51.983286-07:00"
+  "last_updated": "2026-07-22T03:56:16.439074-07:00"
 }
