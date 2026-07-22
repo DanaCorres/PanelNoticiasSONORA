@@ -1,8 +1,15 @@
 {
   "date": "2026-07-21",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Autoridades aseguran tres toneladas de metanfetamina en Sonora",
+        "summary": "Gobernador reconoce a SSPC y FGR por decomiso de droga oculta entre alimento para ganado en la entidad.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/gobernador-alfonso-durazo-reconoce-a-sspc-y-fgr-por-el-aseguramiento-de-mas-de-tres-toneladas-de-metanfetamina-en-sonora/",
+        "_added_at": "2026-07-21T22:38:01.634670-07:00"
+      },
       {
         "title": "Aseguran tres toneladas de metanfetamina en Sonora",
         "summary": "FGR detiene conductor de tráiler con droga oculta en alimento para ganado en ruta Sonoyta-Puerto Peñasco.",
@@ -34,6 +41,13 @@
     ],
     "politica": [
       {
+        "title": "Senadora valora vuelo inaugural de Mexicana de Aviación",
+        "summary": "Lorenia Valles destaca compromiso de autoridades para mejorar infraestructura de transporte en la entidad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/mexicana-de-aviacion-inicia-ruta-hermosillo-aifa/260917",
+        "_added_at": "2026-07-21T22:38:01.634670-07:00"
+      },
+      {
         "title": "IMSS construirá dos nuevos hospitales en Sonora",
         "summary": "Durante gobierno Sheinbaum se edificarán 47 hospitales; Sonora recibirá dos unidades médicas.",
         "source": "Proyecto Puente",
@@ -49,6 +63,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Bazar escolar ofrece útiles hasta 60% más baratos",
+        "summary": "Evento en Hermosillo brinda útiles escolares con descuentos significativos y servicios gratuitos para familias.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/21/bazar-escolar-2026-ofrecera-utiles-hasta-60-mas-baratos-y-servicios-gratuitos-para-familias-de-hermosillo/",
+        "_added_at": "2026-07-21T22:38:01.634670-07:00"
+      },
       {
         "title": "Cajeme pierde 217 registros patronales en semestre",
         "summary": "Ciudad Obregón reduce empleadores formales durante primer semestre del año.",
@@ -72,6 +93,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "UCAN inaugura en Hermosillo con alianza con UT Dallas",
+        "summary": "Universidad de Ciencias Aplicadas de Norteamérica inicia operaciones con modelo educativo enfocado en ingenierías.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/inaugura-ucan-en-hermosillo-con-modelo-educativo-en-alianza-con-la-universidad-de-texas-en-dallas/",
+        "_added_at": "2026-07-21T22:38:01.634670-07:00"
+      },
+      {
+        "title": "Jornada de colecta en Comedor Golondrinas el 26 de julio",
+        "summary": "Comedor invita a comunidad a donativos en campaña de recolecta en Hermosillo para apoyar operaciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/dona-y-apoya-jornada-de-colecta-en-el-comedor-golondrinas-sera-este-26-de-julio-en-hermosillo/",
+        "_added_at": "2026-07-21T22:38:01.634670-07:00"
+      },
       {
         "title": "Fundación busca padrinos para útiles escolares",
         "summary": "Con Causa requiere apoyo para 25 niños de Hermosillo necesitados.",
@@ -102,5 +137,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-21T19:34:24.001514-07:00"
+  "last_updated": "2026-07-21T22:38:01.634670-07:00"
 }
