@@ -1,8 +1,29 @@
 {
   "date": "2026-07-22",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Nogales sufre cuatro muertes por desbordamiento de ríos",
+        "summary": "Lluvias causaron desbordamientos en Nogales con cuatro fallecidos y viviendas dañadas desde el jueves pasado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-colapsan-nogales-reportan-cuatro-victimas/260941",
+        "_added_at": "2026-07-22T09:11:55.716850-07:00"
+      },
+      {
+        "title": "Sonora sexto lugar nacional en investigaciones por narcomenudeo",
+        "summary": "Estado se posiciona en sexto lugar a nivel nacional por casos de tráfico de drogas al menudeo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/sonora-se-ubicó-en-el-sexto-lugar-nacional-por-investigaciones-relacionadas-con-narcomenudeo/",
+        "_added_at": "2026-07-22T09:11:55.716850-07:00"
+      },
+      {
+        "title": "Detienen joven por agredir a su madre en Hermosillo",
+        "summary": "Arrestan a individuo tras golpear a su madre durante una discusión en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/detienen-a-joven-por-golpear-a-su-madre-tras-discusion-en-hermosillo/",
+        "_added_at": "2026-07-22T09:11:55.716850-07:00"
+      },
       {
         "title": "Proponen regular redes sociales contra ciberacoso en Sonora",
         "summary": "Iniciativa busca proteger menores de explotación y delitos digitales en plataformas.",
@@ -48,6 +69,13 @@
     ],
     "politica": [
       {
+        "title": "UCAN inaugura campus en Hermosillo con alianza texana",
+        "summary": "Nueva universidad abre operaciones en Hermosillo con modelo educativo en colaboración con Universidad de Texas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/inaugura-ucan-en-hermosillo-con-modelo-educativo-en-alianza-con-la-universidad-de-texas-en-dallas/",
+        "_added_at": "2026-07-22T09:11:55.716850-07:00"
+      },
+      {
         "title": "Gobernador reconoce a corporaciones por aseguramiento de drogas",
         "summary": "Alfonso Durazo felicitó a SSPC y FGR por decomiso importante de metanfetamina en Sonora.",
         "source": "El Imparcial",
@@ -78,6 +106,13 @@
     ],
     "economia": [
       {
+        "title": "Planta solar de Peñasco financia subsidio eléctrico estatal",
+        "summary": "Instalación opera al cien por ciento en etapas iniciales, generando ingresos para sostener tarifa eléctrica.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/durazo-presume-beneficios-de-planta-solar-en-sonora/260940",
+        "_added_at": "2026-07-22T09:11:55.716850-07:00"
+      },
+      {
         "title": "UCAN inaugura campus en Hermosillo con alianza internacional",
         "summary": "Nueva universidad abre operaciones con modelo educativo en conjunto con Universidad de Texas.",
         "source": "El Imparcial",
@@ -100,6 +135,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sequía retrocede en Sonora tras lluvias recientes",
+        "summary": "Precipitaciones reducen municipios afectados de 67 a 8 en el estado durante el último año.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/sequia-da-tregua-a-sonora-y-reduce-de-67-a-ocho-los-municipios-afectados-en-un-ano/",
+        "_added_at": "2026-07-22T09:11:55.716850-07:00"
+      },
+      {
+        "title": "Padres denuncian inconsistencias en asignación de preparatorias",
+        "summary": "Familias en Hermosillo protestan por criterios irregulares en distribución de estudiantes a escuelas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/21/padres-de-familia-denuncian-a-la-sec-inconsistencias-en-asignacion-de-preparatorias/",
+        "_added_at": "2026-07-22T09:11:55.716850-07:00"
+      },
       {
         "title": "Lluvias cierran paso vehicular en Río San Miguel, Rayón",
         "summary": "Autoridades municipales advierten sobre caudal elevado e indican no intentar cruzar vados.",
@@ -151,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-22T06:15:48.243444-07:00"
+  "last_updated": "2026-07-22T09:11:55.716850-07:00"
 }
