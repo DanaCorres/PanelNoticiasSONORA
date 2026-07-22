@@ -1,8 +1,36 @@
 {
   "date": "2026-07-22",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Mujer sentenciada por agredir policías en Caborca",
+        "summary": "Condenada a 10 años de prisión por ataque armado contra elementos estatales en Caborca.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/sentencian-a-10-anos-de-prision-a-mujer-por-agresion-armada-contra-policias-estatales-en-caborca/",
+        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+      },
+      {
+        "title": "Detienen a sujeto armado en operativo sur de Hermosillo",
+        "summary": "Capturan a hombre portando arma de fuego durante operativo de seguridad en sur de capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/detienen-a-hombre-con-arma-de-fuego-durante-operativo-al-sur-de-hermosillo/",
+        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+      },
+      {
+        "title": "Sonorense identificado entre cuerpos hallados en Arizona",
+        "summary": "Tres cadáveres localizados en arroyo de Nogales, Arizona; uno identificado como sonorense.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/identifican-a-sonorense-tras-hallazgo-de-tres-cuerpos/260957",
+        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+      },
+      {
+        "title": "Rescatan perros abandonados en cateo por maltrato",
+        "summary": "Dos caninos liberados en condiciones de abandono durante operación por abuso animal en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/rescatan-a-dos-perros-en-condiciones-de-abandono-durante-cateo-por-maltrato-animal-en-hermosillo/",
+        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+      },
       {
         "title": "Hallazgo de cuerpo sin vida en Hermosillo",
         "summary": "Localizan a hombre fallecido en vivienda de Las Placitas tras días sin ser visto por vecinos.",
@@ -44,37 +72,30 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/22/detienen-a-joven-por-golpear-a-su-madre-tras-discusion-en-hermosillo/",
         "_added_at": "2026-07-22T09:11:55.716850-07:00"
-      },
-      {
-        "title": "Proponen regular redes sociales contra ciberacoso en Sonora",
-        "summary": "Iniciativa busca proteger menores de explotación y delitos digitales en plataformas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/proponen-regular-redes-sociales-para-proteger-a-menores-de-ciberacoso-y-delitos-digitales-en-sonora/",
-        "_added_at": "2026-07-22T06:15:48.243444-07:00"
-      },
-      {
-        "title": "Aseguran tres toneladas de metanfetamina en Sonora",
-        "summary": "Autoridades decomisaron grandes cantidades de metanfetamina ocultas entre alimento para ganado en la entidad.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/asegura-fgr-tres-toneladas-de-metanfetamina-en-sonora/260867",
-        "_added_at": "2026-07-22T03:56:16.439074-07:00"
-      },
-      {
-        "title": "Autoridades aseguran tres toneladas de metanfetamina en Sonora",
-        "summary": "Gobernador Durazo reconoce a SSPC y FGR por decomiso de droga oculta entre alimento para ganado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/gobernador-alfonso-durazo-reconoce-a-sspc-y-fgr-por-el-aseguramiento-de-mas-de-tres-toneladas-de-metanfetamina-en-sonora/",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
-      },
-      {
-        "title": "Patrulla Fronteriza detiene pandillero en Nogales",
-        "summary": "Capturan a integrante de pandilla carcelaria en operativo fronterizo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/21/patrulla-fronteriza-detiene-a-integrante-de-pandilla-carcelaria/",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Lluvias causan cuatro muertes en Nogales",
+        "summary": "Desbordamiento de cauces por precipitaciones deja víctimas fatales y daños en viviendas nogalenses.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-colapsan-nogales-reportan-cuatro-victimas/260941",
+        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+      },
+      {
+        "title": "Ejército refuerza apoyo tras daños en Lomas Nogales",
+        "summary": "Gobierno y fuerzas armadas intensifican asistencia a zona afectada por inundaciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/22/ejercito-y-gobierno-refuerzan-apoyo-en-lomas-de-nogales-tras-danos-por-lluvias/",
+        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+      },
+      {
+        "title": "Toño Astiazarán resalta crecimiento económico Hermosillo",
+        "summary": "Gobernador destaca avances económicos de capital ante estudiantes universitarios.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/tono-astiazaran-destaca-crecimiento-economico-de-hermosillo-ante-estudiantes-de-universidad-vizcaya/",
+        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+      },
       {
         "title": "UCAN inaugura campus en Hermosillo con alianza texana",
         "summary": "Nueva universidad abre operaciones en Hermosillo con modelo educativo en colaboración con Universidad de Texas.",
@@ -113,6 +134,13 @@
     ],
     "economia": [
       {
+        "title": "Mexicana inaugura ruta Hermosillo-AIFA",
+        "summary": "Vuelo inaugural de aerolínea conecta capital sonorense con terminal de Ciudad de México.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/mexicana-de-aviacion-inicia-ruta-hermosillo-aifa/260917",
+        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+      },
+      {
         "title": "Planta solar de Peñasco financia subsidio eléctrico estatal",
         "summary": "Instalación opera al cien por ciento en etapas iniciales, generando ingresos para sostener tarifa eléctrica.",
         "source": "Expreso",
@@ -142,6 +170,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Unique People convoca voluntarios en Hermosillo",
+        "summary": "Organización busca apoyo para niños, adultos mayores y mujeres en situación vulnerable.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/unique-people-lanza-convocatoria-para-voluntarios-en-hermosillo-busca-apoyar-a-ninos-adultos-mayores-y-mujeres-vulnerables/",
+        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+      },
+      {
+        "title": "Iglesia Tucson entrega despensas en Nogales",
+        "summary": "Templo donativo distribuye 50 canastas y promete continuar ayuda a familias damnificadas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/22/iglesia-de-tucson-entrega-50-despensas-y-anuncia-mas-ayuda-para-familias-damnificadas-por-inundaciones-en-nogales/",
+        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+      },
+      {
+        "title": "Hermosillo suma ocho parques para perros",
+        "summary": "Capital cuenta con nuevos espacios recreativos exclusivos para mascotas caninas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/hermosillo-ya-tiene-ocho-parques-para-perros-conoce-donde-estan-estos-espacios-que-ganan-terreno-en-la-ciudad/",
+        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+      },
       {
         "title": "Calor extremo y lluvias afectarán Sonora próximas horas",
         "summary": "Condiciones climáticas intensas se esperan en municipios del noreste y este estatal.",
@@ -190,29 +239,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/22/cierran-temporalmente-paso-vehicular-por-el-rio-san-miguel-en-rayon-ante-aumento-del-caudal/",
         "_added_at": "2026-07-22T03:56:16.439074-07:00"
-      },
-      {
-        "title": "Bomberos alertan sobre riesgos por crecida de ríos hermosillenses",
-        "summary": "Lluvia en sierra eleva niveles de agua; ciudadanía debe tomar precauciones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/21/lluvias-en-la-sierra-elevan-el-nivel-de-rios-en-hermosillo-bomberos-advierten-sobre-riesgos/",
-        "_added_at": "2026-07-22T03:56:16.439074-07:00"
-      },
-      {
-        "title": "UCAN inaugura campus en Hermosillo con modelo de Texas",
-        "summary": "Nueva institución educativa ofrece alianza académica con Universidad de Texas en Dallas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/inaugura-ucan-en-hermosillo-con-modelo-educativo-en-alianza-con-la-universidad-de-texas-en-dallas/",
-        "_added_at": "2026-07-22T03:56:16.439074-07:00"
-      },
-      {
-        "title": "Fundación busca padrinos para útiles de niños hermosillenses",
-        "summary": "Con Causa requiere apoyo para cubrir útiles escolares de 25 menores.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/fundacion-con-causa-busca-padrinos-para-cubrir-utiles-escolares-de-25-ninos-en-hermosillo/",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-22T11:53:23.167209-07:00"
+  "last_updated": "2026-07-22T14:53:32.758689-07:00"
 }
