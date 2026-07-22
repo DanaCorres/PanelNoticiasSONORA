@@ -4,9 +4,162 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Panel de noticias — Sonora</title>
+<style>
+  :root{
+    --bg:#f6f5f1; --card:#ffffff; --border:#e3e1d8;
+    --text:#1c1c1a; --muted:#6b6a63; --hint:#96958c;
+    --seguridad:#a32d2d; --politica:#185fa5; --economia:#3b6d11; --sociedad:#534ab7;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#141412; --card:#1e1e1b; --border:#33322c;
+      --text:#f1efe8; --muted:#b4b2a9; --hint:#888780;
+    }
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; padding:2rem 1rem 4rem; background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  .wrap{max-width:800px; margin:0 auto;}
+  header{display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px; margin-bottom:1.75rem;}
+  h1{font-size:22px; font-weight:600; margin:0;}
+  .sub{font-size:13px; color:var(--muted); margin:4px 0 0;}
+  .stats{display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:12px; margin-bottom:2rem;}
+  .stat{background:var(--card); border:1px solid var(--border); border-radius:10px; padding:1rem;}
+  .stat p:first-child{font-size:12.5px; color:var(--muted); margin:0 0 4px;}
+  .stat p:last-child{font-size:22px; font-weight:600; margin:0;}
+  section{margin-bottom:2rem;}
+  .section-title{display:flex; align-items:center; gap:8px; margin:0 0 10px;}
+  .section-title h2{font-size:16px; font-weight:600; margin:0;}
+  .dot{width:10px; height:10px; border-radius:50%;}
+  .card{background:var(--card); border:1px solid var(--border); border-left-width:3px; border-radius:6px; padding:10px 14px; margin-bottom:8px;}
+  .card h3{font-size:14.5px; font-weight:600; margin:0 0 4px;}
+  .card p{font-size:13px; color:var(--muted); margin:0 0 4px; line-height:1.5;}
+  .card .src{font-size:11.5px; color:var(--hint); margin:0;}
+  .seguridad{border-left-color:var(--seguridad);}
+  .politica{border-left-color:var(--politica);}
+  .economia{border-left-color:var(--economia);}
+  .sociedad{border-left-color:var(--sociedad);}
+  footer{font-size:11.5px; color:var(--hint); border-top:1px solid var(--border); padding-top:1rem; margin-top:1rem;}
+</style>
 </head>
-<body style="font-family:-apple-system,sans-serif; max-width:600px; margin:4rem auto; text-align:center; color:#333;">
-  <h1>Panel de noticias — Sonora</h1>
-  <p>Este archivo se genera automáticamente. Corre el workflow "Actualizar panel de noticias" desde la pestaña Actions de GitHub para verlo con contenido real.</p>
+<body>
+<div class="wrap">
+
+  <header>
+    <div>
+      <h1>Sonora — panel de noticias</h1>
+      <p class="sub">Actualizado automáticamente: 21 de July de 2026, 19:34 (hora de Sonora)</p>
+    </div>
+  </header>
+
+  <div class="stats">
+    <div class="stat"><p>Seguridad</p><p>4 notas</p></div>
+<div class="stat"><p>Política y gobierno</p><p>2 notas</p></div>
+<div class="stat"><p>Economía</p><p>3 notas</p></div>
+<div class="stat"><p>Sociedad, cultura y deportes</p><p>4 notas</p></div>
+  </div>
+
+  <section>
+<div class="section-title"><span class="dot" style="background:var(--seguridad)"></span><h2>Seguridad</h2></div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.expreso.com.mx/noticias/sonora/asegura-fgr-tres-toneladas-de-metanfetamina-en-sonora/260867" style="color:inherit;text-decoration:none">Aseguran tres toneladas de metanfetamina en Sonora</a></h3>
+  <p>FGR detiene conductor de tráiler con droga oculta en alimento para ganado en ruta Sonoyta-Puerto Peñasco.</p>
+  <p class="src">Expreso</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.elimparcial.com/son/nogales/2026/07/21/patrulla-fronteriza-detiene-a-integrante-de-pandilla-carcelaria/" style="color:inherit;text-decoration:none">Patrulla Fronteriza captura pandillero en Nogales</a></h3>
+  <p>Integrante de pandilla carcelaria detenido por autoridades fronterizas.</p>
+  <p class="src">El Imparcial</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.elimparcial.com/son/nogales/2026/07/21/policias-de-nogales-detienen-a-conductor-y-aseguran-camioneta-con-reporte-de-robo-vigente/" style="color:inherit;text-decoration:none">Policías aseguran camioneta robada en Nogales</a></h3>
+  <p>Detienen conductor con vehículo que tenía reporte vigente de robo.</p>
+  <p class="src">El Imparcial</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.elimparcial.com/son/hermosillo/2026/07/21/lluvias-en-la-sierra-elevan-el-nivel-de-rios-en-hermosillo-bomberos-advierten-sobre-riesgos/" style="color:inherit;text-decoration:none">Ríos crecen por lluvias; Bomberos advierte riesgos</a></h3>
+  <p>Precipitaciones en sierra elevan niveles de ríos en Hermosillo; autoridades alertan sobre peligros.</p>
+  <p class="src">El Imparcial</p>
+</div>
+</section>
+<section>
+<div class="section-title"><span class="dot" style="background:var(--politica)"></span><h2>Política y gobierno</h2></div>
+
+<div class="card politica">
+  <h3><a href="https://proyectopuente.com.mx/2026/07/21/imss-construira-47-hospitales-durante-gobierno-de-sheinbaum-sonora-recibira-dos-nuevas-unidades-medicas/" style="color:inherit;text-decoration:none">IMSS construirá dos nuevos hospitales en Sonora</a></h3>
+  <p>Durante gobierno Sheinbaum se edificarán 47 hospitales; Sonora recibirá dos unidades médicas.</p>
+  <p class="src">Proyecto Puente</p>
+</div>
+
+<div class="card politica">
+  <h3><a href="https://www.expreso.com.mx/noticias/sonora/lamarque-destaca-avances-de-la-transformacion-y-plantea-reto/260912" style="color:inherit;text-decoration:none">Lamarque destaca avances de transformación en Sonora</a></h3>
+  <p>Gobernador resalta incremento en becas y energía renovable; plantea retos para desarrollo.</p>
+  <p class="src">Expreso</p>
+</div>
+</section>
+<section>
+<div class="section-title"><span class="dot" style="background:var(--economia)"></span><h2>Economía</h2></div>
+
+<div class="card economia">
+  <h3><a href="https://www.elimparcial.com/son/ciudad-obregon/2026/07/21/pierde-cajeme-217-registros-patronales-durante-el-primer-semestre-del-ano/" style="color:inherit;text-decoration:none">Cajeme pierde 217 registros patronales en semestre</a></h3>
+  <p>Ciudad Obregón reduce empleadores formales durante primer semestre del año.</p>
+  <p class="src">El Imparcial</p>
+</div>
+
+<div class="card economia">
+  <h3><a href="https://www.elimparcial.com/son/sonora/2026/07/22/con-mas-de-3-mil-700-propiedades-airbnb-en-sonora-necesita-un-registro-y-proteccion-para-usuarios/" style="color:inherit;text-decoration:none">Sonora necesita regulación para 3,700 propiedades Airbnb</a></h3>
+  <p>Plataforma requiere registro y protección para usuarios según especialistas.</p>
+  <p class="src">El Imparcial</p>
+</div>
+
+<div class="card economia">
+  <h3><a href="https://www.elimparcial.com/son/ciudad-obregon/2026/07/21/sonora-instalara-nuevo-punto-de-inspeccion-contra-el-gusano-barrenador-en-carretera-nuevo-casas-grandes-bavispe/" style="color:inherit;text-decoration:none">Sonora amplía vigilancia contra gusano barrenador</a></h3>
+  <p>Instalan nuevo punto de inspección en carretera Nuevo Casas Grandes-Bavispe.</p>
+  <p class="src">El Imparcial</p>
+</div>
+</section>
+<section>
+<div class="section-title"><span class="dot" style="background:var(--sociedad)"></span><h2>Sociedad, cultura y deportes</h2></div>
+
+<div class="card sociedad">
+  <h3><a href="https://www.elimparcial.com/son/hermosillo/2026/07/22/fundacion-con-causa-busca-padrinos-para-cubrir-utiles-escolares-de-25-ninos-en-hermosillo/" style="color:inherit;text-decoration:none">Fundación busca padrinos para útiles escolares</a></h3>
+  <p>Con Causa requiere apoyo para 25 niños de Hermosillo necesitados.</p>
+  <p class="src">El Imparcial</p>
+</div>
+
+<div class="card sociedad">
+  <h3><a href="https://www.elimparcial.com/son/hermosillo/2026/07/21/padres-de-familia-denuncian-a-la-sec-inconsistencias-en-asignacion-de-preparatorias/" style="color:inherit;text-decoration:none">Padres denuncian inconsistencias en asignación preparatoria</a></h3>
+  <p>Familias cuestionan procedimientos de la SEC para colocación de estudiantes.</p>
+  <p class="src">El Imparcial</p>
+</div>
+
+<div class="card sociedad">
+  <h3><a href="https://www.expreso.com.mx/noticias/sonora/obregon-rescate-de-hombre-arriba-de-torre-de-telecomunicacion/260883" style="color:inherit;text-decoration:none">Bomberos rescatan hombre de torre en Obregón</a></h3>
+  <p>Persona sin hogar es bajada de estructura de 40 metros en Ciudad Obregón.</p>
+  <p class="src">Expreso</p>
+</div>
+
+<div class="card sociedad">
+  <h3><a href="https://proyectopuente.com.mx/2026/07/21/h-bus-hermosillo-llaman-a-estudiantes-a-realizar-reinscripcion-para-conservar-transporte-gratuito/" style="color:inherit;text-decoration:none">H Bus llama a estudiantes a reinscritos</a></h3>
+  <p>Transportistas piden validar registros para mantener beneficio gratuito en Hermosillo.</p>
+  <p class="src">Proyecto Puente</p>
+</div>
+</section>
+
+  <footer>
+    Se acumulan las notas relevantes de todo el día (se reinicia a medianoche, hora de
+    Sonora) — cada 3 horas se revisan las fuentes y se agregan solo notas nuevas, sin
+    borrar las anteriores. Curado con Claude. Este panel se genera por software y puede
+    contener errores o notas fuera de contexto; verifica siempre en la fuente original
+    antes de tomar decisiones basadas en esta información.
+  </footer>
+
+</div>
 </body>
 </html>

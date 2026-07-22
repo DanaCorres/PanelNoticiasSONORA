@@ -1,1 +1,106 @@
-{}
+{
+  "date": "2026-07-21",
+  "run_count": 1,
+  "notes": {
+    "seguridad": [
+      {
+        "title": "Aseguran tres toneladas de metanfetamina en Sonora",
+        "summary": "FGR detiene conductor de tráiler con droga oculta en alimento para ganado en ruta Sonoyta-Puerto Peñasco.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/asegura-fgr-tres-toneladas-de-metanfetamina-en-sonora/260867",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      },
+      {
+        "title": "Patrulla Fronteriza captura pandillero en Nogales",
+        "summary": "Integrante de pandilla carcelaria detenido por autoridades fronterizas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/21/patrulla-fronteriza-detiene-a-integrante-de-pandilla-carcelaria/",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      },
+      {
+        "title": "Policías aseguran camioneta robada en Nogales",
+        "summary": "Detienen conductor con vehículo que tenía reporte vigente de robo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/21/policias-de-nogales-detienen-a-conductor-y-aseguran-camioneta-con-reporte-de-robo-vigente/",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      },
+      {
+        "title": "Ríos crecen por lluvias; Bomberos advierte riesgos",
+        "summary": "Precipitaciones en sierra elevan niveles de ríos en Hermosillo; autoridades alertan sobre peligros.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/21/lluvias-en-la-sierra-elevan-el-nivel-de-rios-en-hermosillo-bomberos-advierten-sobre-riesgos/",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      }
+    ],
+    "politica": [
+      {
+        "title": "IMSS construirá dos nuevos hospitales en Sonora",
+        "summary": "Durante gobierno Sheinbaum se edificarán 47 hospitales; Sonora recibirá dos unidades médicas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/21/imss-construira-47-hospitales-durante-gobierno-de-sheinbaum-sonora-recibira-dos-nuevas-unidades-medicas/",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      },
+      {
+        "title": "Lamarque destaca avances de transformación en Sonora",
+        "summary": "Gobernador resalta incremento en becas y energía renovable; plantea retos para desarrollo.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-destaca-avances-de-la-transformacion-y-plantea-reto/260912",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      }
+    ],
+    "economia": [
+      {
+        "title": "Cajeme pierde 217 registros patronales en semestre",
+        "summary": "Ciudad Obregón reduce empleadores formales durante primer semestre del año.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/21/pierde-cajeme-217-registros-patronales-durante-el-primer-semestre-del-ano/",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      },
+      {
+        "title": "Sonora necesita regulación para 3,700 propiedades Airbnb",
+        "summary": "Plataforma requiere registro y protección para usuarios según especialistas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/con-mas-de-3-mil-700-propiedades-airbnb-en-sonora-necesita-un-registro-y-proteccion-para-usuarios/",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      },
+      {
+        "title": "Sonora amplía vigilancia contra gusano barrenador",
+        "summary": "Instalan nuevo punto de inspección en carretera Nuevo Casas Grandes-Bavispe.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/21/sonora-instalara-nuevo-punto-de-inspeccion-contra-el-gusano-barrenador-en-carretera-nuevo-casas-grandes-bavispe/",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      }
+    ],
+    "sociedad": [
+      {
+        "title": "Fundación busca padrinos para útiles escolares",
+        "summary": "Con Causa requiere apoyo para 25 niños de Hermosillo necesitados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/fundacion-con-causa-busca-padrinos-para-cubrir-utiles-escolares-de-25-ninos-en-hermosillo/",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      },
+      {
+        "title": "Padres denuncian inconsistencias en asignación preparatoria",
+        "summary": "Familias cuestionan procedimientos de la SEC para colocación de estudiantes.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/21/padres-de-familia-denuncian-a-la-sec-inconsistencias-en-asignacion-de-preparatorias/",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      },
+      {
+        "title": "Bomberos rescatan hombre de torre en Obregón",
+        "summary": "Persona sin hogar es bajada de estructura de 40 metros en Ciudad Obregón.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/obregon-rescate-de-hombre-arriba-de-torre-de-telecomunicacion/260883",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      },
+      {
+        "title": "H Bus llama a estudiantes a reinscritos",
+        "summary": "Transportistas piden validar registros para mantener beneficio gratuito en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/21/h-bus-hermosillo-llaman-a-estudiantes-a-realizar-reinscripcion-para-conservar-transporte-gratuito/",
+        "_added_at": "2026-07-21T19:34:24.001514-07:00"
+      }
+    ]
+  },
+  "last_updated": "2026-07-21T19:34:24.001514-07:00"
+}
