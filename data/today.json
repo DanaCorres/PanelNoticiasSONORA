@@ -1,8 +1,15 @@
 {
   "date": "2026-07-22",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Proponen regular redes sociales contra ciberacoso en Sonora",
+        "summary": "Iniciativa busca proteger menores de explotación y delitos digitales en plataformas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/proponen-regular-redes-sociales-para-proteger-a-menores-de-ciberacoso-y-delitos-digitales-en-sonora/",
+        "_added_at": "2026-07-22T06:15:48.243444-07:00"
+      },
       {
         "title": "Aseguran tres toneladas de metanfetamina en Sonora",
         "summary": "Autoridades decomisaron grandes cantidades de metanfetamina ocultas entre alimento para ganado en la entidad.",
@@ -144,5 +151,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-22T03:56:16.439074-07:00"
+  "last_updated": "2026-07-22T06:15:48.243444-07:00"
 }
