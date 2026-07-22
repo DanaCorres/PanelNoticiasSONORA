@@ -1,8 +1,29 @@
 {
   "date": "2026-07-22",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallazgo de cuerpo sin vida en Hermosillo",
+        "summary": "Localizan a hombre fallecido en vivienda de Las Placitas tras días sin ser visto por vecinos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/hallan-sin-vida-a-hombre-dentro-de-una-vivienda-en-colonia-las-placitas-de-hermosillo/",
+        "_added_at": "2026-07-22T11:53:23.167209-07:00"
+      },
+      {
+        "title": "Detienen a hombre por amenaza con navaja en Hermosillo",
+        "summary": "Sujeto amenazó con arma blanca tras cobrar uso de baño público en la capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/detienen-a-hombre-por-amenazar-con-una-navaja-tras-cobrarle-el-uso-de-un-bano-publico-en-hermosillo/",
+        "_added_at": "2026-07-22T11:53:23.167209-07:00"
+      },
+      {
+        "title": "Vados cierran por crecida del río San Miguel",
+        "summary": "Autoridades alertan sobre lluvias que generan crecida de cauces en Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/21/lluvias-obligan-al-cierre-de-vados-en-sonora-autoridades-alertan-por-crecida-del-rio-san-miguel-y-llaman-a-no-intentar-cruzarlo/",
+        "_added_at": "2026-07-22T11:53:23.167209-07:00"
+      },
       {
         "title": "Nogales sufre cuatro muertes por desbordamiento de ríos",
         "summary": "Lluvias causaron desbordamientos en Nogales con cuatro fallecidos y viviendas dañadas desde el jueves pasado.",
@@ -50,20 +71,6 @@
         "summary": "Capturan a integrante de pandilla carcelaria en operativo fronterizo.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/07/21/patrulla-fronteriza-detiene-a-integrante-de-pandilla-carcelaria/",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
-      },
-      {
-        "title": "Lluvias generan crecidas; autoridades alertan sobre riesgos",
-        "summary": "Río San Miguel aumenta caudal en Rayón; cierran paso vehicular temporalmente.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/cierran-temporalmente-paso-vehicular-por-el-rio-san-miguel-en-rayon-ante-aumento-del-caudal/",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
-      },
-      {
-        "title": "Carretera cerrada por deslave en Yécora",
-        "summary": "Autoridades cierran estatal 117 por deslizamiento provocado por lluvias intensas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/21/cierran-carretera-estatal-117-en-yecora-por-deslave-autoridades-piden-evitar-la-zona/",
         "_added_at": "2026-07-22T01:03:51.983286-07:00"
       }
     ],
@@ -136,6 +143,34 @@
     ],
     "sociedad": [
       {
+        "title": "Calor extremo y lluvias afectarán Sonora próximas horas",
+        "summary": "Condiciones climáticas intensas se esperan en municipios del noreste y este estatal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/calor-extremo-dominara-sonora-lluvias-se-concentraran-en-municipios-del-noreste-y-este-las-proximas-horas/",
+        "_added_at": "2026-07-22T11:53:23.167209-07:00"
+      },
+      {
+        "title": "Cajeme abre albergue temporal por clima extremo",
+        "summary": "Municipio habilita espacios de refugio ante calor y lluvias con posibilidad de ampliarse.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/22/tendra-cajeme-albergue-temporal-ante-calor-y-lluvias-activaran-mas-espacios-si-se-requiere/",
+        "_added_at": "2026-07-22T11:53:23.167209-07:00"
+      },
+      {
+        "title": "Carrera con causa apoya pacientes con fibrosis quística",
+        "summary": "En Cajeme organizan evento deportivo para recaudar fondos para enfermos de fibrosis.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/22/buscan-apoyar-a-pacientes-con-fibrosis-quistica-a-traves-de-carrera-con-causa/",
+        "_added_at": "2026-07-22T11:53:23.167209-07:00"
+      },
+      {
+        "title": "Hospital CIMA ofrece orientación sobre detección de ictus",
+        "summary": "Establecimiento en Hermosillo explica síntomas y acciones ante accidente cerebrovascular.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/como-detectar-un-ictus-a-tiempo-hospital-cima-hermosillo-explica-como-actuar/",
+        "_added_at": "2026-07-22T11:53:23.167209-07:00"
+      },
+      {
         "title": "Sequía retrocede en Sonora tras lluvias recientes",
         "summary": "Precipitaciones reducen municipios afectados de 67 a 8 en el estado durante el último año.",
         "source": "El Imparcial",
@@ -176,29 +211,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/fundacion-con-causa-busca-padrinos-para-cubrir-utiles-escolares-de-25-ninos-en-hermosillo/",
         "_added_at": "2026-07-22T01:03:51.983286-07:00"
-      },
-      {
-        "title": "Comedor Golondrinas realiza jornada de colecta este sábado",
-        "summary": "Convoca a ciudadanía a donar en evento benéfico en Hermosillo el 26 de julio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/dona-y-apoya-jornada-de-colecta-en-el-comedor-golondrinas-sera-este-26-de-julio-en-hermosillo/",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
-      },
-      {
-        "title": "Temperaturas extremas esperadas en Hermosillo este jueves",
-        "summary": "Clima alcanzaría 46°C; autoridades piden tomar precauciones de calor.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/21/temperaturas-podrian-alcanzar-los-46c-en-hermosillo-este-jueves/",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
-      },
-      {
-        "title": "Cananea refuerza operativos por lluvias y crecientes",
-        "summary": "Municipio pide apoyo ciudadano para prevenir tragedias por aumento de ríos.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/21/cananea-refuerza-operativo-por-lluvias-y-pide-apoyo-ciudadano-para-evitar-tragedias-por-crecientes/",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-22T09:11:55.716850-07:00"
+  "last_updated": "2026-07-22T11:53:23.167209-07:00"
 }
