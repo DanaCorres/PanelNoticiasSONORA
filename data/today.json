@@ -1,8 +1,15 @@
 {
   "date": "2026-07-23",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fiscal reporta aumento en cateos contra narcomenudeo",
+        "summary": "FGJE presenta incremento en investigaciones, operativos y decomisos de droga en Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/fgje-atribuye-al-combate-al-narcomenudeo-aumento-de-carpetas/261002",
+        "_added_at": "2026-07-23T03:56:21.478333-07:00"
+      },
       {
         "title": "Homicidio en colonia El Ranchito al oriente de Hermosillo",
         "summary": "Atacan a hombre a balazos en El Ranchito; fallece en el lugar. Los agresores lograron escapar sin ser capturados.",
@@ -33,6 +40,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Lorenia Valles respalda regulación de redes para menores",
+        "summary": "Senadora con licencia apoya iniciativa de presidenta Sheinbaum para proteger niños en internet.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/23/reconoce-lorenia-valles-iniciativa-de-la-presidenta-claudia-sheinbaum-para-regular-uso-de-redes-sociales-en-ninas-y-ninos/",
+        "_added_at": "2026-07-23T03:56:21.478333-07:00"
+      },
       {
         "title": "Lorenia Valles respalda regulación de redes en menores",
         "summary": "Senadora sonorense apoya iniciativa de Claudia Sheinbaum para regular uso de redes sociales en niños y adolescentes.",
@@ -66,6 +80,13 @@
     ],
     "sociedad": [
       {
+        "title": "Incendio en Central de Abastos, vecinos exigen reparación",
+        "summary": "Comerciantes claman por compensación tras incendio en instalaciones de Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/tras-incendio-en-la-central-de-abastos-vecinos-de-mision-san-jeronimo-claman-por-reparacion-de-danos/",
+        "_added_at": "2026-07-23T03:56:21.478333-07:00"
+      },
+      {
         "title": "Programa Médico en Casa supera 7 mil consultas",
         "summary": "Isssteson acerca atención sanitaria a domicilio a pacientes con dificultades de movilidad en Sonora.",
         "source": "Proyecto Puente",
@@ -95,5 +116,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-23T01:06:48.104701-07:00"
+  "last_updated": "2026-07-23T03:56:21.478333-07:00"
 }
