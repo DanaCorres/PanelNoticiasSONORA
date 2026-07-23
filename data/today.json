@@ -1,8 +1,36 @@
 {
   "date": "2026-07-23",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Incendio destruye bodegas en carretera a Bahía de Kino",
+        "summary": "Fuego consume múltiples bodegas en Hermosillo causando pérdidas millonarias y daños totales a tres instalaciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/incendio-consume-bodegas-en-la-carretera-a-bahia-de-kino-y-deja-perdidas-millonarias-en-hermosillo/",
+        "_added_at": "2026-07-23T09:17:28.721898-07:00"
+      },
+      {
+        "title": "Hallan cadáver con indicios de agresión en Hermosillo",
+        "summary": "Cuerpo masculino encontrado sin vida; autoridades investigan posible ataque armado en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/23/hallan-a-hombre-sin-vida-en-hermosillo-investigan-posible-agresion-armada/",
+        "_added_at": "2026-07-23T09:17:28.721898-07:00"
+      },
+      {
+        "title": "Sonora registra día sin homicidios dolosos",
+        "summary": "El 21 de julio no se reportaron muertes intencionales; sigue caída del 63% en promedio diario desde 2024.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/logra-sonora-un-dia-con-cero-homicidios/261011",
+        "_added_at": "2026-07-23T09:17:28.721898-07:00"
+      },
+      {
+        "title": "Detienen a auxiliar por muerte de Dafne Zapata",
+        "summary": "Arrestan empleado de Academia Doenitz; investigación se mantiene como posible feminicidio en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/23/detienen-a-auxiliar-de-la-academia-doenitz-por-muerte-de-dafne-zapata-investigan-caso-como-feminicidio/",
+        "_added_at": "2026-07-23T09:17:28.721898-07:00"
+      },
       {
         "title": "Ruffo Appel vinculado a proceso por huachicol ferroviario",
         "summary": "Exfuncionario procesado junto a coacusados en caso de contrabando de combustible desde Texas. Daño fiscal estimado en 166.4 millones.",
@@ -48,6 +76,13 @@
     ],
     "politica": [
       {
+        "title": "Lamarque propone estrategia regional para economía sonorense",
+        "summary": "Aspirante a coordinación estatal presenta plan diferenciado por regiones tras gira de cuatro semanas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-plantea-nuevo-modelo-de-desarrollo-para-sonora/261013",
+        "_added_at": "2026-07-23T09:17:28.721898-07:00"
+      },
+      {
         "title": "Lorenia Valles respalda regulación de redes para menores",
         "summary": "Senadora con licencia apoya iniciativa de presidenta Sheinbaum para proteger niños en internet.",
         "source": "El Imparcial",
@@ -71,6 +106,20 @@
     ],
     "economia": [
       {
+        "title": "Incertidumbre del T-MEC frena inversión en San Luis Río Colorado",
+        "summary": "Tratado genera dudas empresariales que reducen empleos e inversiones en la región fronteriza sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mxl/sanluis/2026/07/23/incertidumbre-por-el-t-mec-ya-frena-inversiones-y-empleos-en-san-luis-rio-colorado-canacintra/",
+        "_added_at": "2026-07-23T09:17:28.721898-07:00"
+      },
+      {
+        "title": "EEUU busca incluir agua fronteriza en renegociación del T-MEC",
+        "summary": "Estados Unidos intenta usar tratado como presión por déficit de agua en Río Bravo superior a mil millones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/07/23/eeuu-busca-usar-el-t-mec-como-palanca-para-presionar-a-mexico-por-la-entrega-de-agua-del-rio-bravo-tras-un-deficit-superior-a-mil-millones-de-metros-cubicos-en-2025/",
+        "_added_at": "2026-07-23T09:17:28.721898-07:00"
+      },
+      {
         "title": "Familias de Nogales reciben apoyo por afectaciones de lluvia",
         "summary": "Gobierno y Ayuntamiento entregan electrodomésticos y muebles a 30 familias damnificadas.",
         "source": "Expreso",
@@ -93,6 +142,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Entregan 240 bicicletas en comunidades rurales de Hermosillo",
+        "summary": "Programa EnBici distribuye transportes para reducir traslados de estudiantes y familias en zonas rurales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/entregan-240-bicicletas-en-comunidades-rurales-de-hermosillo-programa-enbici-busca-reducir-traslados-de-estudiantes-y-familias/",
+        "_added_at": "2026-07-23T09:17:28.721898-07:00"
+      },
+      {
+        "title": "Nogales reparte apoyos a afectados por lluvias recientes",
+        "summary": "Gobierno estatal y municipal entregan electrodomésticos y muebles a 30 familias damnificadas por precipitaciones.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/nogales-comienza-reparto-de-apoyos-a-afectados-por-lluvias/261012",
+        "_added_at": "2026-07-23T09:17:28.721898-07:00"
+      },
+      {
+        "title": "Hermosillo suma ocho parques para perros en la ciudad",
+        "summary": "Espacios públicos dedicados a mascotas ganan terreno en la capital con nuevas ubicaciones disponibles.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/hermosillo-ya-tiene-ocho-parques-para-perros-conoce-donde-estan-estos-espacios-que-ganan-terreno-en-la-ciudad/",
+        "_added_at": "2026-07-23T09:17:28.721898-07:00"
+      },
       {
         "title": "Deslaves en carretera del Río Sonora por lluvias",
         "summary": "Precipitaciones en la sierra provocan bloqueos. Autoridades monitorean la situación.",
@@ -144,5 +214,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-23T06:18:21.393598-07:00"
+  "last_updated": "2026-07-23T09:17:28.721898-07:00"
 }
