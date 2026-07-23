@@ -1,267 +1,99 @@
 {
-  "date": "2026-07-22",
-  "run_count": 8,
+  "date": "2026-07-23",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
         "title": "Homicidio en colonia El Ranchito al oriente de Hermosillo",
-        "summary": "Hombre asesinado en ataque armado; agresores lograron escapar del lugar del crimen.",
+        "summary": "Atacan a hombre a balazos en El Ranchito; fallece en el lugar. Los agresores lograron escapar sin ser capturados.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/22/ataque-armado-deja-un-hombre-sin-vida-en-la-colonia-el-ranchito-al-oriente-de-hermosillo-agresores-logran-escapar/",
-        "_added_at": "2026-07-22T22:43:31.694906-07:00"
+        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       },
       {
-        "title": "Deslaves en carretera del Río Sonora por lluvias serranas",
-        "summary": "Lluvias en la sierra provocan desprendimientos de tierra; autoridades monitorean situación.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/lluvias-en-la-sierra-provocan-deslaves-en-carretera-del-rio-sonora-autoridades-monitorean-la-situacion/",
-        "_added_at": "2026-07-22T22:43:31.694906-07:00"
-      },
-      {
-        "title": "Fiscalía reporta más cateos y decomisos antidroga en Sonora",
-        "summary": "FGJE incrementó operativos contra narcomenudeo con mayor número de cateos y aseguramientos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/fgje-atribuye-al-combate-al-narcomenudeo-aumento-de-carpetas/261002",
-        "_added_at": "2026-07-22T22:43:31.694906-07:00"
-      },
-      {
-        "title": "Sonora registra día histórico sin homicidios dolosos",
-        "summary": "Estado logra jornada sin asesinatos tras años de violencia, marcando avance significativo en seguridad pública.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/sonora-registra-un-dia-sin-homicidios-dolosos-historico-en-ocho-anos-destacan-avance-en-seguridad-y-caida-de-la-violencia/",
-        "_added_at": "2026-07-22T18:25:13.693310-07:00"
-      },
-      {
-        "title": "Aseguran cámaras ilegales en colonias de Nogales",
-        "summary": "Autoridades federales y estatales confiscaron seis dispositivos de vigilancia instalados irregularmente.",
+        "title": "Cámaras ilegales aseguradas en colonias de Nogales",
+        "summary": "Autoridades estatales y federales decomisaron seis cámaras de vigilancia instaladas de forma irregular en Nogales.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/aseguran-camaras-clandestinas-en-nogales/260979",
-        "_added_at": "2026-07-22T18:25:13.693310-07:00"
+        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       },
       {
-        "title": "Mujer sentenciada por agredir policías en Caborca",
-        "summary": "Condenada a 10 años de prisión por ataque armado contra elementos estatales en Caborca.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/sentencian-a-10-anos-de-prision-a-mujer-por-agresion-armada-contra-policias-estatales-en-caborca/",
-        "_added_at": "2026-07-22T14:53:32.758689-07:00"
-      },
-      {
-        "title": "Detienen a sujeto armado en operativo sur de Hermosillo",
-        "summary": "Capturan a hombre portando arma de fuego durante operativo de seguridad en sur de capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/detienen-a-hombre-con-arma-de-fuego-durante-operativo-al-sur-de-hermosillo/",
-        "_added_at": "2026-07-22T14:53:32.758689-07:00"
-      },
-      {
-        "title": "Sonorense identificado entre cuerpos hallados en Arizona",
-        "summary": "Tres cadáveres localizados en arroyo de Nogales, Arizona; uno identificado como sonorense.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/identifican-a-sonorense-tras-hallazgo-de-tres-cuerpos/260957",
-        "_added_at": "2026-07-22T14:53:32.758689-07:00"
-      },
-      {
-        "title": "Rescatan perros abandonados en cateo por maltrato",
-        "summary": "Dos caninos liberados en condiciones de abandono durante operación por abuso animal en Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/rescatan-a-dos-perros-en-condiciones-de-abandono-durante-cateo-por-maltrato-animal-en-hermosillo/",
-        "_added_at": "2026-07-22T14:53:32.758689-07:00"
-      },
-      {
-        "title": "Hallazgo de cuerpo sin vida en Hermosillo",
-        "summary": "Localizan a hombre fallecido en vivienda de Las Placitas tras días sin ser visto por vecinos.",
+        "title": "Deslaves en carretera del Río Sonora por lluvias",
+        "summary": "Lluvias en la sierra provocan deslizamientos de tierra en la carretera del Río Sonora. Autoridades monitorean la situación.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/hallan-sin-vida-a-hombre-dentro-de-una-vivienda-en-colonia-las-placitas-de-hermosillo/",
-        "_added_at": "2026-07-22T11:53:23.167209-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/lluvias-en-la-sierra-provocan-deslaves-en-carretera-del-rio-sonora-autoridades-monitorean-la-situacion/",
+        "_added_at": "2026-07-23T01:06:48.104701-07:00"
+      },
+      {
+        "title": "Conductor se estrella contra vivienda en Hermosillo",
+        "summary": "Vehículo pierde control y se impacta contra casa en colonia Ley 57. No hay personas lesionadas reportadas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/conductor-pierde-el-control-y-se-estrella-contra-una-vivienda-en-la-colonia-ley-57/",
+        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Lorenia Valles respalda regulación de redes sociales para menores",
-        "summary": "Senadora con licencia apoya iniciativa presidencial para proteger niñas y niños en digital.",
+        "title": "Lorenia Valles respalda regulación de redes en menores",
+        "summary": "Senadora sonorense apoya iniciativa de Claudia Sheinbaum para regular uso de redes sociales en niños y adolescentes.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-apoya-debate-sobre-redes-sociales-y-menores/260995",
-        "_added_at": "2026-07-22T22:43:31.694906-07:00"
+        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       },
       {
-        "title": "Durazo destaca beneficios de planta solar en Puerto Peñasco",
-        "summary": "Gobernador resalta que ingresos de energía solar financian subsidio eléctrico en Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/durazo-presume-beneficios-de-planta-solar-en-sonora/260940",
-        "_added_at": "2026-07-22T18:25:13.693310-07:00"
-      },
-      {
-        "title": "Célida López destaca papel de mujeres en transformación",
-        "summary": "Funcionaria en Obregón subraya importancia femenina en procesos de cambio estatal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/22/las-mujeres-son-el-corazon-de-la-transformacion-celida-lopez/",
-        "_added_at": "2026-07-22T18:25:13.693310-07:00"
-      },
-      {
-        "title": "Lluvias causan cuatro muertes en Nogales",
-        "summary": "Desbordamiento de cauces por precipitaciones deja víctimas fatales y daños en viviendas nogalenses.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-colapsan-nogales-reportan-cuatro-victimas/260941",
-        "_added_at": "2026-07-22T14:53:32.758689-07:00"
-      },
-      {
-        "title": "Ejército refuerza apoyo tras daños en Lomas Nogales",
-        "summary": "Gobierno y fuerzas armadas intensifican asistencia a zona afectada por inundaciones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/22/ejercito-y-gobierno-refuerzan-apoyo-en-lomas-de-nogales-tras-danos-por-lluvias/",
-        "_added_at": "2026-07-22T14:53:32.758689-07:00"
-      },
-      {
-        "title": "Toño Astiazarán resalta crecimiento económico Hermosillo",
-        "summary": "Gobernador destaca avances económicos de capital ante estudiantes universitarios.",
+        "title": "UIF congela cuentas de Ernesto Ruffo Appel",
+        "summary": "Unidad de Inteligencia Financiera congela cuentas del ex gobernador. Su hija solicita protección en embajada estadounidense.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/tono-astiazaran-destaca-crecimiento-economico-de-hermosillo-ante-estudiantes-de-universidad-vizcaya/",
-        "_added_at": "2026-07-22T14:53:32.758689-07:00"
-      },
-      {
-        "title": "UCAN inaugura campus en Hermosillo con alianza texana",
-        "summary": "Nueva universidad abre operaciones en Hermosillo con modelo educativo en colaboración con Universidad de Texas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/inaugura-ucan-en-hermosillo-con-modelo-educativo-en-alianza-con-la-universidad-de-texas-en-dallas/",
-        "_added_at": "2026-07-22T09:11:55.716850-07:00"
-      },
-      {
-        "title": "Gobernador reconoce a corporaciones por aseguramiento de drogas",
-        "summary": "Alfonso Durazo felicitó a SSPC y FGR por decomiso importante de metanfetamina en Sonora.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/gobernador-alfonso-durazo-reconoce-a-sspc-y-fgr-por-el-aseguramiento-de-mas-de-tres-toneladas-de-metanfetamina-en-sonora/",
-        "_added_at": "2026-07-22T03:56:16.439074-07:00"
-      },
-      {
-        "title": "Senadora Valles destaca ruta aérea Mexicana en Hermosillo",
-        "summary": "Lorenia Valles resalta vuelo inaugural y compromiso con infraestructura de transporte.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/mexicana-de-aviacion-inicia-ruta-hermosillo-aifa/260917",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
-      },
-      {
-        "title": "Lamarque presenta avances de transformación en Sonora",
-        "summary": "Funcionario destaca incremento histórico en becas y energía renovable estatal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-destaca-avances-de-la-transformacion-y-plantea-reto/260912",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
+        "url": "https://proyectopuente.com.mx/2026/07/22/uif-congela-cuentas-de-ernesto-ruffo-su-hija-solicita-proteccion-en-embajada-de-eeuu/",
+        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       }
     ],
     "economia": [
       {
-        "title": "EBC ofrece masterclass gratuita sobre inteligencia artificial en Hermosillo",
-        "summary": "Institución educativa impartirá capacitación estratégica sobre implementación de IA en negocios.",
+        "title": "FGJE incrementa cateos y decomisos contra narcomenudeo",
+        "summary": "Fiscalía estatal reporta aumento en operativos y aseguramientos de droga como parte de estrategia contra venta menor.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/fgje-atribuye-al-combate-al-narcomenudeo-aumento-de-carpetas/261002",
+        "_added_at": "2026-07-23T01:06:48.104701-07:00"
+      },
+      {
+        "title": "Masterclass gratuita sobre inteligencia artificial en Hermosillo",
+        "summary": "EBC ofrece capacitación gratuita sobre implementación estratégica de IA en negocios para empresarios sonorenses.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/22/como-implementar-la-ia-de-forma-estrategica-en-los-negocios-ebc-ofrecera-masterclass-gratuita-en-hermosillo/",
-        "_added_at": "2026-07-22T22:43:31.694906-07:00"
-      },
-      {
-        "title": "Mexicana inaugura ruta Hermosillo-AIFA",
-        "summary": "Vuelo inaugural de aerolínea conecta capital sonorense con terminal de Ciudad de México.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/mexicana-de-aviacion-inicia-ruta-hermosillo-aifa/260917",
-        "_added_at": "2026-07-22T14:53:32.758689-07:00"
-      },
-      {
-        "title": "Planta solar de Peñasco financia subsidio eléctrico estatal",
-        "summary": "Instalación opera al cien por ciento en etapas iniciales, generando ingresos para sostener tarifa eléctrica.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/durazo-presume-beneficios-de-planta-solar-en-sonora/260940",
-        "_added_at": "2026-07-22T09:11:55.716850-07:00"
-      },
-      {
-        "title": "UCAN inaugura campus en Hermosillo con alianza internacional",
-        "summary": "Nueva universidad abre operaciones con modelo educativo en conjunto con Universidad de Texas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/inaugura-ucan-en-hermosillo-con-modelo-educativo-en-alianza-con-la-universidad-de-texas-en-dallas/",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
-      },
-      {
-        "title": "Sonora necesita regulación para viviendas de corta estancia",
-        "summary": "Más de 3,700 propiedades Airbnb requieren registro y protección para usuarios.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/con-mas-de-3-mil-700-propiedades-airbnb-en-sonora-necesita-un-registro-y-proteccion-para-usuarios/",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
-      },
-      {
-        "title": "Bazar escolar ofrece útiles hasta 60% más baratos",
-        "summary": "Evento en Hermosillo proporciona servicios gratuitos y descuentos para familias.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/21/bazar-escolar-2026-ofrecera-utiles-hasta-60-mas-baratos-y-servicios-gratuitos-para-familias-de-hermosillo/",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
+        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Sismo magnitud 4.4 sacude Golfo de California frente a Sonora",
-        "summary": "Movimiento telúrico registrado sin reportes de daños ni personas lesionadas en la región.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/sismo-de-magnitud-4-4-sacude-el-golfo-de-california-frente-a-sonora-autoridades-descartan-danos-o-personas-lesionadas/",
-        "_added_at": "2026-07-22T22:43:31.694906-07:00"
-      },
-      {
-        "title": "Evacúan guardería al sur de Hermosillo por alarma de incendio",
-        "summary": "Noventa personas desalojadas de forma preventiva; se descartaron riesgos de incendio real.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/evacuan-a-90-personas-de-guarderia-al-sur-de-hermosillo-por-alarma-de-incendio-descartan-riesgos/",
-        "_added_at": "2026-07-22T22:43:31.694906-07:00"
-      },
-      {
-        "title": "Incendio en Central de Abastos deja vecinos en espera",
-        "summary": "Hermosillo: detenido presunto responsable; afectados aguardan reparación de daños.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com.mx/son/hermosillo/2026/07/23/tras-incendio-en-la-central-de-abastos-vecinos-de-mision-san-jeronimo-claman-por-reparacion-de-danos/",
-        "_added_at": "2026-07-22T18:25:13.693310-07:00"
-      },
-      {
-        "title": "Lluvia deja 30 familias damnificadas en Nogales",
-        "summary": "Autoridades entregan artículos de asistencia a afectados por precipitaciones en municipio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/22/entregan-articulos-a-30-familias-damnificadas-de-nogales/",
-        "_added_at": "2026-07-22T18:25:13.693310-07:00"
-      },
-      {
-        "title": "Ejército refuerza apoyo en Lomas de Nogales tras daños",
-        "summary": "Gobierno y fuerzas armadas desplegadas para asistencia post-inundación en la zona.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/22/ejercito-y-gobierno-refuerzan-apoyo-en-lomas-de-nogales-tras-danos-por-lluvias/",
-        "_added_at": "2026-07-22T18:25:13.693310-07:00"
-      },
-      {
-        "title": "Isssteson supera 7 mil consultas de médico en casa",
-        "summary": "Programa acerca atención sanitaria a pacientes con dificultades de movilidad en Sonora.",
+        "title": "Programa Médico en Casa supera 7 mil consultas",
+        "summary": "Isssteson acerca atención sanitaria a domicilio a pacientes con dificultades de movilidad en Sonora.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/22/medico-en-casa-de-isssteson-supera-las-7-mil-consultas-y-acerca-atencion-de-salud-a-pacientes-con-dificultades-para-trasladarse-en-sonora/",
-        "_added_at": "2026-07-22T18:25:13.693310-07:00"
+        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       },
       {
-        "title": "Unique People convoca voluntarios en Hermosillo",
-        "summary": "Organización busca apoyo para niños, adultos mayores y mujeres en situación vulnerable.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/unique-people-lanza-convocatoria-para-voluntarios-en-hermosillo-busca-apoyar-a-ninos-adultos-mayores-y-mujeres-vulnerables/",
-        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+        "title": "Sismo de 4.4 en Golfo de California frente a Sonora",
+        "summary": "Temblor sacude región costera sonorense. Autoridades descartan daños materiales o lesiones en población.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/sismo-de-magnitud-4-4-sacude-el-golfo-de-california-frente-a-sonora-autoridades-descartan-danos-o-personas-lesionadas/",
+        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       },
       {
-        "title": "Iglesia Tucson entrega despensas en Nogales",
-        "summary": "Templo donativo distribuye 50 canastas y promete continuar ayuda a familias damnificadas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/22/iglesia-de-tucson-entrega-50-despensas-y-anuncia-mas-ayuda-para-familias-damnificadas-por-inundaciones-en-nogales/",
-        "_added_at": "2026-07-22T14:53:32.758689-07:00"
+        "title": "Evacúan guardería al sur de Hermosillo por alarma",
+        "summary": "Noventa personas desalojadas de instalación por activación de alarma de incendio. Se descartaron riesgos reales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/evacuan-a-90-personas-de-guarderia-al-sur-de-hermosillo-por-alarma-de-incendio-descartan-riesgos/",
+        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       },
       {
-        "title": "Hermosillo suma ocho parques para perros",
-        "summary": "Capital cuenta con nuevos espacios recreativos exclusivos para mascotas caninas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/hermosillo-ya-tiene-ocho-parques-para-perros-conoce-donde-estan-estos-espacios-que-ganan-terreno-en-la-ciudad/",
-        "_added_at": "2026-07-22T14:53:32.758689-07:00"
-      },
-      {
-        "title": "Calor extremo y lluvias afectarán Sonora próximas horas",
-        "summary": "Condiciones climáticas intensas se esperan en municipios del noreste y este estatal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/calor-extremo-dominara-sonora-lluvias-se-concentraran-en-municipios-del-noreste-y-este-las-proximas-horas/",
-        "_added_at": "2026-07-22T11:53:23.167209-07:00"
+        "title": "Calor extremo dominará Sonora próximos días",
+        "summary": "Anticiclón traerá temperaturas muy elevadas al estado. Lluvias limitadas al norte y noreste.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/anticiclon-trae-calor-extremo-en-sonora-lluvias-se-limitan/260950",
+        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-22T22:43:31.694906-07:00"
+  "last_updated": "2026-07-23T01:06:48.104701-07:00"
 }
