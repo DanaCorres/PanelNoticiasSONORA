@@ -1,8 +1,29 @@
 {
   "date": "2026-07-23",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Aseguran cámaras de vigilancia clandestinas en Nogales",
+        "summary": "Autoridades decomisan seis cámaras parásitas en Nogales que presuntamente vigilaban movimientos de autoridades.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/23/aseguran-seis-camaras-parasitas-en-nogales-investigan-si-vigilaban-movimientos-de-autoridades/",
+        "_added_at": "2026-07-23T14:53:22.960060-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a mujer por robo en Guaymas",
+        "summary": "Abyale Evelyn es detenida y vinculada a proceso por presunto robo de 300 mil pesos en Guaymas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/vinculada-mujer-por-robo-de-300-mil-pesos-en-guaymas/261046",
+        "_added_at": "2026-07-23T14:53:22.960060-07:00"
+      },
+      {
+        "title": "Muere niña de dos años en choque carretero en Caborca",
+        "summary": "Accidente entre autobús y automóvil en carretera deja fallecida a menor de edad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/caborca-muere-nina-de-dos-anos-en-accidente-carretero/261016",
+        "_added_at": "2026-07-23T14:53:22.960060-07:00"
+      },
       {
         "title": "Alerta Amber por niña desaparecida en Nogales",
         "summary": "Se activa búsqueda de Camille Sánchez Flores, menor de 6 años sustraída en Nogales.",
@@ -51,30 +72,16 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/logra-sonora-un-dia-con-cero-homicidios/261011",
         "_added_at": "2026-07-23T09:17:28.721898-07:00"
-      },
-      {
-        "title": "Detienen a auxiliar por muerte de Dafne Zapata",
-        "summary": "Arrestan empleado de Academia Doenitz; investigación se mantiene como posible feminicidio en Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/23/detienen-a-auxiliar-de-la-academia-doenitz-por-muerte-de-dafne-zapata-investigan-caso-como-feminicidio/",
-        "_added_at": "2026-07-23T09:17:28.721898-07:00"
-      },
-      {
-        "title": "Ruffo Appel vinculado a proceso por huachicol ferroviario",
-        "summary": "Exfuncionario procesado junto a coacusados en caso de contrabando de combustible desde Texas. Daño fiscal estimado en 166.4 millones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/07/23/jueza-vinculo-a-proceso-a-ernesto-ruffo-appel-y-siete-coacusados-por-huachicol-ferroviario-seis-seguiran-recluidos-mientras-avanza-la-investigacion-por-163-carrotanques/",
-        "_added_at": "2026-07-23T06:18:21.393598-07:00"
-      },
-      {
-        "title": "Fiscal reporta aumento en cateos contra narcomenudeo",
-        "summary": "FGJE presenta incremento en investigaciones, operativos y decomisos de droga en Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/fgje-atribuye-al-combate-al-narcomenudeo-aumento-de-carpetas/261002",
-        "_added_at": "2026-07-23T03:56:21.478333-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Senador Jaimes critica prisión preventiva automática",
+        "summary": "Legislador sonorense advierte que medida afecta miles sin respetar presunción de inocencia ni debido proceso.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/senador-ivan-jaimes-archundia-defiende-debido-proceso/261038",
+        "_added_at": "2026-07-23T14:53:22.960060-07:00"
+      },
       {
         "title": "Norberto Barraza aspira a alcaldía de Hermosillo",
         "summary": "Candidato se presenta con 30 años de experiencia en servicio público.",
@@ -112,6 +119,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Lluvias no frenan obras en Cajeme",
+        "summary": "Proyectos de infraestructura en Ciudad Obregón continúan según cronograma pese a precipitaciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/23/lluvias-no-afectan-obras-en-cajeme-trabajos-continuan-conforme-a-lo-programado/",
+        "_added_at": "2026-07-23T14:53:22.960060-07:00"
+      },
       {
         "title": "Hermosillo refuerza seguridad para atraer inversiones",
         "summary": "Gobierno fortalece seguridad, reduce gastos y mejora infraestructura para empleos.",
@@ -156,6 +170,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Hermosillo activa operativo por calor extremo",
+        "summary": "Gobierno implementa medidas de hidratación ante temperaturas superiores a 45 grados centígrados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/activan-operativo-de-hidratacion-en-hermosillo-ante-incremento-de-temperatura-superior-a-los-45c-durante-este-jueves/",
+        "_added_at": "2026-07-23T14:53:22.960060-07:00"
+      },
+      {
+        "title": "Urgen donadores de sangre para niño con dengue",
+        "summary": "Necesitan plaquetas y sangre para menor de cinco años con dengue en Cajeme.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/23/urgen-donadores-de-sangre-y-plaquetas-para-nicolas-un-nino-de-5-anos-con-dengue/",
+        "_added_at": "2026-07-23T14:53:22.960060-07:00"
+      },
+      {
+        "title": "Afectados por lluvia en Nogales acceden a Seguro Infonavit",
+        "summary": "Damnificados por precipitaciones pueden solicitar cobertura de daños en inmuebles con trámite especial.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/seguro-de-danos-infonavit-para-casas-tras-lluvias-en-nogales/261034",
+        "_added_at": "2026-07-23T14:53:22.960060-07:00"
+      },
       {
         "title": "Hermosillo enfrentará calor extremo de 47°C",
         "summary": "Alerta por temperatura extrema con sensación térmica de hasta 52°C en Bahía Kino.",
@@ -204,29 +239,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/23/familia-de-hermosillo-crea-petacas-aventureras-comunidad-que-viaja-por-sonora-limpia-espacios-naturales-y-busca-plantar-200-arboles-en-villas-del-sur/",
         "_added_at": "2026-07-23T06:18:21.393598-07:00"
-      },
-      {
-        "title": "Incendio en Central de Abastos, vecinos exigen reparación",
-        "summary": "Comerciantes claman por compensación tras incendio en instalaciones de Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/tras-incendio-en-la-central-de-abastos-vecinos-de-mision-san-jeronimo-claman-por-reparacion-de-danos/",
-        "_added_at": "2026-07-23T03:56:21.478333-07:00"
-      },
-      {
-        "title": "Programa Médico en Casa supera 7 mil consultas",
-        "summary": "Isssteson acerca atención sanitaria a domicilio a pacientes con dificultades de movilidad en Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/medico-en-casa-de-isssteson-supera-las-7-mil-consultas-y-acerca-atencion-de-salud-a-pacientes-con-dificultades-para-trasladarse-en-sonora/",
-        "_added_at": "2026-07-23T01:06:48.104701-07:00"
-      },
-      {
-        "title": "Sismo de 4.4 en Golfo de California frente a Sonora",
-        "summary": "Temblor sacude región costera sonorense. Autoridades descartan daños materiales o lesiones en población.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/sismo-de-magnitud-4-4-sacude-el-golfo-de-california-frente-a-sonora-autoridades-descartan-danos-o-personas-lesionadas/",
-        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-23T11:55:42.726727-07:00"
+  "last_updated": "2026-07-23T14:53:22.960060-07:00"
 }
