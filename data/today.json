@@ -1,8 +1,22 @@
 {
   "date": "2026-07-22",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sonora registra día histórico sin homicidios dolosos",
+        "summary": "Estado logra jornada sin asesinatos tras años de violencia, marcando avance significativo en seguridad pública.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/sonora-registra-un-dia-sin-homicidios-dolosos-historico-en-ocho-anos-destacan-avance-en-seguridad-y-caida-de-la-violencia/",
+        "_added_at": "2026-07-22T18:25:13.693310-07:00"
+      },
+      {
+        "title": "Aseguran cámaras ilegales en colonias de Nogales",
+        "summary": "Autoridades federales y estatales confiscaron seis dispositivos de vigilancia instalados irregularmente.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/aseguran-camaras-clandestinas-en-nogales/260979",
+        "_added_at": "2026-07-22T18:25:13.693310-07:00"
+      },
       {
         "title": "Mujer sentenciada por agredir policías en Caborca",
         "summary": "Condenada a 10 años de prisión por ataque armado contra elementos estatales en Caborca.",
@@ -58,23 +72,23 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-colapsan-nogales-reportan-cuatro-victimas/260941",
         "_added_at": "2026-07-22T09:11:55.716850-07:00"
-      },
-      {
-        "title": "Sonora sexto lugar nacional en investigaciones por narcomenudeo",
-        "summary": "Estado se posiciona en sexto lugar a nivel nacional por casos de tráfico de drogas al menudeo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/sonora-se-ubicó-en-el-sexto-lugar-nacional-por-investigaciones-relacionadas-con-narcomenudeo/",
-        "_added_at": "2026-07-22T09:11:55.716850-07:00"
-      },
-      {
-        "title": "Detienen joven por agredir a su madre en Hermosillo",
-        "summary": "Arrestan a individuo tras golpear a su madre durante una discusión en Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/detienen-a-joven-por-golpear-a-su-madre-tras-discusion-en-hermosillo/",
-        "_added_at": "2026-07-22T09:11:55.716850-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Durazo destaca beneficios de planta solar en Puerto Peñasco",
+        "summary": "Gobernador resalta que ingresos de energía solar financian subsidio eléctrico en Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/durazo-presume-beneficios-de-planta-solar-en-sonora/260940",
+        "_added_at": "2026-07-22T18:25:13.693310-07:00"
+      },
+      {
+        "title": "Célida López destaca papel de mujeres en transformación",
+        "summary": "Funcionaria en Obregón subraya importancia femenina en procesos de cambio estatal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/22/las-mujeres-son-el-corazon-de-la-transformacion-celida-lopez/",
+        "_added_at": "2026-07-22T18:25:13.693310-07:00"
+      },
       {
         "title": "Lluvias causan cuatro muertes en Nogales",
         "summary": "Desbordamiento de cauces por precipitaciones deja víctimas fatales y daños en viviendas nogalenses.",
@@ -171,6 +185,34 @@
     ],
     "sociedad": [
       {
+        "title": "Incendio en Central de Abastos deja vecinos en espera",
+        "summary": "Hermosillo: detenido presunto responsable; afectados aguardan reparación de daños.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com.mx/son/hermosillo/2026/07/23/tras-incendio-en-la-central-de-abastos-vecinos-de-mision-san-jeronimo-claman-por-reparacion-de-danos/",
+        "_added_at": "2026-07-22T18:25:13.693310-07:00"
+      },
+      {
+        "title": "Lluvia deja 30 familias damnificadas en Nogales",
+        "summary": "Autoridades entregan artículos de asistencia a afectados por precipitaciones en municipio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/22/entregan-articulos-a-30-familias-damnificadas-de-nogales/",
+        "_added_at": "2026-07-22T18:25:13.693310-07:00"
+      },
+      {
+        "title": "Ejército refuerza apoyo en Lomas de Nogales tras daños",
+        "summary": "Gobierno y fuerzas armadas desplegadas para asistencia post-inundación en la zona.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/22/ejercito-y-gobierno-refuerzan-apoyo-en-lomas-de-nogales-tras-danos-por-lluvias/",
+        "_added_at": "2026-07-22T18:25:13.693310-07:00"
+      },
+      {
+        "title": "Isssteson supera 7 mil consultas de médico en casa",
+        "summary": "Programa acerca atención sanitaria a pacientes con dificultades de movilidad en Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/medico-en-casa-de-isssteson-supera-las-7-mil-consultas-y-acerca-atencion-de-salud-a-pacientes-con-dificultades-para-trasladarse-en-sonora/",
+        "_added_at": "2026-07-22T18:25:13.693310-07:00"
+      },
+      {
         "title": "Unique People convoca voluntarios en Hermosillo",
         "summary": "Organización busca apoyo para niños, adultos mayores y mujeres en situación vulnerable.",
         "source": "El Imparcial",
@@ -211,36 +253,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/22/buscan-apoyar-a-pacientes-con-fibrosis-quistica-a-traves-de-carrera-con-causa/",
         "_added_at": "2026-07-22T11:53:23.167209-07:00"
-      },
-      {
-        "title": "Hospital CIMA ofrece orientación sobre detección de ictus",
-        "summary": "Establecimiento en Hermosillo explica síntomas y acciones ante accidente cerebrovascular.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/como-detectar-un-ictus-a-tiempo-hospital-cima-hermosillo-explica-como-actuar/",
-        "_added_at": "2026-07-22T11:53:23.167209-07:00"
-      },
-      {
-        "title": "Sequía retrocede en Sonora tras lluvias recientes",
-        "summary": "Precipitaciones reducen municipios afectados de 67 a 8 en el estado durante el último año.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/sequia-da-tregua-a-sonora-y-reduce-de-67-a-ocho-los-municipios-afectados-en-un-ano/",
-        "_added_at": "2026-07-22T09:11:55.716850-07:00"
-      },
-      {
-        "title": "Padres denuncian inconsistencias en asignación de preparatorias",
-        "summary": "Familias en Hermosillo protestan por criterios irregulares en distribución de estudiantes a escuelas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/21/padres-de-familia-denuncian-a-la-sec-inconsistencias-en-asignacion-de-preparatorias/",
-        "_added_at": "2026-07-22T09:11:55.716850-07:00"
-      },
-      {
-        "title": "Lluvias cierran paso vehicular en Río San Miguel, Rayón",
-        "summary": "Autoridades municipales advierten sobre caudal elevado e indican no intentar cruzar vados.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/22/cierran-temporalmente-paso-vehicular-por-el-rio-san-miguel-en-rayon-ante-aumento-del-caudal/",
-        "_added_at": "2026-07-22T03:56:16.439074-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-22T14:53:32.758689-07:00"
+  "last_updated": "2026-07-22T18:25:13.693310-07:00"
 }
