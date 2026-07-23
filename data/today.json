@@ -1,8 +1,29 @@
 {
   "date": "2026-07-22",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Homicidio en colonia El Ranchito al oriente de Hermosillo",
+        "summary": "Hombre asesinado en ataque armado; agresores lograron escapar del lugar del crimen.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/ataque-armado-deja-un-hombre-sin-vida-en-la-colonia-el-ranchito-al-oriente-de-hermosillo-agresores-logran-escapar/",
+        "_added_at": "2026-07-22T22:43:31.694906-07:00"
+      },
+      {
+        "title": "Deslaves en carretera del Río Sonora por lluvias serranas",
+        "summary": "Lluvias en la sierra provocan desprendimientos de tierra; autoridades monitorean situación.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/lluvias-en-la-sierra-provocan-deslaves-en-carretera-del-rio-sonora-autoridades-monitorean-la-situacion/",
+        "_added_at": "2026-07-22T22:43:31.694906-07:00"
+      },
+      {
+        "title": "Fiscalía reporta más cateos y decomisos antidroga en Sonora",
+        "summary": "FGJE incrementó operativos contra narcomenudeo con mayor número de cateos y aseguramientos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/fgje-atribuye-al-combate-al-narcomenudeo-aumento-de-carpetas/261002",
+        "_added_at": "2026-07-22T22:43:31.694906-07:00"
+      },
       {
         "title": "Sonora registra día histórico sin homicidios dolosos",
         "summary": "Estado logra jornada sin asesinatos tras años de violencia, marcando avance significativo en seguridad pública.",
@@ -51,30 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/hallan-sin-vida-a-hombre-dentro-de-una-vivienda-en-colonia-las-placitas-de-hermosillo/",
         "_added_at": "2026-07-22T11:53:23.167209-07:00"
-      },
-      {
-        "title": "Detienen a hombre por amenaza con navaja en Hermosillo",
-        "summary": "Sujeto amenazó con arma blanca tras cobrar uso de baño público en la capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/detienen-a-hombre-por-amenazar-con-una-navaja-tras-cobrarle-el-uso-de-un-bano-publico-en-hermosillo/",
-        "_added_at": "2026-07-22T11:53:23.167209-07:00"
-      },
-      {
-        "title": "Vados cierran por crecida del río San Miguel",
-        "summary": "Autoridades alertan sobre lluvias que generan crecida de cauces en Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/21/lluvias-obligan-al-cierre-de-vados-en-sonora-autoridades-alertan-por-crecida-del-rio-san-miguel-y-llaman-a-no-intentar-cruzarlo/",
-        "_added_at": "2026-07-22T11:53:23.167209-07:00"
-      },
-      {
-        "title": "Nogales sufre cuatro muertes por desbordamiento de ríos",
-        "summary": "Lluvias causaron desbordamientos en Nogales con cuatro fallecidos y viviendas dañadas desde el jueves pasado.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-colapsan-nogales-reportan-cuatro-victimas/260941",
-        "_added_at": "2026-07-22T09:11:55.716850-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Lorenia Valles respalda regulación de redes sociales para menores",
+        "summary": "Senadora con licencia apoya iniciativa presidencial para proteger niñas y niños en digital.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-apoya-debate-sobre-redes-sociales-y-menores/260995",
+        "_added_at": "2026-07-22T22:43:31.694906-07:00"
+      },
       {
         "title": "Durazo destaca beneficios de planta solar en Puerto Peñasco",
         "summary": "Gobernador resalta que ingresos de energía solar financian subsidio eléctrico en Sonora.",
@@ -137,16 +144,16 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-destaca-avances-de-la-transformacion-y-plantea-reto/260912",
         "_added_at": "2026-07-22T01:03:51.983286-07:00"
-      },
-      {
-        "title": "Padres denuncian inconsistencias en asignación de preparatorias",
-        "summary": "Familias cuestionan proceso de la SEC para asignación de escuelas en Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/21/padres-de-familia-denuncian-a-la-sec-inconsistencias-en-asignacion-de-preparatorias/",
-        "_added_at": "2026-07-22T01:03:51.983286-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "EBC ofrece masterclass gratuita sobre inteligencia artificial en Hermosillo",
+        "summary": "Institución educativa impartirá capacitación estratégica sobre implementación de IA en negocios.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/como-implementar-la-ia-de-forma-estrategica-en-los-negocios-ebc-ofrecera-masterclass-gratuita-en-hermosillo/",
+        "_added_at": "2026-07-22T22:43:31.694906-07:00"
+      },
       {
         "title": "Mexicana inaugura ruta Hermosillo-AIFA",
         "summary": "Vuelo inaugural de aerolínea conecta capital sonorense con terminal de Ciudad de México.",
@@ -184,6 +191,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sismo magnitud 4.4 sacude Golfo de California frente a Sonora",
+        "summary": "Movimiento telúrico registrado sin reportes de daños ni personas lesionadas en la región.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/sismo-de-magnitud-4-4-sacude-el-golfo-de-california-frente-a-sonora-autoridades-descartan-danos-o-personas-lesionadas/",
+        "_added_at": "2026-07-22T22:43:31.694906-07:00"
+      },
+      {
+        "title": "Evacúan guardería al sur de Hermosillo por alarma de incendio",
+        "summary": "Noventa personas desalojadas de forma preventiva; se descartaron riesgos de incendio real.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/evacuan-a-90-personas-de-guarderia-al-sur-de-hermosillo-por-alarma-de-incendio-descartan-riesgos/",
+        "_added_at": "2026-07-22T22:43:31.694906-07:00"
+      },
       {
         "title": "Incendio en Central de Abastos deja vecinos en espera",
         "summary": "Hermosillo: detenido presunto responsable; afectados aguardan reparación de daños.",
@@ -239,22 +260,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/22/calor-extremo-dominara-sonora-lluvias-se-concentraran-en-municipios-del-noreste-y-este-las-proximas-horas/",
         "_added_at": "2026-07-22T11:53:23.167209-07:00"
-      },
-      {
-        "title": "Cajeme abre albergue temporal por clima extremo",
-        "summary": "Municipio habilita espacios de refugio ante calor y lluvias con posibilidad de ampliarse.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/22/tendra-cajeme-albergue-temporal-ante-calor-y-lluvias-activaran-mas-espacios-si-se-requiere/",
-        "_added_at": "2026-07-22T11:53:23.167209-07:00"
-      },
-      {
-        "title": "Carrera con causa apoya pacientes con fibrosis quística",
-        "summary": "En Cajeme organizan evento deportivo para recaudar fondos para enfermos de fibrosis.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/22/buscan-apoyar-a-pacientes-con-fibrosis-quistica-a-traves-de-carrera-con-causa/",
-        "_added_at": "2026-07-22T11:53:23.167209-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-22T18:25:13.693310-07:00"
+  "last_updated": "2026-07-22T22:43:31.694906-07:00"
 }
