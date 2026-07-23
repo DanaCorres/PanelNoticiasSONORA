@@ -1,8 +1,36 @@
 {
   "date": "2026-07-23",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Alerta Amber por niña desaparecida en Nogales",
+        "summary": "Se activa búsqueda de Camille Sánchez Flores, menor de 6 años sustraída en Nogales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/23/activan-alerta-amber-para-localizar-a-camille-sanchez-flores-nina-de-6-anos-desaparecida-en-nogales/",
+        "_added_at": "2026-07-23T11:55:42.726727-07:00"
+      },
+      {
+        "title": "Hombre asesinado a balazos en El Ranchito",
+        "summary": "Ejecutan a individuo en colonia con presunta actividad de venta de drogas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/hombre-es-asesinado-a-balazos-en-la-colonia-el-ranchito-en-presunto-sitio-de-venta-de-drogas/",
+        "_added_at": "2026-07-23T11:55:42.726727-07:00"
+      },
+      {
+        "title": "Ejecutan hombre en colonia Mariachi de Hermosillo",
+        "summary": "Ataque armado deja muerto en punto de venta de drogas según vecinos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/ataque-con-arma-de-fuego-deja-a-hombre-sin-vida-en-callejon-de-la-colonia-mariachi-vecinos-senalan-que-el-punto-es-utilizado-para-venta-de-droga/",
+        "_added_at": "2026-07-23T11:55:42.726727-07:00"
+      },
+      {
+        "title": "Retiran cámaras clandestinas en Nogales",
+        "summary": "Operativo detecta y remove seis dispositivos de vigilancia ilegal en postes públicos.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/22/retiran-seis-camaras-clandestinas-de-vigilancia-en-nogales-operativo-detecta-dispositivos-instalados-en-postes-de-la-via-publica-en-cinco-colonias/",
+        "_added_at": "2026-07-23T11:55:42.726727-07:00"
+      },
       {
         "title": "Incendio destruye bodegas en carretera a Bahía de Kino",
         "summary": "Fuego consume múltiples bodegas en Hermosillo causando pérdidas millonarias y daños totales a tres instalaciones.",
@@ -44,37 +72,16 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/fgje-atribuye-al-combate-al-narcomenudeo-aumento-de-carpetas/261002",
         "_added_at": "2026-07-23T03:56:21.478333-07:00"
-      },
-      {
-        "title": "Homicidio en colonia El Ranchito al oriente de Hermosillo",
-        "summary": "Atacan a hombre a balazos en El Ranchito; fallece en el lugar. Los agresores lograron escapar sin ser capturados.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/ataque-armado-deja-un-hombre-sin-vida-en-la-colonia-el-ranchito-al-oriente-de-hermosillo-agresores-logran-escapar/",
-        "_added_at": "2026-07-23T01:06:48.104701-07:00"
-      },
-      {
-        "title": "Cámaras ilegales aseguradas en colonias de Nogales",
-        "summary": "Autoridades estatales y federales decomisaron seis cámaras de vigilancia instaladas de forma irregular en Nogales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/aseguran-camaras-clandestinas-en-nogales/260979",
-        "_added_at": "2026-07-23T01:06:48.104701-07:00"
-      },
-      {
-        "title": "Deslaves en carretera del Río Sonora por lluvias",
-        "summary": "Lluvias en la sierra provocan deslizamientos de tierra en la carretera del Río Sonora. Autoridades monitorean la situación.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/lluvias-en-la-sierra-provocan-deslaves-en-carretera-del-rio-sonora-autoridades-monitorean-la-situacion/",
-        "_added_at": "2026-07-23T01:06:48.104701-07:00"
-      },
-      {
-        "title": "Conductor se estrella contra vivienda en Hermosillo",
-        "summary": "Vehículo pierde control y se impacta contra casa en colonia Ley 57. No hay personas lesionadas reportadas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/conductor-pierde-el-control-y-se-estrella-contra-una-vivienda-en-la-colonia-ley-57/",
-        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Norberto Barraza aspira a alcaldía de Hermosillo",
+        "summary": "Candidato se presenta con 30 años de experiencia en servicio público.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/norberto-barraza-levanta-la-mano-por-la-alcaldia-de-hermosillo-y-afirma-estar-preparado-tras-30-anos-en-el-servicio-publico/",
+        "_added_at": "2026-07-23T11:55:42.726727-07:00"
+      },
       {
         "title": "Lamarque propone estrategia regional para economía sonorense",
         "summary": "Aspirante a coordinación estatal presenta plan diferenciado por regiones tras gira de cuatro semanas.",
@@ -105,6 +112,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Hermosillo refuerza seguridad para atraer inversiones",
+        "summary": "Gobierno fortalece seguridad, reduce gastos y mejora infraestructura para empleos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/hermosillo-fortalece-seguridad-reduce-gastos-operativos-y-mejora-infraestructura-para-atraer-inversiones-y-empleos/",
+        "_added_at": "2026-07-23T11:55:42.726727-07:00"
+      },
       {
         "title": "Incertidumbre del T-MEC frena inversión en San Luis Río Colorado",
         "summary": "Tratado genera dudas empresariales que reducen empleos e inversiones en la región fronteriza sonorense.",
@@ -142,6 +156,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Hermosillo enfrentará calor extremo de 47°C",
+        "summary": "Alerta por temperatura extrema con sensación térmica de hasta 52°C en Bahía Kino.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/alerta-de-calor-extremo-en-hermosillo-temperatura-alcanzara-47-c-la-sensacion-termica-rondara-los-50-c-en-la-ciudad-y-llegara-a-52-c-en-bahia-de-kino/",
+        "_added_at": "2026-07-23T11:55:42.726727-07:00"
+      },
+      {
+        "title": "Muere niña de 2 años en choque carretero en Caborca",
+        "summary": "Accidente entre autobús y auto deja menor fallecida y cuatro personas lesionadas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/caborca-muere-nina-de-dos-anos-en-accidente-carretero/261016",
+        "_added_at": "2026-07-23T11:55:42.726727-07:00"
+      },
       {
         "title": "Entregan 240 bicicletas en comunidades rurales de Hermosillo",
         "summary": "Programa EnBici distribuye transportes para reducir traslados de estudiantes y familias en zonas rurales.",
@@ -197,22 +225,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/22/sismo-de-magnitud-4-4-sacude-el-golfo-de-california-frente-a-sonora-autoridades-descartan-danos-o-personas-lesionadas/",
         "_added_at": "2026-07-23T01:06:48.104701-07:00"
-      },
-      {
-        "title": "Evacúan guardería al sur de Hermosillo por alarma",
-        "summary": "Noventa personas desalojadas de instalación por activación de alarma de incendio. Se descartaron riesgos reales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/evacuan-a-90-personas-de-guarderia-al-sur-de-hermosillo-por-alarma-de-incendio-descartan-riesgos/",
-        "_added_at": "2026-07-23T01:06:48.104701-07:00"
-      },
-      {
-        "title": "Calor extremo dominará Sonora próximos días",
-        "summary": "Anticiclón traerá temperaturas muy elevadas al estado. Lluvias limitadas al norte y noreste.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/anticiclon-trae-calor-extremo-en-sonora-lluvias-se-limitan/260950",
-        "_added_at": "2026-07-23T01:06:48.104701-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-23T09:17:28.721898-07:00"
+  "last_updated": "2026-07-23T11:55:42.726727-07:00"
 }
