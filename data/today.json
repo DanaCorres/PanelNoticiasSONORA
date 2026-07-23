@@ -1,8 +1,15 @@
 {
   "date": "2026-07-23",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ruffo Appel vinculado a proceso por huachicol ferroviario",
+        "summary": "Exfuncionario procesado junto a coacusados en caso de contrabando de combustible desde Texas. Daño fiscal estimado en 166.4 millones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/07/23/jueza-vinculo-a-proceso-a-ernesto-ruffo-appel-y-siete-coacusados-por-huachicol-ferroviario-seis-seguiran-recluidos-mientras-avanza-la-investigacion-por-163-carrotanques/",
+        "_added_at": "2026-07-23T06:18:21.393598-07:00"
+      },
       {
         "title": "Fiscal reporta aumento en cateos contra narcomenudeo",
         "summary": "FGJE presenta incremento en investigaciones, operativos y decomisos de droga en Sonora.",
@@ -64,6 +71,13 @@
     ],
     "economia": [
       {
+        "title": "Familias de Nogales reciben apoyo por afectaciones de lluvia",
+        "summary": "Gobierno y Ayuntamiento entregan electrodomésticos y muebles a 30 familias damnificadas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/nogales-comienza-reparto-de-apoyos-a-afectados-por-lluvias/261012",
+        "_added_at": "2026-07-23T06:18:21.393598-07:00"
+      },
+      {
         "title": "FGJE incrementa cateos y decomisos contra narcomenudeo",
         "summary": "Fiscalía estatal reporta aumento en operativos y aseguramientos de droga como parte de estrategia contra venta menor.",
         "source": "Expreso",
@@ -79,6 +93,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Deslaves en carretera del Río Sonora por lluvias",
+        "summary": "Precipitaciones en la sierra provocan bloqueos. Autoridades monitorean la situación.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/lluvias-en-la-sierra-provocan-deslaves-en-carretera-del-rio-sonora-autoridades-monitorean-la-situacion/",
+        "_added_at": "2026-07-23T06:18:21.393598-07:00"
+      },
+      {
+        "title": "Familia hermosillense crea iniciativa de limpieza ambiental",
+        "summary": "Proyecto Petacas Aventureras viaja por Sonora limpiando espacios naturales y plantando árboles.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/23/familia-de-hermosillo-crea-petacas-aventureras-comunidad-que-viaja-por-sonora-limpia-espacios-naturales-y-busca-plantar-200-arboles-en-villas-del-sur/",
+        "_added_at": "2026-07-23T06:18:21.393598-07:00"
+      },
       {
         "title": "Incendio en Central de Abastos, vecinos exigen reparación",
         "summary": "Comerciantes claman por compensación tras incendio en instalaciones de Hermosillo.",
@@ -116,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-23T03:56:21.478333-07:00"
+  "last_updated": "2026-07-23T06:18:21.393598-07:00"
 }
