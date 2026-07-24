@@ -1,8 +1,29 @@
 {
   "date": "2026-07-24",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ejército y FGR aseguran arsenal en San Luis Río Colorado",
+        "summary": "Operativo conjunto decomisa armas de alto poder en presunta casa de seguridad en SLRC.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/24/golpe-al-crimen-en-slrc-ejercito-y-fgr-aseguran-arsenal-de-alto-poder-tras-cateo-en-presunta-casa-de-seguridad-en-sonora/",
+        "_added_at": "2026-07-24T12:08:05.610179-07:00"
+      },
+      {
+        "title": "Recapturan a presunto responsable de ataque en Cajeme",
+        "summary": "Luis Felipe N escapó de hospital pero fue recapturado tras incidente armado en Ciudad Obregón.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/24/recapturan-a-presunto-responsable-de-ataque-armado-que-escapo-de-hospital-en-cajeme/",
+        "_added_at": "2026-07-24T12:08:05.610179-07:00"
+      },
+      {
+        "title": "FGR localiza toma clandestina de combustible Hermosillo",
+        "summary": "Autoridades aseguran tres mil litros de hidrocarburo en operación contra robo en carretera.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/24/fgr-localiza-toma-clandestina-en-hermosillo-y-asegura-3-mil-litros-de-hidrocarburo-cerca-de-la-carretera-a-guaymas/",
+        "_added_at": "2026-07-24T12:08:05.610179-07:00"
+      },
       {
         "title": "Rescatan siete caninos en cateo de FGJES en Ciudad Obregón",
         "summary": "Operativo de fiscalía rescata animales en condiciones precarias durante diligencia.",
@@ -40,6 +61,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Omar del Valle apuesta por diálogo en coordinación Morena",
+        "summary": "Compite por liderazgo de Comités de Defensa en Sonora entre seis aspirantes.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/omar-del-valle-apuesta-por-dialogo-y-consenso-en-sonora/261071",
+        "_added_at": "2026-07-24T12:08:05.610179-07:00"
+      },
+      {
+        "title": "Durazo acelera recuperación de Nogales tras lluvias",
+        "summary": "Gobernador intensifica obra con rehabilitación de 283 calles e infraestructura contra inundaciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/24/gobernador-durazo-intensifica-recuperacion-de-nogales-tras-lluvias-con-rehabilitacion-de-283-calles-y-obras-contra-inundaciones/",
+        "_added_at": "2026-07-24T12:08:05.610179-07:00"
+      },
       {
         "title": "Alerta Amber por Camille Sánchez responde a conflicto familiar",
         "summary": "FGJE activa búsqueda internacional; caso relacionado con disputa entre padres de menor.",
@@ -101,6 +136,34 @@
     ],
     "sociedad": [
       {
+        "title": "Sonora concentra temperaturas más altas de México",
+        "summary": "Hermosillo, Sonoyta y Cuauhtémoc reportan calores extremos superiores a 45 grados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/sonora-registra-las-temperaturas-mas-altas-de-mexico-hermosillo-alcanza-475c-y-seguira-el-calor-extremo/",
+        "_added_at": "2026-07-24T12:08:05.610179-07:00"
+      },
+      {
+        "title": "Van 186 golpes de calor y 3 muertes en Sonora 2026",
+        "summary": "Temperaturas extremas dejan saldo de casos atendidos y decesos en el estado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/24/van-186-casos-de-golpes-de-calor-y-3-muertes-por-temperaturas-extremas-en-sonora-en-2026/",
+        "_added_at": "2026-07-24T12:08:05.610179-07:00"
+      },
+      {
+        "title": "Más de 40 bomberos sofocan incendio en bodega Cajeme",
+        "summary": "Incendio en tapicería requirió seis horas de trabajo para ser controlado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/24/mas-de-40-bomberos-combaten-durante-seis-horas-incendio-en-bodega-de-tapiceria-en-ciudad-obregon/",
+        "_added_at": "2026-07-24T12:08:05.610179-07:00"
+      },
+      {
+        "title": "Alerta Amber por Camille deriva de conflicto entre padres",
+        "summary": "FGJE confirma desacuerdo familiar en caso de menor de seis años.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/alerta-amber-por-camille-deriva-de-conflicto-entre-padres/261056",
+        "_added_at": "2026-07-24T12:08:05.610179-07:00"
+      },
+      {
         "title": "Sonora es primer lugar en dengue a nivel nacional",
         "summary": "Estado lidera casos de dengue y ocupa segundo lugar en rickettsia en país.",
         "source": "Proyecto Puente",
@@ -141,22 +204,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/23/gobierno-de-sonora-acelera-reconstruccion-de-nogales-tras-las-lluvias-rehabilitan-283-calles-y-refuerzan-zonas-de-riesgo/",
         "_added_at": "2026-07-24T01:03:21.595719-07:00"
-      },
-      {
-        "title": "Rodada de las Mil Bicicletas moviliza a Hermosillo",
-        "summary": "Más de mil ciclistas participan en evento recreativo en la capital sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/rodada-de-las-mil-bicicletas-reune-a-mas-de-mil-participantes/",
-        "_added_at": "2026-07-24T01:03:21.595719-07:00"
-      },
-      {
-        "title": "Tormenta avanza hacia Sonora con lluvia y vientos",
-        "summary": "Sistema meteorológico acerca descargas eléctricas y condiciones severas a varios municipios.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/23/tormenta-avanza-hacia-sonora-preven-lluvias-descargas-electricas-y-fuertes-vientos-en-estos-municipios/",
-        "_added_at": "2026-07-24T01:03:21.595719-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-24T06:12:06.394654-07:00"
+  "last_updated": "2026-07-24T12:08:05.610179-07:00"
 }
