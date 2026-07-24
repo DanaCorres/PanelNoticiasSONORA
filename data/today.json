@@ -1,8 +1,36 @@
 {
   "date": "2026-07-24",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Pareja en riesgo por fentanilo disfrazado de cocaína",
+        "summary": "Dos personas en Nogales consumieron polvo ofrecido como cocaína que contenía fentanilo, enfrentando riesgo de muerte.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/24/pareja-enfrenta-riesgo-de-muerte-tras-consumir-en-nogales-un-polvo-que-presuntamente-les-ofrecieron-como-cocaina-pero-contenia-fentanilo/",
+        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+      },
+      {
+        "title": "Hallan toma clandestina de combustible en Hermosillo",
+        "summary": "Localizan y aseguran tres mil litros de hidrocarburo en toma ilegal al sur de Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/24/localizan-toma-clandestina-de-hidrocarburos-al-sur-de-hermosillo-aseguran-3-mil-litros-de-combustible/",
+        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+      },
+      {
+        "title": "Perros rescatados se unen a unidad K9 en Cajeme",
+        "summary": "Zeus, Urco y Magic fueron abandonados y ahora entrenarse para detectar drogas y explosivos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/24/zeus-urco-y-magic-cambiaron-el-abandono-por-una-oportunidad-en-la-unidad-k9-de-cajeme-tras-aprobar-sus-evaluaciones-seran-entrenados-para-buscar-personas-drogas-y-explosivos/",
+        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+      },
+      {
+        "title": "Motociclista pierde pierna en accidente en San Carlos",
+        "summary": "Hombre de 51 años sufrió amputación tras choque en bulevar Tetakawi de Guaymas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/amputacion-a-motociclista-por-choque-en-san-carlos-guaymas/261093",
+        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+      },
       {
         "title": "Ejército y FGR aseguran arsenal en San Luis Río Colorado",
         "summary": "Operativo conjunto decomisa armas de alto poder en presunta casa de seguridad en SLRC.",
@@ -43,20 +71,6 @@
         "summary": "Operativo policial recupera pistola tras persecución que dejó taxi abandonado en la ciudad fronteriza.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/07/23/persecucion-en-nogales-termina-con-taxi-abandonado-y-arma-de-fuego-asegurada/",
-        "_added_at": "2026-07-24T01:03:21.595719-07:00"
-      },
-      {
-        "title": "Aseguran 34 máquinas tragamonedas en tres ciudades",
-        "summary": "Autoridades confiscan aparatos en Hermosillo, Caborca y Nogales; investigan posible conexión criminal.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/23/aseguran-34-maquinas-tragamonedas-en-hermosillo-caborca-y-nogales-investigan-posible-vinculo-con-grupos-criminales/",
-        "_added_at": "2026-07-24T01:03:21.595719-07:00"
-      },
-      {
-        "title": "FGJES investiga engaño telefónico en Hermosillo",
-        "summary": "Autoridades atienden caso de estafa contra empleada de conjunto deportivo en la capital.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/23/investiga-fgjes-engano-telefonico-a-mujer-empleada-en-conjunto-deportivo-de-hermosillo/",
         "_added_at": "2026-07-24T01:03:21.595719-07:00"
       }
     ],
@@ -106,6 +120,20 @@
     ],
     "economia": [
       {
+        "title": "Sonora lidera en recuperación laboral con 92.4%",
+        "summary": "Conciliación laboral recupera más de cinco mil millones de pesos para trabajadores.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/24/sonora-alcanza-primer-lugar-nacional-en-conciliacion-laboral-con-924-de-efectividad-y-recupera-mas-de-5-mil-millones-de-pesos-para-trabajadores/",
+        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+      },
+      {
+        "title": "Maxi Apoyo impulsa tres mil emprendimientos en HMO",
+        "summary": "Entrega más de siete millones de pesos para capacitar y fortalecer negocios locales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/maxi-apoyo-capacita-a-casi-3-mil-personas-en-hermosillo-y-entrega-mas-de-7-millones-de-pesos-para-impulsar-emprendimientos/",
+        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+      },
+      {
         "title": "Sonora busca abrir nuevos mercados para carne",
         "summary": "Estado impulsa exportación con valor agregado y requisitos sanitarios internacionales.",
         "source": "Expreso",
@@ -135,6 +163,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Atienden más adolescentes por consumo en Cajeme",
+        "summary": "Incremento de casos en menores durante vacaciones escolares en la zona.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/24/atienden-a-mas-adolescentes-por-consumo-de-sustancias-durante-vacaciones-en-cajeme/",
+        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+      },
+      {
+        "title": "Familias sin electricidad resisten calor extremo",
+        "summary": "Invasión Mirabal en Hermosillo enfrenta casi 50°C sin servicios básicos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/familias-de-la-invasion-mirabal-en-hermosillo-resisten-calor-extremo-de-casi-50c-sin-electricidad-en-viviendas-de-carton-y-madera/",
+        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+      },
+      {
+        "title": "Instalan punto de hidratación ante calor extremo",
+        "summary": "Cajeme habilita centro de apoyo para proteger población ante temperaturas peligrosas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/24/instalan-punto-de-hidratacion-ante-calor-extremo-en-cajeme/",
+        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+      },
+      {
+        "title": "Onda de calor persiste con máximas de 45°C",
+        "summary": "Sonora registra temperaturas extremas con probabilidad de tormentas en centro y sur.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/24/persistira-onda-de-calor-en-sonora-con-maximas-de-mas-de-45-c-se-esperan-tormentas-vespertinas-para-el-sur-y-centro-de-sonora-mientras-hermosillo-tiene-un-40-de-probabilidad-de-registrar-actividad-durante-la-noche/",
+        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+      },
       {
         "title": "Sonora concentra temperaturas más altas de México",
         "summary": "Hermosillo, Sonoyta y Cuauhtémoc reportan calores extremos superiores a 45 grados.",
@@ -176,36 +232,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/entregaran-sueros-y-aguas-para-hidratarse-en-el-centro-de-hermosillo-ante-altas-temperaturas/",
         "_added_at": "2026-07-24T06:12:06.394654-07:00"
-      },
-      {
-        "title": "FGJES salva vida a siete caninos en Obregón",
-        "summary": "Cateo en Ciudad Obregón rescata animales en condiciones de abandono y maltrato.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/23/tras-cateo-de-la-fgjes-salvan-la-vida-a-siete-caninos-en-ciudad-obregon/",
-        "_added_at": "2026-07-24T06:12:06.394654-07:00"
-      },
-      {
-        "title": "Gobierno implementa operativo de hidratación en Hermosillo",
-        "summary": "Autoridades distribuyen sueros y agua en centro ante altas temperaturas extremas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/23/cuidado-con-the-calor-gobierno-de-hermosillo-realiza-operativo-de-hidratacion/",
-        "_added_at": "2026-07-24T03:52:18.404498-07:00"
-      },
-      {
-        "title": "Hermosillo rompe récord histórico de temperatura",
-        "summary": "Termómetro alcanza 47.5°C en la capital; autoridades ejecutan operativo de hidratación.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/tras-llegar-a-los-475c-hermosillo-rompe-record-historico-de-temperatura-para-un-23-de-julio/",
-        "_added_at": "2026-07-24T01:03:21.595719-07:00"
-      },
-      {
-        "title": "Gobierno de Sonora reconstruye Nogales tras lluvias",
-        "summary": "Autoridades rehabilitan 283 calles y refuerzan zonas de riesgo en ciudad fronteriza.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/23/gobierno-de-sonora-acelera-reconstruccion-de-nogales-tras-las-lluvias-rehabilitan-283-calles-y-refuerzan-zonas-de-riesgo/",
-        "_added_at": "2026-07-24T01:03:21.595719-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-24T12:08:05.610179-07:00"
+  "last_updated": "2026-07-24T14:52:46.887092-07:00"
 }
