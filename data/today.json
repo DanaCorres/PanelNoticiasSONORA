@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -41,6 +41,13 @@
     ],
     "politica": [
       {
+        "title": "Alerta Amber por Camille Sánchez responde a conflicto familiar",
+        "summary": "FGJE activa búsqueda internacional; caso relacionado con disputa entre padres de menor.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/alerta-amber-por-camille-deriva-de-conflicto-entre-padres/261056",
+        "_added_at": "2026-07-24T06:12:06.394654-07:00"
+      },
+      {
         "title": "Gobierno de Sonora acelera reconstrucción de Nogales",
         "summary": "Autoridades rehabilitan 283 calles y refuerzan zonas de riesgo tras lluvias.",
         "source": "Proyecto Puente",
@@ -64,6 +71,20 @@
     ],
     "economia": [
       {
+        "title": "Sonora busca abrir nuevos mercados para carne",
+        "summary": "Estado impulsa exportación con valor agregado y requisitos sanitarios internacionales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/impulsa-sonora-exportacion-de-carne-a-nuevos-mercados/261075",
+        "_added_at": "2026-07-24T06:12:06.394654-07:00"
+      },
+      {
+        "title": "Sonora lidera conciliación laboral a nivel nacional",
+        "summary": "Estado logra 92.4% de acuerdos con más de 181 mil convenios en cuatro años.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-lider-nacional-en-conciliacion-laboral/261076",
+        "_added_at": "2026-07-24T06:12:06.394654-07:00"
+      },
+      {
         "title": "Vinculan a mujer por robo de 300 mil pesos en Guaymas",
         "summary": "Fiscalía detiene a Abyale Evelyn por presunto robo de considerables recursos.",
         "source": "Expreso",
@@ -79,6 +100,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora es primer lugar en dengue a nivel nacional",
+        "summary": "Estado lidera casos de dengue y ocupa segundo lugar en rickettsia en país.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/24/sonora-es-primer-lugar-en-casos-de-dengue-y-segundo-en-rickettsia-a-nivel-nacional/",
+        "_added_at": "2026-07-24T06:12:06.394654-07:00"
+      },
+      {
+        "title": "Operativo de hidratación en centro de Hermosillo",
+        "summary": "Gobierno distribuye sueros y agua para proteger habitantes ante olas de calor extremo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/entregaran-sueros-y-aguas-para-hidratarse-en-el-centro-de-hermosillo-ante-altas-temperaturas/",
+        "_added_at": "2026-07-24T06:12:06.394654-07:00"
+      },
+      {
+        "title": "FGJES salva vida a siete caninos en Obregón",
+        "summary": "Cateo en Ciudad Obregón rescata animales en condiciones de abandono y maltrato.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/23/tras-cateo-de-la-fgjes-salvan-la-vida-a-siete-caninos-en-ciudad-obregon/",
+        "_added_at": "2026-07-24T06:12:06.394654-07:00"
+      },
       {
         "title": "Gobierno implementa operativo de hidratación en Hermosillo",
         "summary": "Autoridades distribuyen sueros y agua en centro ante altas temperaturas extremas.",
@@ -116,5 +158,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-24T03:52:18.404498-07:00"
+  "last_updated": "2026-07-24T06:12:06.394654-07:00"
 }
