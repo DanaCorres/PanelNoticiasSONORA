@@ -1,8 +1,22 @@
 {
   "date": "2026-07-23",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "FGR incinera más de tonelada de drogas en Hermosillo",
+        "summary": "Federales destruyeron narcóticos vinculados a 120 investigaciones por delitos contra la salud.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/fgr-destruye-mas-de-una-tonelada-de-droga-en-sonora/261058",
+        "_added_at": "2026-07-23T22:39:05.069308-07:00"
+      },
+      {
+        "title": "Unidad K-9 detiene 30 personas y recupera 29 vehículos",
+        "summary": "Policía Estatal intensifica operativos contra delincuencia en Sonora con apoyo canino.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/23/unidad-k-9-de-la-policia-estatal-ayuda-a-detener-a-30-personas-y-recuperar-29-vehiculos-en-operativos-contra-el-delito-en-sonora/",
+        "_added_at": "2026-07-23T22:39:05.069308-07:00"
+      },
       {
         "title": "Fiscalía investiga estafa telefónica en Hermosillo",
         "summary": "Mujer empleada en conjunto deportivo fue víctima de engaño telefónico. Verificó información y evitó pérdida económica mayor.",
@@ -58,23 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/07/23/activan-alerta-amber-para-localizar-a-camille-sanchez-flores-nina-de-6-anos-desaparecida-en-nogales/",
         "_added_at": "2026-07-23T11:55:42.726727-07:00"
-      },
-      {
-        "title": "Hombre asesinado a balazos en El Ranchito",
-        "summary": "Ejecutan a individuo en colonia con presunta actividad de venta de drogas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/hombre-es-asesinado-a-balazos-en-la-colonia-el-ranchito-en-presunto-sitio-de-venta-de-drogas/",
-        "_added_at": "2026-07-23T11:55:42.726727-07:00"
-      },
-      {
-        "title": "Ejecutan hombre en colonia Mariachi de Hermosillo",
-        "summary": "Ataque armado deja muerto en punto de venta de drogas según vecinos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/ataque-con-arma-de-fuego-deja-a-hombre-sin-vida-en-callejon-de-la-colonia-mariachi-vecinos-senalan-que-el-punto-es-utilizado-para-venta-de-droga/",
-        "_added_at": "2026-07-23T11:55:42.726727-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Gobierno acelera reconstrucción de Nogales tras lluvias",
+        "summary": "Estado rehabilita 283 calles y refuerza zonas de riesgo en Nogales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/23/gobierno-de-sonora-acelera-reconstruccion-de-nogales-tras-las-lluvias-rehabilitan-283-calles-y-refuerzan-zonas-de-riesgo/",
+        "_added_at": "2026-07-23T22:39:05.069308-07:00"
+      },
       {
         "title": "Sonora lidera conciliación laboral en México",
         "summary": "Durazo confirma que 9 de cada 10 conflictos laborales se resuelven por acuerdo en la entidad.",
@@ -126,6 +133,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Nova Mining Expo 2026 reunirá sector minero en Hermosillo",
+        "summary": "Exposición minera se realizará 10 y 11 de septiembre en Expo Fórum.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/nova-mining-expo-2026-reunira-al-sector-minero-en-septiembre/",
+        "_added_at": "2026-07-23T22:39:05.069308-07:00"
+      },
       {
         "title": "Aranceles de EEUU afectarán México por trabajo forzado",
         "summary": "Estados Unidos aplicará gravamen del 10% contra México por supuesto trabajo forzado.",
@@ -185,6 +199,27 @@
     ],
     "sociedad": [
       {
+        "title": "Hermosillo rompe récord histórico con 47.5 grados",
+        "summary": "Temperatura extrema en la capital sonorense marca nuevo registro para julio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/tras-llegar-a-los-475c-hermosillo-rompe-record-historico-de-temperatura-para-un-23-de-julio/",
+        "_added_at": "2026-07-23T22:39:05.069308-07:00"
+      },
+      {
+        "title": "Rodada de las Mil Bicicletas reúne más de mil participantes",
+        "summary": "Evento de cicloturismo congrega a la comunidad de Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/rodada-de-las-mil-bicicletas-reune-a-mas-de-mil-participantes/",
+        "_added_at": "2026-07-23T22:39:05.069308-07:00"
+      },
+      {
+        "title": "FGJES rescata siete caninos en Ciudad Obregón",
+        "summary": "Operativo de cateo logra rescatar animales en situación de abandono.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/23/tras-cateo-de-la-fgjes-salvan-la-vida-a-siete-caninos-en-ciudad-obregon/",
+        "_added_at": "2026-07-23T22:39:05.069308-07:00"
+      },
+      {
         "title": "Hermosillo supera 50°C de sensación térmica",
         "summary": "Autoridades piden extremar precauciones por temperaturas extremas en la capital sonorense.",
         "source": "El Imparcial",
@@ -232,29 +267,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/seguro-de-danos-infonavit-para-casas-tras-lluvias-en-nogales/261034",
         "_added_at": "2026-07-23T14:53:22.960060-07:00"
-      },
-      {
-        "title": "Hermosillo enfrentará calor extremo de 47°C",
-        "summary": "Alerta por temperatura extrema con sensación térmica de hasta 52°C en Bahía Kino.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/alerta-de-calor-extremo-en-hermosillo-temperatura-alcanzara-47-c-la-sensacion-termica-rondara-los-50-c-en-la-ciudad-y-llegara-a-52-c-en-bahia-de-kino/",
-        "_added_at": "2026-07-23T11:55:42.726727-07:00"
-      },
-      {
-        "title": "Muere niña de 2 años en choque carretero en Caborca",
-        "summary": "Accidente entre autobús y auto deja menor fallecida y cuatro personas lesionadas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/caborca-muere-nina-de-dos-anos-en-accidente-carretero/261016",
-        "_added_at": "2026-07-23T11:55:42.726727-07:00"
-      },
-      {
-        "title": "Entregan 240 bicicletas en comunidades rurales de Hermosillo",
-        "summary": "Programa EnBici distribuye transportes para reducir traslados de estudiantes y familias en zonas rurales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/entregan-240-bicicletas-en-comunidades-rurales-de-hermosillo-programa-enbici-busca-reducir-traslados-de-estudiantes-y-familias/",
-        "_added_at": "2026-07-23T09:17:28.721898-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-23T18:21:14.007890-07:00"
+  "last_updated": "2026-07-23T22:39:05.069308-07:00"
 }
