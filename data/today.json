@@ -1,8 +1,15 @@
 {
   "date": "2026-07-24",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Rescatan siete caninos en cateo de FGJES en Ciudad Obregón",
+        "summary": "Operativo de fiscalía rescata animales en condiciones precarias durante diligencia.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/23/tras-cateo-de-la-fgjes-salvan-la-vida-a-siete-caninos-en-ciudad-obregon/",
+        "_added_at": "2026-07-24T03:52:18.404498-07:00"
+      },
       {
         "title": "FGR incinera tonelada de droga decomisada en Hermosillo",
         "summary": "Fiscalía destruye más de una tonelada de narcóticos relacionados con 120 investigaciones por delitos contra la salud.",
@@ -34,6 +41,13 @@
     ],
     "politica": [
       {
+        "title": "Gobierno de Sonora acelera reconstrucción de Nogales",
+        "summary": "Autoridades rehabilitan 283 calles y refuerzan zonas de riesgo tras lluvias.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/23/gobierno-de-sonora-acelera-reconstruccion-de-nogales-tras-las-lluvias-rehabilitan-283-calles-y-refuerzan-zonas-de-riesgo/",
+        "_added_at": "2026-07-24T03:52:18.404498-07:00"
+      },
+      {
         "title": "FGJE aclara Alerta Amber en Nogales: conflicto familiar",
         "summary": "Investigación por menor desaparecida apunta a disputa entre padres e intención de salida internacional.",
         "source": "Proyecto Puente",
@@ -50,6 +64,13 @@
     ],
     "economia": [
       {
+        "title": "Vinculan a mujer por robo de 300 mil pesos en Guaymas",
+        "summary": "Fiscalía detiene a Abyale Evelyn por presunto robo de considerables recursos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/vinculada-mujer-por-robo-de-300-mil-pesos-en-guaymas/261046",
+        "_added_at": "2026-07-24T03:52:18.404498-07:00"
+      },
+      {
         "title": "Nova Mining Expo 2026 reúne sector minero en Hermosillo",
         "summary": "Exposición minera confirmada para 10 y 11 de septiembre en Expo Fórum con presencia estatal.",
         "source": "El Imparcial",
@@ -58,6 +79,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Gobierno implementa operativo de hidratación en Hermosillo",
+        "summary": "Autoridades distribuyen sueros y agua en centro ante altas temperaturas extremas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/23/cuidado-con-the-calor-gobierno-de-hermosillo-realiza-operativo-de-hidratacion/",
+        "_added_at": "2026-07-24T03:52:18.404498-07:00"
+      },
       {
         "title": "Hermosillo rompe récord histórico de temperatura",
         "summary": "Termómetro alcanza 47.5°C en la capital; autoridades ejecutan operativo de hidratación.",
@@ -88,5 +116,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-24T01:03:21.595719-07:00"
+  "last_updated": "2026-07-24T03:52:18.404498-07:00"
 }
