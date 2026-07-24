@@ -1,8 +1,36 @@
 {
   "date": "2026-07-23",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fiscalía investiga estafa telefónica en Hermosillo",
+        "summary": "Mujer empleada en conjunto deportivo fue víctima de engaño telefónico. Verificó información y evitó pérdida económica mayor.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/23/investiga-fgjes-engano-telefonico-a-mujer-empleada-en-conjunto-deportivo-de-hermosillo/",
+        "_added_at": "2026-07-23T18:21:14.007890-07:00"
+      },
+      {
+        "title": "Persecución en Nogales con arma asegurada",
+        "summary": "Operativo termina con taxi abandonado y recuperación de arma de fuego en Nogales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/23/persecucion-en-nogales-termina-con-taxi-abandonado-y-arma-de-fuego-asegurada/",
+        "_added_at": "2026-07-23T18:21:14.007890-07:00"
+      },
+      {
+        "title": "Aseguran máquinas tragamonedas en tres ciudades",
+        "summary": "Autoridades decomisan 34 máquinas en Hermosillo, Caborca y Nogales; investigan vínculos criminales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/23/aseguran-34-maquinas-tragamonedas-en-hermosillo-caborca-y-nogales-investigan-posible-vinculo-con-grupos-criminales/",
+        "_added_at": "2026-07-23T18:21:14.007890-07:00"
+      },
+      {
+        "title": "Rescatan siete caninos en cateo de Ciudad Obregón",
+        "summary": "Operativo de FGJES salva vida de siete perros durante diligencia en Cajeme.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/23/tras-cateo-de-la-fgjes-salvan-la-vida-a-siete-caninos-en-ciudad-obregon/",
+        "_added_at": "2026-07-23T18:21:14.007890-07:00"
+      },
       {
         "title": "Aseguran cámaras de vigilancia clandestinas en Nogales",
         "summary": "Autoridades decomisan seis cámaras parásitas en Nogales que presuntamente vigilaban movimientos de autoridades.",
@@ -44,37 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/ataque-con-arma-de-fuego-deja-a-hombre-sin-vida-en-callejon-de-la-colonia-mariachi-vecinos-senalan-que-el-punto-es-utilizado-para-venta-de-droga/",
         "_added_at": "2026-07-23T11:55:42.726727-07:00"
-      },
-      {
-        "title": "Retiran cámaras clandestinas en Nogales",
-        "summary": "Operativo detecta y remove seis dispositivos de vigilancia ilegal en postes públicos.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/22/retiran-seis-camaras-clandestinas-de-vigilancia-en-nogales-operativo-detecta-dispositivos-instalados-en-postes-de-la-via-publica-en-cinco-colonias/",
-        "_added_at": "2026-07-23T11:55:42.726727-07:00"
-      },
-      {
-        "title": "Incendio destruye bodegas en carretera a Bahía de Kino",
-        "summary": "Fuego consume múltiples bodegas en Hermosillo causando pérdidas millonarias y daños totales a tres instalaciones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/incendio-consume-bodegas-en-la-carretera-a-bahia-de-kino-y-deja-perdidas-millonarias-en-hermosillo/",
-        "_added_at": "2026-07-23T09:17:28.721898-07:00"
-      },
-      {
-        "title": "Hallan cadáver con indicios de agresión en Hermosillo",
-        "summary": "Cuerpo masculino encontrado sin vida; autoridades investigan posible ataque armado en la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/23/hallan-a-hombre-sin-vida-en-hermosillo-investigan-posible-agresion-armada/",
-        "_added_at": "2026-07-23T09:17:28.721898-07:00"
-      },
-      {
-        "title": "Sonora registra día sin homicidios dolosos",
-        "summary": "El 21 de julio no se reportaron muertes intencionales; sigue caída del 63% en promedio diario desde 2024.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/logra-sonora-un-dia-con-cero-homicidios/261011",
-        "_added_at": "2026-07-23T09:17:28.721898-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Sonora lidera conciliación laboral en México",
+        "summary": "Durazo confirma que 9 de cada 10 conflictos laborales se resuelven por acuerdo en la entidad.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/23/sonora-lidera-la-conciliacion-laboral-en-mexico-9-de-cada-10-conflictos-se-resuelven-por-acuerdo-confirma-durazo/",
+        "_added_at": "2026-07-23T18:21:14.007890-07:00"
+      },
       {
         "title": "Senador Jaimes critica prisión preventiva automática",
         "summary": "Legislador sonorense advierte que medida afecta miles sin respetar presunción de inocencia ni debido proceso.",
@@ -119,6 +126,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Aranceles de EEUU afectarán México por trabajo forzado",
+        "summary": "Estados Unidos aplicará gravamen del 10% contra México por supuesto trabajo forzado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mundo/2026/07/23/eeuu-castigara-a-mexico-por-trabajo-forzado-con-aranceles-del-10/",
+        "_added_at": "2026-07-23T18:21:14.007890-07:00"
+      },
       {
         "title": "Lluvias no frenan obras en Cajeme",
         "summary": "Proyectos de infraestructura en Ciudad Obregón continúan según cronograma pese a precipitaciones.",
@@ -171,6 +185,34 @@
     ],
     "sociedad": [
       {
+        "title": "Hermosillo supera 50°C de sensación térmica",
+        "summary": "Autoridades piden extremar precauciones por temperaturas extremas en la capital sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/sensacion-termica-alcanza-los-50c-en-hermosillo-este-jueves-piden-extremar-precauciones/",
+        "_added_at": "2026-07-23T18:21:14.007890-07:00"
+      },
+      {
+        "title": "Operativo de hidratación en Hermosillo por calor",
+        "summary": "Gobierno activa plan de distribución de sueros y agua ante temperaturas superiores a 45°C.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/entregaran-sueros-y-aguas-para-hidratarse-en-el-centro-de-hermosillo-ante-altas-temperaturas/",
+        "_added_at": "2026-07-23T18:21:14.007890-07:00"
+      },
+      {
+        "title": "Karatecas de tres países compiten en Hermosillo",
+        "summary": "Inicia Copa Hanshi Shiro Asano con 500 competidores internacionales en la capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/23/hermosillo-recibe-a-karatecas-de-tres-paises-arranca-la-copa-hanshi-shiro-asano-con-500-competidores/",
+        "_added_at": "2026-07-23T18:21:14.007890-07:00"
+      },
+      {
+        "title": "La Sauceda ofrece actividades gratuitas en verano",
+        "summary": "Parque presenta talleres, recorridos de naturaleza y eventos culturales del 24 al 26 de julio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/vacaciones-de-verano-en-la-sauceda-habra-actividades-gratuitas-del-24-al-26-de-julio-con-talleres-recorridos-naturaleza-y-eventos-culturales-para-toda-la-familia/",
+        "_added_at": "2026-07-23T18:21:14.007890-07:00"
+      },
+      {
         "title": "Hermosillo activa operativo por calor extremo",
         "summary": "Gobierno implementa medidas de hidratación ante temperaturas superiores a 45 grados centígrados.",
         "source": "El Imparcial",
@@ -211,36 +253,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/22/entregan-240-bicicletas-en-comunidades-rurales-de-hermosillo-programa-enbici-busca-reducir-traslados-de-estudiantes-y-familias/",
         "_added_at": "2026-07-23T09:17:28.721898-07:00"
-      },
-      {
-        "title": "Nogales reparte apoyos a afectados por lluvias recientes",
-        "summary": "Gobierno estatal y municipal entregan electrodomésticos y muebles a 30 familias damnificadas por precipitaciones.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/nogales-comienza-reparto-de-apoyos-a-afectados-por-lluvias/261012",
-        "_added_at": "2026-07-23T09:17:28.721898-07:00"
-      },
-      {
-        "title": "Hermosillo suma ocho parques para perros en la ciudad",
-        "summary": "Espacios públicos dedicados a mascotas ganan terreno en la capital con nuevas ubicaciones disponibles.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/22/hermosillo-ya-tiene-ocho-parques-para-perros-conoce-donde-estan-estos-espacios-que-ganan-terreno-en-la-ciudad/",
-        "_added_at": "2026-07-23T09:17:28.721898-07:00"
-      },
-      {
-        "title": "Deslaves en carretera del Río Sonora por lluvias",
-        "summary": "Precipitaciones en la sierra provocan bloqueos. Autoridades monitorean la situación.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/23/lluvias-en-la-sierra-provocan-deslaves-en-carretera-del-rio-sonora-autoridades-monitorean-la-situacion/",
-        "_added_at": "2026-07-23T06:18:21.393598-07:00"
-      },
-      {
-        "title": "Familia hermosillense crea iniciativa de limpieza ambiental",
-        "summary": "Proyecto Petacas Aventureras viaja por Sonora limpiando espacios naturales y plantando árboles.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/23/familia-de-hermosillo-crea-petacas-aventureras-comunidad-que-viaja-por-sonora-limpia-espacios-naturales-y-busca-plantar-200-arboles-en-villas-del-sur/",
-        "_added_at": "2026-07-23T06:18:21.393598-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-23T14:53:22.960060-07:00"
+  "last_updated": "2026-07-23T18:21:14.007890-07:00"
 }
