@@ -1,288 +1,127 @@
 {
-  "date": "2026-07-24",
-  "run_count": 7,
+  "date": "2026-07-25",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Incendio en taller mecánico causa solo daños materiales",
-        "summary": "Fuerte incendio afecta taller mecánico al sur de Hermosillo sin reportarse heridos.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/24/fuerte-incendio-en-taller-mecanico-deja-solo-danos-materiales-al-sur-de-hermosillo/",
-        "_added_at": "2026-07-24T22:33:10.507092-07:00"
+        "title": "Condenan a El Carrete a 105 años por delincuencia organizada",
+        "summary": "Exlíder de Los Rojos sentenciado por secuestro y delitos contra la salud. FGR acreditó responsabilidad en crimen organizado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/07/25/condenan-a-105-anos-de-prision-a-el-carrete-exlider-de-los-rojos-vinculado-al-entorno-criminal-investigado-por-el-caso-ayotzinapa-por-secuestro-y-delitos-contra-la-salud/",
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       },
       {
-        "title": "Incendian comandancia de Policía Municipal en Tubutama",
-        "summary": "Hombre incendia instalaciones de policía municipal en Tubutama; fue vinculado a proceso judicial.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/24/hombre-incendia-comandancia-de-policia-municipal-en-tubutama-sonora-lo-vinculan-a-proceso/",
-        "_added_at": "2026-07-24T18:22:09.396264-07:00"
-      },
-      {
-        "title": "Baja percepción de inseguridad en tres ciudades sonorenses",
-        "summary": "Reportan reducción en percepción de inseguridad en Hermosillo, Nogales y Ciudad Obregón según mediciones.",
+        "title": "Percepción de inseguridad baja en Hermosillo y Obregón",
+        "summary": "Disminuye la sensación de inseguridad en principales ciudades sonorenses según reportes recientes.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/24/baja-la-percepcion-de-inseguridad-en-hermosillo-nogales-y-ciudad-obregon/",
-        "_added_at": "2026-07-24T18:22:09.396264-07:00"
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       },
       {
-        "title": "Pareja en riesgo por fentanilo disfrazado de cocaína",
-        "summary": "Dos personas en Nogales consumieron polvo ofrecido como cocaína que contenía fentanilo, enfrentando riesgo de muerte.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/24/pareja-enfrenta-riesgo-de-muerte-tras-consumir-en-nogales-un-polvo-que-presuntamente-les-ofrecieron-como-cocaina-pero-contenia-fentanilo/",
-        "_added_at": "2026-07-24T14:52:46.887092-07:00"
-      },
-      {
-        "title": "Hallan toma clandestina de combustible en Hermosillo",
-        "summary": "Localizan y aseguran tres mil litros de hidrocarburo en toma ilegal al sur de Hermosillo.",
+        "title": "Incendio en taller mecánico al sur de Hermosillo",
+        "summary": "Fuerte incendio reportado en establecimiento del sur de Hermosillo sin víctimas, solo daños materiales.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/24/localizan-toma-clandestina-de-hidrocarburos-al-sur-de-hermosillo-aseguran-3-mil-litros-de-combustible/",
-        "_added_at": "2026-07-24T14:52:46.887092-07:00"
-      },
-      {
-        "title": "Perros rescatados se unen a unidad K9 en Cajeme",
-        "summary": "Zeus, Urco y Magic fueron abandonados y ahora entrenarse para detectar drogas y explosivos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/24/zeus-urco-y-magic-cambiaron-el-abandono-por-una-oportunidad-en-la-unidad-k9-de-cajeme-tras-aprobar-sus-evaluaciones-seran-entrenados-para-buscar-personas-drogas-y-explosivos/",
-        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+        "url": "https://proyectopuente.com.mx/2026/07/24/fuerte-incendio-en-taller-mecanico-deja-solo-danos-materiales-al-sur-de-hermosillo/",
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       },
       {
         "title": "Motociclista pierde pierna en accidente en San Carlos",
-        "summary": "Hombre de 51 años sufrió amputación tras choque en bulevar Tetakawi de Guaymas.",
+        "summary": "Grave choque en bulevar Tetakawi deja motociclista amputado en Guaymas.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/amputacion-a-motociclista-por-choque-en-san-carlos-guaymas/261093",
-        "_added_at": "2026-07-24T14:52:46.887092-07:00"
-      },
-      {
-        "title": "Ejército y FGR aseguran arsenal en San Luis Río Colorado",
-        "summary": "Operativo conjunto decomisa armas de alto poder en presunta casa de seguridad en SLRC.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/24/golpe-al-crimen-en-slrc-ejercito-y-fgr-aseguran-arsenal-de-alto-poder-tras-cateo-en-presunta-casa-de-seguridad-en-sonora/",
-        "_added_at": "2026-07-24T12:08:05.610179-07:00"
-      },
-      {
-        "title": "Recapturan a presunto responsable de ataque en Cajeme",
-        "summary": "Luis Felipe N escapó de hospital pero fue recapturado tras incidente armado en Ciudad Obregón.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/24/recapturan-a-presunto-responsable-de-ataque-armado-que-escapo-de-hospital-en-cajeme/",
-        "_added_at": "2026-07-24T12:08:05.610179-07:00"
-      },
-      {
-        "title": "FGR localiza toma clandestina de combustible Hermosillo",
-        "summary": "Autoridades aseguran tres mil litros de hidrocarburo en operación contra robo en carretera.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/24/fgr-localiza-toma-clandestina-en-hermosillo-y-asegura-3-mil-litros-de-hidrocarburo-cerca-de-la-carretera-a-guaymas/",
-        "_added_at": "2026-07-24T12:08:05.610179-07:00"
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Gobernador Durazo celebra reapertura del cruce Agua Prieta-Douglas",
-        "summary": "Durazo confirma que Estados Unidos reabrirá paso ganadero en frontera sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/25/gobernador-alfonso-durazo-anuncia-que-eeuu-reabrira-el-cruce-ganadero-agua-prieta-douglas/",
-        "_added_at": "2026-07-24T22:33:10.507092-07:00"
-      },
-      {
-        "title": "Lamarque destaca escucha a mujeres en transformación de Sonora",
-        "summary": "Funcionaria resalta importancia de participación femenina en cambios en Ciudad Obregón.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/mujeres-en-ciudad-obregon-impulsan-la-transformacion/261124",
-        "_added_at": "2026-07-24T22:33:10.507092-07:00"
-      },
-      {
-        "title": "Sheinbaum anuncia reapertura fronteriza para ganado mexicano",
-        "summary": "Gobierno federal anuncia reapertura de frontera en Agua Prieta para exportación de ganado a finales agosto.",
+        "title": "Sheinbaum anuncia reapertura de frontera ganadera Agua Prieta",
+        "summary": "Gobierno federal confirma reapertura del cruce ganadero Agua Prieta-Douglas a partir de finales de agosto.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/mexico/2026/07/25/anuncia-sheinbaum-reapertura-de-la-frontera-de-eu-por-agua-prieta-sonora-al-ganado-mexicano-a-partir-de-ultimas-semanas-de-agosto/",
-        "_added_at": "2026-07-24T18:22:09.396264-07:00"
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       },
       {
-        "title": "Omar del Valle apuesta por diálogo en coordinación Morena",
-        "summary": "Compite por liderazgo de Comités de Defensa en Sonora entre seis aspirantes.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/omar-del-valle-apuesta-por-dialogo-y-consenso-en-sonora/261071",
-        "_added_at": "2026-07-24T12:08:05.610179-07:00"
-      },
-      {
-        "title": "Durazo acelera recuperación de Nogales tras lluvias",
-        "summary": "Gobernador intensifica obra con rehabilitación de 283 calles e infraestructura contra inundaciones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/24/gobernador-durazo-intensifica-recuperacion-de-nogales-tras-lluvias-con-rehabilitacion-de-283-calles-y-obras-contra-inundaciones/",
-        "_added_at": "2026-07-24T12:08:05.610179-07:00"
-      },
-      {
-        "title": "Alerta Amber por Camille Sánchez responde a conflicto familiar",
-        "summary": "FGJE activa búsqueda internacional; caso relacionado con disputa entre padres de menor.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/alerta-amber-por-camille-deriva-de-conflicto-entre-padres/261056",
-        "_added_at": "2026-07-24T06:12:06.394654-07:00"
-      },
-      {
-        "title": "Gobierno de Sonora acelera reconstrucción de Nogales",
-        "summary": "Autoridades rehabilitan 283 calles y refuerzan zonas de riesgo tras lluvias.",
+        "title": "Durazo celebra reapertura de frontera para ganadería sonorense",
+        "summary": "Gobernador destaca acuerdo con EU para reanudar exportaciones de ganado desde Sonora.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/23/gobierno-de-sonora-acelera-reconstruccion-de-nogales-tras-las-lluvias-rehabilitan-283-calles-y-refuerzan-zonas-de-riesgo/",
-        "_added_at": "2026-07-24T03:52:18.404498-07:00"
+        "url": "https://proyectopuente.com.mx/2026/07/24/celebra-durazo-reapertura-de-frontera-en-sonora-para-exportacion-de-ganado-a-eeuu/",
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       },
       {
-        "title": "FGJE aclara Alerta Amber en Nogales: conflicto familiar",
-        "summary": "Investigación por menor desaparecida apunta a disputa entre padres e intención de salida internacional.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/23/fiscalia-de-sonora-aclara-alerta-amber-en-nogales-investigacion-apunta-a-conflicto-familiar-y-posible-salida-del-pais/",
-        "_added_at": "2026-07-24T01:03:21.595719-07:00"
-      },
-      {
-        "title": "Senador advierte sobre prisión preventiva automática",
-        "summary": "Iván Jaimes Archundia critica medidas que vulneran presunción de inocencia y debido proceso.",
+        "title": "Lamarque impulsa participación de mujeres en Obregón",
+        "summary": "Funcionaria destaca importancia de escuchar a mujeres para fortalecer transformación estatal.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/senador-ivan-jaimes-archundia-defiende-debido-proceso/261038",
-        "_added_at": "2026-07-24T01:03:21.595719-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/mujeres-en-ciudad-obregon-impulsan-la-transformacion/261124",
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
+      },
+      {
+        "title": "Valles resalta papel de mercados públicos en identidad sonorense",
+        "summary": "Funcionaria destaca inversión estatal en rehabilitación de mercados en Hermosillo, Guaymas y Navojoa.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-papel-de-mercados-publicos-en-sonora/261130",
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Sonora reinicia exportación de ganado hacia Estados Unidos",
-        "summary": "Sonora será primer estado en reanudar envíos ganaderos a EU el 24 de agosto.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-sonorense-el-24-de-agosto/261126",
-        "_added_at": "2026-07-24T22:33:10.507092-07:00"
-      },
-      {
-        "title": "UGRS agradece gestiones para reactivar exportación ganadera",
-        "summary": "Unión Ganadera Regional de Sonora celebra reinicio de comercio con Estados Unidos.",
+        "title": "Sonora será primer estado en reanudar exportación de ganado",
+        "summary": "EEUU reabrirá cruce ganadero Agua Prieta-Douglas en últimas semanas de agosto para importaciones mexicanas.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-a-eu-por-sonora/261125",
-        "_added_at": "2026-07-24T22:33:10.507092-07:00"
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
+      },
+      {
+        "title": "UGRS agradece gestiones para reanudar exportación ganadera",
+        "summary": "Sector ganadero expresa satisfacción por confirmación de reapertura comercial a Estados Unidos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-sonorense-el-24-de-agosto/261126",
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
+      },
+      {
+        "title": "Proponen ajuste en cobro de agua en Navojoa",
+        "summary": "Solicitan prorrateo equitativo de tarifas en colonias con fallas recurrentes del servicio.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/proponen-cobro-proporcional-de-agua-potable-en-navojoa/261114",
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       },
       {
         "title": "Grupo Femso realiza segunda edición de AutoFest en Hermosillo",
-        "summary": "Evento automotriz ofrece promociones exclusivas para público hermosillense.",
+        "summary": "Evento automotriz ofrece promociones exclusivas en la capital sonorense.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/24/realiza-grupo-femso-segunda-edicion-del-autofest-con-promociones-exclusivas-en-hermosillo/",
-        "_added_at": "2026-07-24T22:33:10.507092-07:00"
-      },
-      {
-        "title": "Estados Unidos reabre importaciones de ganado mexicano",
-        "summary": "EEUU iniciará reapertura parcial de importaciones de ganado en Douglas en próximos treinta días.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mundo/2026/07/25/eeuu-iniciara-en-douglas-la-reapertura-parcial-a-importaciones-de-ganado-mexicano-dentro-de-30-dias-reporta-the-wall-street-journal/",
-        "_added_at": "2026-07-24T18:22:09.396264-07:00"
-      },
-      {
-        "title": "Proponen ajustar cobro de agua en Navojoa por fallas",
-        "summary": "Autoridades de Navojoa proponen ajuste proporcional en tarifa de agua para colonias afectadas por servicios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/proponen-cobro-proporcional-de-agua-potable-en-navojoa/261114",
-        "_added_at": "2026-07-24T18:22:09.396264-07:00"
-      },
-      {
-        "title": "Sonora lidera en recuperación laboral con 92.4%",
-        "summary": "Conciliación laboral recupera más de cinco mil millones de pesos para trabajadores.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/24/sonora-alcanza-primer-lugar-nacional-en-conciliacion-laboral-con-924-de-efectividad-y-recupera-mas-de-5-mil-millones-de-pesos-para-trabajadores/",
-        "_added_at": "2026-07-24T14:52:46.887092-07:00"
-      },
-      {
-        "title": "Maxi Apoyo impulsa tres mil emprendimientos en HMO",
-        "summary": "Entrega más de siete millones de pesos para capacitar y fortalecer negocios locales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/maxi-apoyo-capacita-a-casi-3-mil-personas-en-hermosillo-y-entrega-mas-de-7-millones-de-pesos-para-impulsar-emprendimientos/",
-        "_added_at": "2026-07-24T14:52:46.887092-07:00"
-      },
-      {
-        "title": "Sonora busca abrir nuevos mercados para carne",
-        "summary": "Estado impulsa exportación con valor agregado y requisitos sanitarios internacionales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/impulsa-sonora-exportacion-de-carne-a-nuevos-mercados/261075",
-        "_added_at": "2026-07-24T06:12:06.394654-07:00"
-      },
-      {
-        "title": "Sonora lidera conciliación laboral a nivel nacional",
-        "summary": "Estado logra 92.4% de acuerdos con más de 181 mil convenios en cuatro años.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-lider-nacional-en-conciliacion-laboral/261076",
-        "_added_at": "2026-07-24T06:12:06.394654-07:00"
-      },
-      {
-        "title": "Vinculan a mujer por robo de 300 mil pesos en Guaymas",
-        "summary": "Fiscalía detiene a Abyale Evelyn por presunto robo de considerables recursos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/vinculada-mujer-por-robo-de-300-mil-pesos-en-guaymas/261046",
-        "_added_at": "2026-07-24T03:52:18.404498-07:00"
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Tormentas con riesgo de inundación abren compuertas en Nogales",
-        "summary": "Autoridades abren represo para evitar desbordamientos por lluvias vespertinas.",
+        "title": "Hermosillo alcanza 45.9°C en onda de calor extremo",
+        "summary": "Capital sonorense experimenta temperaturas peligrosas durante episodio de calor intenso.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/24/abren-compuertas-de-represo-de-nogales-para-evitar-inundaciones/",
-        "_added_at": "2026-07-24T22:33:10.507092-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/hermosillo-alcanza-hasta-459c-durante-una-tarde-de-calor-extremo/",
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       },
       {
-        "title": "Motociclista pierde pierna en accidente en San Carlos",
-        "summary": "Motociclista de 51 años sufre amputación de pierna tras fuerte choque en bulevar Tetakawi.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/amputacion-a-motociclista-por-choque-en-san-carlos-guaymas/261093",
-        "_added_at": "2026-07-24T18:22:09.396264-07:00"
-      },
-      {
-        "title": "Treinta atletas sonorenses en Juegos Centroamericanos",
-        "summary": "Más de treinta deportistas de Sonora competirán en Juegos Centroamericanos y del Caribe 2026.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/deporte/2026/07/25/mas-de-30-atletas-sonorenses-competiran-en-los-juegos-centroamericanos-y-del-caribe-2026/",
-        "_added_at": "2026-07-24T18:22:09.396264-07:00"
-      },
-      {
-        "title": "Atienden más adolescentes por consumo en Cajeme",
-        "summary": "Incremento de casos en menores durante vacaciones escolares en la zona.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/24/atienden-a-mas-adolescentes-por-consumo-de-sustancias-durante-vacaciones-en-cajeme/",
-        "_added_at": "2026-07-24T14:52:46.887092-07:00"
-      },
-      {
-        "title": "Familias sin electricidad resisten calor extremo",
-        "summary": "Invasión Mirabal en Hermosillo enfrenta casi 50°C sin servicios básicos.",
+        "title": "Familias resisten calor extremo sin electricidad en Hermosillo",
+        "summary": "Invasión Mirabal enfrenta temperaturas cercanas a 50°C sin servicio eléctrico en viviendas precarias.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/familias-de-la-invasion-mirabal-en-hermosillo-resisten-calor-extremo-de-casi-50c-sin-electricidad-en-viviendas-de-carton-y-madera/",
-        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       },
       {
-        "title": "Instalan punto de hidratación ante calor extremo",
-        "summary": "Cajeme habilita centro de apoyo para proteger población ante temperaturas peligrosas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/24/instalan-punto-de-hidratacion-ante-calor-extremo-en-cajeme/",
-        "_added_at": "2026-07-24T14:52:46.887092-07:00"
-      },
-      {
-        "title": "Onda de calor persiste con máximas de 45°C",
-        "summary": "Sonora registra temperaturas extremas con probabilidad de tormentas en centro y sur.",
+        "title": "Onda de calor persiste en Sonora con máximas sobre 45°C",
+        "summary": "Alerta de temperaturas extremas en todo el estado con posibles tormentas vespertinas.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/24/persistira-onda-de-calor-en-sonora-con-maximas-de-mas-de-45-c-se-esperan-tormentas-vespertinas-para-el-sur-y-centro-de-sonora-mientras-hermosillo-tiene-un-40-de-probabilidad-de-registrar-actividad-durante-la-noche/",
-        "_added_at": "2026-07-24T14:52:46.887092-07:00"
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       },
       {
-        "title": "Sonora concentra temperaturas más altas de México",
-        "summary": "Hermosillo, Sonoyta y Cuauhtémoc reportan calores extremos superiores a 45 grados.",
+        "title": "Más de 30 atletas sonorenses en Juegos Centroamericanos",
+        "summary": "Deportistas del estado competirán en los Juegos Centroamericanos y del Caribe 2026.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/sonora-registra-las-temperaturas-mas-altas-de-mexico-hermosillo-alcanza-475c-y-seguira-el-calor-extremo/",
-        "_added_at": "2026-07-24T12:08:05.610179-07:00"
-      },
-      {
-        "title": "Van 186 golpes de calor y 3 muertes en Sonora 2026",
-        "summary": "Temperaturas extremas dejan saldo de casos atendidos y decesos en el estado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/24/van-186-casos-de-golpes-de-calor-y-3-muertes-por-temperaturas-extremas-en-sonora-en-2026/",
-        "_added_at": "2026-07-24T12:08:05.610179-07:00"
-      },
-      {
-        "title": "Más de 40 bomberos sofocan incendio en bodega Cajeme",
-        "summary": "Incendio en tapicería requirió seis horas de trabajo para ser controlado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/24/mas-de-40-bomberos-combaten-durante-seis-horas-incendio-en-bodega-de-tapiceria-en-ciudad-obregon/",
-        "_added_at": "2026-07-24T12:08:05.610179-07:00"
+        "url": "https://www.elimparcial.com/deporte/2026/07/25/mas-de-30-atletas-sonorenses-competiran-en-los-juegos-centroamericanos-y-del-caribe-2026/",
+        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-24T22:33:10.507092-07:00"
+  "last_updated": "2026-07-25T00:47:15.158867-07:00"
 }
