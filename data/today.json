@@ -1,8 +1,22 @@
 {
   "date": "2026-07-24",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Incendian comandancia de Policía Municipal en Tubutama",
+        "summary": "Hombre incendia instalaciones de policía municipal en Tubutama; fue vinculado a proceso judicial.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/24/hombre-incendia-comandancia-de-policia-municipal-en-tubutama-sonora-lo-vinculan-a-proceso/",
+        "_added_at": "2026-07-24T18:22:09.396264-07:00"
+      },
+      {
+        "title": "Baja percepción de inseguridad en tres ciudades sonorenses",
+        "summary": "Reportan reducción en percepción de inseguridad en Hermosillo, Nogales y Ciudad Obregón según mediciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/24/baja-la-percepcion-de-inseguridad-en-hermosillo-nogales-y-ciudad-obregon/",
+        "_added_at": "2026-07-24T18:22:09.396264-07:00"
+      },
       {
         "title": "Pareja en riesgo por fentanilo disfrazado de cocaína",
         "summary": "Dos personas en Nogales consumieron polvo ofrecido como cocaína que contenía fentanilo, enfrentando riesgo de muerte.",
@@ -58,23 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/23/tras-cateo-de-la-fgjes-salvan-la-vida-a-siete-caninos-en-ciudad-obregon/",
         "_added_at": "2026-07-24T03:52:18.404498-07:00"
-      },
-      {
-        "title": "FGR incinera tonelada de droga decomisada en Hermosillo",
-        "summary": "Fiscalía destruye más de una tonelada de narcóticos relacionados con 120 investigaciones por delitos contra la salud.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/fgr-destruye-mas-de-una-tonelada-de-droga-en-sonora/261058",
-        "_added_at": "2026-07-24T01:03:21.595719-07:00"
-      },
-      {
-        "title": "Persecución en Nogales termina con arma asegurada",
-        "summary": "Operativo policial recupera pistola tras persecución que dejó taxi abandonado en la ciudad fronteriza.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/23/persecucion-en-nogales-termina-con-taxi-abandonado-y-arma-de-fuego-asegurada/",
-        "_added_at": "2026-07-24T01:03:21.595719-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum anuncia reapertura fronteriza para ganado mexicano",
+        "summary": "Gobierno federal anuncia reapertura de frontera en Agua Prieta para exportación de ganado a finales agosto.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/07/25/anuncia-sheinbaum-reapertura-de-la-frontera-de-eu-por-agua-prieta-sonora-al-ganado-mexicano-a-partir-de-ultimas-semanas-de-agosto/",
+        "_added_at": "2026-07-24T18:22:09.396264-07:00"
+      },
       {
         "title": "Omar del Valle apuesta por diálogo en coordinación Morena",
         "summary": "Compite por liderazgo de Comités de Defensa en Sonora entre seis aspirantes.",
@@ -120,6 +127,20 @@
     ],
     "economia": [
       {
+        "title": "Estados Unidos reabre importaciones de ganado mexicano",
+        "summary": "EEUU iniciará reapertura parcial de importaciones de ganado en Douglas en próximos treinta días.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mundo/2026/07/25/eeuu-iniciara-en-douglas-la-reapertura-parcial-a-importaciones-de-ganado-mexicano-dentro-de-30-dias-reporta-the-wall-street-journal/",
+        "_added_at": "2026-07-24T18:22:09.396264-07:00"
+      },
+      {
+        "title": "Proponen ajustar cobro de agua en Navojoa por fallas",
+        "summary": "Autoridades de Navojoa proponen ajuste proporcional en tarifa de agua para colonias afectadas por servicios.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/proponen-cobro-proporcional-de-agua-potable-en-navojoa/261114",
+        "_added_at": "2026-07-24T18:22:09.396264-07:00"
+      },
+      {
         "title": "Sonora lidera en recuperación laboral con 92.4%",
         "summary": "Conciliación laboral recupera más de cinco mil millones de pesos para trabajadores.",
         "source": "El Imparcial",
@@ -163,6 +184,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Motociclista pierde pierna en accidente en San Carlos",
+        "summary": "Motociclista de 51 años sufre amputación de pierna tras fuerte choque en bulevar Tetakawi.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/amputacion-a-motociclista-por-choque-en-san-carlos-guaymas/261093",
+        "_added_at": "2026-07-24T18:22:09.396264-07:00"
+      },
+      {
+        "title": "Treinta atletas sonorenses en Juegos Centroamericanos",
+        "summary": "Más de treinta deportistas de Sonora competirán en Juegos Centroamericanos y del Caribe 2026.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/deporte/2026/07/25/mas-de-30-atletas-sonorenses-competiran-en-los-juegos-centroamericanos-y-del-caribe-2026/",
+        "_added_at": "2026-07-24T18:22:09.396264-07:00"
+      },
       {
         "title": "Atienden más adolescentes por consumo en Cajeme",
         "summary": "Incremento de casos en menores durante vacaciones escolares en la zona.",
@@ -218,22 +253,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/alerta-amber-por-camille-deriva-de-conflicto-entre-padres/261056",
         "_added_at": "2026-07-24T12:08:05.610179-07:00"
-      },
-      {
-        "title": "Sonora es primer lugar en dengue a nivel nacional",
-        "summary": "Estado lidera casos de dengue y ocupa segundo lugar en rickettsia en país.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/24/sonora-es-primer-lugar-en-casos-de-dengue-y-segundo-en-rickettsia-a-nivel-nacional/",
-        "_added_at": "2026-07-24T06:12:06.394654-07:00"
-      },
-      {
-        "title": "Operativo de hidratación en centro de Hermosillo",
-        "summary": "Gobierno distribuye sueros y agua para proteger habitantes ante olas de calor extremo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/entregaran-sueros-y-aguas-para-hidratarse-en-el-centro-de-hermosillo-ante-altas-temperaturas/",
-        "_added_at": "2026-07-24T06:12:06.394654-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-24T14:52:46.887092-07:00"
+  "last_updated": "2026-07-24T18:22:09.396264-07:00"
 }
