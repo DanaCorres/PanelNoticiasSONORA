@@ -1,8 +1,29 @@
 {
   "date": "2026-07-25",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Militares decomisan droga en San Luis Río Colorado",
+        "summary": "Operativo incauta 406 kilos de metanfetamina y 19 de fentanilo ocultos en costales de calcio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/25/militares-decomisan-406-kilos-de-metanfetamina-y-19-de-fentanilo-ocultos-en-costales-de-calcio-en-san-luis-rio-colorado/",
+        "_added_at": "2026-07-25T11:45:32.494971-07:00"
+      },
+      {
+        "title": "Detienen a hombre con fentanilo en garita de Nogales",
+        "summary": "Capturan individuo con más de mil pastillas de fentanilo cerca del carril Sentri en DeConcini.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/25/detienen-a-hombre-con-mas-de-mil-pastillas-de-fentanilo-cerca-del-carril-sentri-de-la-garita-deconcini-en-nogales/",
+        "_added_at": "2026-07-25T11:45:32.494971-07:00"
+      },
+      {
+        "title": "Hermosillo reduce percepción de inseguridad en la región",
+        "summary": "Capital estatal muestra mayor reducción en percepción de inseguridad entre capitales del norte.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/hermosillo-registra-la-mayor-reduccion-en-percepcion-de-inseguridad-entre-capitales-estatales-segun-ensu-del-inegi/",
+        "_added_at": "2026-07-25T11:45:32.494971-07:00"
+      },
       {
         "title": "Arrestan a sujeto por violencia doméstica en Hermosillo",
         "summary": "Capturan a hombre por agredir y amenazar con incendiar casa de su esposa en la capital.",
@@ -55,6 +76,13 @@
     ],
     "politica": [
       {
+        "title": "Sheinbaum anuncia liberación de moscas estériles contra gusano",
+        "summary": "Iniciará en dos semanas programa federal para combatir plaga que afecta ganadería sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/sheinbaum-anuncia-liberacion-de-moscas-esteriles-para-combatir-el-gusano-barrenador-iniciara-en-dos-semanas/",
+        "_added_at": "2026-07-25T11:45:32.494971-07:00"
+      },
+      {
         "title": "Lamarque destaca papel protagónico de mujeres",
         "summary": "Funcionario estatal afirma que mujeres encabezan la transformación en Sonora.",
         "source": "Proyecto Puente",
@@ -98,6 +126,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Sonora reabre exportación de ganado a Estados Unidos",
+        "summary": "Cruce por Agua Prieta-Douglas se reactivará el 24 de agosto tras gestiones del gobierno.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/anuncia-durazo-reapertura-de-exportacion-de-ganado-a-eu/261149",
+        "_added_at": "2026-07-25T11:45:32.494971-07:00"
+      },
+      {
+        "title": "Hacienda aumenta estímulo a gasolinas y diésel",
+        "summary": "Aplica fuerte incremento al IEPS para combustibles por repunte del petróleo internacional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/07/25/hacienda-aplica-un-fuerte-incremento-al-estimulo-fiscal-del-ieps-para-las-gasolinas-y-el-diesel-del-25-al-31-de-julio-de-2026-debido-al-repunte-del-petroleo-por-conflictos-en-medio-oriente/",
+        "_added_at": "2026-07-25T11:45:32.494971-07:00"
+      },
       {
         "title": "Ganaderos esperan alivio con reapertura de frontera",
         "summary": "Sector ganadero de Sonora busca recuperar mercado estadounidense y reducir sobreoferta tras cierre.",
@@ -153,16 +195,30 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/proponen-cobro-proporcional-de-agua-potable-en-navojoa/261114",
         "_added_at": "2026-07-25T00:47:15.158867-07:00"
-      },
-      {
-        "title": "Grupo Femso realiza segunda edición de AutoFest en Hermosillo",
-        "summary": "Evento automotriz ofrece promociones exclusivas en la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/24/realiza-grupo-femso-segunda-edicion-del-autofest-con-promociones-exclusivas-en-hermosillo/",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Tormenta afecta servicio de agua en Hermosillo",
+        "summary": "Descargas eléctricas dañan pozos; colonias enfrentan falta de agua y baja presión temporal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/tormenta-electrica-afecta-pozos-de-agua-de-hermosillo-estas-colonias-podrian-tener-falta-de-agua-o-baja-presion-temporal/",
+        "_added_at": "2026-07-25T11:45:32.494971-07:00"
+      },
+      {
+        "title": "Daños por lluvias en Guaymas y San Carlos",
+        "summary": "Caída de árbol y afectaciones eléctricas tras fenómeno meteorológico del fin de semana.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/danos-por-lluvias-en-guaymas-y-san-carlos-este-fin-de-semana/261156",
+        "_added_at": "2026-07-25T11:45:32.494971-07:00"
+      },
+      {
+        "title": "Rescatan adulto mayor durante incendio en Hermosillo",
+        "summary": "Bomberos salvan a persona durante emergencia registrada al sur de la capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/rescatan-a-adulto-mayor-durante-incendio-al-sur-de-hermosillo/",
+        "_added_at": "2026-07-25T11:45:32.494971-07:00"
+      },
       {
         "title": "Onda de calor afecta Sonora y estados del norte",
         "summary": "Temperaturas extremas continuarán en la región mientras se prevén lluvias en otras zonas.",
@@ -214,5 +270,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-25T08:54:00.033174-07:00"
+  "last_updated": "2026-07-25T11:45:32.494971-07:00"
 }
