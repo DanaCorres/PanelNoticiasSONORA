@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-25T01:22:08.186764+00:00",
+  "generated_at": "2026-07-25T05:33:09.781257+00:00",
   "items": [
     {
       "source": "El Imparcial",
-      "title": "Anuncia Sheinbaum reapertura de la frontera de EU por Agua Prieta, Sonora al ganado mexicano a partir de últimas semanas de agosto",
+      "title": "Anuncia Sheinbaum reapertura de la frontera de EEUU por Agua Prieta, Sonora",
       "url": "https://www.elimparcial.com/mexico/2026/07/25/anuncia-sheinbaum-reapertura-de-la-frontera-de-eu-por-agua-prieta-sonora-al-ganado-mexicano-a-partir-de-ultimas-semanas-de-agosto/",
       "published": ""
     },
@@ -15,38 +15,8 @@
     },
     {
       "source": "El Imparcial",
-      "title": "Baja percepción de inseguridad en Hermosillo, Obregón y más",
-      "url": "https://www.elimparcial.com/son/sonora/2026/07/24/baja-la-percepcion-de-inseguridad-en-hermosillo-nogales-y-ciudad-obregon/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "Identifican a segunda víctima de la corriente de arroyo en Río Rico, Arizona",
-      "url": "https://www.elimparcial.com/son/nogales/2026/07/24/identifican-a-segunda-victima-de-la-corriente-de-arroyo-en-rio-rico-arizona/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "Sigue onda de calor en Sonora con máximas de más de 45 °C",
-      "url": "https://www.elimparcial.com/son/sonora/2026/07/24/persistira-onda-de-calor-en-sonora-con-maximas-de-mas-de-45-c-se-esperan-tormentas-vespertinas-para-el-sur-y-centro-de-sonora-mientras-hermosillo-tiene-un-40-de-probabilidad-de-registrar-actividad-durante-la-noche/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "Resisten calor extremo sin electricidad en invasión Mirabal de HMO",
-      "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/familias-de-la-invasion-mirabal-en-hermosillo-resisten-calor-extremo-de-casi-50c-sin-electricidad-en-viviendas-de-carton-y-madera/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "Tormentas podrían llegar esta noche a Hermosillo",
-      "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/tormentas-podrian-llegar-a-hermosillo-esta-noche-con-fuertes-vientos-y-polvo-probabilidad-alcanza-40/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "EEUU iniciará en Douglas la reapertura parcial a importaciones de ganado mexicano dentro de 30 días, reporta The Wall Street Journal",
-      "url": "https://www.elimparcial.com/mundo/2026/07/25/eeuu-iniciara-en-douglas-la-reapertura-parcial-a-importaciones-de-ganado-mexicano-dentro-de-30-dias-reporta-the-wall-street-journal/",
+      "title": "Gobernador Alfonso Durazo anuncia que EEUU reabrirá el cruce ganadero Agua Prieta-Douglas",
+      "url": "https://www.elimparcial.com/son/sonora/2026/07/25/gobernador-alfonso-durazo-anuncia-que-eeuu-reabrira-el-cruce-ganadero-agua-prieta-douglas/",
       "published": ""
     },
     {
@@ -63,14 +33,44 @@
     },
     {
       "source": "El Imparcial",
-      "title": "Bomberos rescatan a hombre que cayó a canal en Hermosillo",
-      "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/bomberos-rescatan-a-hombre-que-cayo-a-canal-en-hermosillo/",
+      "title": "Identifican a segunda víctima de la corriente de arroyo en Río Rico, Arizona",
+      "url": "https://www.elimparcial.com/son/nogales/2026/07/24/identifican-a-segunda-victima-de-la-corriente-de-arroyo-en-rio-rico-arizona/",
       "published": ""
     },
     {
       "source": "El Imparcial",
-      "title": "Trump usa la lechuga mexicana como una nueva razón para castigar a México con MÁS aranceles",
-      "url": "https://www.elimparcial.com/mexico/2026/07/24/lechuga-mexicana-enfurecio-a-trump-y-ahora-es-una-nueva-razon-por-la-que-buscaria-mas-aranceles-contra-mexico/",
+      "title": "Tormentas podrían llegar esta noche a Hermosillo",
+      "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/tormentas-podrian-llegar-a-hermosillo-esta-noche-con-fuertes-vientos-y-polvo-probabilidad-alcanza-40/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Sigue onda de calor en Sonora con máximas de más de 45 °C",
+      "url": "https://www.elimparcial.com/son/sonora/2026/07/24/persistira-onda-de-calor-en-sonora-con-maximas-de-mas-de-45-c-se-esperan-tormentas-vespertinas-para-el-sur-y-centro-de-sonora-mientras-hermosillo-tiene-un-40-de-probabilidad-de-registrar-actividad-durante-la-noche/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Resisten calor extremo sin electricidad en invasión Mirabal de HMO",
+      "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/familias-de-la-invasion-mirabal-en-hermosillo-resisten-calor-extremo-de-casi-50c-sin-electricidad-en-viviendas-de-carton-y-madera/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Baja percepción de inseguridad en Hermosillo, Obregón y más",
+      "url": "https://www.elimparcial.com/son/sonora/2026/07/24/baja-la-percepcion-de-inseguridad-en-hermosillo-nogales-y-ciudad-obregon/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "EEUU iniciará en Douglas la reapertura parcial a importaciones de ganado mexicano dentro de 30 días, reporta The Wall Street Journal",
+      "url": "https://www.elimparcial.com/mundo/2026/07/25/eeuu-iniciara-en-douglas-la-reapertura-parcial-a-importaciones-de-ganado-mexicano-dentro-de-30-dias-reporta-the-wall-street-journal/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Bomberos rescatan a hombre que cayó a canal en Hermosillo",
+      "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/bomberos-rescatan-a-hombre-que-cayo-a-canal-en-hermosillo/",
       "published": ""
     },
     {
@@ -117,50 +117,32 @@
     },
     {
       "source": "Proyecto Puente",
-      "title": "Destaca Alfonso Durazo reducciÃ³n en percepciÃ³n de inseguridad en Hermosillo, Nogales y Ciudad ObregÃ³n",
-      "url": "https://proyectopuente.com.mx/2026/07/24/destaca-alfonso-durazo-reduccion-en-percepcion-de-inseguridad-en-hermosillo-nogales-y-ciudad-obregon/",
+      "title": "Fuerte incendio en taller mecÃ¡nico deja solo daÃ±os materiales al sur de Hermosillo",
+      "url": "https://proyectopuente.com.mx/2026/07/24/fuerte-incendio-en-taller-mecanico-deja-solo-danos-materiales-al-sur-de-hermosillo/",
       "published": ""
     },
     {
       "source": "Proyecto Puente",
-      "title": "Supervisa SRE resguardo de documentos que cuentan la historia diplomÃ¡tica de MÃ©xico",
-      "url": "https://proyectopuente.com.mx/2026/07/24/supervisa-sre-resguardo-de-documentos-que-cuentan-la-historia-diplomatica-de-mexico/",
+      "title": "Trump ordena colocar advertencias en Museo Nacional de Historia de EEUU por supuesto sesgo ideolÃ³gico",
+      "url": "https://proyectopuente.com.mx/2026/07/24/trump-ordena-colocar-advertencias-en-museo-nacional-de-historia-de-eeuu-por-supuesto-sesgo-ideologico/",
       "published": ""
     },
     {
       "source": "Proyecto Puente",
-      "title": "Hombre incendia comandancia de PolicÃ­a Municipal en Tubutama, Sonora; lo vinculan a proceso",
-      "url": "https://proyectopuente.com.mx/2026/07/24/hombre-incendia-comandancia-de-policia-municipal-en-tubutama-sonora-lo-vinculan-a-proceso/",
+      "title": "Celebra Durazo reapertura de frontera en Sonora para exportaciÃ³n de ganado a EEUU",
+      "url": "https://proyectopuente.com.mx/2026/07/24/celebra-durazo-reapertura-de-frontera-en-sonora-para-exportacion-de-ganado-a-eeuu/",
       "published": ""
     },
     {
       "source": "Proyecto Puente",
-      "title": "VerÃ³nica Ruffo solicita protecciÃ³n a EEUU tras detenciÃ³n de Ernesto Ruffo; denuncia hostigamiento",
-      "url": "https://proyectopuente.com.mx/2026/07/24/veronica-ruffo-solicita-proteccion-a-eeuu-tras-detencion-de-ernesto-ruffo-denuncia-hostigamiento/",
+      "title": "ReactivarÃ¡n exportaciÃ³n de ganado mexicano a EEUU, confirma Sheinbaum; iniciarÃ¡ por Sonora",
+      "url": "https://proyectopuente.com.mx/2026/07/24/reactivaran-exportacion-de-ganado-mexicano-a-eeuu-confirma-sheinbaum-iniciara-por-sonora/",
       "published": ""
     },
     {
       "source": "Proyecto Puente",
       "title": "Un caballo puede ayudarte a sanar; Fernanda Contreras y Lila Vak explican cÃ³mo funciona esta terapia",
       "url": "https://proyectopuente.com.mx/2026/07/23/un-caballo-puede-ayudarte-a-sanar-fernanda-contreras-y-lila-vak-explican-como-funciona-esta-terapia/",
-      "published": ""
-    },
-    {
-      "source": "Proyecto Puente",
-      "title": "Alertan por robo de identidad al solicitar prÃ©stamos digitales; asÃ­ operan los ciberdelincuentes",
-      "url": "https://proyectopuente.com.mx/2026/07/24/alertan-por-robo-de-identidad-al-solicitar-prestamos-digitales-asi-operan-los-ciberdelincuentes/",
-      "published": ""
-    },
-    {
-      "source": "Proyecto Puente",
-      "title": "Â¿Lionel Messi deja la SelecciÃ³n Argentina? Leandro Paredes revela la decisiÃ³n que ya habrÃ­a tomado",
-      "url": "https://proyectopuente.com.mx/2026/07/24/lionel-messi-deja-la-seleccion-argentina-leandro-paredes-revela-la-decision-que-ya-habria-tomado/",
-      "published": ""
-    },
-    {
-      "source": "Proyecto Puente",
-      "title": "MÃ©xico llama a AmÃ©rica Latina a construir una inteligencia artificial centrada en las personas: SRE",
-      "url": "https://proyectopuente.com.mx/2026/07/24/mexico-llama-a-america-latina-a-construir-una-inteligencia-artificial-centrada-en-las-personas-sre/",
       "published": ""
     },
     {
@@ -177,8 +159,44 @@
     },
     {
       "source": "Proyecto Puente",
-      "title": "Concierto de Camilo en Hermosillo cambia de fecha; esto es lo que debes saber",
-      "url": "https://proyectopuente.com.mx/2026/07/24/concierto-de-camilo-en-hermosillo-cambia-de-fecha-esto-es-lo-que-debes-saber/",
+      "title": "Tres meses despuÃ©s del atentado, Trump reaparece en la Cena de Corresponsales; vuelve a bromear con un tercer mandato",
+      "url": "https://proyectopuente.com.mx/2026/07/24/tres-meses-despues-del-atentado-trump-reaparece-en-la-cena-de-corresponsales-vuelve-a-bromear-con-un-tercer-mandato/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "Naranjeros de Hermosillo inicia su Summer Camp 2026 en Tucson con cerca de 100 niÃ±os",
+      "url": "https://proyectopuente.com.mx/2026/07/24/naranjeros-de-hermosillo-inicia-su-summer-camp-2026-en-tucson-con-cerca-de-100-ninos/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "Â¿Tu perro hizo pipÃ­ en casa? Estos remedios caseros eliminan el mal olor de forma efectiva",
+      "url": "https://proyectopuente.com.mx/2026/07/24/tu-perro-hizo-pipi-en-casa-estos-remedios-caseros-eliminan-el-mal-olor-de-forma-efectiva/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "Realiza Grupo Femso segunda ediciÃ³n del AutoFest, con promociones exclusivas en Hermosillo",
+      "url": "https://proyectopuente.com.mx/2026/07/24/realiza-grupo-femso-segunda-edicion-del-autofest-con-promociones-exclusivas-en-hermosillo/",
+      "published": ""
+    },
+    {
+      "source": "Expreso",
+      "title": "Es una excelente noticia: UGRS agradece gestiones para reanudar exportación",
+      "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-sonorense-el-24-de-agosto/261126",
+      "published": ""
+    },
+    {
+      "source": "Expreso",
+      "title": "Sonora será el primer estado del país en reanudar la exportación de ganado",
+      "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-a-eu-por-sonora/261125",
+      "published": ""
+    },
+    {
+      "source": "Expreso",
+      "title": "Escuchar a las mujeres fortalece la transformación en Sonora: Lamarque",
+      "url": "https://www.expreso.com.mx/noticias/sonora/mujeres-en-ciudad-obregon-impulsan-la-transformacion/261124",
       "published": ""
     },
     {
@@ -254,75 +272,63 @@
       "published": ""
     },
     {
-      "source": "Expreso",
-      "title": "Sonora lidera conciliación laboral con 92.4% de acuerdos",
-      "url": "https://www.expreso.com.mx/noticias/sonora/sonora-lider-nacional-en-conciliacion-laboral/261076",
-      "published": ""
-    },
-    {
-      "source": "Expreso",
-      "title": "El Gobierno del Estado informó que, entre octubre de 2022 y mayo de 2026, se concretaron más de 181 mil convenios mediante el Centro de Conciliación Laboral.",
-      "url": "https://www.expreso.com.mx/noticias/sonora/sonora-lider-nacional-en-conciliacion-laboral/261076",
-      "published": ""
-    },
-    {
-      "source": "Expreso",
-      "title": "Incinera FGR más de una tonelada de narcóticos en Hermosillo",
-      "url": "https://www.expreso.com.mx/noticias/sonora/fgr-destruye-mas-de-una-tonelada-de-droga-en-sonora/261058",
+      "source": "Diario del Yaqui",
+      "title": "Colo Colo apuesta por Vozinha el arquero sensación del Mundial 2026",
+      "url": "https://diariodelyaqui.mx/deportes/colo-colo-apuesta-por-vozinha-el-arquero-sensacion-del-mundial-2026/139626",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Suma Sonora una nueva defunción por rickettsia",
-      "url": "https://diariodelyaqui.mx/ciudadobregon/suma-sonora-una-nueva-defuncion-por-rickettsia/139612",
+      "title": "Lorenia Valles destaca el valor histórico y cultural de los mercados públicos de Sonora",
+      "url": "https://diariodelyaqui.mx/sonora/lorenia-valles-destaca-el-valor-historico-y-cultural-de-los-mercados-publicos-de-sonora/139625",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Claudia Sheinbaum anuncia que se reanuda exportación de ganado a Estados Unidos",
-      "url": "https://diariodelyaqui.mx/nacional/claudia-sheinbaum-anuncia-que-se-reanuda-exportacion-de-ganado-a-estados-unidos/139611",
+      "title": "Javier Lamarque destaca que la transformación se construye desde el territorio",
+      "url": "https://diariodelyaqui.mx/sonora/javier-lamarque-destaca-que-la-transformacion-se-construye-desde-el-territorio/139623",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "¿Lechuga mexicana? Este es el alimento que investigan por brote de ciclosporiasis en EU",
-      "url": "https://diariodelyaqui.mx/nacional/lechuga-mexicana-este-es-el-alimento-que-investigan-por-brote-de-ciclosporiasis-en-eu/139610",
+      "title": "Célida López destaca organización ciudadana como fortaleza de la 4T durante recorrido en Hermosillo",
+      "url": "https://diariodelyaqui.mx/sonora/celida-lopez-destaca-organizacion-ciudadana-como-fortaleza-de-la-4t-durante-recorrido-en-hermosillo/139624",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Exigen descuentos de Inapam en camiones del sur de Sonora",
-      "url": "https://diariodelyaqui.mx/sonora/exigen-descuentos-de-inapam-en-camiones-del-sur-de-sonora/139609",
+      "title": "UNAM suspende inscripciones a licenciatura tras revisar posibles irregularidades en examen de admisión",
+      "url": "https://diariodelyaqui.mx/nacional/unam-suspende-inscripciones-a-licenciatura-tras-revisar-posibles-irregularidades-en-examen-de-admision/139622",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Resiente ganado de Huatabampo falta de lluvias",
-      "url": "https://diariodelyaqui.mx/agricola/resiente-ganado-de-huatabampo-falta-de-lluvias/139608",
+      "title": "SEP condena maltrato infantil y aclara que ninguna escuela puede impartir educación militarizada",
+      "url": "https://diariodelyaqui.mx/nacional/sep-condena-maltrato-infantil-y-aclara-que-ninguna-escuela-puede-impartir-educacion-militarizada/139621",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Defensa de primera detenida por caso Dafne Zapata afirma que también fue víctima de privación de la libertad",
-      "url": "https://diariodelyaqui.mx/nacional/defensa-de-primera-detenida-por-caso-dafne-zapata-afirma-que-tambien-fue-victima-de-privacion-de-la-libertad/139607",
+      "title": "Ayudó el Mundial a franquicias sonorenses",
+      "url": "https://diariodelyaqui.mx/ciudadobregon/ayudo-el-mundial-a-franquicias-sonorenses/139616",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Suma Sonora una nueva defunción por rickettsia",
-      "url": "https://diariodelyaqui.mx/ciudadobregon/suma-sonora-una-nueva-defuncion-por-rickettsia/139612",
+      "title": "Empleados de Grupo AS Comunicación se manifiestan por pagos atrasados",
+      "url": "https://diariodelyaqui.mx/ciudadobregon/sindicato-stirtt-demanda-solucion-para-empleados-de-radiodifusora/139617",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Arranca obra hidráulica en el Ejido Henequén",
-      "url": "https://diariodelyaqui.mx/ciudadobregon/arranca-obra-hidraulica-en-el-ejido-henequen/139594",
+      "title": "Persiste riesgo de fraudes en \"regularizaciones\"",
+      "url": "https://diariodelyaqui.mx/ciudadobregon/persiste-riesgo-de-fraudes-en-regularizaciones/139615",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Coordinación mejora percepción de seguridad en Cajeme",
-      "url": "https://diariodelyaqui.mx/ciudadobregon/coordinacion-mejora-percepcion-de-seguridad-en-cajeme/139593",
+      "title": "¿Rescataron a dos mujeres con vida en Venezuela? Protección Civil desmiente el supuesto hallazgo",
+      "url": "https://diariodelyaqui.mx/internacional/rescataron-a-dos-mujeres-con-vida-en-venezuela-proteccion-civil-desmiente-el-supuesto-hallazgo/139614",
       "published": ""
     },
     {
@@ -335,12 +341,6 @@
       "source": "Diario del Yaqui",
       "title": "Ssa analiza posible vínculo de alimentos mexicanos con casos de ciclosporiasis en Estados Unidos",
       "url": "https://diariodelyaqui.mx/internacional/ssa-analiza-posible-vinculo-de-alimentos-mexicanos-con-casos-de-ciclosporiasis-en-estados-unidos/139579",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "Retiran de urgencia una popular leche por presencia de penicilina y otros antibióticos",
-      "url": "https://diariodelyaqui.mx/internacional/retiran-de-urgencia-una-popular-leche-por-presencia-de-penicilina-y-otros-antibioticos/139533",
       "published": ""
     },
     {
@@ -363,92 +363,92 @@
     },
     {
       "source": "El Sol de Hermosillo",
-      "title": "Incendio en domicilio se propaga a taller y patio vecino en la colonia Piedra Bola",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/incendio-en-domicilio-se-propaga-a-taller-y-patio-vecino-en-la-colonia-piedra-bola-31278186.html",
+      "title": "Gobernador de Sonora confirma próxima reapertura de la frontera para exportación de ganado",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/gobernador-de-sonora-confirma-proxima-reapertura-de-la-frontera-para-exportacion-de-ganado-31279766",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
-      "title": "Aumentan 3% los incendios de vehículos en Hermosillo durante 2026",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/aumentan-3-los-incendios-de-vehiculos-en-hermosillo-durante-2026-31275989.html",
+      "title": "Sader Sonora espera continuidad en la apertura de frontera y sanidad ante gusano barrenador",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sader-sonora-espera-continuidad-en-la-apertura-de-frontera-y-sanidad-ante-gusano-barrenador-29780824",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
-      "title": "Fiscalía descarta que incendio en bodegas de Hermosillo haya sido provocado",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/fiscalia-descarta-que-incendio-en-bodegas-de-hermosillo-haya-sido-provocado-31263339.html",
+      "title": "UGRS refuerza vigilancia para evitar el ingreso del gusano barrenador a Sonora",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ugrs-refuerza-vigilancia-para-evitar-el-ingreso-del-gusano-barrenador-a-sonora-30887022",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
-      "title": "Bomberos de Hermosillo exhortan a prevenir incendios y prepararse para la temporada de lluvias",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/bomberos-de-hermosillo-exhortan-a-prevenir-incendios-y-prepararse-para-la-temporada-de-lluvias-31261646.html",
+      "title": "Sonora refuerza medidas contra el gusano barrenador y protege la sanidad del ganado",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-refuerza-medidas-contra-el-gusano-barrenador-y-protege-la-sanidad-del-ganado-31169895",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
-      "title": "Aumentan 3% los incendios de vehículos en Hermosillo durante 2026",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/aumentan-3-los-incendios-de-vehiculos-en-hermosillo-durante-2026-31275989.html",
+      "title": "Sader Sonora espera continuidad en la apertura de frontera y sanidad ante gusano barrenador",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sader-sonora-espera-continuidad-en-la-apertura-de-frontera-y-sanidad-ante-gusano-barrenador-29780824",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
-      "title": "Fiscalía descarta que incendio en bodegas de Hermosillo haya sido provocado",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/fiscalia-descarta-que-incendio-en-bodegas-de-hermosillo-haya-sido-provocado-31263339.html",
+      "title": "UGRS refuerza vigilancia para evitar el ingreso del gusano barrenador a Sonora",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ugrs-refuerza-vigilancia-para-evitar-el-ingreso-del-gusano-barrenador-a-sonora-30887022",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
-      "title": "Bomberos de Hermosillo exhortan a prevenir incendios y prepararse para la temporada de lluvias",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/bomberos-de-hermosillo-exhortan-a-prevenir-incendios-y-prepararse-para-la-temporada-de-lluvias-31261646.html",
+      "title": "Sonora refuerza medidas contra el gusano barrenador y protege la sanidad del ganado",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-refuerza-medidas-contra-el-gusano-barrenador-y-protege-la-sanidad-del-ganado-31169895",
+      "published": ""
+    },
+    {
+      "source": "El Sol de Hermosillo",
+      "title": "¡Una fiesta! Espectáculo colorido en la Apertura de los Juegos Centroamericanos y del Caribe 2026",
+      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/espectaculo-colorido-en-la-apertura-de-los-juegos-centroamericanos-y-del-caribe-2026-31281911",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
       "title": "¡Aún puede haber medalla! México cae en Waterpolo pero competirá por medalla en los Centroamericanos",
-      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/mexico-busca-medalla-de-bronce-en-juegos-centroamericanos-del-caribe-despues-de-perder-contra-colombia-31276671.html",
+      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/mexico-busca-medalla-de-bronce-en-juegos-centroamericanos-del-caribe-despues-de-perder-contra-colombia-31276671",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
       "title": "¡De lujo! Así quedó la villa centroamericana en Santo Domingo luego de una millonaria inversión",
-      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/asi-es-la-villa-centroamericana-en-santo-domingo-gobierno-invirtio-millones-de-pesos-31271740.html",
+      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/asi-es-la-villa-centroamericana-en-santo-domingo-gobierno-invirtio-millones-de-pesos-31271740",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
       "title": "Equipo mexicano de clavados, sin presión por ser el favorito en Juegos Centroamericanos y del Caribe: Alejandra Orozco",
-      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/alejandra-orozco-asegura-que-el-equipo-mexicano-de-clavados-no-tiene-presion-por-ser-el-favorito-en-los-juegos-centroamericanos-y-del-caribe-31269766.html",
+      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/alejandra-orozco-asegura-que-el-equipo-mexicano-de-clavados-no-tiene-presion-por-ser-el-favorito-en-los-juegos-centroamericanos-y-del-caribe-31269766",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
       "title": "“Es un momento muy simbólico”: La bandera de México ya ondea en la Villa Centroamericana",
-      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/la-bandera-de-mexico-ondea-en-la-villa-de-cara-al-inicio-de-los-juegos-panamericanos-2026-31263884.html",
+      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/la-bandera-de-mexico-ondea-en-la-villa-de-cara-al-inicio-de-los-juegos-panamericanos-2026-31263884",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
       "title": "Preparan “innovadora” apertura de Juegos Centroamericanos y del Caribe 2026",
-      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/como-sera-la-inauguracion-de-los-juegos-centroamericanos-y-del-caribe-2026-31255516.html",
+      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/como-sera-la-inauguracion-de-los-juegos-centroamericanos-y-del-caribe-2026-31255516",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
       "title": "Motocicletas: el vehículo estrella de Santo Domingo que hoy es una pesadilla para los ciudadanos",
-      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/las-motocicletas-el-vehiculo-predominante-en-santo-domingo-que-hoy-los-ciudadanos-ya-no-soportan-31256203.html",
+      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/las-motocicletas-el-vehiculo-predominante-en-santo-domingo-que-hoy-los-ciudadanos-ya-no-soportan-31256203",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
       "title": "Angelo Salazar, el artista plástico que plasma su amor a República Dominicana en cuadros que vende a turistas",
-      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/angelo-salazar-el-artista-que-pinta-su-amor-por-republica-dominica-la-tierra-de-los-juegos-centroamericanos-31249095.html",
-      "published": ""
-    },
-    {
-      "source": "El Sol de Hermosillo",
-      "title": "Ana Delma Ramírez, la periodista puertorriqueña que entrevistó a ‘Pelé’ sin saber que era ‘O Rei’",
-      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/ana-delma-ramirez-la-periodista-puertorriquena-que-entrevisto-a-pele-sin-saber-que-era-o-rei-31248198.html",
+      "url": "https://www.elsoldehermosillo.com.mx/esto/juegos-olimpicos/angelo-salazar-el-artista-que-pinta-su-amor-por-republica-dominica-la-tierra-de-los-juegos-centroamericanos-31249095",
       "published": ""
     },
     {
@@ -525,6 +525,12 @@
     },
     {
       "source": "Radio Sonora",
+      "title": "Sonora reanudará exportación de ganado a EE.UU. el 24 de agosto",
+      "url": "https://www.radiosonora.com.mx/sonora-reanudara-exportacion-de-ganado-a-ee-uu-el-24-de-agosto/",
+      "published": ""
+    },
+    {
+      "source": "Radio Sonora",
       "title": "Estrategia de seguridad muestra resultados positivos en Sonora",
       "url": "https://www.radiosonora.com.mx/estrategia-de-seguridad-muestra-resultados-positivos-en-sonora/",
       "published": ""
@@ -533,12 +539,6 @@
       "source": "Radio Sonora",
       "title": "Asegura Mesa Estatal de Seguridad arsenal de alto poder en SLRC",
       "url": "https://www.radiosonora.com.mx/asegura-mesa-estatal-de-seguridad-arsenal-de-alto-poder-en-slrc/",
-      "published": ""
-    },
-    {
-      "source": "Radio Sonora",
-      "title": "Claudia Sheinbaum aclara que nuevas medidas arancelarias de EU no afectan a México",
-      "url": "https://www.radiosonora.com.mx/claudia-sheinbaum-aclara-que-nuevas-medidas-arancelarias-de-eu-no-afectan-a-mexico/",
       "published": ""
     },
     {
@@ -903,7 +903,19 @@
     },
     {
       "source": "Opinión Sonora",
-      "title": "Invita Gobierno de Empalme a jornada gratuita de esterilización canina y felina, será mañana",
+      "title": "Llaman a renovar la INE a vecinos del seccional 0998; venció en el 2025",
+      "url": "https://opinionsonora.com/2026/07/10/llaman-a-renovar-la-ine-a-vecinos-del-seccional-0998-vencio-en-el-2025/",
+      "published": ""
+    },
+    {
+      "source": "Opinión Sonora",
+      "title": "Impulsa Gobierno de Empalme la cultura con inauguración de exposición de grabados",
+      "url": "https://opinionsonora.com/2026/07/07/impulsa-gobierno-de-empalme-la-cultura-con-inauguracion-de-exposicion-de-grabados/",
+      "published": ""
+    },
+    {
+      "source": "Opinión Sonora",
+      "title": "Invita Gobierno de Empalme a jornada gratuita de esterilización canina y felina, será...",
       "url": "https://opinionsonora.com/2026/07/06/invita-gobierno-de-empalme-a-jornada-gratuita-de-esterilizacion-canina-y-felina-sera-manana/",
       "published": ""
     },
@@ -921,18 +933,6 @@
     },
     {
       "source": "Opinión Sonora",
-      "title": "Durazo refuerza apoyo al campo con más de 144 millones en créditos y...",
-      "url": "https://opinionsonora.com/2026/06/29/durazo-refuerza-apoyo-al-campo-con-mas-de-144-millones-en-creditos-y-anuncia-que-duplicara-recurso-a-productores/",
-      "published": ""
-    },
-    {
-      "source": "Opinión Sonora",
-      "title": "Destinan Durazo y Sheinbaum recurso histórico de 853 millones para garantizar agua potable...",
-      "url": "https://opinionsonora.com/2026/06/28/destinan-durazo-y-sheinbaum-recurso-historico-de-853-millones-para-garantizar-agua-potable-en-el-rio-sonora/",
-      "published": ""
-    },
-    {
-      "source": "Opinión Sonora",
       "title": "Acerca Ayuntamiento servicios y programas a familias de La Palma con...",
       "url": "https://opinionsonora.com/2026/06/15/acerca-ayuntamiento-servicios-y-programas-a-familias-de-la-palma-con-jornada-dia-del-pueblo/",
       "published": ""
@@ -945,14 +945,14 @@
     },
     {
       "source": "Opinión Sonora",
-      "title": "Inicia segunda etapa de pavimentación del bulevar Héroe de Nacozari en...",
-      "url": "https://opinionsonora.com/2026/06/13/inicia-segunda-etapa-de-pavimentacion-del-bulevar-heroe-de-nacozari-en-beneficio-de-las-familias-empalmenses/",
+      "title": "Durazo refuerza apoyo al campo con más de 144 millones en...",
+      "url": "https://opinionsonora.com/2026/06/29/durazo-refuerza-apoyo-al-campo-con-mas-de-144-millones-en-creditos-y-anuncia-que-duplicara-recurso-a-productores/",
       "published": ""
     },
     {
       "source": "Opinión Sonora",
-      "title": "Entregan material para construcción a 70 familias empalmenses como resultado de...",
-      "url": "https://opinionsonora.com/2026/06/11/entregan-material-para-construccion-a-70-familias-empalmenses-como-resultado-de-gestiones-del-alcalde-luis-fuentes/",
+      "title": "Destinan Durazo y Sheinbaum recurso histórico de 853 millones para garantizar...",
+      "url": "https://opinionsonora.com/2026/06/28/destinan-durazo-y-sheinbaum-recurso-historico-de-853-millones-para-garantizar-agua-potable-en-el-rio-sonora/",
       "published": ""
     },
     {
@@ -999,6 +999,12 @@
     },
     {
       "source": "Uniradio Sonora",
+      "title": "SEP prohíbe justificar abusos bajo la llamada \"educación militar\"",
+      "url": "https://www.uniradiosonora.com/gobierno/sep-prohibe-justificar-abusos-llamada-educacion-militar-n896113",
+      "published": ""
+    },
+    {
+      "source": "Uniradio Sonora",
       "title": "EU reabre la frontera al ganado mexicano",
       "url": "https://www.uniradiosonora.com/gobierno/eu-reabre-frontera-ganado-mexicano-n896105",
       "published": ""
@@ -1023,8 +1029,8 @@
     },
     {
       "source": "Uniradio Sonora",
-      "title": "Fox y exgobernadores del PAN crean frente pro defensa de Ernesto Ruffo",
-      "url": "https://www.uniradiosonora.com/sociedad/fox-exgobernadores-pan-crean-frente-pro-defensa-ernesto-ruffo-n896068",
+      "title": "Así será la reapertura a ganado mexicano en EU",
+      "url": "https://www.uniradiosonora.com/mundo/asi-sera-reapertura-ganado-mexicano-eu-n896110",
       "published": ""
     },
     {
@@ -1043,12 +1049,6 @@
       "source": "Uniradio Sonora",
       "title": "Nicole Kidman desata rumores de romance con Michael Reinstein",
       "url": "https://www.uniradiosonora.com/fama/nicole-kidman-desata-rumores-romance-michael-reinstein-n896093",
-      "published": ""
-    },
-    {
-      "source": "Uniradio Sonora",
-      "title": "Arranca el Summer Camp de Naranjeros en Tucson",
-      "url": "https://www.uniradiosonora.com/deportes/arranca-summer-camp-naranjeros-tucson-n896090",
       "published": ""
     },
     {
@@ -1083,6 +1083,12 @@
     },
     {
       "source": "Radar Sonora",
+      "title": "Presidenta Sheinbaum logra reapertura a la exportación de ganado; Sonora será el primer estado: Durazo",
+      "url": "https://www.radarsonora.com/presidenta-sheinbaum-logra-reapertura-a-la-exportacion-de-ganado-sonora-sera-el-primer-estado-durazo/",
+      "published": ""
+    },
+    {
+      "source": "Radar Sonora",
       "title": "Gobernador Durazo logra tendencias sostenidas de mejora en percepción de seguridad",
       "url": "https://www.radarsonora.com/gobernador-durazo-logra-tendencias-sostenidas-de-mejora-en-percepcion-de-seguridad/",
       "published": ""
@@ -1097,12 +1103,6 @@
       "source": "Radar Sonora",
       "title": "Gobernador Durazo intensifica acciones para acelerar la recuperación de Nogales tras las lluvias",
       "url": "https://www.radarsonora.com/gobernador-durazo-intensifica-acciones-para-acelerar-la-recuperacion-de-nogales-tras-las-lluvias/",
-      "published": ""
-    },
-    {
-      "source": "Radar Sonora",
-      "title": "Gobernador Durazo posiciona a Sonora en primer lugar nacional de conciliación laboral",
-      "url": "https://www.radarsonora.com/gobernador-durazo-posiciona-a-sonora-en-primer-lugar-nacional-de-conciliacion-laboral/",
       "published": ""
     },
     {
@@ -1353,30 +1353,6 @@
     },
     {
       "source": "Medios OBSON",
-      "title": "Inc3ndio consume taller y deja cuantiosos daños materiales en la colonia Piedra Bola",
-      "url": "https://mediosobson.com/2026/07/24/inc3ndio-consume-taller-y-deja-cuantiosos-danos-materiales-en-la-colonia-piedra-bola/",
-      "published": ""
-    },
-    {
-      "source": "Medios OBSON",
-      "title": "“Nada puede comprar tu paz mental ni el orgullo de tus raíces”: Andresse",
-      "url": "https://mediosobson.com/2026/07/24/nada-puede-comprar-tu-paz-mental-ni-el-orgullo-de-tus-raices-andresse/",
-      "published": ""
-    },
-    {
-      "source": "Medios OBSON",
-      "title": "Mantiene Isaac del Toro podio en Tour de Francia",
-      "url": "https://mediosobson.com/2026/07/24/mantiene-isaac-del-toro-podio-en-tour-de-francia/",
-      "published": ""
-    },
-    {
-      "source": "Medios OBSON",
-      "title": "Andrea Pirlo tomará las riendas de Italia",
-      "url": "https://mediosobson.com/2026/07/24/andrea-pirlo-tomara-las-riendas-de-italia/",
-      "published": ""
-    },
-    {
-      "source": "Medios OBSON",
       "title": "Disfrutan niños y niñas de campamento de verano en Bomberos",
       "url": "https://mediosobson.com/2026/07/24/disfrutan-ninos-y-ninas-de-campamento-de-verano-en-bomberos/",
       "published": ""
@@ -1437,8 +1413,32 @@
     },
     {
       "source": "Medios OBSON",
+      "title": "Inc3ndio consume taller y deja cuantiosos daños materiales en la colonia Piedra Bola",
+      "url": "https://mediosobson.com/2026/07/24/inc3ndio-consume-taller-y-deja-cuantiosos-danos-materiales-en-la-colonia-piedra-bola/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
       "title": "Adulto mayor fall3ce en parque de Urbi Villa del Real",
       "url": "https://mediosobson.com/2026/07/24/adulto-mayor-fall3ce-en-parque-de-urbi-villa-del-real/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Recapturan a presunto delincu3-nte; Fue interceptado por municipales en autobús",
+      "url": "https://mediosobson.com/2026/07/24/recapturan-a-presunto-delincu3-nte-fue-interceptado-por-municipales-en-autobus/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Cae automovilista a socavón en la Municipio Libre",
+      "url": "https://mediosobson.com/2026/07/24/cae-automovilista-a-socavon-en-la-municipio-libre/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Bomberos de Cajeme sofocan inc3ndio tras más de siete horas de intenso trabajo",
+      "url": "https://mediosobson.com/2026/07/24/bomberos-de-cajeme-sofocan-inc3ndio-tras-mas-de-siete-horas-de-intenso-trabajo/",
       "published": ""
     }
   ]

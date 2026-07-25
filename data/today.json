@@ -1,8 +1,15 @@
 {
   "date": "2026-07-24",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Incendio en taller mecánico causa solo daños materiales",
+        "summary": "Fuerte incendio afecta taller mecánico al sur de Hermosillo sin reportarse heridos.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/24/fuerte-incendio-en-taller-mecanico-deja-solo-danos-materiales-al-sur-de-hermosillo/",
+        "_added_at": "2026-07-24T22:33:10.507092-07:00"
+      },
       {
         "title": "Incendian comandancia de Policía Municipal en Tubutama",
         "summary": "Hombre incendia instalaciones de policía municipal en Tubutama; fue vinculado a proceso judicial.",
@@ -65,16 +72,23 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/24/fgr-localiza-toma-clandestina-en-hermosillo-y-asegura-3-mil-litros-de-hidrocarburo-cerca-de-la-carretera-a-guaymas/",
         "_added_at": "2026-07-24T12:08:05.610179-07:00"
-      },
-      {
-        "title": "Rescatan siete caninos en cateo de FGJES en Ciudad Obregón",
-        "summary": "Operativo de fiscalía rescata animales en condiciones precarias durante diligencia.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/23/tras-cateo-de-la-fgjes-salvan-la-vida-a-siete-caninos-en-ciudad-obregon/",
-        "_added_at": "2026-07-24T03:52:18.404498-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Gobernador Durazo celebra reapertura del cruce Agua Prieta-Douglas",
+        "summary": "Durazo confirma que Estados Unidos reabrirá paso ganadero en frontera sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/25/gobernador-alfonso-durazo-anuncia-que-eeuu-reabrira-el-cruce-ganadero-agua-prieta-douglas/",
+        "_added_at": "2026-07-24T22:33:10.507092-07:00"
+      },
+      {
+        "title": "Lamarque destaca escucha a mujeres en transformación de Sonora",
+        "summary": "Funcionaria resalta importancia de participación femenina en cambios en Ciudad Obregón.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/mujeres-en-ciudad-obregon-impulsan-la-transformacion/261124",
+        "_added_at": "2026-07-24T22:33:10.507092-07:00"
+      },
       {
         "title": "Sheinbaum anuncia reapertura fronteriza para ganado mexicano",
         "summary": "Gobierno federal anuncia reapertura de frontera en Agua Prieta para exportación de ganado a finales agosto.",
@@ -127,6 +141,27 @@
     ],
     "economia": [
       {
+        "title": "Sonora reinicia exportación de ganado hacia Estados Unidos",
+        "summary": "Sonora será primer estado en reanudar envíos ganaderos a EU el 24 de agosto.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-sonorense-el-24-de-agosto/261126",
+        "_added_at": "2026-07-24T22:33:10.507092-07:00"
+      },
+      {
+        "title": "UGRS agradece gestiones para reactivar exportación ganadera",
+        "summary": "Unión Ganadera Regional de Sonora celebra reinicio de comercio con Estados Unidos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-a-eu-por-sonora/261125",
+        "_added_at": "2026-07-24T22:33:10.507092-07:00"
+      },
+      {
+        "title": "Grupo Femso realiza segunda edición de AutoFest en Hermosillo",
+        "summary": "Evento automotriz ofrece promociones exclusivas para público hermosillense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/24/realiza-grupo-femso-segunda-edicion-del-autofest-con-promociones-exclusivas-en-hermosillo/",
+        "_added_at": "2026-07-24T22:33:10.507092-07:00"
+      },
+      {
         "title": "Estados Unidos reabre importaciones de ganado mexicano",
         "summary": "EEUU iniciará reapertura parcial de importaciones de ganado en Douglas en próximos treinta días.",
         "source": "El Imparcial",
@@ -174,16 +209,16 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/vinculada-mujer-por-robo-de-300-mil-pesos-en-guaymas/261046",
         "_added_at": "2026-07-24T03:52:18.404498-07:00"
-      },
-      {
-        "title": "Nova Mining Expo 2026 reúne sector minero en Hermosillo",
-        "summary": "Exposición minera confirmada para 10 y 11 de septiembre en Expo Fórum con presencia estatal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/nova-mining-expo-2026-reunira-al-sector-minero-en-septiembre/",
-        "_added_at": "2026-07-24T01:03:21.595719-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Tormentas con riesgo de inundación abren compuertas en Nogales",
+        "summary": "Autoridades abren represo para evitar desbordamientos por lluvias vespertinas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/24/abren-compuertas-de-represo-de-nogales-para-evitar-inundaciones/",
+        "_added_at": "2026-07-24T22:33:10.507092-07:00"
+      },
       {
         "title": "Motociclista pierde pierna en accidente en San Carlos",
         "summary": "Motociclista de 51 años sufre amputación de pierna tras fuerte choque en bulevar Tetakawi.",
@@ -246,15 +281,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/24/mas-de-40-bomberos-combaten-durante-seis-horas-incendio-en-bodega-de-tapiceria-en-ciudad-obregon/",
         "_added_at": "2026-07-24T12:08:05.610179-07:00"
-      },
-      {
-        "title": "Alerta Amber por Camille deriva de conflicto entre padres",
-        "summary": "FGJE confirma desacuerdo familiar en caso de menor de seis años.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/alerta-amber-por-camille-deriva-de-conflicto-entre-padres/261056",
-        "_added_at": "2026-07-24T12:08:05.610179-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-24T18:22:09.396264-07:00"
+  "last_updated": "2026-07-24T22:33:10.507092-07:00"
 }
