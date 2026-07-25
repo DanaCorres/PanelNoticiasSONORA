@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -71,6 +71,13 @@
     ],
     "economia": [
       {
+        "title": "Mercados públicos fortalecen economía e identidad de Sonora",
+        "summary": "Lorenia Valles destaca inversión estatal en rehabilitación de mercados en Hermosillo, Guaymas y Navojoa.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-papel-de-mercados-publicos-en-sonora/261130",
+        "_added_at": "2026-07-25T05:54:27.808312-07:00"
+      },
+      {
         "title": "Sonora será primer estado en reanudar exportación de ganado",
         "summary": "EEUU reabrirá cruce ganadero Agua Prieta-Douglas en últimas semanas de agosto para importaciones mexicanas.",
         "source": "Expreso",
@@ -137,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-25T03:19:27.414478-07:00"
+  "last_updated": "2026-07-25T05:54:27.808312-07:00"
 }
