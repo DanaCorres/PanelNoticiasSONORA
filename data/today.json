@@ -1,8 +1,15 @@
 {
   "date": "2026-07-25",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallan cuerpo descompuesto en departamento de Hermosillo",
+        "summary": "Descubren cadáver en avanzado estado de descomposición en Hermosillo. Autoridades investigan las circunstancias del hallazgo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/encuentran-cuerpo-en-estado-de-descomposicion-en-departamento-de-hermosillo-investigacion-en-curso/",
+        "_added_at": "2026-07-25T14:41:53.989115-07:00"
+      },
       {
         "title": "Militares decomisan droga en San Luis Río Colorado",
         "summary": "Operativo incauta 406 kilos de metanfetamina y 19 de fentanilo ocultos en costales de calcio.",
@@ -65,16 +72,23 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/24/fuerte-incendio-en-taller-mecanico-deja-solo-danos-materiales-al-sur-de-hermosillo/",
         "_added_at": "2026-07-25T00:47:15.158867-07:00"
-      },
-      {
-        "title": "Motociclista pierde pierna en accidente en San Carlos",
-        "summary": "Grave choque en bulevar Tetakawi deja motociclista amputado en Guaymas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/amputacion-a-motociclista-por-choque-en-san-carlos-guaymas/261093",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Durazo invierte 328.5 millones en nuevas preparatorias en Sonora",
+        "summary": "Gobernador anuncia inversión significativa para ampliar oferta educativa de nivel medio superior en el estado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/alfonso-durazo-anuncia-inversion-de-328-5-mdp-para-ampliar-la-oferta-de-preparatorias-en-sonora/",
+        "_added_at": "2026-07-25T14:41:53.989115-07:00"
+      },
+      {
+        "title": "Gim reporta avances en empleo y obras tras cinco años en Nogales",
+        "summary": "Presidente municipal de Nogales destaca balance positivo en desarrollo industrial, empleo y proyectos de infraestructura.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/25/juan-francisco-gim-califica-de-positivo-su-balance-en-nogales-tras-cinco-anos-de-obras-crecimiento-industrial-y-empleo/",
+        "_added_at": "2026-07-25T14:41:53.989115-07:00"
+      },
       {
         "title": "Sheinbaum anuncia liberación de moscas estériles contra gusano",
         "summary": "Iniciará en dos semanas programa federal para combatir plaga que afecta ganadería sonorense.",
@@ -126,6 +140,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Tarifa de transporte suburbano aumenta en Sonora a partir de agosto",
+        "summary": "Incremento en pasaje de transporte suburbano entra en vigor el 16 de agosto en el estado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/25/aumenta-el-pasaje-del-transporte-suburbano-en-sonora-entrara-en-vigor-el-16-de-agosto/",
+        "_added_at": "2026-07-25T14:41:53.989115-07:00"
+      },
       {
         "title": "Sonora reabre exportación de ganado a Estados Unidos",
         "summary": "Cruce por Agua Prieta-Douglas se reactivará el 24 de agosto tras gestiones del gobierno.",
@@ -188,16 +209,37 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-sonorense-el-24-de-agosto/261126",
         "_added_at": "2026-07-25T00:47:15.158867-07:00"
-      },
-      {
-        "title": "Proponen ajuste en cobro de agua en Navojoa",
-        "summary": "Solicitan prorrateo equitativo de tarifas en colonias con fallas recurrentes del servicio.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/proponen-cobro-proporcional-de-agua-potable-en-navojoa/261114",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Entregan uniformes escolares gratuitos en Sonora con fechas confirmadas",
+        "summary": "Gobierno inicia distribución de uniformes escolares gratuitos para ciclo 2026-2027. Confirma sedes y requisitos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/uniformes-escolares-gratuitos-en-sonora-para-el-ciclo-2026-2027-ya-hay-fechas-sedes-y-requisitos-de-entrega/",
+        "_added_at": "2026-07-25T14:41:53.989115-07:00"
+      },
+      {
+        "title": "Parque Al Arte abre convocatoria para muralistas en Hermosillo",
+        "summary": "Institución cultural abre registro para artistas y talleristas. Plazo de inscripción vence el 13 de agosto.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/parque-al-arte-abre-convocatoria-en-hermosillo-para-artistas-muralistas-y-talleristas-registro-cierra-el-13-de-agosto/",
+        "_added_at": "2026-07-25T14:41:53.989115-07:00"
+      },
+      {
+        "title": "Ciudadano rescata halcón herido en Nogales",
+        "summary": "Persona resguarda ave rapaz herida bajo puente del IMSS. PROFEPA asume su cuidado y recuperación.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/25/ciudadano-rescata-a-un-halcon-herido-bajo-el-puente-del-imss-en-nogales-profepa-asume-su-resguardo/",
+        "_added_at": "2026-07-25T14:41:53.989115-07:00"
+      },
+      {
+        "title": "Concluye mural en paso a desnivel de Hermosillo como espacio cultural",
+        "summary": "Finalización de proyecto artístico en cruce Colosio y Solidaridad genera espacio de expresión para comunidad.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/concluyen-mural-del-paso-a-desnivel-colosio-y-solidaridad-se-convierte-en-un-espacio-de-expresion-cultural-para-hermosillo-tono-astiazaran/",
+        "_added_at": "2026-07-25T14:41:53.989115-07:00"
+      },
       {
         "title": "Tormenta afecta servicio de agua en Hermosillo",
         "summary": "Descargas eléctricas dañan pozos; colonias enfrentan falta de agua y baja presión temporal.",
@@ -239,36 +281,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/monzon-dara-tregua-al-calor-extremo-en-sonora/261150",
         "_added_at": "2026-07-25T03:19:27.414478-07:00"
-      },
-      {
-        "title": "Hermosillo alcanza 45.9°C en onda de calor extremo",
-        "summary": "Capital sonorense experimenta temperaturas peligrosas durante episodio de calor intenso.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/hermosillo-alcanza-hasta-459c-durante-una-tarde-de-calor-extremo/",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
-      },
-      {
-        "title": "Familias resisten calor extremo sin electricidad en Hermosillo",
-        "summary": "Invasión Mirabal enfrenta temperaturas cercanas a 50°C sin servicio eléctrico en viviendas precarias.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/24/familias-de-la-invasion-mirabal-en-hermosillo-resisten-calor-extremo-de-casi-50c-sin-electricidad-en-viviendas-de-carton-y-madera/",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
-      },
-      {
-        "title": "Onda de calor persiste en Sonora con máximas sobre 45°C",
-        "summary": "Alerta de temperaturas extremas en todo el estado con posibles tormentas vespertinas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/24/persistira-onda-de-calor-en-sonora-con-maximas-de-mas-de-45-c-se-esperan-tormentas-vespertinas-para-el-sur-y-centro-de-sonora-mientras-hermosillo-tiene-un-40-de-probabilidad-de-registrar-actividad-durante-la-noche/",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
-      },
-      {
-        "title": "Más de 30 atletas sonorenses en Juegos Centroamericanos",
-        "summary": "Deportistas del estado competirán en los Juegos Centroamericanos y del Caribe 2026.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/deporte/2026/07/25/mas-de-30-atletas-sonorenses-competiran-en-los-juegos-centroamericanos-y-del-caribe-2026/",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-25T11:45:32.494971-07:00"
+  "last_updated": "2026-07-25T14:41:53.989115-07:00"
 }
