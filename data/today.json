@@ -1,8 +1,29 @@
 {
   "date": "2026-07-25",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Arrestan a sujeto por violencia doméstica en Hermosillo",
+        "summary": "Capturan a hombre por agredir y amenazar con incendiar casa de su esposa en la capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/arrestan-a-hombre-por-golpear-y-amenazar-con-incendiar-la-casa-de-su-esposa-en-hermosillo/",
+        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+      },
+      {
+        "title": "Detienen a individuo tras intentar quemar vehículo",
+        "summary": "Arrestan a sujeto por intentar incendiar camioneta con gasolina en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/arrestan-a-hombre-tras-intentar-incendiar-una-camioneta-con-gasolina-en-hermosillo/",
+        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+      },
+      {
+        "title": "Rescatan adulto mayor en incendio de taller mecánico",
+        "summary": "Salvaguardan a persona de edad avanzada durante siniestro al sur de Hermosillo sin víctimas fatales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/rescatan-a-adulto-mayor-durante-incendio-al-sur-de-hermosillo/",
+        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+      },
       {
         "title": "Condenan a El Carrete a 105 años por delincuencia organizada",
         "summary": "Exlíder de Los Rojos sentenciado por secuestro y delitos contra la salud. FGR acreditó responsabilidad en crimen organizado.",
@@ -33,6 +54,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Lamarque destaca papel protagónico de mujeres",
+        "summary": "Funcionario estatal afirma que mujeres encabezan la transformación en Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/24/las-mujeres-son-protagonistas-de-la-transformacion-en-sonora-afirma-javier-lamarque/",
+        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+      },
       {
         "title": "Reapertura de frontera ganadera Agua Prieta-Douglas confirmada",
         "summary": "Sheinbaum y Durazo anuncian reanudación de exportaciones de ganado mexicano a EEUU iniciando en últimas semanas de agosto.",
@@ -71,6 +99,34 @@
     ],
     "economia": [
       {
+        "title": "Ganaderos esperan alivio con reapertura de frontera",
+        "summary": "Sector ganadero de Sonora busca recuperar mercado estadounidense y reducir sobreoferta tras cierre.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/25/ganaderos-de-sonora-ven-en-la-reapertura-de-frontera-con-eeuu-una-salida-con-la-reactivacion-de-exportaciones-tras-mas-de-un-ano-de-sobreoferta-y-caida-en-precios-por-gusano-barrenador/",
+        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+      },
+      {
+        "title": "Sonora reanuda exportación de ganado el 24 de agosto",
+        "summary": "Sonora será primer estado en reabrir ventas a EU por estación de Agua Prieta-Douglas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-reanudara-exportacion-de-ganado-a-eu-el-24-de-agosto/",
+        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+      },
+      {
+        "title": "UGRS agradece gestiones para retomar exportaciones",
+        "summary": "Unión Ganadera de Sonora celebra medidas del gobierno para reactivar comercio internacional.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-sonorense-el-24-de-agosto/",
+        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+      },
+      {
+        "title": "Dólar debilita ante el peso por conflicto regional",
+        "summary": "Moneda estadounidense pierde valor mientras peso mexicano se fortalece en mercados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/07/25/el-dolar-pierde-fuerza-ante-el-peso-afectado-por-el-conflicto-de-medio-oriente-y-asi-cotiza-el-tipo-de-cambio-este-sabado-25-de-julio-de-2026/",
+        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+      },
+      {
         "title": "Mercados públicos fortalecen economía e identidad de Sonora",
         "summary": "Lorenia Valles destaca inversión estatal en rehabilitación de mercados en Hermosillo, Guaymas y Navojoa.",
         "source": "Expreso",
@@ -108,6 +164,20 @@
     ],
     "sociedad": [
       {
+        "title": "Onda de calor afecta Sonora y estados del norte",
+        "summary": "Temperaturas extremas continuarán en la región mientras se prevén lluvias en otras zonas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/07/25/onda-de-calor-azotara-sonora-y-otros-estados-del-norte-mientras-se-preven-lluvias-muy-fuertes-para-otras-zonas/",
+        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+      },
+      {
+        "title": "Naranjeros inicia summer camp con cien niños",
+        "summary": "Equipo de Hermosillo organiza campamento de verano 2026 en Tucson.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/24/naranjeros-de-hermosillo-inicia-su-summer-camp-2026-en-tucson-con-cerca-de-100-ninos/",
+        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+      },
+      {
         "title": "Monzón traería alivio de calor en Sonora este fin de semana",
         "summary": "Especialistas pronostican lluvias entre 30 y 40% de probabilidad en Hermosillo durante próximos días.",
         "source": "Expreso",
@@ -144,5 +214,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-25T05:54:27.808312-07:00"
+  "last_updated": "2026-07-25T08:54:00.033174-07:00"
 }
