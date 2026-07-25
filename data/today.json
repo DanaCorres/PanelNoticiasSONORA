@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -33,6 +33,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Reapertura de frontera ganadera Agua Prieta-Douglas confirmada",
+        "summary": "Sheinbaum y Durazo anuncian reanudación de exportaciones de ganado mexicano a EEUU iniciando en últimas semanas de agosto.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/25/gobernador-alfonso-durazo-anuncia-que-eeuu-reabrira-el-cruce-ganadero-agua-prieta-douglas/",
+        "_added_at": "2026-07-25T03:19:27.414478-07:00"
+      },
       {
         "title": "Sheinbaum anuncia reapertura de frontera ganadera Agua Prieta",
         "summary": "Gobierno federal confirma reapertura del cruce ganadero Agua Prieta-Douglas a partir de finales de agosto.",
@@ -94,6 +101,13 @@
     ],
     "sociedad": [
       {
+        "title": "Monzón traería alivio de calor en Sonora este fin de semana",
+        "summary": "Especialistas pronostican lluvias entre 30 y 40% de probabilidad en Hermosillo durante próximos días.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/monzon-dara-tregua-al-calor-extremo-en-sonora/261150",
+        "_added_at": "2026-07-25T03:19:27.414478-07:00"
+      },
+      {
         "title": "Hermosillo alcanza 45.9°C en onda de calor extremo",
         "summary": "Capital sonorense experimenta temperaturas peligrosas durante episodio de calor intenso.",
         "source": "El Imparcial",
@@ -123,5 +137,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-25T00:47:15.158867-07:00"
+  "last_updated": "2026-07-25T03:19:27.414478-07:00"
 }
