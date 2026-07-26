@@ -1,8 +1,29 @@
 {
   "date": "2026-07-26",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallazgo de cadáver en Centro de Hermosillo",
+        "summary": "Encontraron cuerpo sin vida en área céntrica de Hermosillo; autoridades investigan las causas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/26/hallan-cuerpo-de-joven-sin-vida-en-pleno-centro-de-hermosillo/",
+        "_added_at": "2026-07-26T11:51:13.731272-07:00"
+      },
+      {
+        "title": "Ciudadanos piden seguridad en carretera Ímuris-Cananea",
+        "summary": "Campesinos colocan carteles pidiendo conducción responsable tras accidentes en ruta sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/26/tu-familia-te-espera-con-cartulinas-ciudadanos-piden-conducir-con-precaucion-en-la-carretera-imuris-cananea/",
+        "_added_at": "2026-07-26T11:51:13.731272-07:00"
+      },
+      {
+        "title": "Reportan dos hallazgos de personas fallecidas",
+        "summary": "Autoridades investigan descubrimiento de dos cuerpos en diferentes puntos de Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/reportan-dos-hallazgos-de-personas-sin-vida/",
+        "_added_at": "2026-07-26T11:51:13.731272-07:00"
+      },
       {
         "title": "Decomisan 406 kilos metanfetamina en Nogales",
         "summary": "Sedena incauta importante cantidad de droga sintética en operativo fronterizo.",
@@ -51,13 +72,6 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/25/detienen-al-director-de-la-academia-marina-doenitz-por-el-feminicidio-de-dafne-ya-son-dos-los-arrestados-por-el-caso/",
         "_added_at": "2026-07-26T01:02:30.590139-07:00"
-      },
-      {
-        "title": "Reducen llamadas falsas al 911 en cincuenta por ciento",
-        "summary": "Sonora logra disminuir significativamente las llamadas de broma al número de emergencias.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/bajan-al-50-las-llamadas-falsas-al-911-en-sonora/261174",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       }
     ],
     "politica": [
@@ -92,6 +106,13 @@
     ],
     "economia": [
       {
+        "title": "Inician licitación de 26 arcos carreteros en Sonora",
+        "summary": "Gobierno prepara proceso de asignación para proyectos de infraestructura vial estatal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/preven-iniciar-licitacion-de-26-arcos-carreteros-en-sonora/",
+        "_added_at": "2026-07-26T11:51:13.731272-07:00"
+      },
+      {
         "title": "Sonora recibe inversión histórica en educación media superior",
         "summary": "Estrategia Nacional de Bachillerato crea cinco mil nuevos espacios educativos para jóvenes sonorenses.",
         "source": "Expreso",
@@ -121,6 +142,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Muere hombre por golpe de calor en Hermosillo",
+        "summary": "Deceso en colonia Centro por temperaturas extremas; autoridades advierten sobre riesgos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/hombre-muere-por-golpe-de-calor-en-la-colonia-centro-de-hermosillo/",
+        "_added_at": "2026-07-26T11:51:13.731272-07:00"
+      },
+      {
+        "title": "Imparten clases gratuitas de cerámica en La Sauceda",
+        "summary": "Dependencia ofrece talleres artísticos sin costo para habitantes de la zona.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/imparten-clases-gratuitas-de-ceramica-en-la-sauceda/",
+        "_added_at": "2026-07-26T11:51:13.731272-07:00"
+      },
       {
         "title": "Sonora segundo lugar en muertes por calor",
         "summary": "Estado ocupa posición crítica en estadística nacional de decesos por temperaturas extremas.",
@@ -176,22 +211,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/asociacion-unique-people-solicita-apoyo-para-entregar-100-paquetes-escolares-a-ninos-en-la-costa/",
         "_added_at": "2026-07-26T01:02:30.590139-07:00"
-      },
-      {
-        "title": "Falsa alerta de fuga en Hospital Issste de Hermosillo",
-        "summary": "Presunta fuga de oxígeno genera movilización pero no hay afectados reportados.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/presunta-fuga-de-oxigeno-en-el-hospital-del-issste-de-hermosillo-provoca-movilizacion-pero-no-hay-afectados/",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
-      },
-      {
-        "title": "Crece interés en futbol infantil en escuelas de Navojoa",
-        "summary": "Repunta la participación de menores en actividades deportivas en la región.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/crece-la-pasion-por-el-futbol-infantil-en-navojoa/261173",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-26T08:52:10.585921-07:00"
+  "last_updated": "2026-07-26T11:51:13.731272-07:00"
 }
