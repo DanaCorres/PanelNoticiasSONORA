@@ -1,8 +1,29 @@
 {
   "date": "2026-07-26",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Decomisan 406 kilos metanfetamina en Nogales",
+        "summary": "Sedena incauta importante cantidad de droga sintética en operativo fronterizo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/26/decomisa-defensa-406-kilogramos-de-metanfetamina/",
+        "_added_at": "2026-07-26T08:52:10.585921-07:00"
+      },
+      {
+        "title": "Capturan con mil pastillas sicotrópicas en Nogales",
+        "summary": "Detienen a sujeto portando gran cantidad de medicamentos controlados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/26/llevaba-mil-17-pastillas-sicotropicas-es-capturado/",
+        "_added_at": "2026-07-26T08:52:10.585921-07:00"
+      },
+      {
+        "title": "Tres detenidos con droga en Hermosillo",
+        "summary": "Operativos simultáneos en capital resultan en detenciones por tráfico de estupefacientes.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/26/caen-tres-hombres-con-droga-en-distintos-operativos-en-hermosillo/",
+        "_added_at": "2026-07-26T08:52:10.585921-07:00"
+      },
       {
         "title": "Presunta fuga de oxígeno en Issste sin afectados",
         "summary": "Movilización en hospital de Hermosillo por supuesta fuga; no registraron personas dañadas.",
@@ -40,6 +61,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum y Durazo amplían bachillerato en Sonora",
+        "summary": "Gobierno federal expande oferta educativa con inversión histórica para crear cinco mil espacios nuevos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/amplian-sheinbaum-y-durazo-oferta-de-bachillerato-en-sonora/",
+        "_added_at": "2026-07-26T08:52:10.585921-07:00"
+      },
+      {
+        "title": "Video muestra Rubén Rocha Moya en fiesta Badiraguato",
+        "summary": "Exgobernador aparece en evento mientras está vigente orden de detención y extradición estadounidense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/video-muestra-a-ruben-rocha-moya-en-fiesta-en-badiraguato-mientras-sigue-vigente-solicitud-de-detencion-y-extradicion-de-eeuu/",
+        "_added_at": "2026-07-26T08:52:10.585921-07:00"
+      },
       {
         "title": "Lamarque Cano visita colonia México en Ciudad Obregón",
         "summary": "Candidato recorre hogares para conocer inquietudes y propuestas de ciudadanos.",
@@ -87,6 +122,34 @@
     ],
     "sociedad": [
       {
+        "title": "Sonora segundo lugar en muertes por calor",
+        "summary": "Estado ocupa posición crítica en estadística nacional de decesos por temperaturas extremas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/sonora-ocupa-el-segundo-lugar-en-muertes-por-calor/",
+        "_added_at": "2026-07-26T08:52:10.585921-07:00"
+      },
+      {
+        "title": "Advierte Salud sobre deshidratación grave en verano",
+        "summary": "Secretaría estatal alerta que deshidratación severa puede poner en riesgo la vida sin atención oportuna.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/26/llaman-a-tener-cuidado-en-temporada-de-calor/",
+        "_added_at": "2026-07-26T08:52:10.585921-07:00"
+      },
+      {
+        "title": "Fuga de oxígeno moviliza emergencias en Issste",
+        "summary": "Incidente en hospital estatal requiere respuesta de cuerpos de emergencia.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/26/supuesta-fuga-de-oxigeno-en-hospital-del-issste-moviliza-cuerpos-de-emergencia/",
+        "_added_at": "2026-07-26T08:52:10.585921-07:00"
+      },
+      {
+        "title": "Bajan llamadas falsas al 911 en Sonora",
+        "summary": "Reducción del 50 por ciento en bromas al sistema de emergencias estatal.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/bajan-al-50-las-llamadas-falsas-al-911-en-sonora/261174",
+        "_added_at": "2026-07-26T08:52:10.585921-07:00"
+      },
+      {
         "title": "Hermosillo abre cinco puntos para acopio de basura",
         "summary": "Ciudad mantiene abiertos sitios para recibir desechos durante periodo vacacional.",
         "source": "Proyecto Puente",
@@ -130,5 +193,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-26T05:51:36.011626-07:00"
+  "last_updated": "2026-07-26T08:52:10.585921-07:00"
 }
