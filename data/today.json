@@ -1,8 +1,36 @@
 {
   "date": "2026-07-26",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre fallece por golpe de calor en Hermosillo",
+        "summary": "Muerte registrada en colonia Centro por temperaturas extremas. Autoridades alertan sobre riesgos de deshidratación grave durante temporada de calor.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/hombre-muere-por-golpe-de-calor-en-la-colonia-centro-de-hermosillo/",
+        "_added_at": "2026-07-26T14:45:30.218674-07:00"
+      },
+      {
+        "title": "Destruyen mil 662 litros de metanfetamina líquida",
+        "summary": "FGR realiza destrucción de droga decomisada en Sonora bajo supervisión de órganos de control federal y cumplimiento legal.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/destruyen-mil-662-litros-de-metanfetamina-en-sonora/261219",
+        "_added_at": "2026-07-26T14:45:30.218674-07:00"
+      },
+      {
+        "title": "Tren se descarrila al norte de Sonora sin lesionados",
+        "summary": "Descarrilamiento registrado en Naco. Protección Civil reporta control de situación sin víctimas que lamentar.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/26/se-descarrila-tren-al-norte-de-sonora-autoridades-descartan-lesionados/",
+        "_added_at": "2026-07-26T14:45:30.218674-07:00"
+      },
+      {
+        "title": "Choque en carretera a Bahía de Kino deja lesionado",
+        "summary": "Accidente vial reportado en Hermosillo causó una persona lesionada. Autoridades atienden incidente.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/26/choque-en-carretera-a-bahia-de-kino-deja-una-persona-lesionada-en-hermosillo/",
+        "_added_at": "2026-07-26T14:45:30.218674-07:00"
+      },
       {
         "title": "Hallazgo de cadáver en Centro de Hermosillo",
         "summary": "Encontraron cuerpo sin vida en área céntrica de Hermosillo; autoridades investigan las causas.",
@@ -44,37 +72,16 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/26/caen-tres-hombres-con-droga-en-distintos-operativos-en-hermosillo/",
         "_added_at": "2026-07-26T08:52:10.585921-07:00"
-      },
-      {
-        "title": "Presunta fuga de oxígeno en Issste sin afectados",
-        "summary": "Movilización en hospital de Hermosillo por supuesta fuga; no registraron personas dañadas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/presunta-fuga-de-oxigeno-en-el-hospital-del-issste-de-hermosillo-provoca-movilizacion-pero-no-hay-afectados/",
-        "_added_at": "2026-07-26T05:51:36.011626-07:00"
-      },
-      {
-        "title": "Cuerpo hallado en edificio abandonado del centro",
-        "summary": "Localizan cadáver sin vida en construcción abandonada de Hermosillo durante investigación en curso.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/encuentran-cuerpo-sin-vida-en-edificio-abandonado/",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
-      },
-      {
-        "title": "Dos lesionados por choque de camión con poste",
-        "summary": "Accidente entre unidad de carga y poste de electricidad genera dos heridos en Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/dos-heridos-tras-choque-entre-camion-y-poste-de-electricidad-en-hermosillo/",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
-      },
-      {
-        "title": "Detienen al director de Academia Marina Doenitz",
-        "summary": "Arrestan al director por muerte de Dafne Zapata; ya son dos detenidos en el caso.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/detienen-al-director-de-la-academia-marina-doenitz-por-el-feminicidio-de-dafne-ya-son-dos-los-arrestados-por-el-caso/",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Doce familias de Cajeme reciben escrituras de viviendas",
+        "summary": "Gobierno municipal entrega documentos que aseguran patrimonio a familias. Claudia Santacruz destaca acciones de regularización.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/26/doce-familias-de-cajeme-reciben-las-escrituras-de-sus-viviendas-y-aseguran-su-patrimonio-claudia-santacruz/",
+        "_added_at": "2026-07-26T14:45:30.218674-07:00"
+      },
       {
         "title": "Sheinbaum y Durazo amplían bachillerato en Sonora",
         "summary": "Gobierno federal expande oferta educativa con inversión histórica para crear cinco mil espacios nuevos.",
@@ -143,6 +150,20 @@
     ],
     "sociedad": [
       {
+        "title": "Hospital del ISSSTE enfrenta apagones y filtraciones de agua",
+        "summary": "Denuncian falla de energía e infiltraciones de agua en instalaciones. Requieren atención inmediata para funcionamiento adecuado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/26/denuncian-apagones-y-filtraciones-de-agua-en-hospital-del-issste-en-hermosillo/",
+        "_added_at": "2026-07-26T14:45:30.218674-07:00"
+      },
+      {
+        "title": "Organizaciones se dedican a alimentar a personas indigentes",
+        "summary": "Grupos comunitarios en Sonora expresan satisfacción al brindar alimentos a población vulnerable del estado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/26/se-llenan-de-satisfaccion-al-alimentar-indigentes/",
+        "_added_at": "2026-07-26T14:45:30.218674-07:00"
+      },
+      {
         "title": "Muere hombre por golpe de calor en Hermosillo",
         "summary": "Deceso en colonia Centro por temperaturas extremas; autoridades advierten sobre riesgos.",
         "source": "El Imparcial",
@@ -197,22 +218,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/pronostican-leve-descenso-de-temperaturas-en-sonora/261160",
         "_added_at": "2026-07-26T03:26:22.174556-07:00"
-      },
-      {
-        "title": "Hermosillo entrega uniformes escolares gratuitos para ciclo nuevo",
-        "summary": "Ya hay fechas, sedes y requisitos establecidos para la distribución de uniformes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/uniformes-escolares-gratuitos-en-sonora-para-el-ciclo-2026-2027-ya-hay-fechas-sedes-y-requisitos-de-entrega/",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
-      },
-      {
-        "title": "Asociación solicita apoyo para cien paquetes escolares",
-        "summary": "Unique People busca ayuda para entregar útiles a niños en zona de La Costa.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/asociacion-unique-people-solicita-apoyo-para-entregar-100-paquetes-escolares-a-ninos-en-la-costa/",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-26T11:51:13.731272-07:00"
+  "last_updated": "2026-07-26T14:45:30.218674-07:00"
 }
