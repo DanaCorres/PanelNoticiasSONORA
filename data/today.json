@@ -1,8 +1,22 @@
 {
   "date": "2026-07-25",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallan cuerpo sin vida en edificio abandonado de Hermosillo",
+        "summary": "Policías encuentran cadáver de persona en situación de calle en colonia Centro.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/encuentran-cuerpo-sin-vida-en-edificio-abandonado/",
+        "_added_at": "2026-07-25T18:25:07.683634-07:00"
+      },
+      {
+        "title": "Reducen llamadas de broma al 911 en Sonora",
+        "summary": "Disminuyen en 50% las llamadas falsas al número de emergencias en la entidad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/bajan-al-50-las-llamadas-falsas-al-911-en-sonora/261174",
+        "_added_at": "2026-07-25T18:25:07.683634-07:00"
+      },
       {
         "title": "Hallan cuerpo descompuesto en departamento de Hermosillo",
         "summary": "Descubren cadáver en avanzado estado de descomposición en Hermosillo. Autoridades investigan las circunstancias del hallazgo.",
@@ -58,23 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/mexico/2026/07/25/condenan-a-105-anos-de-prision-a-el-carrete-exlider-de-los-rojos-vinculado-al-entorno-criminal-investigado-por-el-caso-ayotzinapa-por-secuestro-y-delitos-contra-la-salud/",
         "_added_at": "2026-07-25T00:47:15.158867-07:00"
-      },
-      {
-        "title": "Percepción de inseguridad baja en Hermosillo y Obregón",
-        "summary": "Disminuye la sensación de inseguridad en principales ciudades sonorenses según reportes recientes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/24/baja-la-percepcion-de-inseguridad-en-hermosillo-nogales-y-ciudad-obregon/",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
-      },
-      {
-        "title": "Incendio en taller mecánico al sur de Hermosillo",
-        "summary": "Fuerte incendio reportado en establecimiento del sur de Hermosillo sin víctimas, solo daños materiales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/24/fuerte-incendio-en-taller-mecanico-deja-solo-danos-materiales-al-sur-de-hermosillo/",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Sonora reabrirá exportación de ganado a EU el 24 de agosto",
+        "summary": "Durazo confirma reapertura en Agua Prieta-Douglas como primer cruce del país.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/anuncia-durazo-reapertura-de-exportacion-de-ganado-a-eu/261149",
+        "_added_at": "2026-07-25T18:25:07.683634-07:00"
+      },
       {
         "title": "Durazo invierte 328.5 millones en nuevas preparatorias en Sonora",
         "summary": "Gobernador anuncia inversión significativa para ampliar oferta educativa de nivel medio superior en el estado.",
@@ -141,6 +148,13 @@
     ],
     "economia": [
       {
+        "title": "Presas de Sonora registran ligero incremento por lluvias",
+        "summary": "Embalses alcanzan 21.5% de su capacidad tras precipitaciones recientes.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/presas-de-sonora-aumentan-nivel-al-215-de-su-capacidad/261177",
+        "_added_at": "2026-07-25T18:25:07.683634-07:00"
+      },
+      {
         "title": "Tarifa de transporte suburbano aumenta en Sonora a partir de agosto",
         "summary": "Incremento en pasaje de transporte suburbano entra en vigor el 16 de agosto en el estado.",
         "source": "El Imparcial",
@@ -202,16 +216,23 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-a-eu-por-sonora/261125",
         "_added_at": "2026-07-25T00:47:15.158867-07:00"
-      },
-      {
-        "title": "UGRS agradece gestiones para reanudar exportación ganadera",
-        "summary": "Sector ganadero expresa satisfacción por confirmación de reapertura comercial a Estados Unidos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-sonorense-el-24-de-agosto/261126",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Fuga de oxígeno en hospital ISSSTE de Hermosillo sin afectados",
+        "summary": "Movilización de bomberos por presunta fuga pero no hay daños a pacientes.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/presunta-fuga-de-oxigeno-en-el-hospital-del-issste-de-hermosillo-provoca-movilizacion-pero-no-hay-afectados/",
+        "_added_at": "2026-07-25T18:25:07.683634-07:00"
+      },
+      {
+        "title": "Más de 160 niños concluyen campamento bombero en Hermosillo",
+        "summary": "Finaliza programa educativo de bomberos para menores de la capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/mas-de-160-ninas-y-ninos-concluyen-el-campamento-el-mejor-bombero-eres-tu-en-hermosillo/",
+        "_added_at": "2026-07-25T18:25:07.683634-07:00"
+      },
       {
         "title": "Entregan uniformes escolares gratuitos en Sonora con fechas confirmadas",
         "summary": "Gobierno inicia distribución de uniformes escolares gratuitos para ciclo 2026-2027. Confirma sedes y requisitos.",
@@ -267,22 +288,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/mexico/2026/07/25/onda-de-calor-azotara-sonora-y-otros-estados-del-norte-mientras-se-preven-lluvias-muy-fuertes-para-otras-zonas/",
         "_added_at": "2026-07-25T08:54:00.033174-07:00"
-      },
-      {
-        "title": "Naranjeros inicia summer camp con cien niños",
-        "summary": "Equipo de Hermosillo organiza campamento de verano 2026 en Tucson.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/24/naranjeros-de-hermosillo-inicia-su-summer-camp-2026-en-tucson-con-cerca-de-100-ninos/",
-        "_added_at": "2026-07-25T08:54:00.033174-07:00"
-      },
-      {
-        "title": "Monzón traería alivio de calor en Sonora este fin de semana",
-        "summary": "Especialistas pronostican lluvias entre 30 y 40% de probabilidad en Hermosillo durante próximos días.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/monzon-dara-tregua-al-calor-extremo-en-sonora/261150",
-        "_added_at": "2026-07-25T03:19:27.414478-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-25T14:41:53.989115-07:00"
+  "last_updated": "2026-07-25T18:25:07.683634-07:00"
 }
