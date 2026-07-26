@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T08:02:29.904409+00:00",
+  "generated_at": "2026-07-26T10:26:21.360197+00:00",
   "items": [
     {
       "source": "El Imparcial",
@@ -519,8 +519,8 @@
     },
     {
       "source": "Radio Sonora",
-      "title": "UNAM suspende temporalmente inscripciones a licenciatura por revisión del proceso de ingreso",
-      "url": "https://www.radiosonora.com.mx/unam-suspende-temporalmente-inscripciones-a-licenciatura-por-revision-del-proceso-de-ingreso/",
+      "title": "Sonora suma casi 5 mil nuevos espacios en educación media superior",
+      "url": "https://www.radiosonora.com.mx/sonora-suma-casi-5-mil-nuevos-espacios-en-educacion-media-superior/",
       "published": ""
     },
     {
@@ -531,8 +531,8 @@
     },
     {
       "source": "Radio Sonora",
-      "title": "Sonora suma casi 5 mil nuevos espacios en educación media superior",
-      "url": "https://www.radiosonora.com.mx/sonora-suma-casi-5-mil-nuevos-espacios-en-educacion-media-superior/",
+      "title": "Se prevé formación de tormentas en distintas regiones de Sonora durante las próximas horas",
+      "url": "https://www.radiosonora.com.mx/se-preve-formacion-de-tormentas-en-distintas-regiones-de-sonora-durante-las-proximas-horas/",
       "published": ""
     },
     {
@@ -897,7 +897,19 @@
     },
     {
       "source": "Opinión Sonora",
-      "title": "Invita Gobierno de Empalme a jornada gratuita de esterilización canina y felina, será mañana",
+      "title": "Llaman a renovar la INE a vecinos del seccional 0998; venció en el 2025",
+      "url": "https://opinionsonora.com/2026/07/10/llaman-a-renovar-la-ine-a-vecinos-del-seccional-0998-vencio-en-el-2025/",
+      "published": ""
+    },
+    {
+      "source": "Opinión Sonora",
+      "title": "Impulsa Gobierno de Empalme la cultura con inauguración de exposición de grabados",
+      "url": "https://opinionsonora.com/2026/07/07/impulsa-gobierno-de-empalme-la-cultura-con-inauguracion-de-exposicion-de-grabados/",
+      "published": ""
+    },
+    {
+      "source": "Opinión Sonora",
+      "title": "Invita Gobierno de Empalme a jornada gratuita de esterilización canina y felina, será...",
       "url": "https://opinionsonora.com/2026/07/06/invita-gobierno-de-empalme-a-jornada-gratuita-de-esterilizacion-canina-y-felina-sera-manana/",
       "published": ""
     },
@@ -915,18 +927,6 @@
     },
     {
       "source": "Opinión Sonora",
-      "title": "Durazo refuerza apoyo al campo con más de 144 millones en créditos y...",
-      "url": "https://opinionsonora.com/2026/06/29/durazo-refuerza-apoyo-al-campo-con-mas-de-144-millones-en-creditos-y-anuncia-que-duplicara-recurso-a-productores/",
-      "published": ""
-    },
-    {
-      "source": "Opinión Sonora",
-      "title": "Destinan Durazo y Sheinbaum recurso histórico de 853 millones para garantizar agua potable...",
-      "url": "https://opinionsonora.com/2026/06/28/destinan-durazo-y-sheinbaum-recurso-historico-de-853-millones-para-garantizar-agua-potable-en-el-rio-sonora/",
-      "published": ""
-    },
-    {
-      "source": "Opinión Sonora",
       "title": "Acerca Ayuntamiento servicios y programas a familias de La Palma con...",
       "url": "https://opinionsonora.com/2026/06/15/acerca-ayuntamiento-servicios-y-programas-a-familias-de-la-palma-con-jornada-dia-del-pueblo/",
       "published": ""
@@ -939,14 +939,14 @@
     },
     {
       "source": "Opinión Sonora",
-      "title": "Inicia segunda etapa de pavimentación del bulevar Héroe de Nacozari en...",
-      "url": "https://opinionsonora.com/2026/06/13/inicia-segunda-etapa-de-pavimentacion-del-bulevar-heroe-de-nacozari-en-beneficio-de-las-familias-empalmenses/",
+      "title": "Durazo refuerza apoyo al campo con más de 144 millones en...",
+      "url": "https://opinionsonora.com/2026/06/29/durazo-refuerza-apoyo-al-campo-con-mas-de-144-millones-en-creditos-y-anuncia-que-duplicara-recurso-a-productores/",
       "published": ""
     },
     {
       "source": "Opinión Sonora",
-      "title": "Entregan material para construcción a 70 familias empalmenses como resultado de...",
-      "url": "https://opinionsonora.com/2026/06/11/entregan-material-para-construccion-a-70-familias-empalmenses-como-resultado-de-gestiones-del-alcalde-luis-fuentes/",
+      "title": "Destinan Durazo y Sheinbaum recurso histórico de 853 millones para garantizar...",
+      "url": "https://opinionsonora.com/2026/06/28/destinan-durazo-y-sheinbaum-recurso-historico-de-853-millones-para-garantizar-agua-potable-en-el-rio-sonora/",
       "published": ""
     },
     {
@@ -1167,6 +1167,36 @@
     },
     {
       "source": "Entorno Informativo",
+      "title": "Lea aquí la edición digital del domingo 26 de julio de 2026",
+      "url": "https://entornoinformativo.com.mx/lea-aqui-la-edicion-digital-del-domingo-26-de-julio-de-2026/",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Choca vehículo contra poste y vuelca al norte de la ciudad",
+      "url": "https://entornoinformativo.com.mx/choca-vehiculo-contra-poste-y-vuelca-al-norte-de-la-ciudad/",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Movilizan fugas de gas y oxígeno a Bomberos en el hospital del Issste",
+      "url": "https://entornoinformativo.com.mx/movilizan-fugas-de-gas-y-oxigeno-a-bomberos-en-el-hospital-del-issste/",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Asesinan a hombre en situación de calle en el Centro de la ciudad",
+      "url": "https://entornoinformativo.com.mx/asesinan-a-hombre-en-situacion-de-calle-en-el-centro-de-la-ciudad/",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Prolongada lluvia dejó daños menores; Reporta Protección Civil",
+      "url": "https://entornoinformativo.com.mx/prolongada-lluvia-dejo-danos-menores-reporta-proteccion-civil/",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
       "title": "Concluye mural en paso a desnivel",
       "url": "https://entornoinformativo.com.mx/concluye-mural-en-paso-a-desnivel/",
       "published": ""
@@ -1197,6 +1227,12 @@
     },
     {
       "source": "Entorno Informativo",
+      "title": "Hermosillo lidera en reducción de percepción de inseguridad entre las capitales del país",
+      "url": "https://entornoinformativo.com.mx/hermosillo-lidera-en-reduccion-de-percepcion-de-inseguridad-entre-las-capitales-del-pais/",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
       "title": "Hieren a hombre de la tercera edad por no traer 20 pesos en la colonia Mártires de Cananea",
       "url": "https://entornoinformativo.com.mx/hieren-a-hombre-de-la-tercera-edad-por-no-traer-20-pesos-en-la-colonia-martires-de-cananea/",
       "published": ""
@@ -1217,42 +1253,6 @@
       "source": "Entorno Informativo",
       "title": "Aprehenden a tres golpeadores de mujeres en distintos sectores",
       "url": "https://entornoinformativo.com.mx/aprehenden-a-tres-golpeadores-de-mujeres-en-distintos-sectores/",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Ponen tras las rejas a pareja de allanadores en la colonia Café Combate",
-      "url": "https://entornoinformativo.com.mx/ponen-tras-las-rejas-a-pareja-de-allanadores-en-la-colonia-cafe-combate/",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Encuentran a joven sin vida en calles del Centro de Hermosillo",
-      "url": "https://entornoinformativo.com.mx/encuentran-a-joven-sin-vida-en-calles-del-centro-de-hermosillo/",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Hermosillo lidera en reducción de percepción de inseguridad entre las capitales del país",
-      "url": "https://entornoinformativo.com.mx/hermosillo-lidera-en-reduccion-de-percepcion-de-inseguridad-entre-las-capitales-del-pais/",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Detienen a tres presuntos narcomenudistas; Agentes preventivos",
-      "url": "https://entornoinformativo.com.mx/detienen-a-tres-presuntos-narcomenudistas-agentes-preventivos/",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Localizan osamenta en zona de El Choyudo en la costa sonorense",
-      "url": "https://entornoinformativo.com.mx/localizan-osamenta-en-zona-de-el-choyudo-en-la-costa-sonorense/",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Rescatan a adulto mayor al caer a canal",
-      "url": "https://entornoinformativo.com.mx/rescatan-a-adulto-mayor-al-caer-a-canal/",
       "published": ""
     },
     {

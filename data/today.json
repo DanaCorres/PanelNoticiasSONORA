@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -50,6 +50,13 @@
     ],
     "economia": [
       {
+        "title": "Sonora recibe inversión histórica en educación media superior",
+        "summary": "Estrategia Nacional de Bachillerato crea cinco mil nuevos espacios educativos para jóvenes sonorenses.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/inversion-historica-para-estrategia-nacional-de-bachillerato/261192",
+        "_added_at": "2026-07-26T03:26:22.174556-07:00"
+      },
+      {
         "title": "Reapertura con EEUU alivia presión en ganaderos sonorenses",
         "summary": "Exportaciones se reactivan tras crisis de sobreoferta y caída de precios por gusano barrenador.",
         "source": "El Imparcial",
@@ -72,6 +79,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Domo de calor cederá en Sonora próximamente",
+        "summary": "Pronóstico de ligero descenso de temperaturas tras período de intenso calor en la entidad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/pronostican-leve-descenso-de-temperaturas-en-sonora/261160",
+        "_added_at": "2026-07-26T03:26:22.174556-07:00"
+      },
       {
         "title": "Hermosillo entrega uniformes escolares gratuitos para ciclo nuevo",
         "summary": "Ya hay fechas, sedes y requisitos establecidos para la distribución de uniformes.",
@@ -102,5 +116,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-26T01:02:30.590139-07:00"
+  "last_updated": "2026-07-26T03:26:22.174556-07:00"
 }
