@@ -1,295 +1,106 @@
 {
-  "date": "2026-07-25",
-  "run_count": 8,
+  "date": "2026-07-26",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Camión choca con poste dejando dos heridos",
-        "summary": "Accidente entre camión y poste eléctrico en Hermosillo causó dos personas lesionadas en bulevar Pueblo Nuevo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/dos-heridos-tras-choque-entre-camion-y-poste-de-electricidad-en-hermosillo/",
-        "_added_at": "2026-07-25T22:48:56.868460-07:00"
-      },
-      {
-        "title": "Fuga de oxígeno moviliza Hospital Issste sin afectados",
-        "summary": "Presunta fuga en hospital Issste Hermosillo generó movilización pero no hubo personas dañadas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/presunta-fuga-de-oxigeno-en-el-hospital-del-issste-de-hermosillo-provoca-movilizacion-pero-no-hay-afectados/",
-        "_added_at": "2026-07-25T22:48:56.868460-07:00"
-      },
-      {
-        "title": "Hallan cuerpo sin vida en edificio abandonado de Hermosillo",
-        "summary": "Policías encuentran cadáver de persona en situación de calle en colonia Centro.",
+        "title": "Cuerpo hallado en edificio abandonado del centro",
+        "summary": "Localizan cadáver sin vida en construcción abandonada de Hermosillo durante investigación en curso.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/encuentran-cuerpo-sin-vida-en-edificio-abandonado/",
-        "_added_at": "2026-07-25T18:25:07.683634-07:00"
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       },
       {
-        "title": "Reducen llamadas de broma al 911 en Sonora",
-        "summary": "Disminuyen en 50% las llamadas falsas al número de emergencias en la entidad.",
+        "title": "Dos lesionados por choque de camión con poste",
+        "summary": "Accidente entre unidad de carga y poste de electricidad genera dos heridos en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/dos-heridos-tras-choque-entre-camion-y-poste-de-electricidad-en-hermosillo/",
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
+      },
+      {
+        "title": "Detienen al director de Academia Marina Doenitz",
+        "summary": "Arrestan al director por muerte de Dafne Zapata; ya son dos detenidos en el caso.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/detienen-al-director-de-la-academia-marina-doenitz-por-el-feminicidio-de-dafne-ya-son-dos-los-arrestados-por-el-caso/",
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
+      },
+      {
+        "title": "Reducen llamadas falsas al 911 en cincuenta por ciento",
+        "summary": "Sonora logra disminuir significativamente las llamadas de broma al número de emergencias.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/bajan-al-50-las-llamadas-falsas-al-911-en-sonora/261174",
-        "_added_at": "2026-07-25T18:25:07.683634-07:00"
-      },
-      {
-        "title": "Hallan cuerpo descompuesto en departamento de Hermosillo",
-        "summary": "Descubren cadáver en avanzado estado de descomposición en Hermosillo. Autoridades investigan las circunstancias del hallazgo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/encuentran-cuerpo-en-estado-de-descomposicion-en-departamento-de-hermosillo-investigacion-en-curso/",
-        "_added_at": "2026-07-25T14:41:53.989115-07:00"
-      },
-      {
-        "title": "Militares decomisan droga en San Luis Río Colorado",
-        "summary": "Operativo incauta 406 kilos de metanfetamina y 19 de fentanilo ocultos en costales de calcio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/25/militares-decomisan-406-kilos-de-metanfetamina-y-19-de-fentanilo-ocultos-en-costales-de-calcio-en-san-luis-rio-colorado/",
-        "_added_at": "2026-07-25T11:45:32.494971-07:00"
-      },
-      {
-        "title": "Detienen a hombre con fentanilo en garita de Nogales",
-        "summary": "Capturan individuo con más de mil pastillas de fentanilo cerca del carril Sentri en DeConcini.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/25/detienen-a-hombre-con-mas-de-mil-pastillas-de-fentanilo-cerca-del-carril-sentri-de-la-garita-deconcini-en-nogales/",
-        "_added_at": "2026-07-25T11:45:32.494971-07:00"
-      },
-      {
-        "title": "Hermosillo reduce percepción de inseguridad en la región",
-        "summary": "Capital estatal muestra mayor reducción en percepción de inseguridad entre capitales del norte.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/hermosillo-registra-la-mayor-reduccion-en-percepcion-de-inseguridad-entre-capitales-estatales-segun-ensu-del-inegi/",
-        "_added_at": "2026-07-25T11:45:32.494971-07:00"
-      },
-      {
-        "title": "Arrestan a sujeto por violencia doméstica en Hermosillo",
-        "summary": "Capturan a hombre por agredir y amenazar con incendiar casa de su esposa en la capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/arrestan-a-hombre-por-golpear-y-amenazar-con-incendiar-la-casa-de-su-esposa-en-hermosillo/",
-        "_added_at": "2026-07-25T08:54:00.033174-07:00"
-      },
-      {
-        "title": "Detienen a individuo tras intentar quemar vehículo",
-        "summary": "Arrestan a sujeto por intentar incendiar camioneta con gasolina en Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/arrestan-a-hombre-tras-intentar-incendiar-una-camioneta-con-gasolina-en-hermosillo/",
-        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Sonora recibe inversión histórica en educación bachillerato",
-        "summary": "Estrategia Nacional Bachillerato creará casi cinco mil espacios educativos nuevos para jóvenes sonorenses.",
+        "title": "Lamarque Cano visita colonia México en Ciudad Obregón",
+        "summary": "Candidato recorre hogares para conocer inquietudes y propuestas de ciudadanos.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-impulsa-inversion-en-estrategia-nacional-de-bachiller/261192",
-        "_added_at": "2026-07-25T22:48:56.868460-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-cano-recorre-colonia-de-ciudad-obregon/261193",
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       },
       {
-        "title": "Sonora reabrirá exportación de ganado a EU el 24 de agosto",
-        "summary": "Durazo confirma reapertura en Agua Prieta-Douglas como primer cruce del país.",
+        "title": "Sonora recibe inversión histórica en educación media superior",
+        "summary": "Estrategia Nacional de Bachillerato crea casi cinco mil espacios educativos para jóvenes.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/anuncia-durazo-reapertura-de-exportacion-de-ganado-a-eu/261149",
-        "_added_at": "2026-07-25T18:25:07.683634-07:00"
-      },
-      {
-        "title": "Durazo invierte 328.5 millones en nuevas preparatorias en Sonora",
-        "summary": "Gobernador anuncia inversión significativa para ampliar oferta educativa de nivel medio superior en el estado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/alfonso-durazo-anuncia-inversion-de-328-5-mdp-para-ampliar-la-oferta-de-preparatorias-en-sonora/",
-        "_added_at": "2026-07-25T14:41:53.989115-07:00"
-      },
-      {
-        "title": "Gim reporta avances en empleo y obras tras cinco años en Nogales",
-        "summary": "Presidente municipal de Nogales destaca balance positivo en desarrollo industrial, empleo y proyectos de infraestructura.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/25/juan-francisco-gim-califica-de-positivo-su-balance-en-nogales-tras-cinco-anos-de-obras-crecimiento-industrial-y-empleo/",
-        "_added_at": "2026-07-25T14:41:53.989115-07:00"
-      },
-      {
-        "title": "Sheinbaum anuncia liberación de moscas estériles contra gusano",
-        "summary": "Iniciará en dos semanas programa federal para combatir plaga que afecta ganadería sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/sheinbaum-anuncia-liberacion-de-moscas-esteriles-para-combatir-el-gusano-barrenador-iniciara-en-dos-semanas/",
-        "_added_at": "2026-07-25T11:45:32.494971-07:00"
-      },
-      {
-        "title": "Lamarque destaca papel protagónico de mujeres",
-        "summary": "Funcionario estatal afirma que mujeres encabezan la transformación en Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/24/las-mujeres-son-protagonistas-de-la-transformacion-en-sonora-afirma-javier-lamarque/",
-        "_added_at": "2026-07-25T08:54:00.033174-07:00"
-      },
-      {
-        "title": "Reapertura de frontera ganadera Agua Prieta-Douglas confirmada",
-        "summary": "Sheinbaum y Durazo anuncian reanudación de exportaciones de ganado mexicano a EEUU iniciando en últimas semanas de agosto.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/25/gobernador-alfonso-durazo-anuncia-que-eeuu-reabrira-el-cruce-ganadero-agua-prieta-douglas/",
-        "_added_at": "2026-07-25T03:19:27.414478-07:00"
-      },
-      {
-        "title": "Sheinbaum anuncia reapertura de frontera ganadera Agua Prieta",
-        "summary": "Gobierno federal confirma reapertura del cruce ganadero Agua Prieta-Douglas a partir de finales de agosto.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/07/25/anuncia-sheinbaum-reapertura-de-la-frontera-de-eu-por-agua-prieta-sonora-al-ganado-mexicano-a-partir-de-ultimas-semanas-de-agosto/",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
-      },
-      {
-        "title": "Durazo celebra reapertura de frontera para ganadería sonorense",
-        "summary": "Gobernador destaca acuerdo con EU para reanudar exportaciones de ganado desde Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/24/celebra-durazo-reapertura-de-frontera-en-sonora-para-exportacion-de-ganado-a-eeuu/",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
-      },
-      {
-        "title": "Lamarque impulsa participación de mujeres en Obregón",
-        "summary": "Funcionaria destaca importancia de escuchar a mujeres para fortalecer transformación estatal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/mujeres-en-ciudad-obregon-impulsan-la-transformacion/261124",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/inversion-historica-para-estrategia-nacional-de-bachillerato/261192",
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Presas de Sonora registran ligero incremento por lluvias",
-        "summary": "Embalses alcanzan 21.5% de su capacidad tras precipitaciones recientes.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/presas-de-sonora-aumentan-nivel-al-215-de-su-capacidad/261177",
-        "_added_at": "2026-07-25T18:25:07.683634-07:00"
-      },
-      {
-        "title": "Tarifa de transporte suburbano aumenta en Sonora a partir de agosto",
-        "summary": "Incremento en pasaje de transporte suburbano entra en vigor el 16 de agosto en el estado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/25/aumenta-el-pasaje-del-transporte-suburbano-en-sonora-entrara-en-vigor-el-16-de-agosto/",
-        "_added_at": "2026-07-25T14:41:53.989115-07:00"
-      },
-      {
-        "title": "Sonora reabre exportación de ganado a Estados Unidos",
-        "summary": "Cruce por Agua Prieta-Douglas se reactivará el 24 de agosto tras gestiones del gobierno.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/anuncia-durazo-reapertura-de-exportacion-de-ganado-a-eu/261149",
-        "_added_at": "2026-07-25T11:45:32.494971-07:00"
-      },
-      {
-        "title": "Hacienda aumenta estímulo a gasolinas y diésel",
-        "summary": "Aplica fuerte incremento al IEPS para combustibles por repunte del petróleo internacional.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/07/25/hacienda-aplica-un-fuerte-incremento-al-estimulo-fiscal-del-ieps-para-las-gasolinas-y-el-diesel-del-25-al-31-de-julio-de-2026-debido-al-repunte-del-petroleo-por-conflictos-en-medio-oriente/",
-        "_added_at": "2026-07-25T11:45:32.494971-07:00"
-      },
-      {
-        "title": "Ganaderos esperan alivio con reapertura de frontera",
-        "summary": "Sector ganadero de Sonora busca recuperar mercado estadounidense y reducir sobreoferta tras cierre.",
+        "title": "Reapertura con EEUU alivia presión en ganaderos sonorenses",
+        "summary": "Exportaciones se reactivan tras crisis de sobreoferta y caída de precios por gusano barrenador.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/25/ganaderos-de-sonora-ven-en-la-reapertura-de-frontera-con-eeuu-una-salida-con-la-reactivacion-de-exportaciones-tras-mas-de-un-ano-de-sobreoferta-y-caida-en-precios-por-gusano-barrenador/",
-        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       },
       {
-        "title": "Sonora reanuda exportación de ganado el 24 de agosto",
-        "summary": "Sonora será primer estado en reabrir ventas a EU por estación de Agua Prieta-Douglas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-reanudara-exportacion-de-ganado-a-eu-el-24-de-agosto/",
-        "_added_at": "2026-07-25T08:54:00.033174-07:00"
-      },
-      {
-        "title": "UGRS agradece gestiones para retomar exportaciones",
-        "summary": "Unión Ganadera de Sonora celebra medidas del gobierno para reactivar comercio internacional.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-sonorense-el-24-de-agosto/",
-        "_added_at": "2026-07-25T08:54:00.033174-07:00"
-      },
-      {
-        "title": "Dólar debilita ante el peso por conflicto regional",
-        "summary": "Moneda estadounidense pierde valor mientras peso mexicano se fortalece en mercados.",
+        "title": "Aumenta pasaje de transporte suburbano en Sonora",
+        "summary": "Incremento tarifario entra en vigor el dieciséis de agosto en el estado.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/07/25/el-dolar-pierde-fuerza-ante-el-peso-afectado-por-el-conflicto-de-medio-oriente-y-asi-cotiza-el-tipo-de-cambio-este-sabado-25-de-julio-de-2026/",
-        "_added_at": "2026-07-25T08:54:00.033174-07:00"
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/25/aumenta-el-pasaje-del-transporte-suburbano-en-sonora-entrara-en-vigor-el-16-de-agosto/",
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       },
       {
-        "title": "Mercados públicos fortalecen economía e identidad de Sonora",
-        "summary": "Lorenia Valles destaca inversión estatal en rehabilitación de mercados en Hermosillo, Guaymas y Navojoa.",
+        "title": "Presas de Sonora suben a veintiuno por ciento de capacidad",
+        "summary": "Lluvias recientes generan ligero incremento en los niveles de almacenamiento de agua.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-papel-de-mercados-publicos-en-sonora/261130",
-        "_added_at": "2026-07-25T05:54:27.808312-07:00"
-      },
-      {
-        "title": "Sonora será primer estado en reanudar exportación de ganado",
-        "summary": "EEUU reabrirá cruce ganadero Agua Prieta-Douglas en últimas semanas de agosto para importaciones mexicanas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/reanudan-exportacion-de-ganado-a-eu-por-sonora/261125",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/presas-de-sonora-aumentan-nivel-al-215-de-su-capacidad/261177",
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Tormentas amenazan Sonora con lluvia viento intenso",
-        "summary": "Tres sistemas atmosféricos traerán lluvias intensas vientos fuertes y actividad eléctrica este sábado municipios.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/tres-sistemas-de-tormentas-amenazan-sonora-preven-lluvias-intensas-fuertes-vientos-y-actividad-electrica-este-sabado-en-estos-municipios/",
-        "_added_at": "2026-07-25T22:48:56.868460-07:00"
-      },
-      {
-        "title": "Hermosillo abre cinco puntos recolección basura vacaciones",
-        "summary": "Capital mantiene centros abiertos recibir residuos y cacharros durante período vacacional ciudadanos.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/haras-limpieza-en-vacaciones-hermosillo-mantiene-abiertos-cinco-puntos-para-recibir-basura-y-cacharros/",
-        "_added_at": "2026-07-25T22:48:56.868460-07:00"
-      },
-      {
-        "title": "Fuga de oxígeno en hospital ISSSTE de Hermosillo sin afectados",
-        "summary": "Movilización de bomberos por presunta fuga pero no hay daños a pacientes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/presunta-fuga-de-oxigeno-en-el-hospital-del-issste-de-hermosillo-provoca-movilizacion-pero-no-hay-afectados/",
-        "_added_at": "2026-07-25T18:25:07.683634-07:00"
-      },
-      {
-        "title": "Más de 160 niños concluyen campamento bombero en Hermosillo",
-        "summary": "Finaliza programa educativo de bomberos para menores de la capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/mas-de-160-ninas-y-ninos-concluyen-el-campamento-el-mejor-bombero-eres-tu-en-hermosillo/",
-        "_added_at": "2026-07-25T18:25:07.683634-07:00"
-      },
-      {
-        "title": "Entregan uniformes escolares gratuitos en Sonora con fechas confirmadas",
-        "summary": "Gobierno inicia distribución de uniformes escolares gratuitos para ciclo 2026-2027. Confirma sedes y requisitos.",
+        "title": "Hermosillo entrega uniformes escolares gratuitos para ciclo nuevo",
+        "summary": "Ya hay fechas, sedes y requisitos establecidos para la distribución de uniformes.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/uniformes-escolares-gratuitos-en-sonora-para-el-ciclo-2026-2027-ya-hay-fechas-sedes-y-requisitos-de-entrega/",
-        "_added_at": "2026-07-25T14:41:53.989115-07:00"
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       },
       {
-        "title": "Parque Al Arte abre convocatoria para muralistas en Hermosillo",
-        "summary": "Institución cultural abre registro para artistas y talleristas. Plazo de inscripción vence el 13 de agosto.",
+        "title": "Asociación solicita apoyo para cien paquetes escolares",
+        "summary": "Unique People busca ayuda para entregar útiles a niños en zona de La Costa.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/parque-al-arte-abre-convocatoria-en-hermosillo-para-artistas-muralistas-y-talleristas-registro-cierra-el-13-de-agosto/",
-        "_added_at": "2026-07-25T14:41:53.989115-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/asociacion-unique-people-solicita-apoyo-para-entregar-100-paquetes-escolares-a-ninos-en-la-costa/",
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       },
       {
-        "title": "Ciudadano rescata halcón herido en Nogales",
-        "summary": "Persona resguarda ave rapaz herida bajo puente del IMSS. PROFEPA asume su cuidado y recuperación.",
+        "title": "Falsa alerta de fuga en Hospital Issste de Hermosillo",
+        "summary": "Presunta fuga de oxígeno genera movilización pero no hay afectados reportados.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/25/ciudadano-rescata-a-un-halcon-herido-bajo-el-puente-del-imss-en-nogales-profepa-asume-su-resguardo/",
-        "_added_at": "2026-07-25T14:41:53.989115-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/presunta-fuga-de-oxigeno-en-el-hospital-del-issste-de-hermosillo-provoca-movilizacion-pero-no-hay-afectados/",
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       },
       {
-        "title": "Concluye mural en paso a desnivel de Hermosillo como espacio cultural",
-        "summary": "Finalización de proyecto artístico en cruce Colosio y Solidaridad genera espacio de expresión para comunidad.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/concluyen-mural-del-paso-a-desnivel-colosio-y-solidaridad-se-convierte-en-un-espacio-de-expresion-cultural-para-hermosillo-tono-astiazaran/",
-        "_added_at": "2026-07-25T14:41:53.989115-07:00"
-      },
-      {
-        "title": "Tormenta afecta servicio de agua en Hermosillo",
-        "summary": "Descargas eléctricas dañan pozos; colonias enfrentan falta de agua y baja presión temporal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/tormenta-electrica-afecta-pozos-de-agua-de-hermosillo-estas-colonias-podrian-tener-falta-de-agua-o-baja-presion-temporal/",
-        "_added_at": "2026-07-25T11:45:32.494971-07:00"
-      },
-      {
-        "title": "Daños por lluvias en Guaymas y San Carlos",
-        "summary": "Caída de árbol y afectaciones eléctricas tras fenómeno meteorológico del fin de semana.",
+        "title": "Crece interés en futbol infantil en escuelas de Navojoa",
+        "summary": "Repunta la participación de menores en actividades deportivas en la región.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/danos-por-lluvias-en-guaymas-y-san-carlos-este-fin-de-semana/261156",
-        "_added_at": "2026-07-25T11:45:32.494971-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/crece-la-pasion-por-el-futbol-infantil-en-navojoa/261173",
+        "_added_at": "2026-07-26T01:02:30.590139-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-25T22:48:56.868460-07:00"
+  "last_updated": "2026-07-26T01:02:30.590139-07:00"
 }
