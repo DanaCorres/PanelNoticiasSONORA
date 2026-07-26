@@ -1,8 +1,22 @@
 {
   "date": "2026-07-25",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Camión choca con poste dejando dos heridos",
+        "summary": "Accidente entre camión y poste eléctrico en Hermosillo causó dos personas lesionadas en bulevar Pueblo Nuevo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/dos-heridos-tras-choque-entre-camion-y-poste-de-electricidad-en-hermosillo/",
+        "_added_at": "2026-07-25T22:48:56.868460-07:00"
+      },
+      {
+        "title": "Fuga de oxígeno moviliza Hospital Issste sin afectados",
+        "summary": "Presunta fuga en hospital Issste Hermosillo generó movilización pero no hubo personas dañadas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/presunta-fuga-de-oxigeno-en-el-hospital-del-issste-de-hermosillo-provoca-movilizacion-pero-no-hay-afectados/",
+        "_added_at": "2026-07-25T22:48:56.868460-07:00"
+      },
       {
         "title": "Hallan cuerpo sin vida en edificio abandonado de Hermosillo",
         "summary": "Policías encuentran cadáver de persona en situación de calle en colonia Centro.",
@@ -58,23 +72,16 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/25/arrestan-a-hombre-tras-intentar-incendiar-una-camioneta-con-gasolina-en-hermosillo/",
         "_added_at": "2026-07-25T08:54:00.033174-07:00"
-      },
-      {
-        "title": "Rescatan adulto mayor en incendio de taller mecánico",
-        "summary": "Salvaguardan a persona de edad avanzada durante siniestro al sur de Hermosillo sin víctimas fatales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/rescatan-a-adulto-mayor-durante-incendio-al-sur-de-hermosillo/",
-        "_added_at": "2026-07-25T08:54:00.033174-07:00"
-      },
-      {
-        "title": "Condenan a El Carrete a 105 años por delincuencia organizada",
-        "summary": "Exlíder de Los Rojos sentenciado por secuestro y delitos contra la salud. FGR acreditó responsabilidad en crimen organizado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/07/25/condenan-a-105-anos-de-prision-a-el-carrete-exlider-de-los-rojos-vinculado-al-entorno-criminal-investigado-por-el-caso-ayotzinapa-por-secuestro-y-delitos-contra-la-salud/",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Sonora recibe inversión histórica en educación bachillerato",
+        "summary": "Estrategia Nacional Bachillerato creará casi cinco mil espacios educativos nuevos para jóvenes sonorenses.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-impulsa-inversion-en-estrategia-nacional-de-bachiller/261192",
+        "_added_at": "2026-07-25T22:48:56.868460-07:00"
+      },
       {
         "title": "Sonora reabrirá exportación de ganado a EU el 24 de agosto",
         "summary": "Durazo confirma reapertura en Agua Prieta-Douglas como primer cruce del país.",
@@ -136,13 +143,6 @@
         "summary": "Funcionaria destaca importancia de escuchar a mujeres para fortalecer transformación estatal.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/mujeres-en-ciudad-obregon-impulsan-la-transformacion/261124",
-        "_added_at": "2026-07-25T00:47:15.158867-07:00"
-      },
-      {
-        "title": "Valles resalta papel de mercados públicos en identidad sonorense",
-        "summary": "Funcionaria destaca inversión estatal en rehabilitación de mercados en Hermosillo, Guaymas y Navojoa.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-papel-de-mercados-publicos-en-sonora/261130",
         "_added_at": "2026-07-25T00:47:15.158867-07:00"
       }
     ],
@@ -220,6 +220,20 @@
     ],
     "sociedad": [
       {
+        "title": "Tormentas amenazan Sonora con lluvia viento intenso",
+        "summary": "Tres sistemas atmosféricos traerán lluvias intensas vientos fuertes y actividad eléctrica este sábado municipios.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/tres-sistemas-de-tormentas-amenazan-sonora-preven-lluvias-intensas-fuertes-vientos-y-actividad-electrica-este-sabado-en-estos-municipios/",
+        "_added_at": "2026-07-25T22:48:56.868460-07:00"
+      },
+      {
+        "title": "Hermosillo abre cinco puntos recolección basura vacaciones",
+        "summary": "Capital mantiene centros abiertos recibir residuos y cacharros durante período vacacional ciudadanos.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/haras-limpieza-en-vacaciones-hermosillo-mantiene-abiertos-cinco-puntos-para-recibir-basura-y-cacharros/",
+        "_added_at": "2026-07-25T22:48:56.868460-07:00"
+      },
+      {
         "title": "Fuga de oxígeno en hospital ISSSTE de Hermosillo sin afectados",
         "summary": "Movilización de bomberos por presunta fuga pero no hay daños a pacientes.",
         "source": "El Imparcial",
@@ -274,22 +288,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/danos-por-lluvias-en-guaymas-y-san-carlos-este-fin-de-semana/261156",
         "_added_at": "2026-07-25T11:45:32.494971-07:00"
-      },
-      {
-        "title": "Rescatan adulto mayor durante incendio en Hermosillo",
-        "summary": "Bomberos salvan a persona durante emergencia registrada al sur de la capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/rescatan-a-adulto-mayor-durante-incendio-al-sur-de-hermosillo/",
-        "_added_at": "2026-07-25T11:45:32.494971-07:00"
-      },
-      {
-        "title": "Onda de calor afecta Sonora y estados del norte",
-        "summary": "Temperaturas extremas continuarán en la región mientras se prevén lluvias en otras zonas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/07/25/onda-de-calor-azotara-sonora-y-otros-estados-del-norte-mientras-se-preven-lluvias-muy-fuertes-para-otras-zonas/",
-        "_added_at": "2026-07-25T08:54:00.033174-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-25T18:25:07.683634-07:00"
+  "last_updated": "2026-07-25T22:48:56.868460-07:00"
 }
