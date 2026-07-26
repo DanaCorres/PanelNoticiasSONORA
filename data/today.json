@@ -1,8 +1,15 @@
 {
   "date": "2026-07-26",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Presunta fuga de oxígeno en Issste sin afectados",
+        "summary": "Movilización en hospital de Hermosillo por supuesta fuga; no registraron personas dañadas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/presunta-fuga-de-oxigeno-en-el-hospital-del-issste-de-hermosillo-provoca-movilizacion-pero-no-hay-afectados/",
+        "_added_at": "2026-07-26T05:51:36.011626-07:00"
+      },
       {
         "title": "Cuerpo hallado en edificio abandonado del centro",
         "summary": "Localizan cadáver sin vida en construcción abandonada de Hermosillo durante investigación en curso.",
@@ -80,6 +87,13 @@
     ],
     "sociedad": [
       {
+        "title": "Hermosillo abre cinco puntos para acopio de basura",
+        "summary": "Ciudad mantiene abiertos sitios para recibir desechos durante periodo vacacional.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/25/haras-limpieza-en-vacaciones-hermosillo-mantiene-abiertos-cinco-puntos-para-recibir-basura-y-cacharros/",
+        "_added_at": "2026-07-26T05:51:36.011626-07:00"
+      },
+      {
         "title": "Domo de calor cederá en Sonora próximamente",
         "summary": "Pronóstico de ligero descenso de temperaturas tras período de intenso calor en la entidad.",
         "source": "Expreso",
@@ -116,5 +130,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-26T03:26:22.174556-07:00"
+  "last_updated": "2026-07-26T05:51:36.011626-07:00"
 }
