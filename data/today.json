@@ -1,8 +1,15 @@
 {
   "date": "2026-07-26",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Homicidios caen 55.9% en Cajeme en cinco años",
+        "summary": "Municipio registra drástica reducción de homicidios dolosos, revirtiendo su historial como zona de alto delito nacional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/cae-559-el-homicidio-doloso-en-cajeme-en-cinco-anos/",
+        "_added_at": "2026-07-26T23:15:07.983505-07:00"
+      },
       {
         "title": "Hombre muere en ataque armado en Hermosillo",
         "summary": "Persona fallece tras ser atacada a disparos en domicilio abandonado de la capital sonorense.",
@@ -65,16 +72,23 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/26/tu-familia-te-espera-con-cartulinas-ciudadanos-piden-conducir-con-precaucion-en-la-carretera-imuris-cananea/",
         "_added_at": "2026-07-26T11:51:13.731272-07:00"
-      },
-      {
-        "title": "Reportan dos hallazgos de personas fallecidas",
-        "summary": "Autoridades investigan descubrimiento de dos cuerpos en diferentes puntos de Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/reportan-dos-hallazgos-de-personas-sin-vida/",
-        "_added_at": "2026-07-26T11:51:13.731272-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Lorenia Valles respalda reapertura de exportación ganadera",
+        "summary": "Autoridades celebran reactivación de comercio ganadero hacia Estados Unidos en asambleas regionales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-respalda-reapertura-de-exportaciones-ganaderas/261243",
+        "_added_at": "2026-07-26T23:15:07.983505-07:00"
+      },
+      {
+        "title": "Durazo lamenta muerte de exgobernador tlaxcalteca",
+        "summary": "Gobernador sonorense expresa condolencias por fallecimiento de político de otra entidad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/durazo-lamenta-fallecimiento-de-exgobernador-tlaxcalteca/261240",
+        "_added_at": "2026-07-26T23:15:07.983505-07:00"
+      },
       {
         "title": "Gobernadora menciona transformación territorial de Sonora",
         "summary": "Célida López subraya expansión y cambios en el territorio estatal.",
@@ -134,6 +148,13 @@
     ],
     "economia": [
       {
+        "title": "Reapertura de exportaciones ganaderas a Estados Unidos",
+        "summary": "Autoridades celebran reactivación de mercado ganadero fronterizo entre México y EE.UU.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-respalda-reapertura-de-exportaciones-ganaderas/261243",
+        "_added_at": "2026-07-26T23:15:07.983505-07:00"
+      },
+      {
         "title": "Inician licitación de 26 arcos carreteros en Sonora",
         "summary": "Gobierno prepara proceso de asignación para proyectos de infraestructura vial estatal.",
         "source": "El Imparcial",
@@ -170,6 +191,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Localizan con vida a desaparecida en Nogales",
+        "summary": "Mujer reportada desaparecida es localizada; autoridades descartan delito en el caso.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-con-vida-a-mujer-reportada-desaparecida-en-nogales/261237",
+        "_added_at": "2026-07-26T23:15:07.983505-07:00"
+      },
+      {
+        "title": "Auto cae 100 metros en barranco de Guaymas",
+        "summary": "Vehículo sufre volcamiento y desplome en cerro del Vigía causando accidente grave.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/cae-vehiculo-del-camino-al-cerro-del-vigia-en-guaymas-/261233",
+        "_added_at": "2026-07-26T23:15:07.983505-07:00"
+      },
       {
         "title": "Descubren nueva especie de araña en Hermosillo",
         "summary": "Científicos hallan araña microscópica en Cerro Altares; la nombran en honor a la bacanora.",
@@ -225,22 +260,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/26/llaman-a-tener-cuidado-en-temporada-de-calor/",
         "_added_at": "2026-07-26T08:52:10.585921-07:00"
-      },
-      {
-        "title": "Fuga de oxígeno moviliza emergencias en Issste",
-        "summary": "Incidente en hospital estatal requiere respuesta de cuerpos de emergencia.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/26/supuesta-fuga-de-oxigeno-en-hospital-del-issste-moviliza-cuerpos-de-emergencia/",
-        "_added_at": "2026-07-26T08:52:10.585921-07:00"
-      },
-      {
-        "title": "Bajan llamadas falsas al 911 en Sonora",
-        "summary": "Reducción del 50 por ciento en bromas al sistema de emergencias estatal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/bajan-al-50-las-llamadas-falsas-al-911-en-sonora/261174",
-        "_added_at": "2026-07-26T08:52:10.585921-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-26T18:29:06.011860-07:00"
+  "last_updated": "2026-07-26T23:15:07.983505-07:00"
 }
