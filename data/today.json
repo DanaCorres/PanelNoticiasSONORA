@@ -1,8 +1,29 @@
 {
   "date": "2026-07-27",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a líder criminal vinculado a Los Chapitos",
+        "summary": "Capturan a El Tío, jefe de grupo delictivo relacionado con organización de narcotráfico.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/27/detienen-a-el-tio-lider-de-grupo-criminal-vinculado-a-los-chapitos/",
+        "_added_at": "2026-07-27T14:55:01.605365-07:00"
+      },
+      {
+        "title": "Camioneta atropella pareja en Guaymas; conductor huye",
+        "summary": "Vehículo invade camellón e impacta a dos personas; conductor es interceptado por autoridades.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/guaymas-carro-atropella-a-pareja-en-bulevar-gaspar-zaragoza/261296",
+        "_added_at": "2026-07-27T14:55:01.605365-07:00"
+      },
+      {
+        "title": "Mujer detenida con migrante oculto en cajuela",
+        "summary": "Detienen a ciudadana estadounidense transportando migrante cerca de San Luis Río Colorado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/detienen-a-mujer-estadounidense-que-transportaba-a-un-migrante-mexicano-en-su-cajuela-cerca-de-frontera-con-san-luis-rio-colorado/",
+        "_added_at": "2026-07-27T14:55:01.605365-07:00"
+      },
       {
         "title": "Más del 53% de presos en Sonora aguardan sentencia judicial",
         "summary": "Censo revela que miles de internos esperan resolución judicial por meses o años, superando media nacional.",
@@ -51,30 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/27/se-dan-hasta-tres-accidentes-en-caminos-de-la-presa-por-fin-de-semana/",
         "_added_at": "2026-07-27T09:52:13.198894-07:00"
-      },
-      {
-        "title": "Tractocamión se vuelca en carretera Ímuris-Cananea",
-        "summary": "Unidad cargada de cacahuate sufre volcadura en importante vía de conexión sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/otra-volcadura-en-carretera-imuris-cananea-se-accidenta-tractocamion-cargado-con-cacahuate/",
-        "_added_at": "2026-07-27T09:52:13.198894-07:00"
-      },
-      {
-        "title": "Homicidios dolosos bajan 55.9% en Cajeme en cinco años",
-        "summary": "Significativa reducción de crímenes violentos en Ciudad Obregón durante el período analizado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/cae-559-el-homicidio-doloso-en-cajeme-en-cinco-anos/",
-        "_added_at": "2026-07-27T05:08:37.643847-07:00"
-      },
-      {
-        "title": "Operativo en Nogales asegura cámaras clandestinas y máquinas ilegales",
-        "summary": "Autoridades decomisan 8 cámaras ocultas y 26 tragamonedas en golpe contra crimen organizado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/26/aseguran-8-camaras-clandestinas-y-26-maquinas-tragamonedas-en-operativos-contra-grupos-delictivos-en-nogales/",
-        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Prisión preventiva contra directivos de Academia Doenitz",
+        "summary": "Dictan medida cautelar contra director y coordinadora por caso Dafne Zapata.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/27/dictan-prision-preventiva-contra-director-y-coordinadora-de-academia-doenitz-por-caso-dafne-zapata/",
+        "_added_at": "2026-07-27T14:55:01.605365-07:00"
+      },
       {
         "title": "Vecinos de Mirabal bloquean carretera por regularización de terrenos",
         "summary": "Habitantes cierran vía Hermosillo-Guaymas demandando regularización de propiedades.",
@@ -134,6 +141,20 @@
     ],
     "economia": [
       {
+        "title": "Hermosillo registra canasta básica más cara del país",
+        "summary": "Profeco reporta que Hermosillo pasó de la más barata a la más cara con 912.50 pesos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/07/27/hermosillo-pasa-de-tener-la-canasta-basica-mas-barata-del-pais-a-registrar-la-mas-cara-con-un-costo-de-91250-pesos-y-rebasa-el-limite-de-precio-acordado-con-el-gobierno/",
+        "_added_at": "2026-07-27T14:55:01.605365-07:00"
+      },
+      {
+        "title": "Refuerzan Sonora contra gusano barrenador ante reapertura",
+        "summary": "Se fortalecen medidas sanitarias en estado ante reanudación de exportación ganadera.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/27/refuerzan-sonora-contra-gusano-barrenador-ante-reapertura-de-frontera-para-exportacion-de-ganado/",
+        "_added_at": "2026-07-27T14:55:01.605365-07:00"
+      },
+      {
         "title": "Calor eleva precios de frutas y verduras en Sonora",
         "summary": "Temperaturas extremas aumentan costo de productos agrícolas de consumo diario.",
         "source": "El Imparcial",
@@ -170,6 +191,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Aumentan a 186 casos de afectados por calor; tres muertos",
+        "summary": "Sonora registra incremento de casos por golpe de calor con tres fallecimientos en Hermosillo.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/aumentan-casos-asociados-al-calor-en-sonora-suman-3-muertos/261293",
+        "_added_at": "2026-07-27T14:55:01.605365-07:00"
+      },
+      {
+        "title": "Vivero Estatal regala plantas y árboles en Hermosillo",
+        "summary": "Ciudadanos pueden solicitar hasta cinco especies mensuales en vivero de Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/vivero-estatal-de-sonora-regala-plantas-y-arboles-frutales-ciudadanos-pueden-solicitar-hasta-cinco-especies-cada-mes-donde-se-ubica-en-hermosillo/",
+        "_added_at": "2026-07-27T14:55:01.605365-07:00"
+      },
+      {
+        "title": "Mil 300 personas concluyen cursos gratuitos en Hermosillo",
+        "summary": "Ayuntamiento reporta egreso de alumnos en Centros de Desarrollo Comunitario.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/27/mas-de-mil-300-personas-concluyen-cursos-gratuitos-en-los-centros-de-desarrollo-comunitario-de-hermosillo-ayuntamiento/",
+        "_added_at": "2026-07-27T14:55:01.605365-07:00"
+      },
+      {
+        "title": "Estudiantes construyen y donan casa a familia yaqui",
+        "summary": "Alumnos de Prepatec Ciudad Obregón participan como voluntarios en construcción para Bahía de Lobos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/jovenes-de-prepatec-ciudad-obregon-construyen-y-donan-casa/261286",
+        "_added_at": "2026-07-27T14:55:01.605365-07:00"
+      },
       {
         "title": "Sonora enfrentará tormentas, granizo y calor extremo esta semana",
         "summary": "Monzón mantiene activos fenómenos climáticos severos incluyendo lluvias intensas y temperaturas altas.",
@@ -211,36 +260,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/localizan-con-vida-a-mujer-reportada-desaparecida-en-nogales/261237",
         "_added_at": "2026-07-27T09:52:13.198894-07:00"
-      },
-      {
-        "title": "Descubren nueva especie de araña microscópica en Hermosillo",
-        "summary": "Científicos hallan araña de 2.2 milímetros en Cerro Altares; la nombran en honor a la bacanora.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/cientificos-mexicanos-descubren-una-nueva-especie-de-arana-en-el-cerro-altares-de-hermosillo-y-la-nombran-filistatinella-bacanora-en-honor-a-la-bebida-sonorense/",
-        "_added_at": "2026-07-27T05:08:37.643847-07:00"
-      },
-      {
-        "title": "Sonora registra más de 100 denuncias por maltrato animal anual",
-        "summary": "Especialista vincula sobrepoblación con violencia contra animales domésticos en la entidad.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/registra-sonora-mas-de-100-denuncias-por-maltrato-animal-en-un-ano-sobrepoblacion-esta-ligada-a-la-violencia-en-su-contra-senala-especialista/",
-        "_added_at": "2026-07-27T05:08:37.643847-07:00"
-      },
-      {
-        "title": "Hombre muere por golpe de calor en Hermosillo",
-        "summary": "Ciudadano fallece en colonia Centro por temperaturas extremas durante onda de calor.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/hombre-muere-por-golpe-de-calor-en-la-colonia-centro-de-hermosillo/",
-        "_added_at": "2026-07-27T05:08:37.643847-07:00"
-      },
-      {
-        "title": "Auto cae 100 metros por barranco en Guaymas",
-        "summary": "Vehículo sedán se voltea y precipita en cerro del Vigía al norte de Guaymas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cae-vehiculo-del-camino-al-cerro-del-vigia-en-guaymas-/261233",
-        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-27T12:07:11.050482-07:00"
+  "last_updated": "2026-07-27T14:55:01.605365-07:00"
 }
