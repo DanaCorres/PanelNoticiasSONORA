@@ -1,8 +1,36 @@
 {
   "date": "2026-07-27",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Operativo en Nogales asegura equipos usados por crimen",
+        "summary": "Autoridades decomisan cámaras ocultas, tragamonedas y computadoras en Nogales durante operación conjunta contra vigilancia delictiva.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/26/golpe-a-la-vigilancia-del-crimen-en-nogales-aseguran-camaras-ocultas-tragamonedas-y-equipos-de-computo-en-operativo-conjunto/",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
+      {
+        "title": "Hombre arrestado por violencia doméstica en Hermosillo",
+        "summary": "Detienen a sujeto acusado de golpear e insultar a su pareja en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/27/arrestan-a-hombre-por-golpear-e-insultar-a-su-pareja-en-hermosillo/",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
+      {
+        "title": "Accidentes frecuentes en carreteras de presa en Obregón",
+        "summary": "Registran hasta tres siniestros viales cada fin de semana en caminos de la zona de presas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/27/se-dan-hasta-tres-accidentes-en-caminos-de-la-presa-por-fin-de-semana/",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
+      {
+        "title": "Tractocamión se vuelca en carretera Ímuris-Cananea",
+        "summary": "Unidad cargada de cacahuate sufre volcadura en importante vía de conexión sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/27/otra-volcadura-en-carretera-imuris-cananea-se-accidenta-tractocamion-cargado-con-cacahuate/",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
       {
         "title": "Homicidios dolosos bajan 55.9% en Cajeme en cinco años",
         "summary": "Significativa reducción de crímenes violentos en Ciudad Obregón durante el período analizado.",
@@ -34,6 +62,27 @@
     ],
     "politica": [
       {
+        "title": "Sonora entrega segundo apoyo a familias de tarjeta oportunidades",
+        "summary": "Más de 16 mil familias reciben segundo depósito bimestral de 2,500 pesos; habrá tres pagos más en 2026.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/mas-de-16-mil-familias-reciben-segundo-deposito-a-tarjeta-de-oportunidades-en-sonora-habra-tres-pagos-mas-en-2026/",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
+      {
+        "title": "Uniformes escolares gratuitos: fechas y sedes en Sonora",
+        "summary": "Gobierno distribuyó uniformes sin costo para ciclo 2026-2027 con cronograma y requisitos específicos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/25/uniformes-escolares-gratuitos-en-sonora-para-el-ciclo-2026-2027-ya-hay-fechas-sedes-y-requisitos-de-entrega/",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
+      {
+        "title": "Reapertura de exportación de ganado a EE.UU. en agosto",
+        "summary": "Frontera abrirá gradualmente segunda quincena de agosto tras cierre mayor a un año.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/27/sheinbaum-preve-reapertura-gradual-de-la-frontera-de-eeuu-al-ganado-mexicano-durante-la-segunda-quincena-de-agosto/",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
+      {
         "title": "Célida López destaca transformación territorial en Sonora",
         "summary": "Gobernadora resalta avances en expansión y desarrollo de infraestructura estatal.",
         "source": "El Imparcial",
@@ -50,6 +99,20 @@
     ],
     "economia": [
       {
+        "title": "Mosca estéril combate plaga del gusano barrenador",
+        "summary": "Estrategia de control biológico busca reducir plagas agrícolas en región sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/07/27/sheinbaum-afirma-que-con-mosca-esteril-plaga-del-gusano-barrenador-tiene-que-bajar/",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
+      {
+        "title": "Fondo Deportivo Hermosillo apoya a tres mil atletas",
+        "summary": "Municipio financia competencias nacionales e internacionales, ampliando oportunidades para deportistas locales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/fondo-deportivo-de-hermosillo-beneficia-a-mas-de-3-mil-atletas-con-apoyos-para-competir-en-mexico-y-otros-paises-abrira-nuevas-oportunidades-para-deportistas-locales/",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
+      {
         "title": "Reapertura de exportaciones ganaderas a Estados Unidos confirmada",
         "summary": "Se reanuda comercio de ganado sonorense con mercado estadounidense tras período de restricciones.",
         "source": "Expreso",
@@ -58,6 +121,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Helicóptero rescata mujer aislada en Aquinavo",
+        "summary": "Comunidad quedó incomunicada por crecientes; efectivos rescatan a persona en situación de vulnerabilidad.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/helicoptero-de-la-policia-rescata-a-mujer-en-aquinavo-sonora-tras-quedar-comunidad-incomunicada-por-crecientes-de-rios/",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
+      {
+        "title": "Campamento Bombero Junior enseña prevención a menores",
+        "summary": "Ciudad Obregón capacita niños en medidas de seguridad y protección civil durante programa vacacional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/27/ensenan-prevencion-a-ninos-durante-campamento-bombero-junior/",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
+      {
+        "title": "Joven en labor de parto recibe auxilio en Hermosillo",
+        "summary": "Paramédicos trasladan de emergencia a embarazada al Hospital de la Mujer en la capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/27/auxilian-a-joven-en-labor-de-parto-y-la-trasladan-de-emergencia-al-hospital-de-la-mujer-en-hermosillo/",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
+      {
+        "title": "Localizan con vida a Abril Milagros desaparecida en Nogales",
+        "summary": "Mujer reportada como desaparecida es encontrada sana y salva en Nogales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-con-vida-a-mujer-reportada-desaparecida-en-nogales/261237",
+        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+      },
       {
         "title": "Descubren nueva especie de araña microscópica en Hermosillo",
         "summary": "Científicos hallan araña de 2.2 milímetros en Cerro Altares; la nombran en honor a la bacanora.",
@@ -88,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-27T05:08:37.643847-07:00"
+  "last_updated": "2026-07-27T09:52:13.198894-07:00"
 }
