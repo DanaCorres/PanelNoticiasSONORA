@@ -1,267 +1,92 @@
 {
-  "date": "2026-07-26",
-  "run_count": 8,
+  "date": "2026-07-27",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Homicidios caen 55.9% en Cajeme en cinco años",
-        "summary": "Municipio registra drástica reducción de homicidios dolosos, revirtiendo su historial como zona de alto delito nacional.",
+        "title": "Homicidios dolosos bajan 55.9% en Cajeme en cinco años",
+        "summary": "Significativa reducción de crímenes violentos en Ciudad Obregón durante el período analizado.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/27/cae-559-el-homicidio-doloso-en-cajeme-en-cinco-anos/",
-        "_added_at": "2026-07-26T23:15:07.983505-07:00"
+        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       },
       {
-        "title": "Hombre muere en ataque armado en Hermosillo",
-        "summary": "Persona fallece tras ser atacada a disparos en domicilio abandonado de la capital sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/hombre-fallece-tras-ataque-armado-en-un-domicilio-abandonado-de-hermosillo-investigaciones-en-curso/",
-        "_added_at": "2026-07-26T18:29:06.011860-07:00"
-      },
-      {
-        "title": "Dos jóvenes vinculados por ataque a policías en Ciudad Obregón",
-        "summary": "Procesados por disparar contra elementos y por actividades de narcomenudeo en Cajeme.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/26/vinculan-a-proceso-a-dos-jovenes-por-ataque-armado-contra-policias-y-marinos-y-por-narcomenudeo-en-ciudad-obregon/",
-        "_added_at": "2026-07-26T18:29:06.011860-07:00"
-      },
-      {
-        "title": "Aseguran equipos clandestinos y máquinas en Nogales",
-        "summary": "Operativo conjunto incauta ocho cámaras ocultas y veintiséis máquinas tragamonedas vinculadas a delincuencia.",
+        "title": "Operativo en Nogales asegura cámaras clandestinas y máquinas ilegales",
+        "summary": "Autoridades decomisan 8 cámaras ocultas y 26 tragamonedas en golpe contra crimen organizado.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/07/26/aseguran-8-camaras-clandestinas-y-26-maquinas-tragamonedas-en-operativos-contra-grupos-delictivos-en-nogales/",
-        "_added_at": "2026-07-26T18:29:06.011860-07:00"
+        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       },
       {
-        "title": "Hombre fallece por golpe de calor en Hermosillo",
-        "summary": "Muerte registrada en colonia Centro por temperaturas extremas. Autoridades alertan sobre riesgos de deshidratación grave durante temporada de calor.",
+        "title": "Vinculan a proceso a dos jóvenes por ataque armado en Obregón",
+        "summary": "Dos individuos procesados por atacar policías, marinos y distribuir drogas en Ciudad Obregón.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/hombre-muere-por-golpe-de-calor-en-la-colonia-centro-de-hermosillo/",
-        "_added_at": "2026-07-26T14:45:30.218674-07:00"
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/26/vinculan-a-proceso-a-dos-jovenes-por-ataque-armado-contra-policias-y-marinos-y-por-narcomenudeo-en-ciudad-obregon/",
+        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       },
       {
-        "title": "Destruyen mil 662 litros de metanfetamina líquida",
-        "summary": "FGR realiza destrucción de droga decomisada en Sonora bajo supervisión de órganos de control federal y cumplimiento legal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/destruyen-mil-662-litros-de-metanfetamina-en-sonora/261219",
-        "_added_at": "2026-07-26T14:45:30.218674-07:00"
-      },
-      {
-        "title": "Tren se descarrila al norte de Sonora sin lesionados",
-        "summary": "Descarrilamiento registrado en Naco. Protección Civil reporta control de situación sin víctimas que lamentar.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/26/se-descarrila-tren-al-norte-de-sonora-autoridades-descartan-lesionados/",
-        "_added_at": "2026-07-26T14:45:30.218674-07:00"
-      },
-      {
-        "title": "Choque en carretera a Bahía de Kino deja lesionado",
-        "summary": "Accidente vial reportado en Hermosillo causó una persona lesionada. Autoridades atienden incidente.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/26/choque-en-carretera-a-bahia-de-kino-deja-una-persona-lesionada-en-hermosillo/",
-        "_added_at": "2026-07-26T14:45:30.218674-07:00"
-      },
-      {
-        "title": "Hallazgo de cadáver en Centro de Hermosillo",
-        "summary": "Encontraron cuerpo sin vida en área céntrica de Hermosillo; autoridades investigan las causas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/26/hallan-cuerpo-de-joven-sin-vida-en-pleno-centro-de-hermosillo/",
-        "_added_at": "2026-07-26T11:51:13.731272-07:00"
-      },
-      {
-        "title": "Ciudadanos piden seguridad en carretera Ímuris-Cananea",
-        "summary": "Campesinos colocan carteles pidiendo conducción responsable tras accidentes en ruta sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/26/tu-familia-te-espera-con-cartulinas-ciudadanos-piden-conducir-con-precaucion-en-la-carretera-imuris-cananea/",
-        "_added_at": "2026-07-26T11:51:13.731272-07:00"
+        "title": "Hombre fallece tras ataque armado en Hermosillo",
+        "summary": "Persona muere en domicilio abandonado tras enfrentamiento violento en la capital.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/hombre-fallece-tras-ataque-armado-en-un-domicilio-abandonado-de-hermosillo-investigaciones-en-curso/",
+        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Lorenia Valles respalda reapertura de exportación ganadera",
-        "summary": "Autoridades celebran reactivación de comercio ganadero hacia Estados Unidos en asambleas regionales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-respalda-reapertura-de-exportaciones-ganaderas/261243",
-        "_added_at": "2026-07-26T23:15:07.983505-07:00"
-      },
-      {
-        "title": "Durazo lamenta muerte de exgobernador tlaxcalteca",
-        "summary": "Gobernador sonorense expresa condolencias por fallecimiento de político de otra entidad.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/durazo-lamenta-fallecimiento-de-exgobernador-tlaxcalteca/261240",
-        "_added_at": "2026-07-26T23:15:07.983505-07:00"
-      },
-      {
-        "title": "Gobernadora menciona transformación territorial de Sonora",
-        "summary": "Célida López subraya expansión y cambios en el territorio estatal.",
+        "title": "Célida López destaca transformación territorial en Sonora",
+        "summary": "Gobernadora resalta avances en expansión y desarrollo de infraestructura estatal.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/26/mas-territorio-mas-transformacion-celida-lopez/",
-        "_added_at": "2026-07-26T18:29:06.011860-07:00"
+        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       },
       {
-        "title": "Familias sonorenses reciben apoyos económicos de 2,500 pesos",
-        "summary": "Más de dieciséis mil familias reciben depositos; autoridades dan fechas para próximos pagos.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/26/mas-de-16-mil-familias-de-sonora-reciben-nuevo-deposito-de-2500-pesos-ya-hay-fechas-para-los-proximos-apoyos-durazo/",
-        "_added_at": "2026-07-26T18:29:06.011860-07:00"
-      },
-      {
-        "title": "Prevén licitación de veintiséis arcos carreteros en Sonora",
-        "summary": "Se prepara proceso de licitación para infraestructura de arcos en carreteras estatales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/preven-iniciar-licitacion-de-26-arcos-carreteros-en-sonora/",
-        "_added_at": "2026-07-26T18:29:06.011860-07:00"
-      },
-      {
-        "title": "Doce familias de Cajeme reciben escrituras de viviendas",
-        "summary": "Gobierno municipal entrega documentos que aseguran patrimonio a familias. Claudia Santacruz destaca acciones de regularización.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/26/doce-familias-de-cajeme-reciben-las-escrituras-de-sus-viviendas-y-aseguran-su-patrimonio-claudia-santacruz/",
-        "_added_at": "2026-07-26T14:45:30.218674-07:00"
-      },
-      {
-        "title": "Sheinbaum y Durazo amplían bachillerato en Sonora",
-        "summary": "Gobierno federal expande oferta educativa con inversión histórica para crear cinco mil espacios nuevos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/amplian-sheinbaum-y-durazo-oferta-de-bachillerato-en-sonora/",
-        "_added_at": "2026-07-26T08:52:10.585921-07:00"
-      },
-      {
-        "title": "Video muestra Rubén Rocha Moya en fiesta Badiraguato",
-        "summary": "Exgobernador aparece en evento mientras está vigente orden de detención y extradición estadounidense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/video-muestra-a-ruben-rocha-moya-en-fiesta-en-badiraguato-mientras-sigue-vigente-solicitud-de-detencion-y-extradicion-de-eeuu/",
-        "_added_at": "2026-07-26T08:52:10.585921-07:00"
-      },
-      {
-        "title": "Lamarque Cano visita colonia México en Ciudad Obregón",
-        "summary": "Candidato recorre hogares para conocer inquietudes y propuestas de ciudadanos.",
+        "title": "Lorenia Valles respalda reapertura de exportación ganadera a EE.UU.",
+        "summary": "Funcionaria celebra reinicio de comercio de ganado hacia mercados estadounidenses.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-cano-recorre-colonia-de-ciudad-obregon/261193",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
-      },
-      {
-        "title": "Sonora recibe inversión histórica en educación media superior",
-        "summary": "Estrategia Nacional de Bachillerato crea casi cinco mil espacios educativos para jóvenes.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/inversion-historica-para-estrategia-nacional-de-bachillerato/261192",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-respalda-reapertura-de-exportaciones-ganaderas/261243",
+        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Reapertura de exportaciones ganaderas a Estados Unidos",
-        "summary": "Autoridades celebran reactivación de mercado ganadero fronterizo entre México y EE.UU.",
+        "title": "Reapertura de exportaciones ganaderas a Estados Unidos confirmada",
+        "summary": "Se reanuda comercio de ganado sonorense con mercado estadounidense tras período de restricciones.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-respalda-reapertura-de-exportaciones-ganaderas/261243",
-        "_added_at": "2026-07-26T23:15:07.983505-07:00"
-      },
-      {
-        "title": "Inician licitación de 26 arcos carreteros en Sonora",
-        "summary": "Gobierno prepara proceso de asignación para proyectos de infraestructura vial estatal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/preven-iniciar-licitacion-de-26-arcos-carreteros-en-sonora/",
-        "_added_at": "2026-07-26T11:51:13.731272-07:00"
-      },
-      {
-        "title": "Sonora recibe inversión histórica en educación media superior",
-        "summary": "Estrategia Nacional de Bachillerato crea cinco mil nuevos espacios educativos para jóvenes sonorenses.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/inversion-historica-para-estrategia-nacional-de-bachillerato/261192",
-        "_added_at": "2026-07-26T03:26:22.174556-07:00"
-      },
-      {
-        "title": "Reapertura con EEUU alivia presión en ganaderos sonorenses",
-        "summary": "Exportaciones se reactivan tras crisis de sobreoferta y caída de precios por gusano barrenador.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/25/ganaderos-de-sonora-ven-en-la-reapertura-de-frontera-con-eeuu-una-salida-con-la-reactivacion-de-exportaciones-tras-mas-de-un-ano-de-sobreoferta-y-caida-en-precios-por-gusano-barrenador/",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
-      },
-      {
-        "title": "Aumenta pasaje de transporte suburbano en Sonora",
-        "summary": "Incremento tarifario entra en vigor el dieciséis de agosto en el estado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/25/aumenta-el-pasaje-del-transporte-suburbano-en-sonora-entrara-en-vigor-el-16-de-agosto/",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
-      },
-      {
-        "title": "Presas de Sonora suben a veintiuno por ciento de capacidad",
-        "summary": "Lluvias recientes generan ligero incremento en los niveles de almacenamiento de agua.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/presas-de-sonora-aumentan-nivel-al-215-de-su-capacidad/261177",
-        "_added_at": "2026-07-26T01:02:30.590139-07:00"
+        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Localizan con vida a desaparecida en Nogales",
-        "summary": "Mujer reportada desaparecida es localizada; autoridades descartan delito en el caso.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-con-vida-a-mujer-reportada-desaparecida-en-nogales/261237",
-        "_added_at": "2026-07-26T23:15:07.983505-07:00"
-      },
-      {
-        "title": "Auto cae 100 metros en barranco de Guaymas",
-        "summary": "Vehículo sufre volcamiento y desplome en cerro del Vigía causando accidente grave.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cae-vehiculo-del-camino-al-cerro-del-vigia-en-guaymas-/261233",
-        "_added_at": "2026-07-26T23:15:07.983505-07:00"
-      },
-      {
-        "title": "Descubren nueva especie de araña en Hermosillo",
-        "summary": "Científicos hallan araña microscópica en Cerro Altares; la nombran en honor a la bacanora.",
+        "title": "Descubren nueva especie de araña microscópica en Hermosillo",
+        "summary": "Científicos hallan araña de 2.2 milímetros en Cerro Altares; la nombran en honor a la bacanora.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/cientificos-mexicanos-descubren-una-nueva-especie-de-arana-en-el-cerro-altares-de-hermosillo-y-la-nombran-filistatinella-bacanora-en-honor-a-la-bebida-sonorense/",
-        "_added_at": "2026-07-26T18:29:06.011860-07:00"
+        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       },
       {
-        "title": "DIF Hermosillo invita a apoyar asociaciones civiles",
-        "summary": "Organización propone plataforma única para ayudar más de ochenta asociaciones durante vacaciones.",
+        "title": "Sonora registra más de 100 denuncias por maltrato animal anual",
+        "summary": "Especialista vincula sobrepoblación con violencia contra animales domésticos en la entidad.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/26/vacaciones-con-causa-dif-hermosillo-invita-a-apoyar-a-mas-de-80-asociaciones-civiles-desde-una-sola-plataforma/",
-        "_added_at": "2026-07-26T18:29:06.011860-07:00"
+        "url": "https://proyectopuente.com.mx/2026/07/27/registra-sonora-mas-de-100-denuncias-por-maltrato-animal-en-un-ano-sobrepoblacion-esta-ligada-a-la-violencia-en-su-contra-senala-especialista/",
+        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       },
       {
-        "title": "Hospital del ISSSTE enfrenta apagones y filtraciones de agua",
-        "summary": "Denuncian falla de energía e infiltraciones de agua en instalaciones. Requieren atención inmediata para funcionamiento adecuado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/26/denuncian-apagones-y-filtraciones-de-agua-en-hospital-del-issste-en-hermosillo/",
-        "_added_at": "2026-07-26T14:45:30.218674-07:00"
-      },
-      {
-        "title": "Organizaciones se dedican a alimentar a personas indigentes",
-        "summary": "Grupos comunitarios en Sonora expresan satisfacción al brindar alimentos a población vulnerable del estado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/26/se-llenan-de-satisfaccion-al-alimentar-indigentes/",
-        "_added_at": "2026-07-26T14:45:30.218674-07:00"
-      },
-      {
-        "title": "Muere hombre por golpe de calor en Hermosillo",
-        "summary": "Deceso en colonia Centro por temperaturas extremas; autoridades advierten sobre riesgos.",
+        "title": "Hombre muere por golpe de calor en Hermosillo",
+        "summary": "Ciudadano fallece en colonia Centro por temperaturas extremas durante onda de calor.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/hombre-muere-por-golpe-de-calor-en-la-colonia-centro-de-hermosillo/",
-        "_added_at": "2026-07-26T11:51:13.731272-07:00"
+        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       },
       {
-        "title": "Imparten clases gratuitas de cerámica en La Sauceda",
-        "summary": "Dependencia ofrece talleres artísticos sin costo para habitantes de la zona.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/imparten-clases-gratuitas-de-ceramica-en-la-sauceda/",
-        "_added_at": "2026-07-26T11:51:13.731272-07:00"
-      },
-      {
-        "title": "Sonora segundo lugar en muertes por calor",
-        "summary": "Estado ocupa posición crítica en estadística nacional de decesos por temperaturas extremas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/sonora-ocupa-el-segundo-lugar-en-muertes-por-calor/",
-        "_added_at": "2026-07-26T08:52:10.585921-07:00"
-      },
-      {
-        "title": "Advierte Salud sobre deshidratación grave en verano",
-        "summary": "Secretaría estatal alerta que deshidratación severa puede poner en riesgo la vida sin atención oportuna.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/26/llaman-a-tener-cuidado-en-temporada-de-calor/",
-        "_added_at": "2026-07-26T08:52:10.585921-07:00"
+        "title": "Auto cae 100 metros por barranco en Guaymas",
+        "summary": "Vehículo sedán se voltea y precipita en cerro del Vigía al norte de Guaymas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/cae-vehiculo-del-camino-al-cerro-del-vigia-en-guaymas-/261233",
+        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-26T23:15:07.983505-07:00"
+  "last_updated": "2026-07-27T05:08:37.643847-07:00"
 }
