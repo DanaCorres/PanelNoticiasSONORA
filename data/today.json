@@ -1,8 +1,29 @@
 {
   "date": "2026-07-26",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre muere en ataque armado en Hermosillo",
+        "summary": "Persona fallece tras ser atacada a disparos en domicilio abandonado de la capital sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/hombre-fallece-tras-ataque-armado-en-un-domicilio-abandonado-de-hermosillo-investigaciones-en-curso/",
+        "_added_at": "2026-07-26T18:29:06.011860-07:00"
+      },
+      {
+        "title": "Dos jóvenes vinculados por ataque a policías en Ciudad Obregón",
+        "summary": "Procesados por disparar contra elementos y por actividades de narcomenudeo en Cajeme.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/26/vinculan-a-proceso-a-dos-jovenes-por-ataque-armado-contra-policias-y-marinos-y-por-narcomenudeo-en-ciudad-obregon/",
+        "_added_at": "2026-07-26T18:29:06.011860-07:00"
+      },
+      {
+        "title": "Aseguran equipos clandestinos y máquinas en Nogales",
+        "summary": "Operativo conjunto incauta ocho cámaras ocultas y veintiséis máquinas tragamonedas vinculadas a delincuencia.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/26/aseguran-8-camaras-clandestinas-y-26-maquinas-tragamonedas-en-operativos-contra-grupos-delictivos-en-nogales/",
+        "_added_at": "2026-07-26T18:29:06.011860-07:00"
+      },
       {
         "title": "Hombre fallece por golpe de calor en Hermosillo",
         "summary": "Muerte registrada en colonia Centro por temperaturas extremas. Autoridades alertan sobre riesgos de deshidratación grave durante temporada de calor.",
@@ -51,30 +72,30 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/reportan-dos-hallazgos-de-personas-sin-vida/",
         "_added_at": "2026-07-26T11:51:13.731272-07:00"
-      },
-      {
-        "title": "Decomisan 406 kilos metanfetamina en Nogales",
-        "summary": "Sedena incauta importante cantidad de droga sintética en operativo fronterizo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/26/decomisa-defensa-406-kilogramos-de-metanfetamina/",
-        "_added_at": "2026-07-26T08:52:10.585921-07:00"
-      },
-      {
-        "title": "Capturan con mil pastillas sicotrópicas en Nogales",
-        "summary": "Detienen a sujeto portando gran cantidad de medicamentos controlados.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/26/llevaba-mil-17-pastillas-sicotropicas-es-capturado/",
-        "_added_at": "2026-07-26T08:52:10.585921-07:00"
-      },
-      {
-        "title": "Tres detenidos con droga en Hermosillo",
-        "summary": "Operativos simultáneos en capital resultan en detenciones por tráfico de estupefacientes.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/26/caen-tres-hombres-con-droga-en-distintos-operativos-en-hermosillo/",
-        "_added_at": "2026-07-26T08:52:10.585921-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Gobernadora menciona transformación territorial de Sonora",
+        "summary": "Célida López subraya expansión y cambios en el territorio estatal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/26/mas-territorio-mas-transformacion-celida-lopez/",
+        "_added_at": "2026-07-26T18:29:06.011860-07:00"
+      },
+      {
+        "title": "Familias sonorenses reciben apoyos económicos de 2,500 pesos",
+        "summary": "Más de dieciséis mil familias reciben depositos; autoridades dan fechas para próximos pagos.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/26/mas-de-16-mil-familias-de-sonora-reciben-nuevo-deposito-de-2500-pesos-ya-hay-fechas-para-los-proximos-apoyos-durazo/",
+        "_added_at": "2026-07-26T18:29:06.011860-07:00"
+      },
+      {
+        "title": "Prevén licitación de veintiséis arcos carreteros en Sonora",
+        "summary": "Se prepara proceso de licitación para infraestructura de arcos en carreteras estatales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/26/preven-iniciar-licitacion-de-26-arcos-carreteros-en-sonora/",
+        "_added_at": "2026-07-26T18:29:06.011860-07:00"
+      },
       {
         "title": "Doce familias de Cajeme reciben escrituras de viviendas",
         "summary": "Gobierno municipal entrega documentos que aseguran patrimonio a familias. Claudia Santacruz destaca acciones de regularización.",
@@ -150,6 +171,20 @@
     ],
     "sociedad": [
       {
+        "title": "Descubren nueva especie de araña en Hermosillo",
+        "summary": "Científicos hallan araña microscópica en Cerro Altares; la nombran en honor a la bacanora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/cientificos-mexicanos-descubren-una-nueva-especie-de-arana-en-el-cerro-altares-de-hermosillo-y-la-nombran-filistatinella-bacanora-en-honor-a-la-bebida-sonorense/",
+        "_added_at": "2026-07-26T18:29:06.011860-07:00"
+      },
+      {
+        "title": "DIF Hermosillo invita a apoyar asociaciones civiles",
+        "summary": "Organización propone plataforma única para ayudar más de ochenta asociaciones durante vacaciones.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/26/vacaciones-con-causa-dif-hermosillo-invita-a-apoyar-a-mas-de-80-asociaciones-civiles-desde-una-sola-plataforma/",
+        "_added_at": "2026-07-26T18:29:06.011860-07:00"
+      },
+      {
         "title": "Hospital del ISSSTE enfrenta apagones y filtraciones de agua",
         "summary": "Denuncian falla de energía e infiltraciones de agua en instalaciones. Requieren atención inmediata para funcionamiento adecuado.",
         "source": "Proyecto Puente",
@@ -204,22 +239,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/bajan-al-50-las-llamadas-falsas-al-911-en-sonora/261174",
         "_added_at": "2026-07-26T08:52:10.585921-07:00"
-      },
-      {
-        "title": "Hermosillo abre cinco puntos para acopio de basura",
-        "summary": "Ciudad mantiene abiertos sitios para recibir desechos durante periodo vacacional.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/25/haras-limpieza-en-vacaciones-hermosillo-mantiene-abiertos-cinco-puntos-para-recibir-basura-y-cacharros/",
-        "_added_at": "2026-07-26T05:51:36.011626-07:00"
-      },
-      {
-        "title": "Domo de calor cederá en Sonora próximamente",
-        "summary": "Pronóstico de ligero descenso de temperaturas tras período de intenso calor en la entidad.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/pronostican-leve-descenso-de-temperaturas-en-sonora/261160",
-        "_added_at": "2026-07-26T03:26:22.174556-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-26T14:45:30.218674-07:00"
+  "last_updated": "2026-07-26T18:29:06.011860-07:00"
 }
