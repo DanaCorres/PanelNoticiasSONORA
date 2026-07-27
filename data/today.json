@@ -1,8 +1,36 @@
 {
   "date": "2026-07-27",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Más del 53% de presos en Sonora aguardan sentencia judicial",
+        "summary": "Censo revela que miles de internos esperan resolución judicial por meses o años, superando media nacional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/mas-del-53-de-los-presos-en-sonora-no-tiene-sentencia-el-estado-supera-la-media-nacional-de-personas-en-espera-de-juicio/",
+        "_added_at": "2026-07-27T12:07:11.050482-07:00"
+      },
+      {
+        "title": "Derrame químico en tren causa preocupación en Naco",
+        "summary": "Descarrilamiento vierte 65 mil litros de químico en Naco, bajo vigilancia ambiental del ejido.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/descarrilamiento-de-tren-en-naco-derrama-65-mil-litros-de-quimico-y-mantiene-bajo-vigilancia-ambiental-al-ejido-cuauhtemoc/",
+        "_added_at": "2026-07-27T12:07:11.050482-07:00"
+      },
+      {
+        "title": "Hallan sin vida a persona en colonia Olivares de Hermosillo",
+        "summary": "Descubren cuerpo en departamento tras reporte de vecinos por fuerte olor.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/hallan-a-una-persona-sin-vida-en-un-departamento-de-la-colonia-olivares-de-hermosillo-luego-de-que-vecinos-reportaran-fuerte-olor/",
+        "_added_at": "2026-07-27T12:07:11.050482-07:00"
+      },
+      {
+        "title": "Buscan a dos adolescentes desaparecidas en Nogales",
+        "summary": "Reportan desaparición de dos menores en Nogales; autoridades inician búsqueda.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/27/reportan-a-dos-menores-desaparecidas-en-nogales/",
+        "_added_at": "2026-07-27T12:07:11.050482-07:00"
+      },
       {
         "title": "Operativo en Nogales asegura equipos usados por crimen",
         "summary": "Autoridades decomisan cámaras ocultas, tragamonedas y computadoras en Nogales durante operación conjunta contra vigilancia delictiva.",
@@ -44,23 +72,30 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/07/26/aseguran-8-camaras-clandestinas-y-26-maquinas-tragamonedas-en-operativos-contra-grupos-delictivos-en-nogales/",
         "_added_at": "2026-07-27T05:08:37.643847-07:00"
-      },
-      {
-        "title": "Vinculan a proceso a dos jóvenes por ataque armado en Obregón",
-        "summary": "Dos individuos procesados por atacar policías, marinos y distribuir drogas en Ciudad Obregón.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/26/vinculan-a-proceso-a-dos-jovenes-por-ataque-armado-contra-policias-y-marinos-y-por-narcomenudeo-en-ciudad-obregon/",
-        "_added_at": "2026-07-27T05:08:37.643847-07:00"
-      },
-      {
-        "title": "Hombre fallece tras ataque armado en Hermosillo",
-        "summary": "Persona muere en domicilio abandonado tras enfrentamiento violento en la capital.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/hombre-fallece-tras-ataque-armado-en-un-domicilio-abandonado-de-hermosillo-investigaciones-en-curso/",
-        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Vecinos de Mirabal bloquean carretera por regularización de terrenos",
+        "summary": "Habitantes cierran vía Hermosillo-Guaymas demandando regularización de propiedades.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/27/vecinos-de-mirabal-bloquean-carretera-hermosillo-guaymas-exigen-regularizacion-de-terrenos/",
+        "_added_at": "2026-07-27T12:07:11.050482-07:00"
+      },
+      {
+        "title": "Proponen elevar edad de consentimiento sexual de 12 a 16 años",
+        "summary": "Organizaciones piden cambio en ley y eliminar delito de estupro para proteger menores.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/buscan-cambiar-la-edad-de-consentimiento-sexual-en-sonora/261275",
+        "_added_at": "2026-07-27T12:07:11.050482-07:00"
+      },
+      {
+        "title": "Aplazan decisión judicial en caso Dafne; continúa este jueves",
+        "summary": "Audiencia del caso Dafne se difiere; seguimiento judicial previsto para próxima semana.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/27/aplazan-decision-judicial-en-caso-dafne-audiencia-continuara-este-jueves/",
+        "_added_at": "2026-07-27T12:07:11.050482-07:00"
+      },
       {
         "title": "Sonora entrega segundo apoyo a familias de tarjeta oportunidades",
         "summary": "Más de 16 mil familias reciben segundo depósito bimestral de 2,500 pesos; habrá tres pagos más en 2026.",
@@ -99,6 +134,20 @@
     ],
     "economia": [
       {
+        "title": "Calor eleva precios de frutas y verduras en Sonora",
+        "summary": "Temperaturas extremas aumentan costo de productos agrícolas de consumo diario.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/el-calor-en-sonora-empieza-a-pegar-al-bolsillo-suben-de-precio-verduras-y-frutas-de-consumo-diario/",
+        "_added_at": "2026-07-27T12:07:11.050482-07:00"
+      },
+      {
+        "title": "Más de 16 mil familias reciben apoyo bimestral del Gobierno",
+        "summary": "Segundo depósito beneficia hogares de 72 municipios con 2 mil 500 pesos bimestrales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/fortalece-adm-economia-de-los-hogares-sonorenses/261257",
+        "_added_at": "2026-07-27T12:07:11.050482-07:00"
+      },
+      {
         "title": "Mosca estéril combate plaga del gusano barrenador",
         "summary": "Estrategia de control biológico busca reducir plagas agrícolas en región sonorense.",
         "source": "El Imparcial",
@@ -121,6 +170,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora enfrentará tormentas, granizo y calor extremo esta semana",
+        "summary": "Monzón mantiene activos fenómenos climáticos severos incluyendo lluvias intensas y temperaturas altas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/lluvias-intensas-tormentas-electricas-y-calor-extremo-afectaran-a-sonora-esta-semana-por-los-efectos-que-mantiene-activo-el-monzon-mexicano/",
+        "_added_at": "2026-07-27T12:07:11.050482-07:00"
+      },
+      {
+        "title": "Muere hombre tras ser arrollado por tren en Ciudad Obregón",
+        "summary": "Fatálidad vial en Ciudad Obregón involucra accidente ferroviario con resultado mortal.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/muere-hombre-arrollado-por-tren-en-ciudad-obregon/261261",
+        "_added_at": "2026-07-27T12:07:11.050482-07:00"
+      },
       {
         "title": "Helicóptero rescata mujer aislada en Aquinavo",
         "summary": "Comunidad quedó incomunicada por crecientes; efectivos rescatan a persona en situación de vulnerabilidad.",
@@ -179,5 +242,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-27T09:52:13.198894-07:00"
+  "last_updated": "2026-07-27T12:07:11.050482-07:00"
 }
