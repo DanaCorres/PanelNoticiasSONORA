@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -80,6 +80,20 @@
     ],
     "sociedad": [
       {
+        "title": "Lluvias causan 73 afectaciones en Sonora sin víctimas fatales",
+        "summary": "Tormenta provocó árboles caídos, cables dañados y vehículos varados; Hermosillo concentró emergencias.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/28/lluvias-en-sonora-dejan-arboles-cables-y-postes-caidos-hermosillo-concentro-el-mayor-numero-de-incidentes-y-ures-registra-la-mayor-precipitacion-con-75-milimetros/",
+        "_added_at": "2026-07-28T04:07:33.885356-07:00"
+      },
+      {
+        "title": "Fuertes vientos causan daños en Ciudad Obregón y Hermosillo",
+        "summary": "Palmas caen sobre vehículos en Cajeme; tormenta paraliza calles y genera caos en hoteles.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/hermosillo-enfrenta-tormenta-fuertes-vientos-y-autos-varados-por-inundaciones-en-diversas-calles/",
+        "_added_at": "2026-07-28T04:07:33.885356-07:00"
+      },
+      {
         "title": "Lluvias dejan 73 afectaciones en Sonora sin víctimas",
         "summary": "Tormentas causan daños en infraestructura; Hermosillo concentra mayor número de incidentes.",
         "source": "Expreso",
@@ -109,5 +123,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-28T01:10:02.611205-07:00"
+  "last_updated": "2026-07-28T04:07:33.885356-07:00"
 }
