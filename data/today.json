@@ -1,8 +1,29 @@
 {
   "date": "2026-07-28",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tráiler cisterna choca dos autos en Guaymas-Empalme",
+        "summary": "Mujer y niño de dos años resultan lesionados en accidente con tráiler en semáforo de San Judas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/trailer-choca-dos-autos-en-libramiento-de-guaymas-empalme/261339",
+        "_added_at": "2026-07-28T12:02:40.738464-07:00"
+      },
+      {
+        "title": "Rescatan a siete personas en kayak durante lluvia en San Carlos",
+        "summary": "Operativo de rescate en San Carlos tras paseo nocturno afectado por condiciones climáticas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/rescate-de-siete-personas-en-kayak-por-lluvias-en-san-carlos/261332",
+        "_added_at": "2026-07-28T12:02:40.738464-07:00"
+      },
+      {
+        "title": "Detienen joven tras agredir e intimidar a madre en Hermosillo",
+        "summary": "Operativo al sur de Hermosillo por agresión y amenazas dentro del núcleo familiar.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/detienen-a-joven-tras-agredir-e-intimidar-a-su-madre-al-sur-de-hermosillo/",
+        "_added_at": "2026-07-28T12:02:40.738464-07:00"
+      },
       {
         "title": "Tren descarrila en Naco; derrama químico peligroso",
         "summary": "Descarrilamiento de tren causó derrame de 59 mil litros de hidrosulfuro de sodio. Profepa investiga impacto ambiental del incidente en Sonora.",
@@ -51,30 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/bomberos-rescatan-a-menor-arrastrado-por-la-corriente-de-un-arroyo-al-sur-de-hermosillo-durante-la-tormenta/",
         "_added_at": "2026-07-28T01:10:02.611205-07:00"
-      },
-      {
-        "title": "Hombre vinculado a proceso por homicidio en Nogales",
-        "summary": "Manuel Michael N es ligado a proceso por delito de homicidio en Nogales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/27/manuel-michael-n-es-vinculado-a-proceso-por-homicidio-en-nogales/",
-        "_added_at": "2026-07-28T01:10:02.611205-07:00"
-      },
-      {
-        "title": "Menores desaparecidas localizadas sanas en Nogales",
-        "summary": "Policía municipal ubica a dos menores reportadas desaparecidas en colonia de Nogales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-a-menores-reportadas-desaparecidas-en-nogales/261305",
-        "_added_at": "2026-07-28T01:10:02.611205-07:00"
-      },
-      {
-        "title": "Derrame de químico en Sonora tras descarrilamiento",
-        "summary": "PROFEPA atiende emergencia por fuga de hidrosulfuro tras accidente ferroviario.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/profepa-atiende-emergencia-por-derrame-de-59-mil-litros-de-hidrosulfuro-de-sodio-en-sonora-tras-descarrilamiento-de-tren/",
-        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum anuncia consulta pública sobre derechos de audiencias",
+        "summary": "Presidenta aclara que iniciativa busca proteger derechos, no censurar contenido en plataformas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/sheinbaum-anuncia-consulta-publica-sobre-derechos-de-audiencias-aclara-que-no-busca-censura/",
+        "_added_at": "2026-07-28T12:02:40.738464-07:00"
+      },
       {
         "title": "Gobierno niega aumento de alertas en aduanas",
         "summary": "Federación asegura no tener reportes de incremento en semáforo rojo en aduanas de Baja California y Sonora.",
@@ -119,6 +126,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Lorenia Valles destaca subsidio eléctrico y obras en Hermosillo",
+        "summary": "Autoridades promocionan beneficios de apoyo a electricidad e infraestructura en la capital sonorense.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/valles-destaca-obras-subsidio-electrico-y-polo-de-bienestar/261314",
+        "_added_at": "2026-07-28T12:02:40.738464-07:00"
+      },
       {
         "title": "Sonora impulsa alianza para sector aeroespacial",
         "summary": "Gobierno, universidades y empresas sellan alianza estratégica para consolidar industria aeroespacial como motor económico del estado.",
@@ -171,6 +185,27 @@
     ],
     "sociedad": [
       {
+        "title": "Microrráfagas generan vientos de 100+ km/h en Hermosillo",
+        "summary": "Fenómeno meteorológico causa fuertes vientos localizados en colonias de la capital sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/microrrafagas-en-hermosillo-por-que-la-tormenta-de-ayer-provoco-vientos-de-mas-de-100-kmh-en-una-colonia-y-no-se-sintio-igual-a-pocas-cuadras/",
+        "_added_at": "2026-07-28T12:02:40.738464-07:00"
+      },
+      {
+        "title": "Hermosillo refuerza descacharre contra dengue",
+        "summary": "Municipio intensifica operativos de eliminación de criaderos de mosquitos en colonias afectadas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/hay-cacharros-en-tu-patio-hermosillo-refuerza-el-descacharre-contra-el-dengue-asi-puedes-consultar-cuando-llegara-a-tu-colonia/",
+        "_added_at": "2026-07-28T12:02:40.738464-07:00"
+      },
+      {
+        "title": "Hallan cadáver en Hermosillo; rescatan 20 perros",
+        "summary": "Vecinos alertan por olores en vivienda al norte. Autoridades localizan a persona sin vida y aseguran animales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/vecinos-alertan-por-olores-en-vivienda-al-norte-de-hermosillo-hallan-a-hombre-sin-vida-y-resguardan-a-20-perros/",
+        "_added_at": "2026-07-28T12:02:40.738464-07:00"
+      },
+      {
         "title": "Estadio Ciclón Echeverría avanza en remodelación",
         "summary": "Proyecto de remodelación del estadio Manuel Echeverría en Navojoa entra en nueva etapa de construcción.",
         "source": "Expreso",
@@ -218,29 +253,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/28/lluvias-en-sonora-dejan-arboles-cables-y-postes-caidos-hermosillo-concentro-el-mayor-numero-de-incidentes-y-ures-registra-la-mayor-precipitacion-con-75-milimetros/",
         "_added_at": "2026-07-28T04:07:33.885356-07:00"
-      },
-      {
-        "title": "Fuertes vientos causan daños en Ciudad Obregón y Hermosillo",
-        "summary": "Palmas caen sobre vehículos en Cajeme; tormenta paraliza calles y genera caos en hoteles.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/hermosillo-enfrenta-tormenta-fuertes-vientos-y-autos-varados-por-inundaciones-en-diversas-calles/",
-        "_added_at": "2026-07-28T04:07:33.885356-07:00"
-      },
-      {
-        "title": "Lluvias dejan 73 afectaciones en Sonora sin víctimas",
-        "summary": "Tormentas causan daños en infraestructura; Hermosillo concentra mayor número de incidentes.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-dejan-73-incidentes-en-sonora-descartan-victimas/261323",
-        "_added_at": "2026-07-28T01:10:02.611205-07:00"
-      },
-      {
-        "title": "Fuertes vientos derriban palmas sobre autos en Ciudad Obregón",
-        "summary": "Tormenta causa daños a vehículos por caída de árboles en la región.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/28/caen-palmas-sobre-vehiculos-en-ciudad-obregon-tras-fuertes-vientos/",
-        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-28T09:27:04.406722-07:00"
+  "last_updated": "2026-07-28T12:02:40.738464-07:00"
 }
