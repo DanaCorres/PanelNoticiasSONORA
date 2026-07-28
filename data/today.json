@@ -1,8 +1,36 @@
 {
   "date": "2026-07-28",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tren descarrila en Naco; derrama químico peligroso",
+        "summary": "Descarrilamiento de tren causó derrame de 59 mil litros de hidrosulfuro de sodio. Profepa investiga impacto ambiental del incidente en Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/descarrila-tren-y-derrama-59-mil-litros-de-quimico/261327",
+        "_added_at": "2026-07-28T09:27:04.406722-07:00"
+      },
+      {
+        "title": "Rescatan dos personas atrapadas en auto por lluvia",
+        "summary": "Policías y vecinos sacaron a dos personas de vehículo arrastrado por corriente de agua en Hermosillo durante lluvias intensas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/policias-y-vecinos-rescatan-a-dos-personas-de-un-auto-arrastrado-por-la-lluvia-en-la-colonia-la-caridad-de-hermosillo/",
+        "_added_at": "2026-07-28T09:27:04.406722-07:00"
+      },
+      {
+        "title": "Niño perdido hallado sano en norte de Hermosillo",
+        "summary": "Localizaron a menor de tres años reportado como extraviado. Fue encontrado sano y salvo en el sector norte de la capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/localizan-sano-y-salvo-a-nino-de-3-anos-reportado-como-extraviado-al-norte-de-hermosillo/",
+        "_added_at": "2026-07-28T09:27:04.406722-07:00"
+      },
+      {
+        "title": "Policía evita suicidio de mujer en puente sur",
+        "summary": "Elementos preventivos impidieron que mujer se lanzara de puente peatonal al sur de Hermosillo durante operativo de seguridad.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/policias-evitan-que-mujer-se-lance-de-puente-peatonal-al-sur-de-hermosillo/",
+        "_added_at": "2026-07-28T09:27:04.406722-07:00"
+      },
       {
         "title": "Lluvias causan 73 afectaciones en Sonora sin víctimas",
         "summary": "Tormentas con vientos fuertes dejan árboles caídos y daños en infraestructura. Hermosillo registra la mayor cantidad de incidentes.",
@@ -48,6 +76,13 @@
     ],
     "politica": [
       {
+        "title": "Gobierno niega aumento de alertas en aduanas",
+        "summary": "Federación asegura no tener reportes de incremento en semáforo rojo en aduanas de Baja California y Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/07/28/afirma-federacion-que-no-tienen-reporte-de-incremento-de-semaforo-rojo-en-aduanas-de-bc-y-sonora/",
+        "_added_at": "2026-07-28T09:27:04.406722-07:00"
+      },
+      {
         "title": "Durazo impulsa alianza para fortalecer sector aeroespacial",
         "summary": "Gobierno estatal busca consolidar industria aeroespacial mediante colaboración estratégica con academia y empresas.",
         "source": "Expreso",
@@ -85,6 +120,20 @@
     ],
     "economia": [
       {
+        "title": "Sonora impulsa alianza para sector aeroespacial",
+        "summary": "Gobierno, universidades y empresas sellan alianza estratégica para consolidar industria aeroespacial como motor económico del estado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/impulsa-sonora-alianza-para-fortalecer-sector-aeroespacial/261328",
+        "_added_at": "2026-07-28T09:27:04.406722-07:00"
+      },
+      {
+        "title": "Control de plaga de gusano recae en ganaderos",
+        "summary": "Gobierno y productores comparten responsabilidad de combatir gusano barrenador detectado en Sonora y Chihuahua mediante revisión exhaustiva.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/07/28/mantener-controlada-las-plaga-del-gusano-barrenador-tambien-es-responsabilidad-de-ganaderos-sheinbaum/",
+        "_added_at": "2026-07-28T09:27:04.406722-07:00"
+      },
+      {
         "title": "Calor dispara precios de frutas y verduras en Sonora",
         "summary": "Temperaturas altas reducen producción local de hortalizas, generando incremento en costos de consumo diario.",
         "source": "El Imparcial",
@@ -121,6 +170,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Estadio Ciclón Echeverría avanza en remodelación",
+        "summary": "Proyecto de remodelación del estadio Manuel Echeverría en Navojoa entra en nueva etapa de construcción.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/remodelacion-del-ciclon-echeverria-entra-en-nueva-etapa/261308",
+        "_added_at": "2026-07-28T09:27:04.406722-07:00"
+      },
+      {
+        "title": "Joven detenido por agredir a niño de tres años",
+        "summary": "Capturan a sujeto que golpeó a su sobrino de tres años tras un berrinche en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/arrestan-a-joven-por-golpear-a-su-sobrino-de-3-anos-tras-un-berrinche-en-hermosillo/",
+        "_added_at": "2026-07-28T09:27:04.406722-07:00"
+      },
+      {
+        "title": "Detienen joven por agredir a su madre",
+        "summary": "Autoridades capturaron a individuo que agredió e intimidó a su madre en sector sur de Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/detienen-a-joven-tras-agredir-e-intimidar-a-su-madre-al-sur-de-hermosillo/",
+        "_added_at": "2026-07-28T09:27:04.406722-07:00"
+      },
       {
         "title": "Adopción y tenencia responsable reducen maltrato animal",
         "summary": "Expertos en Hermosillo destacan importancia de esterilización y cuidado responsable de mascotas.",
@@ -169,22 +239,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/28/caen-palmas-sobre-vehiculos-en-ciudad-obregon-tras-fuertes-vientos/",
         "_added_at": "2026-07-28T01:10:02.611205-07:00"
-      },
-      {
-        "title": "Padres apoyan restricción celular en menores de 16 años",
-        "summary": "Progenitores de Hermosillo respaldan medida para limitar uso de dispositivos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/padres-de-hermosillo-apoyan-restriccion-al-uso-de-celulares-en-menores-de-16-anos-pero-reconocen-retos/",
-        "_added_at": "2026-07-28T01:10:02.611205-07:00"
-      },
-      {
-        "title": "Cruz Roja invita a donar útiles escolares en San Luis",
-        "summary": "Organización solicita apoyo comunitario para estudiantes de primaria.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/sanluis/2026/07/28/cruz-roja-de-san-luis-invita-a-donar-utiles-escolares-para-apoyar-a-estudiantes-de-primaria/",
-        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-28T06:25:04.470547-07:00"
+  "last_updated": "2026-07-28T09:27:04.406722-07:00"
 }
