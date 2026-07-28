@@ -1,8 +1,15 @@
 {
   "date": "2026-07-28",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Auto se incendia en Ciudad Obregón",
+        "summary": "Vehículo de plataforma se incendia durante viaje. Conductor y pasajeros logran evacuarse sin mayores daños.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/obregon-vehiculo-se-incendia-durante-viaje-de-plataforma/261358",
+        "_added_at": "2026-07-28T14:53:45.683488-07:00"
+      },
       {
         "title": "Tráiler cisterna choca dos autos en Guaymas-Empalme",
         "summary": "Mujer y niño de dos años resultan lesionados en accidente con tráiler en semáforo de San Judas.",
@@ -65,16 +72,30 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/28/siete-personas-mueren-en-tres-dias-en-hermosillo-calor-accidentes-y-hechos-violentos/",
         "_added_at": "2026-07-28T06:25:04.470547-07:00"
-      },
-      {
-        "title": "Menor rescatado tras arrastre en arroyo de Hermosillo",
-        "summary": "Bomberos rescatan a niño arrastrado por corriente durante tormenta en el sur de Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/bomberos-rescatan-a-menor-arrastrado-por-la-corriente-de-un-arroyo-al-sur-de-hermosillo-durante-la-tormenta/",
-        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Durazo confirma construcción de Hospital de Ures",
+        "summary": "Gobernador anuncia inicio de construcción del nuevo hospital en Ures este miércoles.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/28/gobernador-alfonso-durazo-anuncia-comienzo-de-la-construccion-del-nuevo-hospital-de-ures-este-miercoles/",
+        "_added_at": "2026-07-28T14:53:45.683488-07:00"
+      },
+      {
+        "title": "Presupuesto CRECES de Hermosillo gana premio nacional",
+        "summary": "Programa de participación ciudadana de Hermosillo recibe reconocimiento NovaGob México 2026.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/presupuesto-creces-de-hermosillo-gana-premio-novagob-mexico-2026-por-impulsar-la-participacion-ciudadana/",
+        "_added_at": "2026-07-28T14:53:45.683488-07:00"
+      },
+      {
+        "title": "Dolores del Río plantea ley de cuidados para Sonora",
+        "summary": "Legisladora propone nueva iniciativa de ley enfocada en sistema de cuidados estatal.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/dolores-del-rio-plantea-una-ley-de-cuidados/261356",
+        "_added_at": "2026-07-28T14:53:45.683488-07:00"
+      },
       {
         "title": "Sheinbaum anuncia consulta pública sobre derechos de audiencias",
         "summary": "Presidenta aclara que iniciativa busca proteger derechos, no censurar contenido en plataformas.",
@@ -126,6 +147,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Ganaderos preparan defensa contra gusano barrenador",
+        "summary": "Sector ganadero sonorense se organiza para frenar plagas ante reapertura de frontera con Estados Unidos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/28/ganaderos-de-sonora-se-preparan-para-frenar-el-gusano-barrenador-ante-reapertura-de-frontera/",
+        "_added_at": "2026-07-28T14:53:45.683488-07:00"
+      },
+      {
+        "title": "México y EEUU refuerzan estrategia contra gusano barrenador",
+        "summary": "Ambos países coordinan acciones para contener plagas en ganadería fronteriza.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/mexico-y-eeuu-refuerzan-estrategia-contra-el-gusano-barrenador-del-ganado/",
+        "_added_at": "2026-07-28T14:53:45.683488-07:00"
+      },
       {
         "title": "Lorenia Valles destaca subsidio eléctrico y obras en Hermosillo",
         "summary": "Autoridades promocionan beneficios de apoyo a electricidad e infraestructura en la capital sonorense.",
@@ -185,6 +220,27 @@
     ],
     "sociedad": [
       {
+        "title": "Lluvias del monzón revitalizan ríos y ecosistemas",
+        "summary": "Precipitaciones pluviales benefician recursos hídricos y fauna de Sonora tras sequía prolongada.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/monzon-en-sonora-lluvias-aumentan-caudal-de-rios-y-fauna/261348",
+        "_added_at": "2026-07-28T14:53:45.683488-07:00"
+      },
+      {
+        "title": "Lluvias continúan en nueve municipios sonorenses",
+        "summary": "Pronóstico de tormentas con rayos y vientos en múltiples zonas del estado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/28/sonora-tendra-menos-lluvias-pero-nueve-municipios-aun-podrian-registrar-tormentas-con-viento-y-descargas-electricas/",
+        "_added_at": "2026-07-28T14:53:45.683488-07:00"
+      },
+      {
+        "title": "Durazo asegura atención a daños por lluvias intensas",
+        "summary": "Gobernador confirma ayuda en municipios donde se registraron precipitaciones excepcionales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/hay-lugares-en-sonora-donde-llovio-lo-que-no-llovio-en-meses-alfonso-durazo-asegura-atencion-a-danos/",
+        "_added_at": "2026-07-28T14:53:45.683488-07:00"
+      },
+      {
         "title": "Microrráfagas generan vientos de 100+ km/h en Hermosillo",
         "summary": "Fenómeno meteorológico causa fuertes vientos localizados en colonias de la capital sonorense.",
         "source": "El Imparcial",
@@ -232,29 +288,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/28/adopcion-tenencia-responsable-y-esterilizacion-claves-para-reducir-la-sobrepoblacion-y-el-maltrato-animal-en-hermosillo/",
         "_added_at": "2026-07-28T06:25:04.470547-07:00"
-      },
-      {
-        "title": "Familia hermosillense busca actualizar récord Guinness",
-        "summary": "Descendientes de Celia Porchas pretenden preservar legado histórico con nuevo logro internacional.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/28/de-una-taza-de-regalo-a-un-record-guinness-familia-de-la-hermosillense-celia-porchas-busca-actualizar-la-marca-y-preservar-su-legado/",
-        "_added_at": "2026-07-28T06:25:04.470547-07:00"
-      },
-      {
-        "title": "Hermosillo registra brechas de precios en canasta básica",
-        "summary": "Análisis muestra disparidad de costos entre colonias Morelos y Camino del Seri en alimentos.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/28/hermosillo-tiene-la-canasta-basica-mas-barata-y-tambien-la-mas-cara-del-pais-una-en-el-morelos-otra-en-camino-del-seri-por-que/",
-        "_added_at": "2026-07-28T06:25:04.470547-07:00"
-      },
-      {
-        "title": "Lluvias causan 73 afectaciones en Sonora sin víctimas fatales",
-        "summary": "Tormenta provocó árboles caídos, cables dañados y vehículos varados; Hermosillo concentró emergencias.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/28/lluvias-en-sonora-dejan-arboles-cables-y-postes-caidos-hermosillo-concentro-el-mayor-numero-de-incidentes-y-ures-registra-la-mayor-precipitacion-con-75-milimetros/",
-        "_added_at": "2026-07-28T04:07:33.885356-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-28T12:02:40.738464-07:00"
+  "last_updated": "2026-07-28T14:53:45.683488-07:00"
 }
