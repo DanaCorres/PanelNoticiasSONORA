@@ -1,8 +1,29 @@
 {
   "date": "2026-07-27",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a sujeto a proceso por homicidio en Nogales",
+        "summary": "Manuel Michael N fue vinculado a proceso por homicidio en Nogales tras investigación de autoridades locales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/27/manuel-michael-n-es-vinculado-a-proceso-por-homicidio-en-nogales/",
+        "_added_at": "2026-07-27T18:16:34.743897-07:00"
+      },
+      {
+        "title": "Localizan menores reportadas desaparecidas en Nogales",
+        "summary": "Policía ubicó a dos menores en colonia Luis Donaldo Colosio Murrieta; estaban con adolescente con quien una mantiene relación.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-a-menores-reportadas-desaparecidas-en-nogales/261305",
+        "_added_at": "2026-07-27T18:16:34.743897-07:00"
+      },
+      {
+        "title": "Detienen a presunto agresor de perrita en Bácum",
+        "summary": "Valentín N fue detenido en Santa Teresa tras denuncia por agresión animal; trasladado a CERESO Ciudad Obregón.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/detienen-a-presunto-agresor-de-perrita-more-en-bacum/261297",
+        "_added_at": "2026-07-27T18:16:34.743897-07:00"
+      },
       {
         "title": "Detienen a líder criminal vinculado a Los Chapitos",
         "summary": "Capturan a El Tío, jefe de grupo delictivo relacionado con organización de narcotráfico.",
@@ -51,30 +72,23 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/07/27/reportan-a-dos-menores-desaparecidas-en-nogales/",
         "_added_at": "2026-07-27T12:07:11.050482-07:00"
-      },
-      {
-        "title": "Operativo en Nogales asegura equipos usados por crimen",
-        "summary": "Autoridades decomisan cámaras ocultas, tragamonedas y computadoras en Nogales durante operación conjunta contra vigilancia delictiva.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/26/golpe-a-la-vigilancia-del-crimen-en-nogales-aseguran-camaras-ocultas-tragamonedas-y-equipos-de-computo-en-operativo-conjunto/",
-        "_added_at": "2026-07-27T09:52:13.198894-07:00"
-      },
-      {
-        "title": "Hombre arrestado por violencia doméstica en Hermosillo",
-        "summary": "Detienen a sujeto acusado de golpear e insultar a su pareja en la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/arrestan-a-hombre-por-golpear-e-insultar-a-su-pareja-en-hermosillo/",
-        "_added_at": "2026-07-27T09:52:13.198894-07:00"
-      },
-      {
-        "title": "Accidentes frecuentes en carreteras de presa en Obregón",
-        "summary": "Registran hasta tres siniestros viales cada fin de semana en caminos de la zona de presas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/27/se-dan-hasta-tres-accidentes-en-caminos-de-la-presa-por-fin-de-semana/",
-        "_added_at": "2026-07-27T09:52:13.198894-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Padres de Hermosillo apoyan restricción celular en menores",
+        "summary": "Sector parental respalda propuesta de regular uso de teléfonos en menores de 16 años; reconocen desafíos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/padres-de-hermosillo-apoyan-restriccion-al-uso-de-celulares-en-menores-de-16-anos-pero-reconocen-retos/",
+        "_added_at": "2026-07-27T18:16:34.743897-07:00"
+      },
+      {
+        "title": "Aepaf Sonora respalda regulación de celulares en escuelas",
+        "summary": "Asociación de padres de familia apoya iniciativa de Sheinbaum para limitar dispositivos en planteles educativos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/aepaf-sonora-respalda-propuesta-de-sheinbaum-para-regular-el-uso-de-celulares-en-escuelas/",
+        "_added_at": "2026-07-27T18:16:34.743897-07:00"
+      },
       {
         "title": "Prisión preventiva contra directivos de Academia Doenitz",
         "summary": "Dictan medida cautelar contra director y coordinadora por caso Dafne Zapata.",
@@ -130,16 +144,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/26/mas-territorio-mas-transformacion-celida-lopez/",
         "_added_at": "2026-07-27T05:08:37.643847-07:00"
-      },
-      {
-        "title": "Lorenia Valles respalda reapertura de exportación ganadera a EE.UU.",
-        "summary": "Funcionaria celebra reinicio de comercio de ganado hacia mercados estadounidenses.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-respalda-reapertura-de-exportaciones-ganaderas/261243",
-        "_added_at": "2026-07-27T05:08:37.643847-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Reapertura de frontera da respiro a ganaderos de Sonora",
+        "summary": "Unión Ganadera Regional celebra acceso a mercado; advierte necesidad de plan contingente ante posibles cierres.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/reapertura-de-la-frontera-da-esperanza-a-ganaderos-de-sonora/261298",
+        "_added_at": "2026-07-27T18:16:34.743897-07:00"
+      },
       {
         "title": "Hermosillo registra canasta básica más cara del país",
         "summary": "Profeco reporta que Hermosillo pasó de la más barata a la más cara con 912.50 pesos.",
@@ -191,6 +205,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Derrame químico en Naco tras descarrilamiento de tren",
+        "summary": "Profepa atiende emergencia por 59 mil litros de hidrosulfuro de sodio; investiga impacto ambiental.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/27/confirma-profepa-derrame-de-59-mil-litros-de-quimico-tras-descarrilamiento-de-tren-en-naco-sonora-investiga-posible-impacto-ambiental/",
+        "_added_at": "2026-07-27T18:16:34.743897-07:00"
+      },
+      {
+        "title": "Sonora da luz verde a playas para vacaciones",
+        "summary": "Autoridades confirman que playas cumplen normas sanitarias y están seguras para visitantes.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/27/sonora-da-luz-verde-a-sus-playas-para-vacaciones-autoridades-confirman-que-cumplen-con-normas-sanitarias/",
+        "_added_at": "2026-07-27T18:16:34.743897-07:00"
+      },
       {
         "title": "Aumentan a 186 casos de afectados por calor; tres muertos",
         "summary": "Sonora registra incremento de casos por golpe de calor con tres fallecimientos en Hermosillo.",
@@ -246,22 +274,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/27/ensenan-prevencion-a-ninos-durante-campamento-bombero-junior/",
         "_added_at": "2026-07-27T09:52:13.198894-07:00"
-      },
-      {
-        "title": "Joven en labor de parto recibe auxilio en Hermosillo",
-        "summary": "Paramédicos trasladan de emergencia a embarazada al Hospital de la Mujer en la capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/auxilian-a-joven-en-labor-de-parto-y-la-trasladan-de-emergencia-al-hospital-de-la-mujer-en-hermosillo/",
-        "_added_at": "2026-07-27T09:52:13.198894-07:00"
-      },
-      {
-        "title": "Localizan con vida a Abril Milagros desaparecida en Nogales",
-        "summary": "Mujer reportada como desaparecida es encontrada sana y salva en Nogales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-con-vida-a-mujer-reportada-desaparecida-en-nogales/261237",
-        "_added_at": "2026-07-27T09:52:13.198894-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-27T14:55:01.605365-07:00"
+  "last_updated": "2026-07-27T18:16:34.743897-07:00"
 }
