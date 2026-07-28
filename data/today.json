@@ -1,288 +1,113 @@
 {
-  "date": "2026-07-27",
-  "run_count": 6,
+  "date": "2026-07-28",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Derrame químico en Sonora por descarrilamiento de tren",
-        "summary": "Profepa atiende emergencia por derrame de hidrosulfuro de sodio tras descarrilamiento de tren en Sonora.",
+        "title": "Menor rescatado tras arrastre en arroyo de Hermosillo",
+        "summary": "Bomberos rescatan a niño arrastrado por corriente durante tormenta en el sur de Hermosillo.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/profepa-atiende-emergencia-por-derrame-de-59-mil-litros-de-hidrosulfuro-de-sodio-en-sonora-tras-descarrilamiento-de-tren/",
-        "_added_at": "2026-07-27T22:36:10.716584-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/bomberos-rescatan-a-menor-arrastrado-por-la-corriente-de-un-arroyo-al-sur-de-hermosillo-durante-la-tormenta/",
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       },
       {
-        "title": "Vinculan a sujeto a proceso por homicidio en Nogales",
-        "summary": "Manuel Michael N fue vinculado a proceso por homicidio en Nogales tras investigación de autoridades locales.",
+        "title": "Hombre vinculado a proceso por homicidio en Nogales",
+        "summary": "Manuel Michael N es ligado a proceso por delito de homicidio en Nogales.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/07/27/manuel-michael-n-es-vinculado-a-proceso-por-homicidio-en-nogales/",
-        "_added_at": "2026-07-27T18:16:34.743897-07:00"
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       },
       {
-        "title": "Localizan menores reportadas desaparecidas en Nogales",
-        "summary": "Policía ubicó a dos menores en colonia Luis Donaldo Colosio Murrieta; estaban con adolescente con quien una mantiene relación.",
+        "title": "Menores desaparecidas localizadas sanas en Nogales",
+        "summary": "Policía municipal ubica a dos menores reportadas desaparecidas en colonia de Nogales.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/localizan-a-menores-reportadas-desaparecidas-en-nogales/261305",
-        "_added_at": "2026-07-27T18:16:34.743897-07:00"
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       },
       {
-        "title": "Detienen a presunto agresor de perrita en Bácum",
-        "summary": "Valentín N fue detenido en Santa Teresa tras denuncia por agresión animal; trasladado a CERESO Ciudad Obregón.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/detienen-a-presunto-agresor-de-perrita-more-en-bacum/261297",
-        "_added_at": "2026-07-27T18:16:34.743897-07:00"
-      },
-      {
-        "title": "Detienen a líder criminal vinculado a Los Chapitos",
-        "summary": "Capturan a El Tío, jefe de grupo delictivo relacionado con organización de narcotráfico.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/detienen-a-el-tio-lider-de-grupo-criminal-vinculado-a-los-chapitos/",
-        "_added_at": "2026-07-27T14:55:01.605365-07:00"
-      },
-      {
-        "title": "Camioneta atropella pareja en Guaymas; conductor huye",
-        "summary": "Vehículo invade camellón e impacta a dos personas; conductor es interceptado por autoridades.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/guaymas-carro-atropella-a-pareja-en-bulevar-gaspar-zaragoza/261296",
-        "_added_at": "2026-07-27T14:55:01.605365-07:00"
-      },
-      {
-        "title": "Mujer detenida con migrante oculto en cajuela",
-        "summary": "Detienen a ciudadana estadounidense transportando migrante cerca de San Luis Río Colorado.",
+        "title": "Derrame de químico en Sonora tras descarrilamiento",
+        "summary": "PROFEPA atiende emergencia por fuga de hidrosulfuro tras accidente ferroviario.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/detienen-a-mujer-estadounidense-que-transportaba-a-un-migrante-mexicano-en-su-cajuela-cerca-de-frontera-con-san-luis-rio-colorado/",
-        "_added_at": "2026-07-27T14:55:01.605365-07:00"
-      },
-      {
-        "title": "Más del 53% de presos en Sonora aguardan sentencia judicial",
-        "summary": "Censo revela que miles de internos esperan resolución judicial por meses o años, superando media nacional.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/mas-del-53-de-los-presos-en-sonora-no-tiene-sentencia-el-estado-supera-la-media-nacional-de-personas-en-espera-de-juicio/",
-        "_added_at": "2026-07-27T12:07:11.050482-07:00"
-      },
-      {
-        "title": "Derrame químico en tren causa preocupación en Naco",
-        "summary": "Descarrilamiento vierte 65 mil litros de químico en Naco, bajo vigilancia ambiental del ejido.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/descarrilamiento-de-tren-en-naco-derrama-65-mil-litros-de-quimico-y-mantiene-bajo-vigilancia-ambiental-al-ejido-cuauhtemoc/",
-        "_added_at": "2026-07-27T12:07:11.050482-07:00"
-      },
-      {
-        "title": "Hallan sin vida a persona en colonia Olivares de Hermosillo",
-        "summary": "Descubren cuerpo en departamento tras reporte de vecinos por fuerte olor.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/hallan-a-una-persona-sin-vida-en-un-departamento-de-la-colonia-olivares-de-hermosillo-luego-de-que-vecinos-reportaran-fuerte-olor/",
-        "_added_at": "2026-07-27T12:07:11.050482-07:00"
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/profepa-atiende-emergencia-por-derrame-de-59-mil-litros-de-hidrosulfuro-de-sodio-en-sonora-tras-descarrilamiento-de-tren/",
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Durazo impulsa inversiones en industria aeroespacial sonorense",
-        "summary": "Gobernadora promueve alianzas para atraer inversiones y empleos especializados en sector aeroespacial de Sonora.",
+        "title": "Durazo impulsa alianzas aeroespaciales en Sonora",
+        "summary": "Gobernadora promueve inversiones y empleos especializados en industria aeroespacial.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/27/durazo-impulsa-alianzas-para-atraer-inversiones-y-empleos-especializados-de-la-industria-aeroespacial/",
-        "_added_at": "2026-07-27T22:36:10.716584-07:00"
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       },
       {
-        "title": "Lorenia Valles destaca subsidio eléctrico para Hermosillo",
-        "summary": "Funcionaria resalta beneficios de subsidios eléctricos y obras realizadas en la capital sonorense.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/valles-destaca-obras-subsidio-electrico-y-polo-de-bienestar/261314",
-        "_added_at": "2026-07-27T22:36:10.716584-07:00"
-      },
-      {
-        "title": "Lamarque reporta respaldo ciudadano a Cuarta Transformación",
-        "summary": "Aspirante a coordinador estatal menciona apoyo positivo en recorridos por municipios de Sonora.",
+        "title": "Lamarque afirma respaldo a la Cuarta Transformación",
+        "summary": "Aspirante a coordinador estatal recorre municipios resaltando apoyo ciudadano.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-afirma-respaldo-ciudadano-a-la-4t/261312",
-        "_added_at": "2026-07-27T22:36:10.716584-07:00"
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       },
       {
-        "title": "Padres de Hermosillo apoyan restricción celular en menores",
-        "summary": "Sector parental respalda propuesta de regular uso de teléfonos en menores de 16 años; reconocen desafíos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/padres-de-hermosillo-apoyan-restriccion-al-uso-de-celulares-en-menores-de-16-anos-pero-reconocen-retos/",
-        "_added_at": "2026-07-27T18:16:34.743897-07:00"
-      },
-      {
-        "title": "Aepaf Sonora respalda regulación de celulares en escuelas",
-        "summary": "Asociación de padres de familia apoya iniciativa de Sheinbaum para limitar dispositivos en planteles educativos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/aepaf-sonora-respalda-propuesta-de-sheinbaum-para-regular-el-uso-de-celulares-en-escuelas/",
-        "_added_at": "2026-07-27T18:16:34.743897-07:00"
-      },
-      {
-        "title": "Prisión preventiva contra directivos de Academia Doenitz",
-        "summary": "Dictan medida cautelar contra director y coordinadora por caso Dafne Zapata.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/dictan-prision-preventiva-contra-director-y-coordinadora-de-academia-doenitz-por-caso-dafne-zapata/",
-        "_added_at": "2026-07-27T14:55:01.605365-07:00"
-      },
-      {
-        "title": "Vecinos de Mirabal bloquean carretera por regularización de terrenos",
-        "summary": "Habitantes cierran vía Hermosillo-Guaymas demandando regularización de propiedades.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/vecinos-de-mirabal-bloquean-carretera-hermosillo-guaymas-exigen-regularizacion-de-terrenos/",
-        "_added_at": "2026-07-27T12:07:11.050482-07:00"
-      },
-      {
-        "title": "Proponen elevar edad de consentimiento sexual de 12 a 16 años",
-        "summary": "Organizaciones piden cambio en ley y eliminar delito de estupro para proteger menores.",
+        "title": "Lorenia Valles destaca subsidio y obras en Hermosillo",
+        "summary": "Funcionaria resalta beneficios eléctricos y desarrollos para la capital.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/buscan-cambiar-la-edad-de-consentimiento-sexual-en-sonora/261275",
-        "_added_at": "2026-07-27T12:07:11.050482-07:00"
-      },
-      {
-        "title": "Aplazan decisión judicial en caso Dafne; continúa este jueves",
-        "summary": "Audiencia del caso Dafne se difiere; seguimiento judicial previsto para próxima semana.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/aplazan-decision-judicial-en-caso-dafne-audiencia-continuara-este-jueves/",
-        "_added_at": "2026-07-27T12:07:11.050482-07:00"
-      },
-      {
-        "title": "Sonora entrega segundo apoyo a familias de tarjeta oportunidades",
-        "summary": "Más de 16 mil familias reciben segundo depósito bimestral de 2,500 pesos; habrá tres pagos más en 2026.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/27/mas-de-16-mil-familias-reciben-segundo-deposito-a-tarjeta-de-oportunidades-en-sonora-habra-tres-pagos-mas-en-2026/",
-        "_added_at": "2026-07-27T09:52:13.198894-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/valles-destaca-obras-subsidio-electrico-y-polo-de-bienestar/261314",
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       }
     ],
     "economia": [
       {
-        "title": "COPARMEX alerta sobre desaceleración económica en San Luis",
-        "summary": "Cámara empresarial advierte impacto en economía de San Luis Río Colorado y pide reforzar promoción de inversiones.",
+        "title": "COPARMEX alerta desaceleración económica en San Luis Río Colorado",
+        "summary": "Cámara advierte impacto económico y pide reforzar promoción de inversiones.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/mxl/sanluis/2026/07/28/coparmex-advierte-desaceleracion-economica-y-pide-reforzar-la-promocion-de-inversiones-en-san-luis-rio-colorado/",
-        "_added_at": "2026-07-27T22:36:10.716584-07:00"
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       },
       {
-        "title": "Reapertura de frontera da respiro a ganaderos de Sonora",
-        "summary": "Unión Ganadera Regional celebra acceso a mercado; advierte necesidad de plan contingente ante posibles cierres.",
+        "title": "Reapertura fronteriza da respiro a ganaderos sonorenses",
+        "summary": "Productores respiran con frontera abierta pero piden prepararse para nuevos cierres.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/reapertura-de-la-frontera-da-esperanza-a-ganaderos-de-sonora/261298",
-        "_added_at": "2026-07-27T18:16:34.743897-07:00"
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       },
       {
-        "title": "Hermosillo registra canasta básica más cara del país",
-        "summary": "Profeco reporta que Hermosillo pasó de la más barata a la más cara con 912.50 pesos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/07/27/hermosillo-pasa-de-tener-la-canasta-basica-mas-barata-del-pais-a-registrar-la-mas-cara-con-un-costo-de-91250-pesos-y-rebasa-el-limite-de-precio-acordado-con-el-gobierno/",
-        "_added_at": "2026-07-27T14:55:01.605365-07:00"
-      },
-      {
-        "title": "Refuerzan Sonora contra gusano barrenador ante reapertura",
-        "summary": "Se fortalecen medidas sanitarias en estado ante reanudación de exportación ganadera.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/refuerzan-sonora-contra-gusano-barrenador-ante-reapertura-de-frontera-para-exportacion-de-ganado/",
-        "_added_at": "2026-07-27T14:55:01.605365-07:00"
-      },
-      {
-        "title": "Calor eleva precios de frutas y verduras en Sonora",
-        "summary": "Temperaturas extremas aumentan costo de productos agrícolas de consumo diario.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/el-calor-en-sonora-empieza-a-pegar-al-bolsillo-suben-de-precio-verduras-y-frutas-de-consumo-diario/",
-        "_added_at": "2026-07-27T12:07:11.050482-07:00"
-      },
-      {
-        "title": "Más de 16 mil familias reciben apoyo bimestral del Gobierno",
-        "summary": "Segundo depósito beneficia hogares de 72 municipios con 2 mil 500 pesos bimestrales.",
+        "title": "Avanza remodelación de estadio en Navojoa",
+        "summary": "Obra busca que Mayos regresen a casa en temporada 2026-2027 de Liga del Pacífico.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/fortalece-adm-economia-de-los-hogares-sonorenses/261257",
-        "_added_at": "2026-07-27T12:07:11.050482-07:00"
-      },
-      {
-        "title": "Mosca estéril combate plaga del gusano barrenador",
-        "summary": "Estrategia de control biológico busca reducir plagas agrícolas en región sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/07/27/sheinbaum-afirma-que-con-mosca-esteril-plaga-del-gusano-barrenador-tiene-que-bajar/",
-        "_added_at": "2026-07-27T09:52:13.198894-07:00"
-      },
-      {
-        "title": "Fondo Deportivo Hermosillo apoya a tres mil atletas",
-        "summary": "Municipio financia competencias nacionales e internacionales, ampliando oportunidades para deportistas locales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/fondo-deportivo-de-hermosillo-beneficia-a-mas-de-3-mil-atletas-con-apoyos-para-competir-en-mexico-y-otros-paises-abrira-nuevas-oportunidades-para-deportistas-locales/",
-        "_added_at": "2026-07-27T09:52:13.198894-07:00"
-      },
-      {
-        "title": "Reapertura de exportaciones ganaderas a Estados Unidos confirmada",
-        "summary": "Se reanuda comercio de ganado sonorense con mercado estadounidense tras período de restricciones.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-respalda-reapertura-de-exportaciones-ganaderas/261243",
-        "_added_at": "2026-07-27T05:08:37.643847-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/remodelacion-del-ciclon-echeverria-entra-en-nueva-etapa/261308",
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Tormenta paraliza Hermosillo con vientos e inundaciones",
-        "summary": "Hermosillo enfrenta fuertes vientos de 103 km/h y acumulados de lluvia que causan daños y caos vial.",
+        "title": "Lluvias dejan 73 afectaciones en Sonora sin víctimas",
+        "summary": "Tormentas causan daños en infraestructura; Hermosillo concentra mayor número de incidentes.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-dejan-73-incidentes-en-sonora-descartan-victimas/261323",
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
+      },
+      {
+        "title": "Fuertes vientos derriban palmas sobre autos en Ciudad Obregón",
+        "summary": "Tormenta causa daños a vehículos por caída de árboles en la región.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/hermosillo-enfrenta-tormenta-fuertes-vientos-y-autos-varados-por-inundaciones-en-diversas-calles/",
-        "_added_at": "2026-07-27T22:36:10.716584-07:00"
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/28/caen-palmas-sobre-vehiculos-en-ciudad-obregon-tras-fuertes-vientos/",
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       },
       {
-        "title": "Lluvia intensa causa emergencias en Hermosillo y Ures",
-        "summary": "Ures registra 75 mm de lluvia; Hermosillo concentra mayoría de emergencias. Niño es rescatado de arroyo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/lluvias-golpean-sonora-ures-lidera-con-75-mm-y-hermosillo-concentra-la-mayoria-de-las-emergencias-informa-cepc/",
-        "_added_at": "2026-07-27T22:36:10.716584-07:00"
-      },
-      {
-        "title": "Padres de Hermosillo apoyan restricción de celulares en menores",
-        "summary": "Familias respaldan propuesta de regular uso de teléfonos en escuelas, aunque reconocen desafíos de implementación.",
+        "title": "Padres apoyan restricción celular en menores de 16 años",
+        "summary": "Progenitores de Hermosillo respaldan medida para limitar uso de dispositivos.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/padres-de-hermosillo-apoyan-restriccion-al-uso-de-celulares-en-menores-de-16-anos-pero-reconocen-retos/",
-        "_added_at": "2026-07-27T22:36:10.716584-07:00"
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       },
       {
-        "title": "Estadio Ciclón Echeverría avanza en remodelación en Navojoa",
-        "summary": "Proyecto de renovación busca que Mayos de Navojoa regresen a casa en temporada 2026-2027.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/remodelacion-del-ciclon-echeverria-entra-en-nueva-etapa/261308",
-        "_added_at": "2026-07-27T22:36:10.716584-07:00"
-      },
-      {
-        "title": "Derrame químico en Naco tras descarrilamiento de tren",
-        "summary": "Profepa atiende emergencia por 59 mil litros de hidrosulfuro de sodio; investiga impacto ambiental.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/confirma-profepa-derrame-de-59-mil-litros-de-quimico-tras-descarrilamiento-de-tren-en-naco-sonora-investiga-posible-impacto-ambiental/",
-        "_added_at": "2026-07-27T18:16:34.743897-07:00"
-      },
-      {
-        "title": "Sonora da luz verde a playas para vacaciones",
-        "summary": "Autoridades confirman que playas cumplen normas sanitarias y están seguras para visitantes.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/sonora-da-luz-verde-a-sus-playas-para-vacaciones-autoridades-confirman-que-cumplen-con-normas-sanitarias/",
-        "_added_at": "2026-07-27T18:16:34.743897-07:00"
-      },
-      {
-        "title": "Aumentan a 186 casos de afectados por calor; tres muertos",
-        "summary": "Sonora registra incremento de casos por golpe de calor con tres fallecimientos en Hermosillo.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/aumentan-casos-asociados-al-calor-en-sonora-suman-3-muertos/261293",
-        "_added_at": "2026-07-27T14:55:01.605365-07:00"
-      },
-      {
-        "title": "Vivero Estatal regala plantas y árboles en Hermosillo",
-        "summary": "Ciudadanos pueden solicitar hasta cinco especies mensuales en vivero de Hermosillo.",
+        "title": "Cruz Roja invita a donar útiles escolares en San Luis",
+        "summary": "Organización solicita apoyo comunitario para estudiantes de primaria.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/vivero-estatal-de-sonora-regala-plantas-y-arboles-frutales-ciudadanos-pueden-solicitar-hasta-cinco-especies-cada-mes-donde-se-ubica-en-hermosillo/",
-        "_added_at": "2026-07-27T14:55:01.605365-07:00"
-      },
-      {
-        "title": "Mil 300 personas concluyen cursos gratuitos en Hermosillo",
-        "summary": "Ayuntamiento reporta egreso de alumnos en Centros de Desarrollo Comunitario.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/mas-de-mil-300-personas-concluyen-cursos-gratuitos-en-los-centros-de-desarrollo-comunitario-de-hermosillo-ayuntamiento/",
-        "_added_at": "2026-07-27T14:55:01.605365-07:00"
-      },
-      {
-        "title": "Estudiantes construyen y donan casa a familia yaqui",
-        "summary": "Alumnos de Prepatec Ciudad Obregón participan como voluntarios en construcción para Bahía de Lobos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/jovenes-de-prepatec-ciudad-obregon-construyen-y-donan-casa/261286",
-        "_added_at": "2026-07-27T14:55:01.605365-07:00"
+        "url": "https://www.elimparcial.com/mxl/sanluis/2026/07/28/cruz-roja-de-san-luis-invita-a-donar-utiles-escolares-para-apoyar-a-estudiantes-de-primaria/",
+        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-27T22:36:10.716584-07:00"
+  "last_updated": "2026-07-28T01:10:02.611205-07:00"
 }
