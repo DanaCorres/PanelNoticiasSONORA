@@ -1,8 +1,22 @@
 {
   "date": "2026-07-28",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Lluvias causan 73 afectaciones en Sonora sin víctimas",
+        "summary": "Tormentas con vientos fuertes dejan árboles caídos y daños en infraestructura. Hermosillo registra la mayor cantidad de incidentes.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-dejan-73-incidentes-en-sonora-descartan-victimas/261323",
+        "_added_at": "2026-07-28T06:25:04.470547-07:00"
+      },
+      {
+        "title": "Siete muertes en Hermosillo por calor y hechos violentos",
+        "summary": "Fallecimientos registrados en tres días por temperaturas extremas, accidentes y violencia en la capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/siete-personas-mueren-en-tres-dias-en-hermosillo-calor-accidentes-y-hechos-violentos/",
+        "_added_at": "2026-07-28T06:25:04.470547-07:00"
+      },
       {
         "title": "Menor rescatado tras arrastre en arroyo de Hermosillo",
         "summary": "Bomberos rescatan a niño arrastrado por corriente durante tormenta en el sur de Hermosillo.",
@@ -34,6 +48,20 @@
     ],
     "politica": [
       {
+        "title": "Durazo impulsa alianza para fortalecer sector aeroespacial",
+        "summary": "Gobierno estatal busca consolidar industria aeroespacial mediante colaboración estratégica con academia y empresas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/impulsa-sonora-alianza-para-fortalecer-sector-aeroespacial/261328",
+        "_added_at": "2026-07-28T06:25:04.470547-07:00"
+      },
+      {
+        "title": "Padres y escuelas apoyan restricción de celulares en menores",
+        "summary": "Asociaciones educativas y familias hermosillenses respaldan propuesta para regular uso de dispositivos en escuelas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/aepaf-sonora-respalda-propuesta-de-sheinbaum-para-regular-el-uso-de-celulares-en-escuelas/",
+        "_added_at": "2026-07-28T06:25:04.470547-07:00"
+      },
+      {
         "title": "Durazo impulsa alianzas aeroespaciales en Sonora",
         "summary": "Gobernadora promueve inversiones y empleos especializados en industria aeroespacial.",
         "source": "Proyecto Puente",
@@ -57,6 +85,20 @@
     ],
     "economia": [
       {
+        "title": "Calor dispara precios de frutas y verduras en Sonora",
+        "summary": "Temperaturas altas reducen producción local de hortalizas, generando incremento en costos de consumo diario.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/el-calor-en-sonora-empieza-a-pegar-al-bolsillo-suben-de-precio-verduras-y-frutas-de-consumo-diario/",
+        "_added_at": "2026-07-28T06:25:04.470547-07:00"
+      },
+      {
+        "title": "Dólar se fortalece contra peso mexicano",
+        "summary": "Tipo de cambio muestra volatilidad en mercados financieros.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/07/28/precio-del-dolar-arrasa-mientras-el-peso-mexicano-tambalea-y-asi-cotiza-el-tipo-de-cambio-este-martes-28-de-julio/",
+        "_added_at": "2026-07-28T06:25:04.470547-07:00"
+      },
+      {
         "title": "COPARMEX alerta desaceleración económica en San Luis Río Colorado",
         "summary": "Cámara advierte impacto económico y pide reforzar promoción de inversiones.",
         "source": "El Imparcial",
@@ -79,6 +121,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Adopción y tenencia responsable reducen maltrato animal",
+        "summary": "Expertos en Hermosillo destacan importancia de esterilización y cuidado responsable de mascotas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/adopcion-tenencia-responsable-y-esterilizacion-claves-para-reducir-la-sobrepoblacion-y-el-maltrato-animal-en-hermosillo/",
+        "_added_at": "2026-07-28T06:25:04.470547-07:00"
+      },
+      {
+        "title": "Familia hermosillense busca actualizar récord Guinness",
+        "summary": "Descendientes de Celia Porchas pretenden preservar legado histórico con nuevo logro internacional.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/de-una-taza-de-regalo-a-un-record-guinness-familia-de-la-hermosillense-celia-porchas-busca-actualizar-la-marca-y-preservar-su-legado/",
+        "_added_at": "2026-07-28T06:25:04.470547-07:00"
+      },
+      {
+        "title": "Hermosillo registra brechas de precios en canasta básica",
+        "summary": "Análisis muestra disparidad de costos entre colonias Morelos y Camino del Seri en alimentos.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/hermosillo-tiene-la-canasta-basica-mas-barata-y-tambien-la-mas-cara-del-pais-una-en-el-morelos-otra-en-camino-del-seri-por-que/",
+        "_added_at": "2026-07-28T06:25:04.470547-07:00"
+      },
       {
         "title": "Lluvias causan 73 afectaciones en Sonora sin víctimas fatales",
         "summary": "Tormenta provocó árboles caídos, cables dañados y vehículos varados; Hermosillo concentró emergencias.",
@@ -123,5 +186,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-28T04:07:33.885356-07:00"
+  "last_updated": "2026-07-28T06:25:04.470547-07:00"
 }
