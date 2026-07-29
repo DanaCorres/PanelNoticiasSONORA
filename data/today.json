@@ -1,8 +1,36 @@
 {
   "date": "2026-07-29",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hermosillo: aseguran ocho mil litros de huachicol",
+        "summary": "Autoridades localizan toma clandestina de hidrocarburo en el sur de Hermosillo y decomisan combustible ilegal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/localizan-e-inhabilitan-toma-clandestina-de-hidrocarburo-en-hermosillo-fueron-asegurados-8-mil-litros-de-combustible/",
+        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+      },
+      {
+        "title": "Incendios aumentan 40% en Cajeme durante 2026",
+        "summary": "Bomberos de Cajeme reportan incremento significativo en emergencias por fuegos, principalmente en pastizales y casas abandonadas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/29/servicios-de-bomberos-de-cajeme-aumentan-hasta-40-en-2026-7-de-cada-10-son-por-incendios-de-pasto-seco-y-casas-abandonadas/",
+        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+      },
+      {
+        "title": "Robo en corralón de Nogales: detienen a uno de tres",
+        "summary": "Capturan a uno de los tres hombres que asaltaron motocicleta municipal en Nogales; dos permanecen prófugos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/29/detienen-a-uno-de-tres-hombres-que-robaron-una-motocicleta-del-corralon-municipal-de-nogales-amenazaron-al-velador-con-un-arma-de-fuego/",
+        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+      },
+      {
+        "title": "Tractocamión mata a vendedor de 79 años en SLRC",
+        "summary": "Adulto mayor fallece tras ser atropellado por vehículo pesado en San Luis Río Colorado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/muere-adulto-mayor-tras-ser-atropellado-por-trailer-en-slrc/261400",
+        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+      },
       {
         "title": "Joven arrestado por agredir a adulta mayor en Hermosillo",
         "summary": "Detención tras golpear a señora con palo en la capital sonorense.",
@@ -44,30 +72,30 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/aseguran-alrededor-de-200-kilos-de-metanfetamina-en-caborca/261376",
         "_added_at": "2026-07-29T01:14:23.338826-07:00"
-      },
-      {
-        "title": "Sonora registra caída histórica de 68.6% en homicidios",
-        "summary": "Estado logra disminución significativa entre 2021 y 2026, por debajo promedio nacional.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/durazo-destaca-caida-historica-de-homicidios-en-sonora/261363",
-        "_added_at": "2026-07-29T01:14:23.338826-07:00"
-      },
-      {
-        "title": "Capturan a dos por ataque durante fiesta en Etchojoa",
-        "summary": "Detienen a \"El Chore\" y \"El Lobo\" tras agresión durante evento social.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/capturan-a-dos-por-ataque-durante-fiesta-en-etchojoa/261371",
-        "_added_at": "2026-07-29T01:14:23.338826-07:00"
-      },
-      {
-        "title": "Vientos de 104 km/h dejan 46 reportes en Hermosillo",
-        "summary": "Lluvias intensas causan rescates y emergencias en la capital sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/lluvias-y-vientos-de-hasta-104-kmh-dejan-46-reportes-en-hermosillo-incluyendo-rescatados-por-arroyo/",
-        "_added_at": "2026-07-29T01:14:23.338826-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "René García aspira a presidencia municipal de Hermosillo",
+        "summary": "Político anuncia intención de competir por alcaldía hermosillense en elecciones 2027 con enfoque en servicios ciudadanos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/rene-garcia-apuesta-por-cercania-ciudadana-y-servicios-publicos-eficientes-revela-interes-por-buscar-la-presidencia-municipal-de-hermosillo-en-2027/",
+        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+      },
+      {
+        "title": "Celida López destaca pacto de civilidad política sonorense",
+        "summary": "Gobernadora subraya unidad en Morena y acuerdos de civismo político rumbo a comicios 2027 en Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/celida-lopez-resalta-unidad-de-morena-sonora-rumbo-a-2027/261416",
+        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+      },
+      {
+        "title": "Morena prepara encuesta para definir candidaturas sonorenses",
+        "summary": "Partido morenista alista ejercicio participativo para determinar liderazgos en Sonora de cara a 2027.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/froylan-gamez-alista-cierre-de-gira-en-hermosillo/261408",
+        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+      },
       {
         "title": "Lorenia Valles destacada como favorita de Morena en Sonora",
         "summary": "Aspirante con mayores probabilidades en proceso interno del partido morenista estatal.",
@@ -106,6 +134,20 @@
     ],
     "economia": [
       {
+        "title": "Hermosillo gana premio por innovación presupuestaria ciudadana",
+        "summary": "Presupuesto Creces recibe reconocimiento NovaGob 2026 por participación ciudadana en gestión municipal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/presupuesto-creces-de-hermosillo-gana-premio-novagob-mexico-2026-por-innovacion-en-participacion-ciudadana/",
+        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+      },
+      {
+        "title": "Parque Industrial Obregón sin afectaciones por lluvia",
+        "summary": "Canacintra confirma continuidad operativa en Parque Industrial de Ciudad Obregón sin impacto por precipitaciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/29/lluvias-no-han-afectado-operaciones-en-el-parque-industrial-de-ciudad-obregon-canacintra/",
+        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+      },
+      {
         "title": "Sonora refuerza medidas sanitarias en frontera",
         "summary": "Preparativos para reapertura Agua Prieta-Douglas incluyen vigilancia contra gusano barrenador.",
         "source": "El Imparcial",
@@ -135,6 +177,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Policía rescata a mujer en puente de Hermosillo",
+        "summary": "Autoridades intervienen a tiempo para salvar vida de persona en riesgo en estructura vial hermosillense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/llegamos-a-tiempo-policia-narra-el-rescate-de-mujer-en-puente-de-hermosillo/",
+        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+      },
+      {
+        "title": "Bloqueo de Covafam causa crisis vial en Hermosillo",
+        "summary": "Manifestación en centro de Hermosillo genera caos vehicular; gobierno busca acuerdo sin avances significativos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/bloqueo-de-covafam-en-hermosillo-provoca-caos-vial-en-el-centro-gobierno-busca-acuerdo-sin-avances/",
+        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+      },
+      {
+        "title": "Sonora refuerza cerco sanitario fronterizo contra plaga agrícola",
+        "summary": "Estado implementa vigilancia sanitaria en Agua Prieta-Douglas ante reapertura para evitar ingreso de gusano barrenador.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/29/sonora-refuerza-cerco-sanitario-ante-reapertura-de-frontera-para-exportar-ganado-y-evitar-ingreso-del-gusano-barrenador/",
+        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+      },
       {
         "title": "Rescatan a adulto mayor extraviado en cerro Hermosillo",
         "summary": "Drones localizaron a hombre de 91 años perdido en cerro La Rinconada.",
@@ -183,29 +246,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/lluvias-detienen-plantas-de-el-molinito-y-podrian-causar-baja-presion-y-falta-de-agua-en-sectores-de-hermosillo/",
         "_added_at": "2026-07-29T04:12:35.261650-07:00"
-      },
-      {
-        "title": "Lluvias afectan suministro de agua en Hermosillo",
-        "summary": "Plantas de El Molinito suspenden operaciones por turbiedad, posible falta de presión.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com.mx/son/hermosillo/2026/07/29/lluvias-detienen-plantas-de-el-molinito-y-podrian-causar-baja-presion-y-falta-de-agua-en-sectores-de-hermosillo/",
-        "_added_at": "2026-07-29T01:14:23.338826-07:00"
-      },
-      {
-        "title": "Bomberos de Hermosillo incrementan servicios 35% en verano",
-        "summary": "Aumento de actividad durante temporada estival en la capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/28/incrementan-35-servicios-de-bomberos-de-hermosillo-durante-el-verano-matty-ortega/",
-        "_added_at": "2026-07-29T01:14:23.338826-07:00"
-      },
-      {
-        "title": "Campaña recauda fondos para tratamiento oncológico en Hermosillo",
-        "summary": "\"Reciclando por Sonrisas\" busca 15 mil pesos para joven con cáncer de tiroides.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/reciclando-por-sonrisas-busca-reunir-15-mil-pesos-para-el-tratamiento-de-darynkha-joven-con-cancer-de-tiroides/",
-        "_added_at": "2026-07-29T01:14:23.338826-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-29T09:14:04.070105-07:00"
+  "last_updated": "2026-07-29T11:49:06.543743-07:00"
 }
