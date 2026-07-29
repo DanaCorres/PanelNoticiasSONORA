@@ -1,8 +1,29 @@
 {
   "date": "2026-07-29",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Descarrilamiento en Naco genera alerta ambiental",
+        "summary": "Gobernador Durazo confirma derrame químico tras descarrilamiento; PROFEPA evaluará impacto ambiental en la región.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/profepa-definira-el-impacto-ambiental-del-derrame-quimico-tras-descarrilamiento-en-nacosonora-durazo/",
+        "_added_at": "2026-07-29T06:31:07.786968-07:00"
+      },
+      {
+        "title": "Agente K-9 detiene a sujeto con metanfetamina",
+        "summary": "Policía Estatal asegura a hombre con diez envoltorios de droga en colonia Solidaridad de Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/unidad-k-9-de-la-pesp-detiene-a-hombre-con-10-envoltorios-de-metanfetamina-en-la-colonia-solidaridad/",
+        "_added_at": "2026-07-29T06:31:07.786968-07:00"
+      },
+      {
+        "title": "Durazo destaca baja histórica en homicidios sonorenses",
+        "summary": "Gobernador confirma decomiso de 200 kilos de metanfetamina y resalta reducción histórica de homicidios en Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/28/durazo-confirma-decomiso-de-200-kilos-de-metanfetamina-y-destaca-baja-historica-en-homicidios-en-sonora/",
+        "_added_at": "2026-07-29T06:31:07.786968-07:00"
+      },
       {
         "title": "Decomisan 200 kilos de metanfetamina en Caborca",
         "summary": "Operativo conjunto aseguró droga tras denuncia anónima en carretera Caborca-Sonoyta.",
@@ -71,6 +92,20 @@
     ],
     "economia": [
       {
+        "title": "Presa Mocúzarit se recupera; crisis del trigo preocupa",
+        "summary": "Lluvias aumentan almacenamiento en presa; sin embargo, bajo precio del trigo ahoga al sector agrícola.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-dan-respiro-precio-del-trigo-ahoga-al-campo/261395",
+        "_added_at": "2026-07-29T06:31:07.786968-07:00"
+      },
+      {
+        "title": "Invierten 7 mil millones en transformación de Navojoa",
+        "summary": "Gobernador Durazo encabeza inversión conjunta para mejorar infraestructura y servicios en Navojoa.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/destinan-7-mil-mdp-a-obras-y-programas-para-navojoa/261396",
+        "_added_at": "2026-07-29T06:31:07.786968-07:00"
+      },
+      {
         "title": "Reapertura de ganado inicia agosto en Agua Prieta",
         "summary": "Frontera Douglas-Agua Prieta abre importaciones tras acuerdo bilateral.",
         "source": "Expreso",
@@ -79,6 +114,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Vientos de 104 km/h dejan 46 reportes en Hermosillo",
+        "summary": "Microrráfaga causa daños; incluye rescatados en arroyos; vientos superiores a 100 km/h en sectores específicos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/lluvias-y-vientos-de-hasta-104-kmh-dejan-46-reportes-en-hermosillo-incluyendo-rescatados-por-arroyo/",
+        "_added_at": "2026-07-29T06:31:07.786968-07:00"
+      },
+      {
+        "title": "Hermosillo refuerza descacharre contra el dengue",
+        "summary": "Municipio intensifica campaña de eliminación de criaderos; consulta cronograma por colonia.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/hay-cacharros-en-tu-patio-hermosillo-refuerza-el-descacharre-contra-el-dengue-asi-puedes-consultar-cuando-llegara-a-tu-colonia/",
+        "_added_at": "2026-07-29T06:31:07.786968-07:00"
+      },
+      {
+        "title": "Cinco perros rescatados en muelle de Guaymas",
+        "summary": "Rescatistas salvan animales abandonados; llaman a evitar prácticas de maltrato animal.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/rescatistas-de-guaymas-salvan-a-cinco-perros-abandonados-en-un-muelle-llaman-a-evitar-estas-practicas/",
+        "_added_at": "2026-07-29T06:31:07.786968-07:00"
+      },
       {
         "title": "Lluvias de 104 km/h dejan daños en Hermosillo",
         "summary": "Suspensión de plantas El Molinito genera riesgo de baja presión e intermitencias de agua.",
@@ -116,5 +172,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-29T04:12:35.261650-07:00"
+  "last_updated": "2026-07-29T06:31:07.786968-07:00"
 }
