@@ -1,8 +1,22 @@
 {
   "date": "2026-07-28",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Decomisan 200 kilos de metanfetamina en Caborca",
+        "summary": "Operativo conjunto aseguró droga en kilómetro 120 de la carretera Caborca-Sonoyta tras denuncia anónima.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/aseguran-alrededor-de-200-kilos-de-metanfetamina-en-caborca/261376",
+        "_added_at": "2026-07-28T22:40:41.972571-07:00"
+      },
+      {
+        "title": "Lluvias dejan 46 reportes de emergencia en Hermosillo",
+        "summary": "Vientos de hasta 104 km/h causaron rescates por arroyo y múltiples incidentes en la capital.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/lluvias-y-vientos-de-hasta-104-kmh-dejan-46-reportes-en-hermosillo-incluyendo-rescatados-por-arroyo/",
+        "_added_at": "2026-07-28T22:40:41.972571-07:00"
+      },
       {
         "title": "Sonora registra caída histórica de homicidios dolosos",
         "summary": "Estado logró reducción del 68.6% en homicidios entre 2021 y 2026, por debajo del promedio nacional.",
@@ -58,23 +72,23 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/28/detienen-a-joven-tras-agredir-e-intimidar-a-su-madre-al-sur-de-hermosillo/",
         "_added_at": "2026-07-28T12:02:40.738464-07:00"
-      },
-      {
-        "title": "Tren descarrila en Naco; derrama químico peligroso",
-        "summary": "Descarrilamiento de tren causó derrame de 59 mil litros de hidrosulfuro de sodio. Profepa investiga impacto ambiental del incidente en Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/descarrila-tren-y-derrama-59-mil-litros-de-quimico/261327",
-        "_added_at": "2026-07-28T09:27:04.406722-07:00"
-      },
-      {
-        "title": "Rescatan dos personas atrapadas en auto por lluvia",
-        "summary": "Policías y vecinos sacaron a dos personas de vehículo arrastrado por corriente de agua en Hermosillo durante lluvias intensas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/policias-y-vecinos-rescatan-a-dos-personas-de-un-auto-arrastrado-por-la-lluvia-en-la-colonia-la-caridad-de-hermosillo/",
-        "_added_at": "2026-07-28T09:27:04.406722-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Lorenia Valles destaca programas sociales en Hermosillo",
+        "summary": "Senadora con licencia realiza asamblea destacando crecimiento industrial y programas de bienestar.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-asegura-respaldo-ciudadano-en-hermosillo/261385",
+        "_added_at": "2026-07-28T22:40:41.972571-07:00"
+      },
+      {
+        "title": "Reapertura de ganado inicia en agosto por Agua Prieta",
+        "summary": "Beltrones destaca acuerdo para apertura de frontera Douglas-Agua Prieta con altos estándares sanitarios.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/afortunado-el-acuerdo-para-reapertura-de-ganado-beltrones/261375",
+        "_added_at": "2026-07-28T22:40:41.972571-07:00"
+      },
       {
         "title": "Durazo evalúa impacto ambiental tras descarrilamiento en Naco",
         "summary": "Gobierno estatal y federal monitorean contaminación por derrame químico de sodio.",
@@ -130,23 +144,16 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/impulsa-sonora-alianza-para-fortalecer-sector-aeroespacial/261328",
         "_added_at": "2026-07-28T06:25:04.470547-07:00"
-      },
-      {
-        "title": "Padres y escuelas apoyan restricción de celulares en menores",
-        "summary": "Asociaciones educativas y familias hermosillenses respaldan propuesta para regular uso de dispositivos en escuelas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/aepaf-sonora-respalda-propuesta-de-sheinbaum-para-regular-el-uso-de-celulares-en-escuelas/",
-        "_added_at": "2026-07-28T06:25:04.470547-07:00"
-      },
-      {
-        "title": "Durazo impulsa alianzas aeroespaciales en Sonora",
-        "summary": "Gobernadora promueve inversiones y empleos especializados en industria aeroespacial.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/27/durazo-impulsa-alianzas-para-atraer-inversiones-y-empleos-especializados-de-la-industria-aeroespacial/",
-        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Lluvias afectan suministro de agua en Hermosillo",
+        "summary": "Turbiedad en presa El Molinito obliga a detener plantas potabilizadoras causando posibles intermitencias.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/lluvias-detienen-plantas-de-el-molinito-y-podrian-causar-baja-presion-y-falta-de-agua-en-sectores-de-hermosillo/",
+        "_added_at": "2026-07-28T22:40:41.972571-07:00"
+      },
       {
         "title": "Lluvias monzónicas revitalizan ríos y ecosistemas sonorenses",
         "summary": "Precipitaciones aumentan caudal de ríos beneficiando agricultura y fauna regional.",
@@ -209,16 +216,23 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/mxl/sanluis/2026/07/28/coparmex-advierte-desaceleracion-economica-y-pide-reforzar-la-promocion-de-inversiones-en-san-luis-rio-colorado/",
         "_added_at": "2026-07-28T01:10:02.611205-07:00"
-      },
-      {
-        "title": "Reapertura fronteriza da respiro a ganaderos sonorenses",
-        "summary": "Productores respiran con frontera abierta pero piden prepararse para nuevos cierres.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/reapertura-de-la-frontera-da-esperanza-a-ganaderos-de-sonora/261298",
-        "_added_at": "2026-07-28T01:10:02.611205-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Buscan fondos para tratamiento de joven con cáncer",
+        "summary": "Iniciativa 'Reciclando por Sonrisas' recauda 15 mil pesos para atender a Darynkha con cáncer de tiroides.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/reciclando-por-sonrisas-busca-reunir-15-mil-pesos-para-el-tratamiento-de-darynkha-joven-con-cancer-de-tiroides/",
+        "_added_at": "2026-07-28T22:40:41.972571-07:00"
+      },
+      {
+        "title": "Árbitro sonorense reconocido por participación en Mundial",
+        "summary": "Cajeme reconoce a Guillermo Pacheco Larios por representar a México en competencia internacional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/28/cajeme-reconoce-a-guillermo-pacheco-larios-el-arbitro-sonorense-que-represento-a-mexico-en-el-mundial-2026/",
+        "_added_at": "2026-07-28T22:40:41.972571-07:00"
+      },
       {
         "title": "Lluvia severa con vientos de 104 km/h golpea Hermosillo",
         "summary": "Temporal deja 46 reportes de daños y rescates en capital; Personal Protección Civil responde.",
@@ -274,22 +288,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/hay-cacharros-en-tu-patio-hermosillo-refuerza-el-descacharre-contra-el-dengue-asi-puedes-consultar-cuando-llegara-a-tu-colonia/",
         "_added_at": "2026-07-28T12:02:40.738464-07:00"
-      },
-      {
-        "title": "Hallan cadáver en Hermosillo; rescatan 20 perros",
-        "summary": "Vecinos alertan por olores en vivienda al norte. Autoridades localizan a persona sin vida y aseguran animales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/28/vecinos-alertan-por-olores-en-vivienda-al-norte-de-hermosillo-hallan-a-hombre-sin-vida-y-resguardan-a-20-perros/",
-        "_added_at": "2026-07-28T12:02:40.738464-07:00"
-      },
-      {
-        "title": "Estadio Ciclón Echeverría avanza en remodelación",
-        "summary": "Proyecto de remodelación del estadio Manuel Echeverría en Navojoa entra en nueva etapa de construcción.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/remodelacion-del-ciclon-echeverria-entra-en-nueva-etapa/261308",
-        "_added_at": "2026-07-28T09:27:04.406722-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-28T18:19:10.450267-07:00"
+  "last_updated": "2026-07-28T22:40:41.972571-07:00"
 }
