@@ -1,8 +1,29 @@
 {
   "date": "2026-07-29",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre ataca con machete a policías en Nogales",
+        "summary": "Sujeto agrede con machete a elementos policiales durante intervención por violencia familiar; oficial resulta lesionado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/29/hombre-ataca-con-machete-a-policias-en-nogales-durante-atencion-por-violencia-familiar-oficial-resulta-lesionado/",
+        "_added_at": "2026-07-29T14:44:44.839544-07:00"
+      },
+      {
+        "title": "Pipa con gas natural vuelca en Hermosillo",
+        "summary": "Tractocamión transportando 58 mil litros de gas natural se vuelca; conductor queda atrapado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/vuelca-pipa-con-58-mil-litros-de-gas-natural-en-hermosillo-conductor-queda-atrapado/",
+        "_added_at": "2026-07-29T14:44:44.839544-07:00"
+      },
+      {
+        "title": "Derrame químico en Naco por accidente ferroviario",
+        "summary": "Tormenta habría dañado vías del tren causando accidente que derramó casi 60 mil litros de hidrosulfuro de sodio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/29/tormenta-atipica-habria-provocado-danos-en-vias-del-tren-antes-del-accidente-en-sonora-que-derramo-casi-60-mil-litros-de-hidrosulfuro-de-sodio-en-naco/",
+        "_added_at": "2026-07-29T14:44:44.839544-07:00"
+      },
       {
         "title": "Hermosillo: aseguran ocho mil litros de huachicol",
         "summary": "Autoridades localizan toma clandestina de hidrocarburo en el sur de Hermosillo y decomisan combustible ilegal.",
@@ -51,27 +72,6 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/28/profepa-definira-el-impacto-ambiental-del-derrame-quimico-tras-descarrilamiento-en-nacosonora-durazo/",
         "_added_at": "2026-07-29T06:31:07.786968-07:00"
-      },
-      {
-        "title": "Agente K-9 detiene a sujeto con metanfetamina",
-        "summary": "Policía Estatal asegura a hombre con diez envoltorios de droga en colonia Solidaridad de Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/unidad-k-9-de-la-pesp-detiene-a-hombre-con-10-envoltorios-de-metanfetamina-en-la-colonia-solidaridad/",
-        "_added_at": "2026-07-29T06:31:07.786968-07:00"
-      },
-      {
-        "title": "Durazo destaca baja histórica en homicidios sonorenses",
-        "summary": "Gobernador confirma decomiso de 200 kilos de metanfetamina y resalta reducción histórica de homicidios en Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/28/durazo-confirma-decomiso-de-200-kilos-de-metanfetamina-y-destaca-baja-historica-en-homicidios-en-sonora/",
-        "_added_at": "2026-07-29T06:31:07.786968-07:00"
-      },
-      {
-        "title": "Decomisan 200 kilos de metanfetamina en Caborca",
-        "summary": "Operativo conjunto aseguró droga tras denuncia anónima en carretera Caborca-Sonoyta.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/aseguran-alrededor-de-200-kilos-de-metanfetamina-en-caborca/261376",
-        "_added_at": "2026-07-29T01:14:23.338826-07:00"
       }
     ],
     "politica": [
@@ -134,6 +134,13 @@
     ],
     "economia": [
       {
+        "title": "Hermosillo Conecta rompe récord con 600 citas de negocios",
+        "summary": "Programa impulsa encuentros comerciales entre compradores y proveedores locales para fortalecer economía regional.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/hermosillo-conecta-rompe-record-con-mas-de-600-citas-de-negocios-para-impulsar-proveedores-locales/",
+        "_added_at": "2026-07-29T14:44:44.839544-07:00"
+      },
+      {
         "title": "Hermosillo gana premio por innovación presupuestaria ciudadana",
         "summary": "Presupuesto Creces recibe reconocimiento NovaGob 2026 por participación ciudadana en gestión municipal.",
         "source": "El Imparcial",
@@ -178,6 +185,34 @@
     ],
     "sociedad": [
       {
+        "title": "Pronan recauda para equipo de terapia en Hermosillo",
+        "summary": "Asociación ofrece sesiones fotográficas benéficas para fondos de terapia a personas con discapacidad.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/pronan-iap-ofrece-mini-sesiones-fotograficas-para-recaudar-fondos-y-mejorar-su-equipo-de-terapia-para-atender-personas-con-paralisis-cerebral-autismo-y-sindrome-de-down/",
+        "_added_at": "2026-07-29T14:44:44.839544-07:00"
+      },
+      {
+        "title": "Hombre convierte baldío en parque verde en Hermosillo",
+        "summary": "Ciudadano transforma terreno abandonado en espacio público con más de 20 especies de plantas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/hombre-transforma-baldio-lleno-de-basura-en-un-parque-con-mas-de-20-especies-de-plantas-en-hermosillo/",
+        "_added_at": "2026-07-29T14:44:44.839544-07:00"
+      },
+      {
+        "title": "Nogales repone bienes a familias afectadas por lluvias",
+        "summary": "Municipio asiste a más de 100 familias dañadas; 50 ya recibieron apoyo para reposición de pertenencias.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/29/lluvias-en-nogales-dejan-106-familias-afectadas-50-ya-recibio-apoyo-para-reponer-bienes-danados/",
+        "_added_at": "2026-07-29T14:44:44.839544-07:00"
+      },
+      {
+        "title": "Presupuesto Creces gana premio NovaGob 2026 en Hermosillo",
+        "summary": "Iniciativa municipal reconocida por innovación en participación ciudadana y gestión presupuestaria.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/presupuesto-creces-de-hermosillo-gana-premio-novagob-mexico-2026-por-innovacion-en-participacion-ciudadana/",
+        "_added_at": "2026-07-29T14:44:44.839544-07:00"
+      },
+      {
         "title": "Policía rescata a mujer en puente de Hermosillo",
         "summary": "Autoridades intervienen a tiempo para salvar vida de persona en riesgo en estructura vial hermosillense.",
         "source": "Proyecto Puente",
@@ -218,36 +253,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/29/con-cuentos-inspirados-en-sonora-andres-lechuga-presentara-su-libro-como-nacieron-las-pitayas-en-hermosillo/",
         "_added_at": "2026-07-29T09:14:04.070105-07:00"
-      },
-      {
-        "title": "Vientos de 104 km/h dejan 46 reportes en Hermosillo",
-        "summary": "Microrráfaga causa daños; incluye rescatados en arroyos; vientos superiores a 100 km/h en sectores específicos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/lluvias-y-vientos-de-hasta-104-kmh-dejan-46-reportes-en-hermosillo-incluyendo-rescatados-por-arroyo/",
-        "_added_at": "2026-07-29T06:31:07.786968-07:00"
-      },
-      {
-        "title": "Hermosillo refuerza descacharre contra el dengue",
-        "summary": "Municipio intensifica campaña de eliminación de criaderos; consulta cronograma por colonia.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/hay-cacharros-en-tu-patio-hermosillo-refuerza-el-descacharre-contra-el-dengue-asi-puedes-consultar-cuando-llegara-a-tu-colonia/",
-        "_added_at": "2026-07-29T06:31:07.786968-07:00"
-      },
-      {
-        "title": "Cinco perros rescatados en muelle de Guaymas",
-        "summary": "Rescatistas salvan animales abandonados; llaman a evitar prácticas de maltrato animal.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/rescatistas-de-guaymas-salvan-a-cinco-perros-abandonados-en-un-muelle-llaman-a-evitar-estas-practicas/",
-        "_added_at": "2026-07-29T06:31:07.786968-07:00"
-      },
-      {
-        "title": "Lluvias de 104 km/h dejan daños en Hermosillo",
-        "summary": "Suspensión de plantas El Molinito genera riesgo de baja presión e intermitencias de agua.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/lluvias-detienen-plantas-de-el-molinito-y-podrian-causar-baja-presion-y-falta-de-agua-en-sectores-de-hermosillo/",
-        "_added_at": "2026-07-29T04:12:35.261650-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-29T11:49:06.543743-07:00"
+  "last_updated": "2026-07-29T14:44:44.839544-07:00"
 }
