@@ -1,8 +1,22 @@
 {
   "date": "2026-07-29",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Joven arrestado por agredir a adulta mayor en Hermosillo",
+        "summary": "Detención tras golpear a señora con palo en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/arrestan-a-joven-por-golpear-con-un-palo-a-una-adulta-mayor-en-hermosillo/",
+        "_added_at": "2026-07-29T09:14:04.070105-07:00"
+      },
+      {
+        "title": "Cinco muertes laborales en Hermosillo durante 2026",
+        "summary": "Van cinco decesos de trabajadores durante jornadas laborales en lo que va del año.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/van-5-casos-de-muertes-durante-jornada-laboral-en-hermosillo-en-2026/",
+        "_added_at": "2026-07-29T09:14:04.070105-07:00"
+      },
       {
         "title": "Descarrilamiento en Naco genera alerta ambiental",
         "summary": "Gobernador Durazo confirma derrame químico tras descarrilamiento; PROFEPA evaluará impacto ambiental en la región.",
@@ -92,6 +106,13 @@
     ],
     "economia": [
       {
+        "title": "Sonora refuerza medidas sanitarias en frontera",
+        "summary": "Preparativos para reapertura Agua Prieta-Douglas incluyen vigilancia contra gusano barrenador.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/29/sonora-refuerza-cerco-sanitario-ante-reapertura-de-frontera-para-exportar-ganado-y-evitar-ingreso-del-gusano-barrenador/",
+        "_added_at": "2026-07-29T09:14:04.070105-07:00"
+      },
+      {
         "title": "Presa Mocúzarit se recupera; crisis del trigo preocupa",
         "summary": "Lluvias aumentan almacenamiento en presa; sin embargo, bajo precio del trigo ahoga al sector agrícola.",
         "source": "Expreso",
@@ -114,6 +135,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Rescatan a adulto mayor extraviado en cerro Hermosillo",
+        "summary": "Drones localizaron a hombre de 91 años perdido en cerro La Rinconada.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/rescatan-a-hombre-de-91-anos-extraviado-en-cerro-la-rinconada-tras-ser-localizado-con-drones-en-hermosillo/",
+        "_added_at": "2026-07-29T09:14:04.070105-07:00"
+      },
+      {
+        "title": "Lluvias y extremo calor cierran julio en Sonora",
+        "summary": "CONAGUA pronostica temperaturas superiores a 45 grados y precipitaciones al final del mes.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/lluvias-aumentan-en-sonora-mientras-temperaturas-podrian-superar-los-45c-asi-sera-el-cierre-de-julio-segun-conagua/",
+        "_added_at": "2026-07-29T09:14:04.070105-07:00"
+      },
+      {
+        "title": "Autor presenta libro inspirado en Sonora en Hermosillo",
+        "summary": "Andrés Lechuga presentará 'Cómo Nacieron Las Pitayas' con cuentos de la región.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/con-cuentos-inspirados-en-sonora-andres-lechuga-presentara-su-libro-como-nacieron-las-pitayas-en-hermosillo/",
+        "_added_at": "2026-07-29T09:14:04.070105-07:00"
+      },
       {
         "title": "Vientos de 104 km/h dejan 46 reportes en Hermosillo",
         "summary": "Microrráfaga causa daños; incluye rescatados en arroyos; vientos superiores a 100 km/h en sectores específicos.",
@@ -162,15 +204,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/28/reciclando-por-sonrisas-busca-reunir-15-mil-pesos-para-el-tratamiento-de-darynkha-joven-con-cancer-de-tiroides/",
         "_added_at": "2026-07-29T01:14:23.338826-07:00"
-      },
-      {
-        "title": "Cajeme reconoce a árbitro que representó México en Mundial",
-        "summary": "Ciudad Obregón homenajeó a Guillermo Pacheco Larios en torneo internacional.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/28/cajeme-reconoce-a-guillermo-pacheco-larios-el-arbitro-sonorense-que-represento-a-mexico-en-el-mundial-2026/",
-        "_added_at": "2026-07-29T01:14:23.338826-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-29T06:31:07.786968-07:00"
+  "last_updated": "2026-07-29T09:14:04.070105-07:00"
 }
