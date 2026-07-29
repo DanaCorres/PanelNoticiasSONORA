@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -34,6 +34,20 @@
     ],
     "politica": [
       {
+        "title": "Lorenia Valles destacada como favorita de Morena en Sonora",
+        "summary": "Aspirante con mayores probabilidades en proceso interno del partido morenista estatal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/29/es-lorenia-valles-la-aspirante-con-mas-probabilidades-de-ganar-el-proceso-interno-de-morena-en-sonora-segun-chatgpt/",
+        "_added_at": "2026-07-29T04:12:35.261650-07:00"
+      },
+      {
+        "title": "Durazo sobre descarrilamiento en Naco: impacto limitó derrame",
+        "summary": "Gobernador asegura que colisión evitó descarga total de químicos en localidad fronteriza.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/durazo-asegura-que-el-derrame-quimico-en-naco-no-fue-total/261362",
+        "_added_at": "2026-07-29T04:12:35.261650-07:00"
+      },
+      {
         "title": "Lorenia Valles destaca programas sociales en Hermosillo",
         "summary": "Senadora con licencia realiza asamblea sobre crecimiento industrial y bienestar.",
         "source": "Expreso",
@@ -66,6 +80,13 @@
     ],
     "sociedad": [
       {
+        "title": "Lluvias de 104 km/h dejan daños en Hermosillo",
+        "summary": "Suspensión de plantas El Molinito genera riesgo de baja presión e intermitencias de agua.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/lluvias-detienen-plantas-de-el-molinito-y-podrian-causar-baja-presion-y-falta-de-agua-en-sectores-de-hermosillo/",
+        "_added_at": "2026-07-29T04:12:35.261650-07:00"
+      },
+      {
         "title": "Lluvias afectan suministro de agua en Hermosillo",
         "summary": "Plantas de El Molinito suspenden operaciones por turbiedad, posible falta de presión.",
         "source": "El Imparcial",
@@ -95,5 +116,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-29T01:14:23.338826-07:00"
+  "last_updated": "2026-07-29T04:12:35.261650-07:00"
 }
