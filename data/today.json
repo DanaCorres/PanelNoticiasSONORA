@@ -1,295 +1,113 @@
 {
-  "date": "2026-07-29",
-  "run_count": 8,
+  "date": "2026-07-30",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Dos cadáveres hallados con violencia en Hermosillo",
-        "summary": "Autoridades encontraron dos cuerpos atados con signos de violencia en vivienda abandonada del Coloso Bajo.",
+        "title": "Dos cuerpos hallados atados en vivienda abandonada",
+        "summary": "Autoridades encontraron dos cadáveres con signos de violencia en Hermosillo, en el sector del Coloso Bajo.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/encuentran-dos-cuerpos-atados-y-con-signos-de-violencia-en-una-vivienda-abandonada-en-hermosillo/",
-        "_added_at": "2026-07-29T22:29:23.489960-07:00"
-      },
-      {
-        "title": "Vinculan a sujeto armado en carretera Hermosillo-Santa Ana",
-        "summary": "Autoridades procesaron a persona implicada en portación de armas en tramo vial estatal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-sujeto-armado-en-tramo-hermosillo-santa-ana/261435",
-        "_added_at": "2026-07-29T22:29:23.489960-07:00"
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       },
       {
         "title": "Aseguran 200 kilos de metanfetamina en Caborca",
-        "summary": "Autoridades localizaron gran cantidad de droga oculta en carretes industriales; hay un detenido.",
+        "summary": "Operativo en Sonora localizó droga oculta en carretes industriales; hay un detenido.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/29/aseguran-200-kilos-de-metanfetamina-ocultos-en-carretes-industriales-en-sonora-hay-un-detenido/",
-        "_added_at": "2026-07-29T18:12:29.039027-07:00"
-      },
-      {
-        "title": "Localizan cuerpo en descomposición en Hermosillo",
-        "summary": "Hallazgo en vivienda de la colonia López Portillo; investigación en curso.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/localizan-cuerpo-en-estado-de-descomposicion-en-vivienda-de-la-colonia-lopez-portillo/",
-        "_added_at": "2026-07-29T18:12:29.039027-07:00"
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       },
       {
         "title": "Hombre herido por disparos en fraccionamiento Mallorca",
-        "summary": "Individuo de 35 años recibió impactos de bala en zona residencial de Hermosillo.",
+        "summary": "Sujeto de 35 años recibió impactos de arma de fuego en Hermosillo.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/hombre-de-35-anos-es-herido-por-disparos-en-fraccionamiento-mallorca/",
-        "_added_at": "2026-07-29T18:12:29.039027-07:00"
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       },
       {
-        "title": "Hombre ataca con machete a policías en Nogales",
-        "summary": "Sujeto agrede con machete a elementos policiales durante intervención por violencia familiar; oficial resulta lesionado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/29/hombre-ataca-con-machete-a-policias-en-nogales-durante-atencion-por-violencia-familiar-oficial-resulta-lesionado/",
-        "_added_at": "2026-07-29T14:44:44.839544-07:00"
-      },
-      {
-        "title": "Pipa con gas natural vuelca en Hermosillo",
-        "summary": "Tractocamión transportando 58 mil litros de gas natural se vuelca; conductor queda atrapado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/vuelca-pipa-con-58-mil-litros-de-gas-natural-en-hermosillo-conductor-queda-atrapado/",
-        "_added_at": "2026-07-29T14:44:44.839544-07:00"
-      },
-      {
-        "title": "Derrame químico en Naco por accidente ferroviario",
-        "summary": "Tormenta habría dañado vías del tren causando accidente que derramó casi 60 mil litros de hidrosulfuro de sodio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/29/tormenta-atipica-habria-provocado-danos-en-vias-del-tren-antes-del-accidente-en-sonora-que-derramo-casi-60-mil-litros-de-hidrosulfuro-de-sodio-en-naco/",
-        "_added_at": "2026-07-29T14:44:44.839544-07:00"
-      },
-      {
-        "title": "Hermosillo: aseguran ocho mil litros de huachicol",
-        "summary": "Autoridades localizan toma clandestina de hidrocarburo en el sur de Hermosillo y decomisan combustible ilegal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/localizan-e-inhabilitan-toma-clandestina-de-hidrocarburo-en-hermosillo-fueron-asegurados-8-mil-litros-de-combustible/",
-        "_added_at": "2026-07-29T11:49:06.543743-07:00"
-      },
-      {
-        "title": "Incendios aumentan 40% en Cajeme durante 2026",
-        "summary": "Bomberos de Cajeme reportan incremento significativo en emergencias por fuegos, principalmente en pastizales y casas abandonadas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/29/servicios-de-bomberos-de-cajeme-aumentan-hasta-40-en-2026-7-de-cada-10-son-por-incendios-de-pasto-seco-y-casas-abandonadas/",
-        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+        "title": "Vinculan a sujeto armado en tramo Hermosillo-Santa Ana",
+        "summary": "Autoridades procesaron a individuo armado capturado en carretera estatal.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-sujeto-armado-en-tramo-hermosillo-santa-ana/261435",
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Célida López encabeza asamblea en Miguel Alemán",
-        "summary": "Funcionaria destaca transformación y respaldo a administración en poblado sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/celida-lopez-encabeza-asamblea-con-habitantes-de-miguel-aleman/",
-        "_added_at": "2026-07-29T22:29:23.489960-07:00"
-      },
-      {
-        "title": "Gobierno mantiene diálogo con Covafam sobre seguridad",
-        "summary": "Salazar Razo confirma comunicación constante con grupo; prioriza orden público.",
+        "title": "Gobierno de Sonora dialoga con Covafam sin ceder seguridad",
+        "summary": "Autoridades mantienen comunicación con grupo pero priorizan la ciudadanía.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/gobierno-de-sonora-mantiene-dialogo-con-covafam-pero-prioriza-la-seguridad-ciudadana/",
-        "_added_at": "2026-07-29T18:12:29.039027-07:00"
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       },
       {
-        "title": "René García aspira a presidencia municipal de Hermosillo",
-        "summary": "Político anuncia intención de competir por alcaldía hermosillense en elecciones 2027 con enfoque en servicios ciudadanos.",
+        "title": "Lamarque regresa a colonia donde inició con López Obrador",
+        "summary": "Funcionario estatal retorna a zona de sus inicios políticos en gira.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/rene-garcia-apuesta-por-cercania-ciudadana-y-servicios-publicos-eficientes-revela-interes-por-buscar-la-presidencia-municipal-de-hermosillo-en-2027/",
-        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/regresa-lamarque-a-colonia-donde-inicio-recorridos-con-lopez-obrador/",
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       },
       {
-        "title": "Celida López destaca pacto de civilidad política sonorense",
-        "summary": "Gobernadora subraya unidad en Morena y acuerdos de civismo político rumbo a comicios 2027 en Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/celida-lopez-resalta-unidad-de-morena-sonora-rumbo-a-2027/261416",
-        "_added_at": "2026-07-29T11:49:06.543743-07:00"
-      },
-      {
-        "title": "Morena prepara encuesta para definir candidaturas sonorenses",
-        "summary": "Partido morenista alista ejercicio participativo para determinar liderazgos en Sonora de cara a 2027.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/froylan-gamez-alista-cierre-de-gira-en-hermosillo/261408",
-        "_added_at": "2026-07-29T11:49:06.543743-07:00"
-      },
-      {
-        "title": "Lorenia Valles destacada como favorita de Morena en Sonora",
-        "summary": "Aspirante con mayores probabilidades en proceso interno del partido morenista estatal.",
+        "title": "Froylán Gámez recorre Villa de Seris escuchando vecinos",
+        "summary": "Funcionario visita comunidad para diálogo directo con habitantes.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/29/es-lorenia-valles-la-aspirante-con-mas-probabilidades-de-ganar-el-proceso-interno-de-morena-en-sonora-segun-chatgpt/",
-        "_added_at": "2026-07-29T04:12:35.261650-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/villa-de-seris-es-tradicion-comercio-y-futuro-para-hermosillo-froylan-gamez/",
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       },
       {
-        "title": "Durazo sobre descarrilamiento en Naco: impacto limitó derrame",
-        "summary": "Gobernador asegura que colisión evitó descarga total de químicos en localidad fronteriza.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/durazo-asegura-que-el-derrame-quimico-en-naco-no-fue-total/261362",
-        "_added_at": "2026-07-29T04:12:35.261650-07:00"
-      },
-      {
-        "title": "Lorenia Valles destaca programas sociales en Hermosillo",
-        "summary": "Senadora con licencia realiza asamblea sobre crecimiento industrial y bienestar.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-asegura-respaldo-ciudadano-en-hermosillo/261385",
-        "_added_at": "2026-07-29T01:14:23.338826-07:00"
-      },
-      {
-        "title": "Durazo sobre derrame químico en Naco: daño limitado",
-        "summary": "Gobernador comenta que impacto del descarrilamiento fue menor al ocurrido en 2014.",
+        "title": "Célida López encabeza asamblea en Miguel Alemán",
+        "summary": "Funcionaria se reúne con comunidad de municipio sonorense.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/28/alfonso-durazo-sobre-el-descarrilamiento-en-naco-no-es-tan-contaminante-como-el-ocurrido-en-2014/",
-        "_added_at": "2026-07-29T01:14:23.338826-07:00"
-      },
-      {
-        "title": "Beltrones celebra acuerdo para reapertura de ganado",
-        "summary": "Senador destaca reapertura en agosto por Douglas-Agua Prieta con estándares sanitarios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/afortunado-el-acuerdo-para-reapertura-de-ganado-beltrones/261375",
-        "_added_at": "2026-07-29T01:14:23.338826-07:00"
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/celida-lopez-encabeza-asamblea-con-habitantes-de-miguel-aleman/",
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Programa Sonora Atiende supera 201 mil servicios",
-        "summary": "Iniciativa gubernamental alcanzó meta de atención ciudadana en 27 municipios del estado.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-atiende-supera-201-mil-servicios-en-27-municipios/261433",
-        "_added_at": "2026-07-29T22:29:23.489960-07:00"
-      },
-      {
-        "title": "Sonora Atiende supera 201 mil servicios ciudadanos",
-        "summary": "Programa gubernamental de Durazo alcanza récord en atención a familias de 27 municipios.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/sonora-atiende-rompe-record-mas-de-201-mil-servicios-acercan-al-gobierno-de-durazo-directamente-a-las-familias/",
-        "_added_at": "2026-07-29T18:12:29.039027-07:00"
-      },
-      {
-        "title": "CANACINTRA y UGRS organizan Expo Industrial 2026",
-        "summary": "Gremios empresariales unen fuerzas para evento de negocios en ExpoGan.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/canacintra-y-ugrs-unen-esfuerzos-para-llevar-la-expo-industrial-y-de-negocios-sonora-2026-a-expogan/",
-        "_added_at": "2026-07-29T18:12:29.039027-07:00"
-      },
-      {
-        "title": "Hermosillo Conecta rompe récord con 600 citas de negocios",
-        "summary": "Programa impulsa encuentros comerciales entre compradores y proveedores locales para fortalecer economía regional.",
+        "title": "Hermosillo Conecta logra 600 citas de negocios",
+        "summary": "Evento impulsa a proveedores locales con récord de encuentros comerciales.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/29/hermosillo-conecta-rompe-record-con-mas-de-600-citas-de-negocios-para-impulsar-proveedores-locales/",
-        "_added_at": "2026-07-29T14:44:44.839544-07:00"
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       },
       {
-        "title": "Hermosillo gana premio por innovación presupuestaria ciudadana",
-        "summary": "Presupuesto Creces recibe reconocimiento NovaGob 2026 por participación ciudadana en gestión municipal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/presupuesto-creces-de-hermosillo-gana-premio-novagob-mexico-2026-por-innovacion-en-participacion-ciudadana/",
-        "_added_at": "2026-07-29T11:49:06.543743-07:00"
-      },
-      {
-        "title": "Parque Industrial Obregón sin afectaciones por lluvia",
-        "summary": "Canacintra confirma continuidad operativa en Parque Industrial de Ciudad Obregón sin impacto por precipitaciones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/29/lluvias-no-han-afectado-operaciones-en-el-parque-industrial-de-ciudad-obregon-canacintra/",
-        "_added_at": "2026-07-29T11:49:06.543743-07:00"
-      },
-      {
-        "title": "Sonora refuerza medidas sanitarias en frontera",
-        "summary": "Preparativos para reapertura Agua Prieta-Douglas incluyen vigilancia contra gusano barrenador.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/29/sonora-refuerza-cerco-sanitario-ante-reapertura-de-frontera-para-exportar-ganado-y-evitar-ingreso-del-gusano-barrenador/",
-        "_added_at": "2026-07-29T09:14:04.070105-07:00"
-      },
-      {
-        "title": "Presa Mocúzarit se recupera; crisis del trigo preocupa",
-        "summary": "Lluvias aumentan almacenamiento en presa; sin embargo, bajo precio del trigo ahoga al sector agrícola.",
+        "title": "Programa Sonora Atiende supera 201 mil servicios",
+        "summary": "Iniciativa de gobierno beneficia a ciudadanos en 27 municipios.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-dan-respiro-precio-del-trigo-ahoga-al-campo/261395",
-        "_added_at": "2026-07-29T06:31:07.786968-07:00"
-      },
-      {
-        "title": "Invierten 7 mil millones en transformación de Navojoa",
-        "summary": "Gobernador Durazo encabeza inversión conjunta para mejorar infraestructura y servicios en Navojoa.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/destinan-7-mil-mdp-a-obras-y-programas-para-navojoa/261396",
-        "_added_at": "2026-07-29T06:31:07.786968-07:00"
-      },
-      {
-        "title": "Reapertura de ganado inicia agosto en Agua Prieta",
-        "summary": "Frontera Douglas-Agua Prieta abre importaciones tras acuerdo bilateral.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/afortunado-el-acuerdo-para-reapertura-de-ganado-beltrones/261375",
-        "_added_at": "2026-07-29T01:14:23.338826-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-atiende-supera-201-mil-servicios-en-27-municipios/261433",
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Infecciones intestinales alcanzan 53 mil casos en Sonora",
-        "summary": "Estado registra más de 2 mil nuevos casos de padecimiento, cifra inferior al año anterior.",
+        "title": "Sonora acumula 53 mil casos de infecciones intestinales",
+        "summary": "En 2026 se registran más de 2 mil nuevos casos, pero cifra baja versus año anterior.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/supera-sonora-53-mil-casos-de-infecciones-intestinales-2026/261439",
-        "_added_at": "2026-07-29T22:29:23.489960-07:00"
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
+      },
+      {
+        "title": "IDECC Hermosillo promociona cuidado de piel desde infancia",
+        "summary": "Instituto invita a sociedad a invertir en salud dermatológica temprana.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/la-piel-tiene-memoria-idecc-hermosillo-invita-a-cuidar-su-salud-desde-la-infancia/",
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       },
       {
         "title": "Traslados médicos gratuitos benefician familias en Cananea",
-        "summary": "Casi 100 familias fueron asistidas en tres meses con transportación sanitaria.",
+        "summary": "Casi 100 familias recibieron asistencia de transporte en tres meses.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/29/traslados-medicos-gratuitos-benefician-a-casi-100-familias-en-cananea-en-solo-tres-meses-esmeralda-gonzalez/",
-        "_added_at": "2026-07-29T22:29:23.489960-07:00"
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       },
       {
-        "title": "IMCA invita a menores a talleres gratuitos de lectura",
-        "summary": "Instituto organiza actividades educativas y de juegos para niños en Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/imca-invita-a-menores-a-talleres-gratuitos-de-lectura-y-juegos-en-hermosillo/",
-        "_added_at": "2026-07-29T18:12:29.039027-07:00"
-      },
-      {
-        "title": "Pronan recauda para equipo de terapia en Hermosillo",
-        "summary": "Asociación ofrece sesiones fotográficas benéficas para fondos de terapia a personas con discapacidad.",
+        "title": "Se esperan lluvias durante fin de semana en Hermosillo",
+        "summary": "Pronóstico de precipitaciones y lloviznas por monzón de verano.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/pronan-iap-ofrece-mini-sesiones-fotograficas-para-recaudar-fondos-y-mejorar-su-equipo-de-terapia-para-atender-personas-con-paralisis-cerebral-autismo-y-sindrome-de-down/",
-        "_added_at": "2026-07-29T14:44:44.839544-07:00"
-      },
-      {
-        "title": "Hombre convierte baldío en parque verde en Hermosillo",
-        "summary": "Ciudadano transforma terreno abandonado en espacio público con más de 20 especies de plantas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/hombre-transforma-baldio-lleno-de-basura-en-un-parque-con-mas-de-20-especies-de-plantas-en-hermosillo/",
-        "_added_at": "2026-07-29T14:44:44.839544-07:00"
-      },
-      {
-        "title": "Nogales repone bienes a familias afectadas por lluvias",
-        "summary": "Municipio asiste a más de 100 familias dañadas; 50 ya recibieron apoyo para reposición de pertenencias.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/29/lluvias-en-nogales-dejan-106-familias-afectadas-50-ya-recibio-apoyo-para-reponer-bienes-danados/",
-        "_added_at": "2026-07-29T14:44:44.839544-07:00"
-      },
-      {
-        "title": "Presupuesto Creces gana premio NovaGob 2026 en Hermosillo",
-        "summary": "Iniciativa municipal reconocida por innovación en participación ciudadana y gestión presupuestaria.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/presupuesto-creces-de-hermosillo-gana-premio-novagob-mexico-2026-por-innovacion-en-participacion-ciudadana/",
-        "_added_at": "2026-07-29T14:44:44.839544-07:00"
-      },
-      {
-        "title": "Policía rescata a mujer en puente de Hermosillo",
-        "summary": "Autoridades intervienen a tiempo para salvar vida de persona en riesgo en estructura vial hermosillense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/llegamos-a-tiempo-policia-narra-el-rescate-de-mujer-en-puente-de-hermosillo/",
-        "_added_at": "2026-07-29T11:49:06.543743-07:00"
-      },
-      {
-        "title": "Bloqueo de Covafam causa crisis vial en Hermosillo",
-        "summary": "Manifestación en centro de Hermosillo genera caos vehicular; gobierno busca acuerdo sin avances significativos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/bloqueo-de-covafam-en-hermosillo-provoca-caos-vial-en-el-centro-gobierno-busca-acuerdo-sin-avances/",
-        "_added_at": "2026-07-29T11:49:06.543743-07:00"
-      },
-      {
-        "title": "Sonora refuerza cerco sanitario fronterizo contra plaga agrícola",
-        "summary": "Estado implementa vigilancia sanitaria en Agua Prieta-Douglas ante reapertura para evitar ingreso de gusano barrenador.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/29/sonora-refuerza-cerco-sanitario-ante-reapertura-de-frontera-para-exportar-ganado-y-evitar-ingreso-del-gusano-barrenador/",
-        "_added_at": "2026-07-29T11:49:06.543743-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/tormentas-en-hermosillo-se-esperan-lluvias-y-lloviznas-durante-el-fin-de-semana/",
+        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-29T22:29:23.489960-07:00"
+  "last_updated": "2026-07-30T01:03:08.856425-07:00"
 }
