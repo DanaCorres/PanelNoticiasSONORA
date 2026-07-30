@@ -1,8 +1,36 @@
 {
   "date": "2026-07-30",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Profepa clausura zona tras derrame químico en Naco",
+        "summary": "Autoridades cierran área donde Ferromex derramó hidrosulfuro de sodio e investigan posible contaminación del acuífero.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/tras-derrame-de-ferromex-en-naco-profepa-clausura-la-zona-e-investiga-posible-infiltracion-del-quimico-al-acuifero/",
+        "_added_at": "2026-07-30T12:05:30.846947-07:00"
+      },
+      {
+        "title": "Incendio consume llantera en Ciudad Obregón",
+        "summary": "Bomberos controlan fuego en negocio al sur de Cajeme; no hay lesionados pero sí daños materiales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/incendio-consume-llantera-al-sur-de-ciudad-obregon-deja-cuantiosos-danos-materiales/",
+        "_added_at": "2026-07-30T12:05:30.846947-07:00"
+      },
+      {
+        "title": "Rescatan familia atrapada en arroyo de Ures",
+        "summary": "Bomberos auxilian a grupo atorado en cauce; autoridades advierten sobre riesgos por lluvia.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/30/rescatan-a-familia-atrapada-en-arroyo-de-ures-bomberos-llaman-a-extremar-precauciones/",
+        "_added_at": "2026-07-30T12:05:30.846947-07:00"
+      },
+      {
+        "title": "Detienen hombre por amenazas domésticas en Hermosillo",
+        "summary": "Capturan individuo tras amenazar violencia contra su pareja en la capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/30/arrestan-a-hombre-por-amenazar-con-golpear-a-su-esposa-en-hermosillo/",
+        "_added_at": "2026-07-30T12:05:30.846947-07:00"
+      },
       {
         "title": "Hombre muere en ataque armado en Hermosillo",
         "summary": "Víctima fatal por agresión a balazos en zona surponiente de la capital estatal.",
@@ -92,6 +120,20 @@
     ],
     "economia": [
       {
+        "title": "Invierten 45 mdp en centro de comercialización ganadera",
+        "summary": "Nueva subasta ganadera en Moctezuma beneficiará a más de 8 mil productores de región serrana.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/inician-centro-de-subasta-ganadera-en-moctezuma/261458",
+        "_added_at": "2026-07-30T12:05:30.846947-07:00"
+      },
+      {
+        "title": "Hermosillo Conecta acerca contratos a proveedores locales",
+        "summary": "Empresas sonorenses buscan participar en proyectos de construcción municipal mediante encuentros comerciales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/empresas-locales-buscan-quedarse-con-mas-contratos-de-la-construccion-en-hermosillo-mediante-encuentros-con-grandes-compradores/",
+        "_added_at": "2026-07-30T12:05:30.846947-07:00"
+      },
+      {
         "title": "Nueva subasta ganadera en Moctezuma beneficia ocho mil productores",
         "summary": "Centro de comercialización con inversión de 45 millones reduce costos de traslado para ganaderos.",
         "source": "El Imparcial",
@@ -121,6 +163,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Cajeme entrega más de 2 mil árboles en vivero móvil",
+        "summary": "Municipio distribuye plantas gratuitamente y anuncia nuevos puntos de atención ambiental.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/cajeme-entrega-mas-de-2-mil-arboles-gratis-y-anuncia-nuevos-puntos-del-vivero-movil/",
+        "_added_at": "2026-07-30T12:05:30.846947-07:00"
+      },
+      {
+        "title": "Hombre convierte baldío en parque verde en Hermosillo",
+        "summary": "Ciudadano transforma terreno abandonado en espacio de verdor con más de 20 especies vegetales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/hombre-transforma-baldio-lleno-de-basura-en-un-parque-con-mas-de-20-especies-de-plantas-en-hermosillo/",
+        "_added_at": "2026-07-30T12:05:30.846947-07:00"
+      },
+      {
+        "title": "Hermosillo regresa a 50 grados con nueva ola de calor",
+        "summary": "Alerta por temperaturas extremas con sensación térmica hasta 53°C del 30 julio al 2 agosto.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/emiten-alerta-por-ola-de-calor-extremo-en-hermosillo/261463",
+        "_added_at": "2026-07-30T12:05:30.846947-07:00"
+      },
+      {
+        "title": "Restauración avanza en mural del Teatro Russo Vogel",
+        "summary": "Trabajos continúan en Ciudad Obregón para detener daños causados por humedad en patrimonio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/continuan-restauracion-del-mural-del-teatro-russo-vogel-para-frenar-danos-por-humedad/",
+        "_added_at": "2026-07-30T12:05:30.846947-07:00"
+      },
       {
         "title": "Agua en La Mesa se restablece al 60% en Nogales",
         "summary": "Oomapas continúa distribución con pipas mientras repara pozo afectado.",
@@ -165,5 +235,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-30T09:19:14.106662-07:00"
+  "last_updated": "2026-07-30T12:05:30.846947-07:00"
 }
