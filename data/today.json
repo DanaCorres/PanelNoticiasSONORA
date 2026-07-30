@@ -1,8 +1,22 @@
 {
   "date": "2026-07-29",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Dos cadáveres hallados con violencia en Hermosillo",
+        "summary": "Autoridades encontraron dos cuerpos atados con signos de violencia en vivienda abandonada del Coloso Bajo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/encuentran-dos-cuerpos-atados-y-con-signos-de-violencia-en-una-vivienda-abandonada-en-hermosillo/",
+        "_added_at": "2026-07-29T22:29:23.489960-07:00"
+      },
+      {
+        "title": "Vinculan a sujeto armado en carretera Hermosillo-Santa Ana",
+        "summary": "Autoridades procesaron a persona implicada en portación de armas en tramo vial estatal.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-sujeto-armado-en-tramo-hermosillo-santa-ana/261435",
+        "_added_at": "2026-07-29T22:29:23.489960-07:00"
+      },
       {
         "title": "Aseguran 200 kilos de metanfetamina en Caborca",
         "summary": "Autoridades localizaron gran cantidad de droga oculta en carretes industriales; hay un detenido.",
@@ -58,23 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/29/servicios-de-bomberos-de-cajeme-aumentan-hasta-40-en-2026-7-de-cada-10-son-por-incendios-de-pasto-seco-y-casas-abandonadas/",
         "_added_at": "2026-07-29T11:49:06.543743-07:00"
-      },
-      {
-        "title": "Robo en corralón de Nogales: detienen a uno de tres",
-        "summary": "Capturan a uno de los tres hombres que asaltaron motocicleta municipal en Nogales; dos permanecen prófugos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/29/detienen-a-uno-de-tres-hombres-que-robaron-una-motocicleta-del-corralon-municipal-de-nogales-amenazaron-al-velador-con-un-arma-de-fuego/",
-        "_added_at": "2026-07-29T11:49:06.543743-07:00"
-      },
-      {
-        "title": "Tractocamión mata a vendedor de 79 años en SLRC",
-        "summary": "Adulto mayor fallece tras ser atropellado por vehículo pesado en San Luis Río Colorado.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/muere-adulto-mayor-tras-ser-atropellado-por-trailer-en-slrc/261400",
-        "_added_at": "2026-07-29T11:49:06.543743-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Célida López encabeza asamblea en Miguel Alemán",
+        "summary": "Funcionaria destaca transformación y respaldo a administración en poblado sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/celida-lopez-encabeza-asamblea-con-habitantes-de-miguel-aleman/",
+        "_added_at": "2026-07-29T22:29:23.489960-07:00"
+      },
       {
         "title": "Gobierno mantiene diálogo con Covafam sobre seguridad",
         "summary": "Salazar Razo confirma comunicación constante con grupo; prioriza orden público.",
@@ -141,6 +148,13 @@
     ],
     "economia": [
       {
+        "title": "Programa Sonora Atiende supera 201 mil servicios",
+        "summary": "Iniciativa gubernamental alcanzó meta de atención ciudadana en 27 municipios del estado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-atiende-supera-201-mil-servicios-en-27-municipios/261433",
+        "_added_at": "2026-07-29T22:29:23.489960-07:00"
+      },
+      {
         "title": "Sonora Atiende supera 201 mil servicios ciudadanos",
         "summary": "Programa gubernamental de Durazo alcanza récord en atención a familias de 27 municipios.",
         "source": "Proyecto Puente",
@@ -206,6 +220,20 @@
     ],
     "sociedad": [
       {
+        "title": "Infecciones intestinales alcanzan 53 mil casos en Sonora",
+        "summary": "Estado registra más de 2 mil nuevos casos de padecimiento, cifra inferior al año anterior.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/supera-sonora-53-mil-casos-de-infecciones-intestinales-2026/261439",
+        "_added_at": "2026-07-29T22:29:23.489960-07:00"
+      },
+      {
+        "title": "Traslados médicos gratuitos benefician familias en Cananea",
+        "summary": "Casi 100 familias fueron asistidas en tres meses con transportación sanitaria.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/traslados-medicos-gratuitos-benefician-a-casi-100-familias-en-cananea-en-solo-tres-meses-esmeralda-gonzalez/",
+        "_added_at": "2026-07-29T22:29:23.489960-07:00"
+      },
+      {
         "title": "IMCA invita a menores a talleres gratuitos de lectura",
         "summary": "Instituto organiza actividades educativas y de juegos para niños en Hermosillo.",
         "source": "Proyecto Puente",
@@ -260,22 +288,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/07/29/sonora-refuerza-cerco-sanitario-ante-reapertura-de-frontera-para-exportar-ganado-y-evitar-ingreso-del-gusano-barrenador/",
         "_added_at": "2026-07-29T11:49:06.543743-07:00"
-      },
-      {
-        "title": "Rescatan a adulto mayor extraviado en cerro Hermosillo",
-        "summary": "Drones localizaron a hombre de 91 años perdido en cerro La Rinconada.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/rescatan-a-hombre-de-91-anos-extraviado-en-cerro-la-rinconada-tras-ser-localizado-con-drones-en-hermosillo/",
-        "_added_at": "2026-07-29T09:14:04.070105-07:00"
-      },
-      {
-        "title": "Lluvias y extremo calor cierran julio en Sonora",
-        "summary": "CONAGUA pronostica temperaturas superiores a 45 grados y precipitaciones al final del mes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/lluvias-aumentan-en-sonora-mientras-temperaturas-podrian-superar-los-45c-asi-sera-el-cierre-de-julio-segun-conagua/",
-        "_added_at": "2026-07-29T09:14:04.070105-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-29T18:12:29.039027-07:00"
+  "last_updated": "2026-07-29T22:29:23.489960-07:00"
 }
