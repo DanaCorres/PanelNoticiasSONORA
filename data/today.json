@@ -1,8 +1,29 @@
 {
   "date": "2026-07-29",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Aseguran 200 kilos de metanfetamina en Caborca",
+        "summary": "Autoridades localizaron gran cantidad de droga oculta en carretes industriales; hay un detenido.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/29/aseguran-200-kilos-de-metanfetamina-ocultos-en-carretes-industriales-en-sonora-hay-un-detenido/",
+        "_added_at": "2026-07-29T18:12:29.039027-07:00"
+      },
+      {
+        "title": "Localizan cuerpo en descomposición en Hermosillo",
+        "summary": "Hallazgo en vivienda de la colonia López Portillo; investigación en curso.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/localizan-cuerpo-en-estado-de-descomposicion-en-vivienda-de-la-colonia-lopez-portillo/",
+        "_added_at": "2026-07-29T18:12:29.039027-07:00"
+      },
+      {
+        "title": "Hombre herido por disparos en fraccionamiento Mallorca",
+        "summary": "Individuo de 35 años recibió impactos de bala en zona residencial de Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/hombre-de-35-anos-es-herido-por-disparos-en-fraccionamiento-mallorca/",
+        "_added_at": "2026-07-29T18:12:29.039027-07:00"
+      },
       {
         "title": "Hombre ataca con machete a policías en Nogales",
         "summary": "Sujeto agrede con machete a elementos policiales durante intervención por violencia familiar; oficial resulta lesionado.",
@@ -51,30 +72,16 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/muere-adulto-mayor-tras-ser-atropellado-por-trailer-en-slrc/261400",
         "_added_at": "2026-07-29T11:49:06.543743-07:00"
-      },
-      {
-        "title": "Joven arrestado por agredir a adulta mayor en Hermosillo",
-        "summary": "Detención tras golpear a señora con palo en la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/arrestan-a-joven-por-golpear-con-un-palo-a-una-adulta-mayor-en-hermosillo/",
-        "_added_at": "2026-07-29T09:14:04.070105-07:00"
-      },
-      {
-        "title": "Cinco muertes laborales en Hermosillo durante 2026",
-        "summary": "Van cinco decesos de trabajadores durante jornadas laborales en lo que va del año.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/van-5-casos-de-muertes-durante-jornada-laboral-en-hermosillo-en-2026/",
-        "_added_at": "2026-07-29T09:14:04.070105-07:00"
-      },
-      {
-        "title": "Descarrilamiento en Naco genera alerta ambiental",
-        "summary": "Gobernador Durazo confirma derrame químico tras descarrilamiento; PROFEPA evaluará impacto ambiental en la región.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/28/profepa-definira-el-impacto-ambiental-del-derrame-quimico-tras-descarrilamiento-en-nacosonora-durazo/",
-        "_added_at": "2026-07-29T06:31:07.786968-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Gobierno mantiene diálogo con Covafam sobre seguridad",
+        "summary": "Salazar Razo confirma comunicación constante con grupo; prioriza orden público.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/gobierno-de-sonora-mantiene-dialogo-con-covafam-pero-prioriza-la-seguridad-ciudadana/",
+        "_added_at": "2026-07-29T18:12:29.039027-07:00"
+      },
       {
         "title": "René García aspira a presidencia municipal de Hermosillo",
         "summary": "Político anuncia intención de competir por alcaldía hermosillense en elecciones 2027 con enfoque en servicios ciudadanos.",
@@ -134,6 +141,20 @@
     ],
     "economia": [
       {
+        "title": "Sonora Atiende supera 201 mil servicios ciudadanos",
+        "summary": "Programa gubernamental de Durazo alcanza récord en atención a familias de 27 municipios.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/sonora-atiende-rompe-record-mas-de-201-mil-servicios-acercan-al-gobierno-de-durazo-directamente-a-las-familias/",
+        "_added_at": "2026-07-29T18:12:29.039027-07:00"
+      },
+      {
+        "title": "CANACINTRA y UGRS organizan Expo Industrial 2026",
+        "summary": "Gremios empresariales unen fuerzas para evento de negocios en ExpoGan.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/canacintra-y-ugrs-unen-esfuerzos-para-llevar-la-expo-industrial-y-de-negocios-sonora-2026-a-expogan/",
+        "_added_at": "2026-07-29T18:12:29.039027-07:00"
+      },
+      {
         "title": "Hermosillo Conecta rompe récord con 600 citas de negocios",
         "summary": "Programa impulsa encuentros comerciales entre compradores y proveedores locales para fortalecer economía regional.",
         "source": "Proyecto Puente",
@@ -184,6 +205,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "IMCA invita a menores a talleres gratuitos de lectura",
+        "summary": "Instituto organiza actividades educativas y de juegos para niños en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/imca-invita-a-menores-a-talleres-gratuitos-de-lectura-y-juegos-en-hermosillo/",
+        "_added_at": "2026-07-29T18:12:29.039027-07:00"
+      },
       {
         "title": "Pronan recauda para equipo de terapia en Hermosillo",
         "summary": "Asociación ofrece sesiones fotográficas benéficas para fondos de terapia a personas con discapacidad.",
@@ -246,15 +274,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/lluvias-aumentan-en-sonora-mientras-temperaturas-podrian-superar-los-45c-asi-sera-el-cierre-de-julio-segun-conagua/",
         "_added_at": "2026-07-29T09:14:04.070105-07:00"
-      },
-      {
-        "title": "Autor presenta libro inspirado en Sonora en Hermosillo",
-        "summary": "Andrés Lechuga presentará 'Cómo Nacieron Las Pitayas' con cuentos de la región.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/con-cuentos-inspirados-en-sonora-andres-lechuga-presentara-su-libro-como-nacieron-las-pitayas-en-hermosillo/",
-        "_added_at": "2026-07-29T09:14:04.070105-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-29T14:44:44.839544-07:00"
+  "last_updated": "2026-07-29T18:12:29.039027-07:00"
 }
