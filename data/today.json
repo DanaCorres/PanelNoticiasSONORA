@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -33,6 +33,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Lorenia Valles destaca avances de programa educativo",
+        "summary": "Aspirante reconoce beneficios de La Escuela es Nuestra en más de 187 mil planteles.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/reconoce-lorenia-valles-beneficios-de-la-escuela-es-nuestra/261443",
+        "_added_at": "2026-07-30T06:21:33.859889-07:00"
+      },
       {
         "title": "Gobierno de Sonora dialoga con Covafam sin ceder seguridad",
         "summary": "Autoridades mantienen comunicación con grupo pero priorizan la ciudadanía.",
@@ -80,6 +87,13 @@
     ],
     "sociedad": [
       {
+        "title": "Crean Jardín Botánico en Cerro Johnson, Hermosillo",
+        "summary": "Esfuerzos conjuntos avanzan para desarrollar espacio verde en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/30/suman-esfuerzos-en-hermosillo-para-crear-jardin-botanico-en-el-cerro-johnson/",
+        "_added_at": "2026-07-30T06:21:33.859889-07:00"
+      },
+      {
         "title": "Sonora acumula 53 mil casos de infecciones intestinales",
         "summary": "En 2026 se registran más de 2 mil nuevos casos, pero cifra baja versus año anterior.",
         "source": "Expreso",
@@ -109,5 +123,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-30T03:56:26.969530-07:00"
+  "last_updated": "2026-07-30T06:21:33.859889-07:00"
 }
