@@ -1,8 +1,15 @@
 {
   "date": "2026-07-30",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre muere en ataque armado en Hermosillo",
+        "summary": "Víctima fatal por agresión a balazos en zona surponiente de la capital estatal.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/29/agresion-armada-deja-sin-vida-a-un-hombre-al-surponiente-de-hermosillo/",
+        "_added_at": "2026-07-30T09:19:14.106662-07:00"
+      },
       {
         "title": "Dos cuerpos hallados atados en vivienda abandonada",
         "summary": "Autoridades encontraron dos cadáveres con signos de violencia en Hermosillo, en el sector del Coloso Bajo.",
@@ -33,6 +40,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Diez guarderías de Covafam incumplen normas de protección civil",
+        "summary": "Estancias infantiles en Hermosillo tienen deficiencias en alarmas y documentación de seguridad.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/30/diez-estancias-infantiles-de-covafam-no-cumplen-con-ley-de-proteccion-civil-en-sonora-revelan-documentos/",
+        "_added_at": "2026-07-30T09:19:14.106662-07:00"
+      },
+      {
+        "title": "Sonora se integra al Registro Nacional de Deudores Alimentarios",
+        "summary": "Estado implementa registro para identificar incumplidores de pensión alimenticia.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-incorpora-a-deudores-alimentarios-al-registro-nacional/261459",
+        "_added_at": "2026-07-30T09:19:14.106662-07:00"
+      },
       {
         "title": "Lorenia Valles destaca avances de programa educativo",
         "summary": "Aspirante reconoce beneficios de La Escuela es Nuestra en más de 187 mil planteles.",
@@ -71,6 +92,20 @@
     ],
     "economia": [
       {
+        "title": "Nueva subasta ganadera en Moctezuma beneficia ocho mil productores",
+        "summary": "Centro de comercialización con inversión de 45 millones reduce costos de traslado para ganaderos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/nueva-subasta-ganadera-en-moctezuma-beneficiara-a-mas-de-8-mil-productores-de-sonora-al-mejorar-la-comercializacion-y-reducir-costos-de-traslado/",
+        "_added_at": "2026-07-30T09:19:14.106662-07:00"
+      },
+      {
+        "title": "EE.UU. invierte 25 millones contra gusano barrenador en Douglas",
+        "summary": "Planta de moscas estériles en frontera busca frenar plagas antes de reapertura de cruces ganaderos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mundo/2026/07/30/estados-unidos-invertira-25-millones-de-dolares-en-una-planta-de-moscas-esteriles-en-douglas-para-frenar-al-gusano-barrenador-antes-de-reabrir-el-cruce-de-ganado-de-sonora/",
+        "_added_at": "2026-07-30T09:19:14.106662-07:00"
+      },
+      {
         "title": "Hermosillo Conecta logra 600 citas de negocios",
         "summary": "Evento impulsa a proveedores locales con récord de encuentros comerciales.",
         "source": "Proyecto Puente",
@@ -86,6 +121,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Agua en La Mesa se restablece al 60% en Nogales",
+        "summary": "Oomapas continúa distribución con pipas mientras repara pozo afectado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/30/agua-potable-en-la-mesa-nogales-se-restablece-al-60-oomapas-mantiene-reparto-con-pipas-mientras-concluyen-reparaciones-del-pozo/",
+        "_added_at": "2026-07-30T09:19:14.106662-07:00"
+      },
       {
         "title": "Crean Jardín Botánico en Cerro Johnson, Hermosillo",
         "summary": "Esfuerzos conjuntos avanzan para desarrollar espacio verde en la capital sonorense.",
@@ -123,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-30T06:21:33.859889-07:00"
+  "last_updated": "2026-07-30T09:19:14.106662-07:00"
 }
