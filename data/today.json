@@ -1,8 +1,22 @@
 {
   "date": "2026-07-30",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Adolescentes invaden tanque de agua en Nogales",
+        "summary": "Menores alteran tanque elevado de Oomapas en Nogales, afectando servicio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/30/alertan-sobre-incursion-de-adolescentes-a-tanque-elevado-en-nogales/",
+        "_added_at": "2026-07-30T14:56:07.095634-07:00"
+      },
+      {
+        "title": "Incendio consume llantera en Ciudad Obregón",
+        "summary": "Bomberos controlan fuerte incendio en tienda de llantas; sin lesionados ni propagación a negocios adyacentes.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/fuerte-incendio-consume-llantera-en-ciudad-obregon/261462",
+        "_added_at": "2026-07-30T14:56:07.095634-07:00"
+      },
       {
         "title": "Profepa clausura zona tras derrame químico en Naco",
         "summary": "Autoridades cierran área donde Ferromex derramó hidrosulfuro de sodio e investigan posible contaminación del acuífero.",
@@ -58,16 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/hombre-de-35-anos-es-herido-por-disparos-en-fraccionamiento-mallorca/",
         "_added_at": "2026-07-30T01:03:08.856425-07:00"
-      },
-      {
-        "title": "Vinculan a sujeto armado en tramo Hermosillo-Santa Ana",
-        "summary": "Autoridades procesaron a individuo armado capturado en carretera estatal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-sujeto-armado-en-tramo-hermosillo-santa-ana/261435",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Durazo confirma calendario escolar para Sonora 2026-2027",
+        "summary": "Gobernador anuncia que 500 mil estudiantes iniciarán clases el 31 de agosto.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/confirman-calendario-escolar-2026-2027-en-sonora-fechas/261471",
+        "_added_at": "2026-07-30T14:56:07.095634-07:00"
+      },
       {
         "title": "Diez guarderías de Covafam incumplen normas de protección civil",
         "summary": "Estancias infantiles en Hermosillo tienen deficiencias en alarmas y documentación de seguridad.",
@@ -164,6 +178,27 @@
     ],
     "sociedad": [
       {
+        "title": "Crisis de agua en Hermosillo por turbiedad en El Molinito",
+        "summary": "Suspensión de servicio y baja presión afectan varias colonias hermosillenses.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/estas-colonias-de-hermosillo-seran-afectadas-con-suspension-de-agua-y-baja-presion-por-turbiedad-en-el-molinito/",
+        "_added_at": "2026-07-30T14:56:07.095634-07:00"
+      },
+      {
+        "title": "Lluvia y viento dañan árboles y postes en Cajeme",
+        "summary": "Temporal causa caída de 13 árboles y afecta cableado en Ciudad Obregón.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/lluvia-y-viento-dejan-13-arboles-caidos-y-danos-en-postes-y-cableado-en-ciudad-obregon/",
+        "_added_at": "2026-07-30T14:56:07.095634-07:00"
+      },
+      {
+        "title": "Anciano de 91 años sobrevive noche en cerro de Hermosillo",
+        "summary": "Hombre resistió tormenta y calor durante más de 24 horas perdido en cerro.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/hombre-de-91-anos-sobrevive-mas-de-24-horas-perdido-en-un-cerro-de-hermosillo-su-familia-relata-como-resistio-la-tormenta-y-el-calor-y-asegura-que-un-hijo-fallecido-lo-ayudo/",
+        "_added_at": "2026-07-30T14:56:07.095634-07:00"
+      },
+      {
         "title": "Cajeme entrega más de 2 mil árboles en vivero móvil",
         "summary": "Municipio distribuye plantas gratuitamente y anuncia nuevos puntos de atención ambiental.",
         "source": "El Imparcial",
@@ -211,29 +246,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/supera-sonora-53-mil-casos-de-infecciones-intestinales-2026/261439",
         "_added_at": "2026-07-30T01:03:08.856425-07:00"
-      },
-      {
-        "title": "IDECC Hermosillo promociona cuidado de piel desde infancia",
-        "summary": "Instituto invita a sociedad a invertir en salud dermatológica temprana.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/la-piel-tiene-memoria-idecc-hermosillo-invita-a-cuidar-su-salud-desde-la-infancia/",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
-      },
-      {
-        "title": "Traslados médicos gratuitos benefician familias en Cananea",
-        "summary": "Casi 100 familias recibieron asistencia de transporte en tres meses.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/traslados-medicos-gratuitos-benefician-a-casi-100-familias-en-cananea-en-solo-tres-meses-esmeralda-gonzalez/",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
-      },
-      {
-        "title": "Se esperan lluvias durante fin de semana en Hermosillo",
-        "summary": "Pronóstico de precipitaciones y lloviznas por monzón de verano.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/tormentas-en-hermosillo-se-esperan-lluvias-y-lloviznas-durante-el-fin-de-semana/",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-30T12:05:30.846947-07:00"
+  "last_updated": "2026-07-30T14:56:07.095634-07:00"
 }
