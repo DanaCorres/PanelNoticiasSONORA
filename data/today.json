@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -50,6 +50,13 @@
     ],
     "economia": [
       {
+        "title": "Gobernador Durazo confirma calendario escolar para Sonora",
+        "summary": "Más de 500 mil alumnos de preescolar, primaria y secundaria iniciarán clases el 31 de agosto en la entidad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/confirman-calendario-escolar-2026-2027-en-sonora-fechas/261471",
+        "_added_at": "2026-07-31T04:15:02.353507-07:00"
+      },
+      {
         "title": "Aguas negras erosionan terreno en Ciudad Obregón",
         "summary": "Vecinos de Urbi Villas del Prado temen colapso de viviendas por laguna de aguas residuales que erosiona cimientos.",
         "source": "El Imparcial",
@@ -88,5 +95,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-31T01:27:53.599349-07:00"
+  "last_updated": "2026-07-31T04:15:02.353507-07:00"
 }
