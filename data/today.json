@@ -1,8 +1,36 @@
 {
   "date": "2026-07-31",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a dos jóvenes armados al sur de Hermosillo",
+        "summary": "Captura de dos menores con armas en zona sur; investigan posible vínculo con delitos de alto impacto.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/31/detienen-a-dos-jovenes-armados-al-sur-de-hermosillo-investigan-posible-vinculo-con-delitos-de-alto-impacto/",
+        "_added_at": "2026-07-31T09:28:59.492748-07:00"
+      },
+      {
+        "title": "Joven golpea a policía durante revisión en Hermosillo",
+        "summary": "Detención de menor por agredir oficial durante operativo por escándalo en vía pública.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/31/detienen-a-joven-por-golpear-a-policia-durante-una-revision-por-escandalizar-en-la-via-publica-en-hermosillo/",
+        "_added_at": "2026-07-31T09:28:59.492748-07:00"
+      },
+      {
+        "title": "Choque mortal en Guaymas deja un fallecido",
+        "summary": "Accidente nocturno entre camión de personal y automóvil en ruta a San José de Guaymas causa muerte.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/choque-mortal-entre-camion-de-personal-y-automovil-en-guaymas/261526",
+        "_added_at": "2026-07-31T09:28:59.492748-07:00"
+      },
+      {
+        "title": "Profepa clausura zona de derrame químico en Naco",
+        "summary": "Investigan posible infiltración de sustancia al acuífero tras derrame de Ferromex.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/tras-derrame-de-ferromex-en-naco-profepa-clausura-la-zona-e-investiga-posible-infiltracion-del-quimico-al-acuifero/",
+        "_added_at": "2026-07-31T09:28:59.492748-07:00"
+      },
       {
         "title": "Hermosillo registra seis muertes violentas en una semana",
         "summary": "La capital sonorense acumula seis homicidios desde el sábado, incluyendo cuatro hechos violentos reportados en un solo jueves.",
@@ -34,6 +62,20 @@
     ],
     "politica": [
       {
+        "title": "INE fija calendario electoral para renovar diputaciones 2027",
+        "summary": "Instituto Electoral aprueba fechas clave para elección de 500 diputaciones federales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/07/31/ine-aprueba-el-calendario-electoral-2026-2027-estas-son-las-fechas-clave-para-renovar-las-500-diputaciones-federales-en-mexico/",
+        "_added_at": "2026-07-31T09:28:59.492748-07:00"
+      },
+      {
+        "title": "Lorenia Valles insta a jóvenes a perseguir sus metas",
+        "summary": "Funcionaria destaca programas de la Transformación para juventudes en Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-llama-a-jovenes-a-perseguir-sus-suenos/261507",
+        "_added_at": "2026-07-31T09:28:59.492748-07:00"
+      },
+      {
         "title": "Confirman calendario escolar 2026-2027 en Sonora",
         "summary": "Gobernador Durazo anuncia que 500 mil alumnos iniciarán clases el 31 de agosto en preescolar, primaria y secundaria.",
         "source": "Expreso",
@@ -64,6 +106,20 @@
     ],
     "economia": [
       {
+        "title": "México busca exportar 400 mil reses tras reapertura ganadera",
+        "summary": "Frontera Agua Prieta-Douglas reabre para enviar hasta 2 mil cabezas diarias; cierre gradual tras crisis del gusano barrenador.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/07/31/ante-la-proxima-reapertura-de-la-frontera-ganadera-por-douglas-arizona-mexico-busca-cerrar-2026-con-400-mil-reses-exportadas-a-eeuu-tras-mas-de-un-ano-de-crisis-por-el-gusano-barrenador/",
+        "_added_at": "2026-07-31T09:28:59.492748-07:00"
+      },
+      {
+        "title": "Cooperativas vecinales en Hermosillo ahorran hasta 400 pesos",
+        "summary": "Familias reducen gastos en despensa mediante compras colectivas organizadas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/familias-de-hermosillo-ahorran-hasta-400-pesos-con-cooperativas-vecinales-para-comprar-despensa/",
+        "_added_at": "2026-07-31T09:28:59.492748-07:00"
+      },
+      {
         "title": "Gobernador Durazo confirma calendario escolar para Sonora",
         "summary": "Más de 500 mil alumnos de preescolar, primaria y secundaria iniciarán clases el 31 de agosto en la entidad.",
         "source": "Expreso",
@@ -79,6 +135,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Más de 500 mil alumnos retornan a clases el 31 de agosto",
+        "summary": "Ciclo escolar inicia en Sonora con uniformes y calzado gratuitos para estudiantes.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/mas-de-500-mil-alumnos-regresaran-a-clases-en-sonora-el-31-de-agosto-con-uniformes-y-calzado-gratuitos/",
+        "_added_at": "2026-07-31T09:28:59.492748-07:00"
+      },
+      {
+        "title": "Gobierno reporta irregularidades en 18 guarderías Covafam",
+        "summary": "Autoridades sonorenses suspenden y observan estancias por negarse a recibir inspecciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/gobierno-de-sonora-reporta-suspensiones-y-observaciones-en-18-guarderias-afiliadas-a-covafam-que-se-niegan-a-recibir-inspecciones/",
+        "_added_at": "2026-07-31T09:28:59.492748-07:00"
+      },
+      {
+        "title": "Hermosillo instala sensor de calidad del aire en San Pedro",
+        "summary": "Primer equipo en zona rural detecta riesgos y compara niveles de contaminación.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/hermosillo-instala-primer-sensor-de-calidad-del-aire-en-zona-rural-para-detectar-riesgos-y-comparar-niveles-de-contaminacion/",
+        "_added_at": "2026-07-31T09:28:59.492748-07:00"
+      },
       {
         "title": "Suspensión de agua afecta colonias de Hermosillo por turbiedad",
         "summary": "Varias zonas de la capital enfrentarán falta de suministro y baja presión debido a problemas en el Molinito.",
@@ -109,5 +186,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-31T06:24:46.445701-07:00"
+  "last_updated": "2026-07-31T09:28:59.492748-07:00"
 }
