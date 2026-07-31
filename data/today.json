@@ -1,8 +1,15 @@
 {
   "date": "2026-07-31",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Derrame químico en Naco genera alerta sanitaria",
+        "summary": "Especialistas advierten sobre daños respiratorios y ambientales tras derrame químico registrado en Naco, Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/31/alerta-especialista-por-danos-respiratorios-y-ambientales-tras-derrame-quimico-en-naco-sonora/",
+        "_added_at": "2026-07-31T12:02:58.581554-07:00"
+      },
       {
         "title": "Detienen a dos jóvenes armados al sur de Hermosillo",
         "summary": "Captura de dos menores con armas en zona sur; investigan posible vínculo con delitos de alto impacto.",
@@ -62,6 +69,20 @@
     ],
     "politica": [
       {
+        "title": "Calendario escolar 2026-2027 confirmado en Sonora",
+        "summary": "Gobernador Durazo confirma inicio de clases el 31 de agosto para más de 500 mil alumnos de educación básica.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/hay-fechas-clave-del-calendario-escolar-2026-2027-en-sonora/261471",
+        "_added_at": "2026-07-31T12:02:58.581554-07:00"
+      },
+      {
+        "title": "Irregularidades en 18 guarderías afiliadas a Covafam",
+        "summary": "Gobierno de Sonora reporta suspensiones y observaciones en guarderías que rechazan inspecciones oficiales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/gobierno-de-sonora-reporta-suspensiones-y-observaciones-en-18-guarderias-afiliadas-a-covafam-que-se-niegan-a-recibir-inspecciones/",
+        "_added_at": "2026-07-31T12:02:58.581554-07:00"
+      },
+      {
         "title": "INE fija calendario electoral para renovar diputaciones 2027",
         "summary": "Instituto Electoral aprueba fechas clave para elección de 500 diputaciones federales.",
         "source": "El Imparcial",
@@ -106,6 +127,20 @@
     ],
     "economia": [
       {
+        "title": "Precio del becerro sube tras reapertura fronteriza",
+        "summary": "Becerro aumenta hasta 40 pesos por kilo en Valle del Yaqui tras anuncio de reapertura ganadera.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/31/precio-del-becerro-aumenta-hasta-40-pesos-por-kilo-en-el-valle-del-yaqui-tras-anuncio-de-reapertura-de-la-frontera-para-exportar-ganado-a-eeuu/",
+        "_added_at": "2026-07-31T12:02:58.581554-07:00"
+      },
+      {
+        "title": "El Mandadito abre sucursal ampliada al sur de Hermosillo",
+        "summary": "Comercio local inaugura nueva sucursal más grande y mejor surtida en zona sur de la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/31/el-mandadito-se-expande-con-sucursal-mas-amplia-y-surtida-al-sur-de-hermosillo/",
+        "_added_at": "2026-07-31T12:02:58.581554-07:00"
+      },
+      {
         "title": "México busca exportar 400 mil reses tras reapertura ganadera",
         "summary": "Frontera Agua Prieta-Douglas reabre para enviar hasta 2 mil cabezas diarias; cierre gradual tras crisis del gusano barrenador.",
         "source": "El Imparcial",
@@ -135,6 +170,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Rescatan adulto mayor perdido en desierto de Altar",
+        "summary": "Hombre de 76 años sobrevive perdido en desierto; Protección Civil y Cruz Roja lo rescatan con deshidratación severa.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/31/adulto-mayor-de-76-anos-sobrevive-perdido-en-el-desierto-de-altar-y-es-rescatado-con-deshidratacion-severa/",
+        "_added_at": "2026-07-31T12:02:58.581554-07:00"
+      },
+      {
+        "title": "Tormentas afectan múltiples municipios sonorenses",
+        "summary": "Recientes lluvias causan daños en carreteras e infraestructura eléctrica en varios municipios del estado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/tormentas-afectan-carreteras-y-red-electrica-en-sonora-cuales-son-los-municipios-mas-afectados-por-las-recientes-lluvias/",
+        "_added_at": "2026-07-31T12:02:58.581554-07:00"
+      },
+      {
+        "title": "Cajeme reporta 158 llamadas mensuales por perros callejeros",
+        "summary": "Centro de control animal en Ciudad Obregón atiende más de cien reportes mensualmente por caninos en situación de calle.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/31/recibe-centro-de-control-animal-hasta-158-reportes-al-mes-por-perros-en-situacion-de-calle/",
+        "_added_at": "2026-07-31T12:02:58.581554-07:00"
+      },
       {
         "title": "Más de 500 mil alumnos retornan a clases el 31 de agosto",
         "summary": "Ciclo escolar inicia en Sonora con uniformes y calzado gratuitos para estudiantes.",
@@ -186,5 +242,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-31T09:28:59.492748-07:00"
+  "last_updated": "2026-07-31T12:02:58.581554-07:00"
 }
