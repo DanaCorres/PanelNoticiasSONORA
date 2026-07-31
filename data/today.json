@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -33,6 +33,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Confirman calendario escolar 2026-2027 en Sonora",
+        "summary": "Gobernador Durazo anuncia que 500 mil alumnos iniciarán clases el 31 de agosto en preescolar, primaria y secundaria.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/confirman-calendario-escolar-2026-2027-en-sonora-fechas/261471",
+        "_added_at": "2026-07-31T06:24:46.445701-07:00"
+      },
+      {
+        "title": "No hay escuelas militarizadas registradas en Sonora",
+        "summary": "Autoridades educativas estatales descartan la existencia de planteles con modelo militarizado incorporados oficialmente.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/31/no-hay-escuelas-militarizadas-incorporadas-a-la-sec-en-sonora-afirma-encargada-de-despacho/",
+        "_added_at": "2026-07-31T06:24:46.445701-07:00"
+      },
       {
         "title": "Lamarque afirma encabezar preferencias electorales en Sonora",
         "summary": "Candidato sostiene tener ventaja en intención de voto tras reuniones con legisladores, empresarios y adultos mayores.",
@@ -95,5 +109,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-31T04:15:02.353507-07:00"
+  "last_updated": "2026-07-31T06:24:46.445701-07:00"
 }
