@@ -1,295 +1,92 @@
 {
-  "date": "2026-07-30",
-  "run_count": 8,
+  "date": "2026-07-31",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Hermosillo registra seis muertes violentas en cuatro días",
-        "summary": "La capital sonorense acumula seis homicidios desde el sábado, incluyendo cuatro hechos violentos el jueves pasado.",
+        "title": "Hermosillo registra seis muertes violentas en una semana",
+        "summary": "La capital sonorense acumula seis homicidios desde el sábado, incluyendo cuatro hechos violentos reportados en un solo jueves.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/hermosillo-suma-seis-muertes-violentas-desde-el-sabado/",
-        "_added_at": "2026-07-30T22:53:55.424610-07:00"
+        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       },
       {
-        "title": "Hombre asesinado en ataque armado en colonia El Apache",
-        "summary": "Persona muere tras recibir disparos en colonia El Apache de Hermosillo durante hechos violentos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/hombre-muere-tras-ataque-armado-en-la-colonia-el-apache-en-hermosillo/",
-        "_added_at": "2026-07-30T22:53:55.424610-07:00"
-      },
-      {
-        "title": "Ataque armado en colonia Floresta deja víctimas",
-        "summary": "Tiroteo en negocio de Hermosillo causó un muerto y un herido de gravedad.",
+        "title": "Ataque armado en colonia Floresta deja muerto y herido",
+        "summary": "Hombre fallece tras ataque a negocio en Floresta; otra persona quedó gravemente herida en el incidente.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/policiaca/2026/07/30/ataque-armado-en-negocio-de-la-colonia-floresta-deja-un-muerto-y-un-herido-de-gravedad/",
-        "_added_at": "2026-07-30T18:25:18.245969-07:00"
+        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       },
       {
-        "title": "Narcomenudeo en Nogales; sujeto vinculado a proceso",
-        "summary": "Detenido con 113 envoltorios de cocaína y 11 bolsas de metanfetamina en Los Tapiros.",
+        "title": "Hombre muere en ataque armado en El Apache",
+        "summary": "Persona fallece tras recibir disparo de arma de fuego en la colonia El Apache de Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/hombre-muere-tras-ataque-armado-en-la-colonia-el-apache-en-hermosillo/",
+        "_added_at": "2026-07-31T01:27:53.599349-07:00"
+      },
+      {
+        "title": "Sujeto vinculado a proceso por venta de drogas en Nogales",
+        "summary": "Individuo detenido en Los Tapiros con cocaína y metanfetamina; fue presentado ante autoridades judicales.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-proceso-a-sujeto-por-narcomenudeo-en-nogales/261491",
-        "_added_at": "2026-07-30T18:25:18.245969-07:00"
-      },
-      {
-        "title": "Adolescentes invaden tanque de agua en Nogales",
-        "summary": "Menores alteran tanque elevado de Oomapas en Nogales, afectando servicio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/30/alertan-sobre-incursion-de-adolescentes-a-tanque-elevado-en-nogales/",
-        "_added_at": "2026-07-30T14:56:07.095634-07:00"
-      },
-      {
-        "title": "Incendio consume llantera en Ciudad Obregón",
-        "summary": "Bomberos controlan fuerte incendio en tienda de llantas; sin lesionados ni propagación a negocios adyacentes.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/fuerte-incendio-consume-llantera-en-ciudad-obregon/261462",
-        "_added_at": "2026-07-30T14:56:07.095634-07:00"
-      },
-      {
-        "title": "Profepa clausura zona tras derrame químico en Naco",
-        "summary": "Autoridades cierran área donde Ferromex derramó hidrosulfuro de sodio e investigan posible contaminación del acuífero.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/tras-derrame-de-ferromex-en-naco-profepa-clausura-la-zona-e-investiga-posible-infiltracion-del-quimico-al-acuifero/",
-        "_added_at": "2026-07-30T12:05:30.846947-07:00"
-      },
-      {
-        "title": "Incendio consume llantera en Ciudad Obregón",
-        "summary": "Bomberos controlan fuego en negocio al sur de Cajeme; no hay lesionados pero sí daños materiales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/incendio-consume-llantera-al-sur-de-ciudad-obregon-deja-cuantiosos-danos-materiales/",
-        "_added_at": "2026-07-30T12:05:30.846947-07:00"
-      },
-      {
-        "title": "Rescatan familia atrapada en arroyo de Ures",
-        "summary": "Bomberos auxilian a grupo atorado en cauce; autoridades advierten sobre riesgos por lluvia.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/30/rescatan-a-familia-atrapada-en-arroyo-de-ures-bomberos-llaman-a-extremar-precauciones/",
-        "_added_at": "2026-07-30T12:05:30.846947-07:00"
-      },
-      {
-        "title": "Detienen hombre por amenazas domésticas en Hermosillo",
-        "summary": "Capturan individuo tras amenazar violencia contra su pareja en la capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/30/arrestan-a-hombre-por-amenazar-con-golpear-a-su-esposa-en-hermosillo/",
-        "_added_at": "2026-07-30T12:05:30.846947-07:00"
+        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Javier Lamarque lidera preferencias electorales en Sonora",
-        "summary": "Candidato asegura encabezar las preferencias ciudadanas tras reuniones con legisladores, empresarios y adultos mayores.",
+        "title": "Lamarque afirma encabezar preferencias electorales en Sonora",
+        "summary": "Candidato sostiene tener ventaja en intención de voto tras reuniones con legisladores, empresarios y adultos mayores.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/vamos-ganando-afirma-javier-lamarque-en-hermosillo/261506",
-        "_added_at": "2026-07-30T22:53:55.424610-07:00"
+        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       },
       {
-        "title": "Ayuntamiento de Hermosillo denuncia bloqueos de Covafam",
-        "summary": "Autoridades presentan denuncias contra integrantes de organización por acciones de vías obstaculizadas.",
+        "title": "Ayuntamiento denuncia a integrantes de Covafam por bloqueos",
+        "summary": "Autoridades de Hermosillo presentan denuncias contra activistas de grupo de búsqueda por obstaculización vial.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/30/denuncia-ayuntamiento-de-hermosillo-a-integrantes-de-covafam-por-bloqueos-viales/",
-        "_added_at": "2026-07-30T22:53:55.424610-07:00"
-      },
-      {
-        "title": "Descartan escuelas militarizadas en Sonora",
-        "summary": "Segob confirma que no hay registros de planteles militarizados en el estado tras caso Dafne.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/niegan-que-en-sonora-existan-escuelas-militarizadas-tras-caso-dafne-ocurrido-en-tamaulipas/",
-        "_added_at": "2026-07-30T18:25:18.245969-07:00"
-      },
-      {
-        "title": "Coordinación exige decisiones difíciles: Del Río",
-        "summary": "Funcionaria reflexiona sobre retos de coordinación entre instancias en Sonora.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/coordinar-exige-tomar-decisiones-dificiles-maria-dolores-del-rio/",
-        "_added_at": "2026-07-30T18:25:18.245969-07:00"
-      },
-      {
-        "title": "Durazo confirma calendario escolar para Sonora 2026-2027",
-        "summary": "Gobernador anuncia que 500 mil estudiantes iniciarán clases el 31 de agosto.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/confirman-calendario-escolar-2026-2027-en-sonora-fechas/261471",
-        "_added_at": "2026-07-30T14:56:07.095634-07:00"
-      },
-      {
-        "title": "Diez guarderías de Covafam incumplen normas de protección civil",
-        "summary": "Estancias infantiles en Hermosillo tienen deficiencias en alarmas y documentación de seguridad.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/30/diez-estancias-infantiles-de-covafam-no-cumplen-con-ley-de-proteccion-civil-en-sonora-revelan-documentos/",
-        "_added_at": "2026-07-30T09:19:14.106662-07:00"
-      },
-      {
-        "title": "Sonora se integra al Registro Nacional de Deudores Alimentarios",
-        "summary": "Estado implementa registro para identificar incumplidores de pensión alimenticia.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-incorpora-a-deudores-alimentarios-al-registro-nacional/261459",
-        "_added_at": "2026-07-30T09:19:14.106662-07:00"
-      },
-      {
-        "title": "Lorenia Valles destaca avances de programa educativo",
-        "summary": "Aspirante reconoce beneficios de La Escuela es Nuestra en más de 187 mil planteles.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/reconoce-lorenia-valles-beneficios-de-la-escuela-es-nuestra/261443",
-        "_added_at": "2026-07-30T06:21:33.859889-07:00"
-      },
-      {
-        "title": "Gobierno de Sonora dialoga con Covafam sin ceder seguridad",
-        "summary": "Autoridades mantienen comunicación con grupo pero priorizan la ciudadanía.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/gobierno-de-sonora-mantiene-dialogo-con-covafam-pero-prioriza-la-seguridad-ciudadana/",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
-      },
-      {
-        "title": "Lamarque regresa a colonia donde inició con López Obrador",
-        "summary": "Funcionario estatal retorna a zona de sus inicios políticos en gira.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/regresa-lamarque-a-colonia-donde-inicio-recorridos-con-lopez-obrador/",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
+        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Hermosillo implementa sensor de calidad de aire en San Pedro",
-        "summary": "Municipio amplía monitoreo ambiental con instalación de primer sensor de contaminación atmosférica.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/30/hermosillo-amplia-monitoreo-ambiental-con-primer-sensor-de-calidad-del-aire-en-san-pedro-ayuntamiento/",
-        "_added_at": "2026-07-30T22:53:55.424610-07:00"
-      },
-      {
-        "title": "Aguas negras erosionan terreno y amenazan casas en Cajeme",
-        "summary": "Vecinos de Urbi Villas del Prado temen colapso de viviendas por laguna de aguas residuales.",
+        "title": "Aguas negras erosionan terreno en Ciudad Obregón",
+        "summary": "Vecinos de Urbi Villas del Prado temen colapso de viviendas por laguna de aguas residuales que erosiona cimientos.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/vecinos-de-urbi-villas-del-prado-temen-colapso-de-casas-por-laguna-de-aguas-negras/",
-        "_added_at": "2026-07-30T22:53:55.424610-07:00"
-      },
-      {
-        "title": "Suspensión de agua en colonias hermosillenses por turbiedad",
-        "summary": "Varias colonias de Hermosillo afectadas por cortes y baja presión de agua en la red municipal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/estas-colonias-de-hermosillo-seran-afectadas-con-suspension-de-agua-y-baja-presion-por-turbiedad-en-el-molinito/",
-        "_added_at": "2026-07-30T22:53:55.424610-07:00"
-      },
-      {
-        "title": "Profepa clausura zona del derrame químico en Naco",
-        "summary": "Autoridades investigan posible infiltración de químico al acuífero por derrame de Ferromex.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/tras-derrame-de-ferromex-en-naco-profepa-clausura-la-zona-e-investiga-posible-infiltracion-del-quimico-al-acuifero/",
-        "_added_at": "2026-07-30T18:25:18.245969-07:00"
-      },
-      {
-        "title": "Semarnat: sin contaminación detectada en Naco",
-        "summary": "Sitio del derrame permanece clausurado mientras se analizan afectaciones al acuífero.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/semarnat-clausura-sitio-del-derrame-en-naco-sonora-barcena/261464",
-        "_added_at": "2026-07-30T18:25:18.245969-07:00"
-      },
-      {
-        "title": "Invierten 45 mdp en centro de comercialización ganadera",
-        "summary": "Nueva subasta ganadera en Moctezuma beneficiará a más de 8 mil productores de región serrana.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/inician-centro-de-subasta-ganadera-en-moctezuma/261458",
-        "_added_at": "2026-07-30T12:05:30.846947-07:00"
-      },
-      {
-        "title": "Hermosillo Conecta acerca contratos a proveedores locales",
-        "summary": "Empresas sonorenses buscan participar en proyectos de construcción municipal mediante encuentros comerciales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/empresas-locales-buscan-quedarse-con-mas-contratos-de-la-construccion-en-hermosillo-mediante-encuentros-con-grandes-compradores/",
-        "_added_at": "2026-07-30T12:05:30.846947-07:00"
-      },
-      {
-        "title": "Nueva subasta ganadera en Moctezuma beneficia ocho mil productores",
-        "summary": "Centro de comercialización con inversión de 45 millones reduce costos de traslado para ganaderos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/nueva-subasta-ganadera-en-moctezuma-beneficiara-a-mas-de-8-mil-productores-de-sonora-al-mejorar-la-comercializacion-y-reducir-costos-de-traslado/",
-        "_added_at": "2026-07-30T09:19:14.106662-07:00"
-      },
-      {
-        "title": "EE.UU. invierte 25 millones contra gusano barrenador en Douglas",
-        "summary": "Planta de moscas estériles en frontera busca frenar plagas antes de reapertura de cruces ganaderos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mundo/2026/07/30/estados-unidos-invertira-25-millones-de-dolares-en-una-planta-de-moscas-esteriles-en-douglas-para-frenar-al-gusano-barrenador-antes-de-reabrir-el-cruce-de-ganado-de-sonora/",
-        "_added_at": "2026-07-30T09:19:14.106662-07:00"
-      },
-      {
-        "title": "Hermosillo Conecta logra 600 citas de negocios",
-        "summary": "Evento impulsa a proveedores locales con récord de encuentros comerciales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/hermosillo-conecta-rompe-record-con-mas-de-600-citas-de-negocios-para-impulsar-proveedores-locales/",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
+        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Niña sonorense vence cáncer y toca Campana de la Vida",
-        "summary": "Ximena, de seis años, concluye tratamiento oncológico exitoso en hospital IMSS de Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/toca-ximena-la-campana-de-la-vida-tras-vencer-el-cancer/261501",
-        "_added_at": "2026-07-30T22:53:55.424610-07:00"
-      },
-      {
-        "title": "Cananea inaugura colorida Escalera del Beso en Correos",
-        "summary": "Nuevo atractivo artístico y cultural embellece colonia Correos en municipio de Cananea.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/30/llenan-de-color-cananea-con-la-nueva-escalera-del-beso-en-la-colonia-correos/",
-        "_added_at": "2026-07-30T22:53:55.424610-07:00"
-      },
-      {
-        "title": "Lorenia Valles alienta a jóvenes sonorenses a perseguir sueños",
-        "summary": "Funcionaria destaca programas de apoyo a juventud y exhorta no abandonar proyectos de vida.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-llama-a-jovenes-a-perseguir-sus-suenos/261507",
-        "_added_at": "2026-07-30T22:53:55.424610-07:00"
-      },
-      {
-        "title": "Aguas negras amenazan casas en Ciudad Obregón",
-        "summary": "Laguna de aguas residuales erosiona terreno y pone en riesgo viviendas en Urbi Villas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/vecinos-de-urbi-villas-del-prado-temen-colapso-de-casas-por-laguna-de-aguas-negras/",
-        "_added_at": "2026-07-30T18:25:18.245969-07:00"
-      },
-      {
-        "title": "18 de 25 estancias infantiles clausuradas en Hermosillo",
-        "summary": "Covafam cierra temporalmente la mayoría de sus planteles tras inspecciones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/18-de-25-estancias-infantiles-de-covafam-han-sido-suspendidas-en-hermosillo/",
-        "_added_at": "2026-07-30T18:25:18.245969-07:00"
-      },
-      {
-        "title": "Onda de calor extremo en Hermosillo alcanzará 53°C",
-        "summary": "Alerta por temperaturas peligrosas del 30 de julio al 2 de agosto en la capital.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/alertan-ola-de-calor-extremo-en-hermosillo-y-las-lluvias/261463",
-        "_added_at": "2026-07-30T18:25:18.245969-07:00"
-      },
-      {
-        "title": "Crisis de agua en Hermosillo por turbiedad en El Molinito",
-        "summary": "Suspensión de servicio y baja presión afectan varias colonias hermosillenses.",
+        "title": "Suspensión de agua afecta colonias de Hermosillo por turbiedad",
+        "summary": "Varias zonas de la capital enfrentarán falta de suministro y baja presión debido a problemas en el Molinito.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/estas-colonias-de-hermosillo-seran-afectadas-con-suspension-de-agua-y-baja-presion-por-turbiedad-en-el-molinito/",
-        "_added_at": "2026-07-30T14:56:07.095634-07:00"
+        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       },
       {
-        "title": "Lluvia y viento dañan árboles y postes en Cajeme",
-        "summary": "Temporal causa caída de 13 árboles y afecta cableado en Ciudad Obregón.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/lluvia-y-viento-dejan-13-arboles-caidos-y-danos-en-postes-y-cableado-en-ciudad-obregon/",
-        "_added_at": "2026-07-30T14:56:07.095634-07:00"
+        "title": "Niña de seis años vence cáncer en Hermosillo",
+        "summary": "Menor concluye tratamiento oncológico exitoso en hospital del IMSS; toca Campana de la Vida en celebración.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/toca-ximena-la-campana-de-la-vida-tras-vencer-el-cancer/261501",
+        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       },
       {
-        "title": "Anciano de 91 años sobrevive noche en cerro de Hermosillo",
-        "summary": "Hombre resistió tormenta y calor durante más de 24 horas perdido en cerro.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/hombre-de-91-anos-sobrevive-mas-de-24-horas-perdido-en-un-cerro-de-hermosillo-su-familia-relata-como-resistio-la-tormenta-y-el-calor-y-asegura-que-un-hijo-fallecido-lo-ayudo/",
-        "_added_at": "2026-07-30T14:56:07.095634-07:00"
+        "title": "Hermosillo instala primer sensor de calidad del aire",
+        "summary": "Ayuntamiento amplia monitoreo ambiental con equipo ubicado en San Pedro para medir contaminación atmosférica.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/30/hermosillo-amplia-monitoreo-ambiental-con-primer-sensor-de-calidad-del-aire-en-san-pedro-ayuntamiento/",
+        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       },
       {
-        "title": "Cajeme entrega más de 2 mil árboles en vivero móvil",
-        "summary": "Municipio distribuye plantas gratuitamente y anuncia nuevos puntos de atención ambiental.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/cajeme-entrega-mas-de-2-mil-arboles-gratis-y-anuncia-nuevos-puntos-del-vivero-movil/",
-        "_added_at": "2026-07-30T12:05:30.846947-07:00"
+        "title": "Cananea inaugura \"Escalera del Beso\" con arte urbano",
+        "summary": "Nueva intervención artística colorida en colonia Correos embellece espacio público del municipio.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/30/llenan-de-color-cananea-con-la-nueva-escalera-del-beso-en-la-colonia-correos/",
+        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-30T22:53:55.424610-07:00"
+  "last_updated": "2026-07-31T01:27:53.599349-07:00"
 }
