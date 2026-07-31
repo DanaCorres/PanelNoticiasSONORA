@@ -1,8 +1,22 @@
 {
   "date": "2026-07-30",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ataque armado en colonia Floresta deja víctimas",
+        "summary": "Tiroteo en negocio de Hermosillo causó un muerto y un herido de gravedad.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/policiaca/2026/07/30/ataque-armado-en-negocio-de-la-colonia-floresta-deja-un-muerto-y-un-herido-de-gravedad/",
+        "_added_at": "2026-07-30T18:25:18.245969-07:00"
+      },
+      {
+        "title": "Narcomenudeo en Nogales; sujeto vinculado a proceso",
+        "summary": "Detenido con 113 envoltorios de cocaína y 11 bolsas de metanfetamina en Los Tapiros.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-proceso-a-sujeto-por-narcomenudeo-en-nogales/261491",
+        "_added_at": "2026-07-30T18:25:18.245969-07:00"
+      },
       {
         "title": "Adolescentes invaden tanque de agua en Nogales",
         "summary": "Menores alteran tanque elevado de Oomapas en Nogales, afectando servicio.",
@@ -58,23 +72,23 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/encuentran-dos-cuerpos-atados-y-con-signos-de-violencia-en-una-vivienda-abandonada-en-hermosillo/",
         "_added_at": "2026-07-30T01:03:08.856425-07:00"
-      },
-      {
-        "title": "Aseguran 200 kilos de metanfetamina en Caborca",
-        "summary": "Operativo en Sonora localizó droga oculta en carretes industriales; hay un detenido.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/29/aseguran-200-kilos-de-metanfetamina-ocultos-en-carretes-industriales-en-sonora-hay-un-detenido/",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
-      },
-      {
-        "title": "Hombre herido por disparos en fraccionamiento Mallorca",
-        "summary": "Sujeto de 35 años recibió impactos de arma de fuego en Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/hombre-de-35-anos-es-herido-por-disparos-en-fraccionamiento-mallorca/",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Descartan escuelas militarizadas en Sonora",
+        "summary": "Segob confirma que no hay registros de planteles militarizados en el estado tras caso Dafne.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/niegan-que-en-sonora-existan-escuelas-militarizadas-tras-caso-dafne-ocurrido-en-tamaulipas/",
+        "_added_at": "2026-07-30T18:25:18.245969-07:00"
+      },
+      {
+        "title": "Coordinación exige decisiones difíciles: Del Río",
+        "summary": "Funcionaria reflexiona sobre retos de coordinación entre instancias en Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/coordinar-exige-tomar-decisiones-dificiles-maria-dolores-del-rio/",
+        "_added_at": "2026-07-30T18:25:18.245969-07:00"
+      },
       {
         "title": "Durazo confirma calendario escolar para Sonora 2026-2027",
         "summary": "Gobernador anuncia que 500 mil estudiantes iniciarán clases el 31 de agosto.",
@@ -134,6 +148,20 @@
     ],
     "economia": [
       {
+        "title": "Profepa clausura zona del derrame químico en Naco",
+        "summary": "Autoridades investigan posible infiltración de químico al acuífero por derrame de Ferromex.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/tras-derrame-de-ferromex-en-naco-profepa-clausura-la-zona-e-investiga-posible-infiltracion-del-quimico-al-acuifero/",
+        "_added_at": "2026-07-30T18:25:18.245969-07:00"
+      },
+      {
+        "title": "Semarnat: sin contaminación detectada en Naco",
+        "summary": "Sitio del derrame permanece clausurado mientras se analizan afectaciones al acuífero.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/semarnat-clausura-sitio-del-derrame-en-naco-sonora-barcena/261464",
+        "_added_at": "2026-07-30T18:25:18.245969-07:00"
+      },
+      {
         "title": "Invierten 45 mdp en centro de comercialización ganadera",
         "summary": "Nueva subasta ganadera en Moctezuma beneficiará a más de 8 mil productores de región serrana.",
         "source": "Expreso",
@@ -177,6 +205,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Aguas negras amenazan casas en Ciudad Obregón",
+        "summary": "Laguna de aguas residuales erosiona terreno y pone en riesgo viviendas en Urbi Villas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/vecinos-de-urbi-villas-del-prado-temen-colapso-de-casas-por-laguna-de-aguas-negras/",
+        "_added_at": "2026-07-30T18:25:18.245969-07:00"
+      },
+      {
+        "title": "18 de 25 estancias infantiles clausuradas en Hermosillo",
+        "summary": "Covafam cierra temporalmente la mayoría de sus planteles tras inspecciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/18-de-25-estancias-infantiles-de-covafam-han-sido-suspendidas-en-hermosillo/",
+        "_added_at": "2026-07-30T18:25:18.245969-07:00"
+      },
+      {
+        "title": "Onda de calor extremo en Hermosillo alcanzará 53°C",
+        "summary": "Alerta por temperaturas peligrosas del 30 de julio al 2 de agosto en la capital.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/alertan-ola-de-calor-extremo-en-hermosillo-y-las-lluvias/261463",
+        "_added_at": "2026-07-30T18:25:18.245969-07:00"
+      },
       {
         "title": "Crisis de agua en Hermosillo por turbiedad en El Molinito",
         "summary": "Suspensión de servicio y baja presión afectan varias colonias hermosillenses.",
@@ -225,29 +274,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/continuan-restauracion-del-mural-del-teatro-russo-vogel-para-frenar-danos-por-humedad/",
         "_added_at": "2026-07-30T12:05:30.846947-07:00"
-      },
-      {
-        "title": "Agua en La Mesa se restablece al 60% en Nogales",
-        "summary": "Oomapas continúa distribución con pipas mientras repara pozo afectado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/30/agua-potable-en-la-mesa-nogales-se-restablece-al-60-oomapas-mantiene-reparto-con-pipas-mientras-concluyen-reparaciones-del-pozo/",
-        "_added_at": "2026-07-30T09:19:14.106662-07:00"
-      },
-      {
-        "title": "Crean Jardín Botánico en Cerro Johnson, Hermosillo",
-        "summary": "Esfuerzos conjuntos avanzan para desarrollar espacio verde en la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/30/suman-esfuerzos-en-hermosillo-para-crear-jardin-botanico-en-el-cerro-johnson/",
-        "_added_at": "2026-07-30T06:21:33.859889-07:00"
-      },
-      {
-        "title": "Sonora acumula 53 mil casos de infecciones intestinales",
-        "summary": "En 2026 se registran más de 2 mil nuevos casos, pero cifra baja versus año anterior.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/supera-sonora-53-mil-casos-de-infecciones-intestinales-2026/261439",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-30T14:56:07.095634-07:00"
+  "last_updated": "2026-07-30T18:25:18.245969-07:00"
 }
