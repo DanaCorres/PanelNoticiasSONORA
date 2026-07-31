@@ -1,8 +1,29 @@
 {
   "date": "2026-07-31",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ferromex debe remediar derrame químico en Naco",
+        "summary": "Profepa ordena a Ferromex presentar plan de remediación tras derrame de 70 mil litros de hidrosulfuro de sodio en arroyo de Naco.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/profepa-ordena-a-ferromex-remediar-zona-del-derrame-en-naco-sonora-evaluaran-danos-en-tres-kilometros-de-arroyo/",
+        "_added_at": "2026-07-31T14:54:48.528388-07:00"
+      },
+      {
+        "title": "Choque fatal entre camión y auto en Guaymas",
+        "summary": "Joven muere en colisión frontal entre automóvil y camión de personal en ruta a San José de Guaymas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/choque-mortal-entre-camion-de-personal-y-automovil-guaymas/261526",
+        "_added_at": "2026-07-31T14:54:48.528388-07:00"
+      },
+      {
+        "title": "Adulto mayor rescatado en desierto de Altar",
+        "summary": "Protección Civil, Bomberos y Cruz Roja localizan vivo a hombre de 76 años perdido en el desierto.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/rescatan-adulto-mayor-en-el-desierto-de-altar/261534",
+        "_added_at": "2026-07-31T14:54:48.528388-07:00"
+      },
       {
         "title": "Derrame químico en Naco genera alerta sanitaria",
         "summary": "Especialistas advierten sobre daños respiratorios y ambientales tras derrame químico registrado en Naco, Sonora.",
@@ -51,23 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/policiaca/2026/07/30/ataque-armado-en-negocio-de-la-colonia-floresta-deja-un-muerto-y-un-herido-de-gravedad/",
         "_added_at": "2026-07-31T01:27:53.599349-07:00"
-      },
-      {
-        "title": "Hombre muere en ataque armado en El Apache",
-        "summary": "Persona fallece tras recibir disparo de arma de fuego en la colonia El Apache de Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/hombre-muere-tras-ataque-armado-en-la-colonia-el-apache-en-hermosillo/",
-        "_added_at": "2026-07-31T01:27:53.599349-07:00"
-      },
-      {
-        "title": "Sujeto vinculado a proceso por venta de drogas en Nogales",
-        "summary": "Individuo detenido en Los Tapiros con cocaína y metanfetamina; fue presentado ante autoridades judicales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-proceso-a-sujeto-por-narcomenudeo-en-nogales/261491",
-        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Jubilados IMSS protestan en Cajeme por prestaciones",
+        "summary": "Pensionados demandan devolución de prestación que reclaman desde hace 18 años en Ciudad Obregón.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/31/jubilados-del-imss-protestan-en-cajeme-exigen-devolucion-de-prestacion-que-reclaman-desde-2008/",
+        "_added_at": "2026-07-31T14:54:48.528388-07:00"
+      },
       {
         "title": "Calendario escolar 2026-2027 confirmado en Sonora",
         "summary": "Gobernador Durazo confirma inicio de clases el 31 de agosto para más de 500 mil alumnos de educación básica.",
@@ -127,6 +141,13 @@
     ],
     "economia": [
       {
+        "title": "CFE reforzará red eléctrica en Sierra Alta",
+        "summary": "Compañía realizará mantenimiento en municipios de la Sierra Alta del 3 al 5 de agosto.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/cfe-realizara-mantenimiento-electrico-en-municipios-de-sonora-del-3-al-5-de-agosto-estas-son-las-zonas-contempladas/",
+        "_added_at": "2026-07-31T14:54:48.528388-07:00"
+      },
+      {
         "title": "Precio del becerro sube tras reapertura fronteriza",
         "summary": "Becerro aumenta hasta 40 pesos por kilo en Valle del Yaqui tras anuncio de reapertura ganadera.",
         "source": "El Imparcial",
@@ -171,6 +192,34 @@
     ],
     "sociedad": [
       {
+        "title": "Alerta por lluvias fuertes en nueve municipios",
+        "summary": "Protección Civil advierte sobre tormentas y lluvia intensas en sur de Sonora este fin de semana.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/lluvias-fuertes-y-viento-amenazan-al-sur-de-sonora-estos-nueve-municipios-tienen-mayor-probabilidad-de-tormentas/",
+        "_added_at": "2026-07-31T14:54:48.528388-07:00"
+      },
+      {
+        "title": "Inicia entrega de uniformes escolares en Hermosillo",
+        "summary": "Este lunes comienza distribución de uniformes; apellidos A y B son los primeros en acudir.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/este-lunes-comienza-la-entrega-en-hermosillo-apellidos-con-a-y-b-seran-los-primeros-en-acudir-al-cum/",
+        "_added_at": "2026-07-31T14:54:48.528388-07:00"
+      },
+      {
+        "title": "Afectaciones por turbiedad en presa El Molinito",
+        "summary": "AguaH reporta continuidad en problemas de suministro de agua en Hermosillo por alta turbiedad.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/31/continuan-afectaciones-al-suministro-de-agua-por-alta-turbiedad-en-presa-el-molinito-de-hermosillo-aguah/",
+        "_added_at": "2026-07-31T14:54:48.528388-07:00"
+      },
+      {
+        "title": "Niño rescatado tras casi ahogarse en San Carlos",
+        "summary": "Menor de 11 años es salvado en alberca de hotel tras emergencia acuática.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/31/rescatan-a-nino-de-11-anos-tras-casi-ahogarse-en-alberca-de-hotel-en-san-carlos/",
+        "_added_at": "2026-07-31T14:54:48.528388-07:00"
+      },
+      {
         "title": "Rescatan adulto mayor perdido en desierto de Altar",
         "summary": "Hombre de 76 años sobrevive perdido en desierto; Protección Civil y Cruz Roja lo rescatan con deshidratación severa.",
         "source": "El Imparcial",
@@ -211,36 +260,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/hermosillo-instala-primer-sensor-de-calidad-del-aire-en-zona-rural-para-detectar-riesgos-y-comparar-niveles-de-contaminacion/",
         "_added_at": "2026-07-31T09:28:59.492748-07:00"
-      },
-      {
-        "title": "Suspensión de agua afecta colonias de Hermosillo por turbiedad",
-        "summary": "Varias zonas de la capital enfrentarán falta de suministro y baja presión debido a problemas en el Molinito.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/estas-colonias-de-hermosillo-seran-afectadas-con-suspension-de-agua-y-baja-presion-por-turbiedad-en-el-molinito/",
-        "_added_at": "2026-07-31T01:27:53.599349-07:00"
-      },
-      {
-        "title": "Niña de seis años vence cáncer en Hermosillo",
-        "summary": "Menor concluye tratamiento oncológico exitoso en hospital del IMSS; toca Campana de la Vida en celebración.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/toca-ximena-la-campana-de-la-vida-tras-vencer-el-cancer/261501",
-        "_added_at": "2026-07-31T01:27:53.599349-07:00"
-      },
-      {
-        "title": "Hermosillo instala primer sensor de calidad del aire",
-        "summary": "Ayuntamiento amplia monitoreo ambiental con equipo ubicado en San Pedro para medir contaminación atmosférica.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/30/hermosillo-amplia-monitoreo-ambiental-con-primer-sensor-de-calidad-del-aire-en-san-pedro-ayuntamiento/",
-        "_added_at": "2026-07-31T01:27:53.599349-07:00"
-      },
-      {
-        "title": "Cananea inaugura \"Escalera del Beso\" con arte urbano",
-        "summary": "Nueva intervención artística colorida en colonia Correos embellece espacio público del municipio.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/30/llenan-de-color-cananea-con-la-nueva-escalera-del-beso-en-la-colonia-correos/",
-        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-31T12:02:58.581554-07:00"
+  "last_updated": "2026-07-31T14:54:48.528388-07:00"
 }
