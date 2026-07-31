@@ -1,8 +1,22 @@
 {
   "date": "2026-07-30",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hermosillo registra seis muertes violentas en cuatro días",
+        "summary": "La capital sonorense acumula seis homicidios desde el sábado, incluyendo cuatro hechos violentos el jueves pasado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/hermosillo-suma-seis-muertes-violentas-desde-el-sabado/",
+        "_added_at": "2026-07-30T22:53:55.424610-07:00"
+      },
+      {
+        "title": "Hombre asesinado en ataque armado en colonia El Apache",
+        "summary": "Persona muere tras recibir disparos en colonia El Apache de Hermosillo durante hechos violentos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/hombre-muere-tras-ataque-armado-en-la-colonia-el-apache-en-hermosillo/",
+        "_added_at": "2026-07-30T22:53:55.424610-07:00"
+      },
       {
         "title": "Ataque armado en colonia Floresta deja víctimas",
         "summary": "Tiroteo en negocio de Hermosillo causó un muerto y un herido de gravedad.",
@@ -58,23 +72,23 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/30/arrestan-a-hombre-por-amenazar-con-golpear-a-su-esposa-en-hermosillo/",
         "_added_at": "2026-07-30T12:05:30.846947-07:00"
-      },
-      {
-        "title": "Hombre muere en ataque armado en Hermosillo",
-        "summary": "Víctima fatal por agresión a balazos en zona surponiente de la capital estatal.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/29/agresion-armada-deja-sin-vida-a-un-hombre-al-surponiente-de-hermosillo/",
-        "_added_at": "2026-07-30T09:19:14.106662-07:00"
-      },
-      {
-        "title": "Dos cuerpos hallados atados en vivienda abandonada",
-        "summary": "Autoridades encontraron dos cadáveres con signos de violencia en Hermosillo, en el sector del Coloso Bajo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/encuentran-dos-cuerpos-atados-y-con-signos-de-violencia-en-una-vivienda-abandonada-en-hermosillo/",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Javier Lamarque lidera preferencias electorales en Sonora",
+        "summary": "Candidato asegura encabezar las preferencias ciudadanas tras reuniones con legisladores, empresarios y adultos mayores.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/vamos-ganando-afirma-javier-lamarque-en-hermosillo/261506",
+        "_added_at": "2026-07-30T22:53:55.424610-07:00"
+      },
+      {
+        "title": "Ayuntamiento de Hermosillo denuncia bloqueos de Covafam",
+        "summary": "Autoridades presentan denuncias contra integrantes de organización por acciones de vías obstaculizadas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/30/denuncia-ayuntamiento-de-hermosillo-a-integrantes-de-covafam-por-bloqueos-viales/",
+        "_added_at": "2026-07-30T22:53:55.424610-07:00"
+      },
       {
         "title": "Descartan escuelas militarizadas en Sonora",
         "summary": "Segob confirma que no hay registros de planteles militarizados en el estado tras caso Dafne.",
@@ -130,23 +144,30 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/regresa-lamarque-a-colonia-donde-inicio-recorridos-con-lopez-obrador/",
         "_added_at": "2026-07-30T01:03:08.856425-07:00"
-      },
-      {
-        "title": "Froylán Gámez recorre Villa de Seris escuchando vecinos",
-        "summary": "Funcionario visita comunidad para diálogo directo con habitantes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/villa-de-seris-es-tradicion-comercio-y-futuro-para-hermosillo-froylan-gamez/",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
-      },
-      {
-        "title": "Célida López encabeza asamblea en Miguel Alemán",
-        "summary": "Funcionaria se reúne con comunidad de municipio sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/celida-lopez-encabeza-asamblea-con-habitantes-de-miguel-aleman/",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Hermosillo implementa sensor de calidad de aire en San Pedro",
+        "summary": "Municipio amplía monitoreo ambiental con instalación de primer sensor de contaminación atmosférica.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/30/hermosillo-amplia-monitoreo-ambiental-con-primer-sensor-de-calidad-del-aire-en-san-pedro-ayuntamiento/",
+        "_added_at": "2026-07-30T22:53:55.424610-07:00"
+      },
+      {
+        "title": "Aguas negras erosionan terreno y amenazan casas en Cajeme",
+        "summary": "Vecinos de Urbi Villas del Prado temen colapso de viviendas por laguna de aguas residuales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/vecinos-de-urbi-villas-del-prado-temen-colapso-de-casas-por-laguna-de-aguas-negras/",
+        "_added_at": "2026-07-30T22:53:55.424610-07:00"
+      },
+      {
+        "title": "Suspensión de agua en colonias hermosillenses por turbiedad",
+        "summary": "Varias colonias de Hermosillo afectadas por cortes y baja presión de agua en la red municipal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/30/estas-colonias-de-hermosillo-seran-afectadas-con-suspension-de-agua-y-baja-presion-por-turbiedad-en-el-molinito/",
+        "_added_at": "2026-07-30T22:53:55.424610-07:00"
+      },
       {
         "title": "Profepa clausura zona del derrame químico en Naco",
         "summary": "Autoridades investigan posible infiltración de químico al acuífero por derrame de Ferromex.",
@@ -195,16 +216,30 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/29/hermosillo-conecta-rompe-record-con-mas-de-600-citas-de-negocios-para-impulsar-proveedores-locales/",
         "_added_at": "2026-07-30T01:03:08.856425-07:00"
-      },
-      {
-        "title": "Programa Sonora Atiende supera 201 mil servicios",
-        "summary": "Iniciativa de gobierno beneficia a ciudadanos en 27 municipios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-atiende-supera-201-mil-servicios-en-27-municipios/261433",
-        "_added_at": "2026-07-30T01:03:08.856425-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Niña sonorense vence cáncer y toca Campana de la Vida",
+        "summary": "Ximena, de seis años, concluye tratamiento oncológico exitoso en hospital IMSS de Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/toca-ximena-la-campana-de-la-vida-tras-vencer-el-cancer/261501",
+        "_added_at": "2026-07-30T22:53:55.424610-07:00"
+      },
+      {
+        "title": "Cananea inaugura colorida Escalera del Beso en Correos",
+        "summary": "Nuevo atractivo artístico y cultural embellece colonia Correos en municipio de Cananea.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/30/llenan-de-color-cananea-con-la-nueva-escalera-del-beso-en-la-colonia-correos/",
+        "_added_at": "2026-07-30T22:53:55.424610-07:00"
+      },
+      {
+        "title": "Lorenia Valles alienta a jóvenes sonorenses a perseguir sueños",
+        "summary": "Funcionaria destaca programas de apoyo a juventud y exhorta no abandonar proyectos de vida.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-llama-a-jovenes-a-perseguir-sus-suenos/261507",
+        "_added_at": "2026-07-30T22:53:55.424610-07:00"
+      },
       {
         "title": "Aguas negras amenazan casas en Ciudad Obregón",
         "summary": "Laguna de aguas residuales erosiona terreno y pone en riesgo viviendas en Urbi Villas.",
@@ -253,29 +288,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/cajeme-entrega-mas-de-2-mil-arboles-gratis-y-anuncia-nuevos-puntos-del-vivero-movil/",
         "_added_at": "2026-07-30T12:05:30.846947-07:00"
-      },
-      {
-        "title": "Hombre convierte baldío en parque verde en Hermosillo",
-        "summary": "Ciudadano transforma terreno abandonado en espacio de verdor con más de 20 especies vegetales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/29/hombre-transforma-baldio-lleno-de-basura-en-un-parque-con-mas-de-20-especies-de-plantas-en-hermosillo/",
-        "_added_at": "2026-07-30T12:05:30.846947-07:00"
-      },
-      {
-        "title": "Hermosillo regresa a 50 grados con nueva ola de calor",
-        "summary": "Alerta por temperaturas extremas con sensación térmica hasta 53°C del 30 julio al 2 agosto.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/emiten-alerta-por-ola-de-calor-extremo-en-hermosillo/261463",
-        "_added_at": "2026-07-30T12:05:30.846947-07:00"
-      },
-      {
-        "title": "Restauración avanza en mural del Teatro Russo Vogel",
-        "summary": "Trabajos continúan en Ciudad Obregón para detener daños causados por humedad en patrimonio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/continuan-restauracion-del-mural-del-teatro-russo-vogel-para-frenar-danos-por-humedad/",
-        "_added_at": "2026-07-30T12:05:30.846947-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-30T18:25:18.245969-07:00"
+  "last_updated": "2026-07-30T22:53:55.424610-07:00"
 }
