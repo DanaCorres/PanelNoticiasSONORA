@@ -1,8 +1,22 @@
 {
   "date": "2026-08-01",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre cae en socavón en Hermosillo tras lluvias",
+        "summary": "Persona cayó en socavón en colonia El Sahuaro; sus gritos alertaron a cuerpos de emergencia que acudieron al lugar.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/hombre-cayo-en-socavon-de-la-colonia-el-sahuaro-sus-gritos-alertaron-a-los-cuerpos-de-emergencia/",
+        "_added_at": "2026-08-01T14:41:52.171300-07:00"
+      },
+      {
+        "title": "Tránsito advierte sanciones por insultos a oficiales",
+        "summary": "Autoridades de Cajeme advierten que insultar a oficiales durante filtros de revisión puede resultar en sanciones legales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/01/transito-de-cajeme-advierte-que-insultar-a-oficiales-durante-filtros-de-revision-puede-derivar-en-sanciones/",
+        "_added_at": "2026-08-01T14:41:52.171300-07:00"
+      },
       {
         "title": "Hombre detenido por agredir a esposa en Hermosillo",
         "summary": "Capturado sujeto que golpeó a su pareja y causó daños en vivienda hermosillense.",
@@ -58,23 +72,16 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/rescatan-a-nino-de-ahogarse-en-alberca-de-san-carlos-guaymas/261552",
         "_added_at": "2026-08-01T00:57:39.371047-07:00"
-      },
-      {
-        "title": "Incendio en negocio hermosillense causa quemaduras a trabajador",
-        "summary": "Hombre resultó herido por quemaduras e inhalación de humo en incidente comercial en capital.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/incendio-en-negocio-de-hermosillo-deja-un-hombre-herido-por-quemaduras-e-inhalacion-de-humo/",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
-      },
-      {
-        "title": "Lluvias fuertes amenazan nueve municipios sonorenses",
-        "summary": "Alerta por tormentas intensas y vientos en sur de Sonora durante próximos días.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/lluvias-fuertes-y-viento-amenazan-al-sur-de-sonora-estos-nueve-municipios-tienen-mayor-probabilidad-de-tormentas/",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Unidad de Morena avanza en Sonora: Valles",
+        "summary": "Lorenia Valles destacó que la Cuarta Transformación camina unida y con altura de miras en el estado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-unidad-de-morena-en-sonora/261606",
+        "_added_at": "2026-08-01T14:41:52.171300-07:00"
+      },
       {
         "title": "Lorenia Valles: 4T camina unida en Sonora",
         "summary": "Funcionaria destaca unidad y visión clara del gobierno en la entidad.",
@@ -98,6 +105,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Lodo en presa reduce abasto de agua en Hermosillo",
+        "summary": "Arrastre de lodo en presa El Molinito causa reducción del suministro de agua potable en la capital.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lodo-en-presa-el-molinito-causa-reduccion-de-agua/261609",
+        "_added_at": "2026-08-01T14:41:52.171300-07:00"
+      },
       {
         "title": "Frontera ganadera reabre con exportaciones reducidas a EE.UU.",
         "summary": "Reapertura por Agua Prieta-Douglas será gradual con volumen inicial del 50 por ciento anterior.",
@@ -157,6 +171,27 @@
     ],
     "sociedad": [
       {
+        "title": "Socavón expone drenaje antiguo en Hermosillo",
+        "summary": "Socavón en colonia Quintero Arce reveló tubería de drenaje de más de 50 años de antigüedad.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/socavon-en-el-quintero-arce-revela-antigua-tuberia-de-drenaje-de-hace-mas-de-50-anos-cuando-el-poniente-de-hermosillo-era-monte/",
+        "_added_at": "2026-08-01T14:41:52.171300-07:00"
+      },
+      {
+        "title": "IMCA ofrece talleres gratuitos para niños en agosto",
+        "summary": "Instituto Municipal de Cultura Artística abre talleres gratuitos de lectura para menores durante vacaciones escolares.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/vacaciones-en-hermosillo-imca-ofrece-talleres-gratuitos-de-lectura-para-ninos-durante-agosto/",
+        "_added_at": "2026-08-01T14:41:52.171300-07:00"
+      },
+      {
+        "title": "Comunidad indígena crea gallinero para niños",
+        "summary": "Comunidad Comcáac establece gallinero comunitario para proporcionar huevos orgánicos a menores indígenas de Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/comunidad-comcaac-crea-gallinero-comunitario-para-llevar-huevos-organicos-a-ninos-indigenas-de-sonora/",
+        "_added_at": "2026-08-01T14:41:52.171300-07:00"
+      },
+      {
         "title": "Colapso de drenaje genera socavón en colonia Sahuaro",
         "summary": "Falla en infraestructura causa fuga de aguas negras; reparación tardará 60 días.",
         "source": "El Imparcial",
@@ -204,29 +239,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/rescatan-a-nino-de-ahogarse-en-alberca-de-san-carlos-guaymas/261552",
         "_added_at": "2026-08-01T05:48:54.255391-07:00"
-      },
-      {
-        "title": "Derrame en Naco pone en riesgo ambiental",
-        "summary": "Experto advierte sobre graves consecuencias de 56 mil litros derramados por Ferromex.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/derrame-de-56-mil-litros-en-naco-es-un-riesgo-ambiental-que-no-se-puede-ignorar-advierte-experto/",
-        "_added_at": "2026-08-01T03:24:42.671440-07:00"
-      },
-      {
-        "title": "Derriban álamos en Nogales por muro fronterizo",
-        "summary": "Construcción de barrera fronteriza en Santa Cruz elimina legendarios árboles.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/31/derriban-legendarios-alamos-por-construccion-de-muro-fronterizo-en-santa-cruz/",
-        "_added_at": "2026-08-01T03:24:42.671440-07:00"
-      },
-      {
-        "title": "Programa entrega más de 2 mil prótesis a adultos mayores",
-        "summary": "Iniciativa \"Construyendo Sonrisas\" beneficia a tercera edad hermosillense con dentaduras postizas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/31/programa-construyendo-sonrisas-entrega-mas-de-2-mil-protesis-dentales-a-adultos-mayores-en-hermosillo/",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-01T11:48:33.296909-07:00"
+  "last_updated": "2026-08-01T14:41:52.171300-07:00"
 }
