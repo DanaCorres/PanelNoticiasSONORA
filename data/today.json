@@ -1,8 +1,15 @@
 {
   "date": "2026-07-31",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Incendio en comercio de Hermosillo causa heridas",
+        "summary": "Bomberos atendieron incendio en Tacos Brother's del Centro, dejando un hombre con quemaduras e inhalación de humo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/incendio-en-negocio-de-hermosillo-deja-un-hombre-herido-por-quemaduras-e-inhalacion-de-humo/",
+        "_added_at": "2026-07-31T22:44:30.741223-07:00"
+      },
       {
         "title": "Derrame tóxico en Naco afecta a pobladores y ambiente",
         "summary": "56 mil litros vertidos en Naco generan riesgo ambiental. Seis personas hospitalizadas presentan síntomas por sustancia tóxica.",
@@ -65,16 +72,30 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/31/detienen-a-dos-jovenes-armados-al-sur-de-hermosillo-investigan-posible-vinculo-con-delitos-de-alto-impacto/",
         "_added_at": "2026-07-31T09:28:59.492748-07:00"
-      },
-      {
-        "title": "Joven golpea a policía durante revisión en Hermosillo",
-        "summary": "Detención de menor por agredir oficial durante operativo por escándalo en vía pública.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/31/detienen-a-joven-por-golpear-a-policia-durante-una-revision-por-escandalizar-en-la-via-publica-en-hermosillo/",
-        "_added_at": "2026-07-31T09:28:59.492748-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Javier Lamarque dialoga con profesionistas en Hermosillo",
+        "summary": "Candidato se reunió con profesionales de salud, educación, derecho e ingeniería para escuchar propuestas ciudadanas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/31/dialoga-lamarque-con-profesionistas-y-vecinos-de-hermosillo-durante-jornada-de-trabajo/",
+        "_added_at": "2026-07-31T22:44:30.741223-07:00"
+      },
+      {
+        "title": "Avanza rehabilitación del malecón de Guaymas en 35%",
+        "summary": "Inversión de 17.5 millones de pesos continúa mejorando infraestructura costera de la ciudad.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/31/avanza-rehabilitacion-del-malecon-de-guaymas-en-35-con-inversion-de-17-5-millones-de-pesos-durazo/",
+        "_added_at": "2026-07-31T22:44:30.741223-07:00"
+      },
+      {
+        "title": "Derriban álamos legendarios para muro fronterizo en Nogales",
+        "summary": "Construcción de estructura fronteriza en Santa Cruz requiere eliminación de árboles históricos de la zona.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/31/derriban-legendarios-alamos-por-construccion-de-muro-fronterizo-en-santa-cruz/",
+        "_added_at": "2026-07-31T22:44:30.741223-07:00"
+      },
       {
         "title": "Jubilados IMSS protestan en Cajeme por prestaciones",
         "summary": "Pensionados demandan devolución de prestación que reclaman desde hace 18 años en Ciudad Obregón.",
@@ -123,23 +144,23 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/31/no-hay-escuelas-militarizadas-incorporadas-a-la-sec-en-sonora-afirma-encargada-de-despacho/",
         "_added_at": "2026-07-31T06:24:46.445701-07:00"
-      },
-      {
-        "title": "Lamarque afirma encabezar preferencias electorales en Sonora",
-        "summary": "Candidato sostiene tener ventaja en intención de voto tras reuniones con legisladores, empresarios y adultos mayores.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/vamos-ganando-afirma-javier-lamarque-en-hermosillo/261506",
-        "_added_at": "2026-07-31T01:27:53.599349-07:00"
-      },
-      {
-        "title": "Ayuntamiento denuncia a integrantes de Covafam por bloqueos",
-        "summary": "Autoridades de Hermosillo presentan denuncias contra activistas de grupo de búsqueda por obstaculización vial.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/30/denuncia-ayuntamiento-de-hermosillo-a-integrantes-de-covafam-por-bloqueos-viales/",
-        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Moda circular impulsa auge de bazares en San Luis Río Colorado",
+        "summary": "Jóvenes adoptan tendencia de compra-venta de ropa usada en tiendas de segunda mano de la ciudad.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mxl/sanluis/2026/08/01/la-moda-circular-impulsa-el-auge-de-los-bazares-entre-los-jovenes-en-san-luis-rio-colorado/",
+        "_added_at": "2026-07-31T22:44:30.741223-07:00"
+      },
+      {
+        "title": "Alerta Airbnb sobre fraudes con alojamientos falsos",
+        "summary": "Plataforma advierte sobre estafas de alojamientos fraudulentos publicados en redes sociales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/alerta-airbnb-por-alojamientos-falsos-en-redes-sociales/261553",
+        "_added_at": "2026-07-31T22:44:30.741223-07:00"
+      },
       {
         "title": "Ganaderos sonorenses recuperarán 40% de ingresos tras reapertura",
         "summary": "Reactivación ganadera en Sonora proyecta recuperación parcial de ingresos perdidos.",
@@ -195,16 +216,23 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/confirman-calendario-escolar-2026-2027-en-sonora-fechas/261471",
         "_added_at": "2026-07-31T04:15:02.353507-07:00"
-      },
-      {
-        "title": "Aguas negras erosionan terreno en Ciudad Obregón",
-        "summary": "Vecinos de Urbi Villas del Prado temen colapso de viviendas por laguna de aguas residuales que erosiona cimientos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/30/vecinos-de-urbi-villas-del-prado-temen-colapso-de-casas-por-laguna-de-aguas-negras/",
-        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Misión 4 Patas ofrece adopciones responsables en Hermosillo",
+        "summary": "Asociación animal realiza jornada de adopción de mascotas en Galerías Mall.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/mision-4-patas-ofrece-adopciones-responsables-en-galerias-mall-conoce-a-tus-futuros-companeros/",
+        "_added_at": "2026-07-31T22:44:30.741223-07:00"
+      },
+      {
+        "title": "Jornada comunitaria ofrece servicios gratuitos en SLRC",
+        "summary": "Asociación civil cristiana brinda servicios sin costo en colonia Aviación de San Luis Río Colorado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mxl/sanluis/2026/08/01/asociacion-civil-cristiana-realizara-jornada-comunitaria-con-servicios-gratuitos-en-la-colonia-aviacion-en-slrc/",
+        "_added_at": "2026-07-31T22:44:30.741223-07:00"
+      },
       {
         "title": "Programa Construyendo Sonrisas entrega prótesis dentales",
         "summary": "Más de 2 mil prótesis distribuidas a adultos mayores en Hermosillo.",
@@ -260,22 +288,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/31/adulto-mayor-de-76-anos-sobrevive-perdido-en-el-desierto-de-altar-y-es-rescatado-con-deshidratacion-severa/",
         "_added_at": "2026-07-31T12:02:58.581554-07:00"
-      },
-      {
-        "title": "Tormentas afectan múltiples municipios sonorenses",
-        "summary": "Recientes lluvias causan daños en carreteras e infraestructura eléctrica en varios municipios del estado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/tormentas-afectan-carreteras-y-red-electrica-en-sonora-cuales-son-los-municipios-mas-afectados-por-las-recientes-lluvias/",
-        "_added_at": "2026-07-31T12:02:58.581554-07:00"
-      },
-      {
-        "title": "Cajeme reporta 158 llamadas mensuales por perros callejeros",
-        "summary": "Centro de control animal en Ciudad Obregón atiende más de cien reportes mensualmente por caninos en situación de calle.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/31/recibe-centro-de-control-animal-hasta-158-reportes-al-mes-por-perros-en-situacion-de-calle/",
-        "_added_at": "2026-07-31T12:02:58.581554-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-31T18:26:10.802682-07:00"
+  "last_updated": "2026-07-31T22:44:30.741223-07:00"
 }
