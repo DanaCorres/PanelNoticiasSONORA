@@ -1,8 +1,29 @@
 {
   "date": "2026-08-01",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Derrame químico de tren en Naco requiere investigación federal",
+        "summary": "Descarrilamiento de Ferromex en Naco causó derrames de hidrosulfuro de sodio. Habitantes preocupados por contaminación del agua y sin información oficial sobre riesgos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/01/habitantes-de-naco-sonora-denuncian-ante-fgr-derrame-de-hidrosulfuro-de-sodio-tras-descarrilamiento-de-ferromex-y-exigen-investigar-danos-y-remediacion-no-sabemos-si-el-agua-esta-contaminada/",
+        "_added_at": "2026-08-01T08:49:48.236481-07:00"
+      },
+      {
+        "title": "Cuatro hospitalizados tras derrame químico en Naco",
+        "summary": "Alcalde reporta cuatro personas hospitalizadas por exposición al químico derramado. Ferromex niega afectaciones a la salud de habitantes.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/01/no-se-debe-minimizar-alcalde-reporta-cuatro-habitantes-hospitalizados-tras-derrame-en-naco-sonora-trabajadores-de-ferromex-fueron-valorados-por-salud-publica/",
+        "_added_at": "2026-08-01T08:49:48.236481-07:00"
+      },
+      {
+        "title": "Choque fatal en Caborca deja un muerto y herido grave",
+        "summary": "Accidente vial frontal en la costa de Caborca causó una muerte y un herido de consideración.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/choque-frontal-deja-un-hombre-sin-vida-y-otro-gravemente-herido-en-la-costa-de-caborca/",
+        "_added_at": "2026-08-01T08:49:48.236481-07:00"
+      },
       {
         "title": "Derrame en Naco genera riesgos ambientales graves",
         "summary": "Experto advierte sobre consecuencias serias del derrame de 56 mil litros en Naco por Ferromex.",
@@ -94,6 +115,20 @@
     ],
     "sociedad": [
       {
+        "title": "Lluvias fuertes continúan en Sonora y cinco estados más",
+        "summary": "Sistema de frente frío extiende precipitaciones en Sonora y estados vecinos de la frontera noreste.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/01/lluvias-fuertes-seguiran-en-sonora-y-5-estados-mas-mientras-el-frente-frio-se-extiende-en-la-frontera-noreste-de-mexico/",
+        "_added_at": "2026-08-01T08:49:48.236481-07:00"
+      },
+      {
+        "title": "Incendio en negocio hermosillense deja hombre herido",
+        "summary": "Siniestro en establecimiento de Hermosillo causa quemaduras e inhalación de humo en persona.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/incendio-en-negocio-de-hermosillo-deja-un-hombre-herido-por-quemaduras-e-inhalacion-de-humo/",
+        "_added_at": "2026-08-01T08:49:48.236481-07:00"
+      },
+      {
         "title": "Rescatan niño de ahogarse en alberca de San Carlos",
         "summary": "Menor de 11 años es salvado con RCP en hotel de Guaymas tras perder vigilancia parental.",
         "source": "Expreso",
@@ -144,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-01T05:48:54.255391-07:00"
+  "last_updated": "2026-08-01T08:49:48.236481-07:00"
 }
