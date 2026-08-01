@@ -1,8 +1,22 @@
 {
   "date": "2026-08-01",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre detenido por agredir a esposa en Hermosillo",
+        "summary": "Capturado sujeto que golpeó a su pareja y causó daños en vivienda hermosillense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/detienen-a-hombre-golpear-a-su-esposa-y-provocar-danos-en-vivienda-en-hermosillo/",
+        "_added_at": "2026-08-01T11:48:33.296909-07:00"
+      },
+      {
+        "title": "Descarrilamiento de Ferromex en Naco por deslave",
+        "summary": "Tren descarriló en Naco tras fenómeno meteorológico en vías de Ferromex.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/ferromex-explica-causas-del-descarrilamiento-en-naco/261583",
+        "_added_at": "2026-08-01T11:48:33.296909-07:00"
+      },
       {
         "title": "Derrame químico de tren en Naco requiere investigación federal",
         "summary": "Descarrilamiento de Ferromex en Naco causó derrames de hidrosulfuro de sodio. Habitantes preocupados por contaminación del agua y sin información oficial sobre riesgos.",
@@ -62,6 +76,13 @@
     ],
     "politica": [
       {
+        "title": "Lorenia Valles: 4T camina unida en Sonora",
+        "summary": "Funcionaria destaca unidad y visión clara del gobierno en la entidad.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/en-sonora-la-4t-camina-en-unidad-y-con-altura-de-miras-lorenia-valles/",
+        "_added_at": "2026-08-01T11:48:33.296909-07:00"
+      },
+      {
         "title": "Lamarque dialoga con profesionistas y vecinos hermosillenses",
         "summary": "Candidato sostiene encuentro con especialistas en salud, educación, derecho e ingeniería para análisis de necesidades.",
         "source": "Expreso",
@@ -77,6 +98,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Frontera ganadera reabre con exportaciones reducidas a EE.UU.",
+        "summary": "Reapertura por Agua Prieta-Douglas será gradual con volumen inicial del 50 por ciento anterior.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/01/reapertura-de-frontera-al-ganado-mexicano-no-sera-como-antes-sonora-exportara-menos-reses-tras-cierre-por-gusano-barrenador-y-nuevos-controles-sanitarios/",
+        "_added_at": "2026-08-01T11:48:33.296909-07:00"
+      },
+      {
+        "title": "Modernización del malecón de Guaymas avanza al 35 por ciento",
+        "summary": "Gobernador Durazo invierte 17.5 millones de pesos para fortalecer turismo en puerto.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/avances-remodelacion-del-malecon-de-guaymas/261585",
+        "_added_at": "2026-08-01T11:48:33.296909-07:00"
+      },
+      {
+        "title": "UGRS solicita reapertura de estación cuarentenaria en Nogales",
+        "summary": "Ganaderos piden reactivar instalaciones sanitarias para agilizar proceso de exportación.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/piden-reapertura-de-estacion-cuarentenaria-en-nogales/261594",
+        "_added_at": "2026-08-01T11:48:33.296909-07:00"
+      },
       {
         "title": "Malecón de Guaymas avanza 35% en rehabilitación",
         "summary": "Inversión de 17.5 millones de pesos impulsa obras de modernización en puerto guaymense.",
@@ -114,6 +156,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Colapso de drenaje genera socavón en colonia Sahuaro",
+        "summary": "Falla en infraestructura causa fuga de aguas negras; reparación tardará 60 días.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/colapso-de-drenaje-en-la-colonia-sahuaro-deja-socavon-y-fuga-de-aguas-negras-reparacion-tardara-60-dias/",
+        "_added_at": "2026-08-01T11:48:33.296909-07:00"
+      },
+      {
+        "title": "Falla en Acueducto Independencia afecta agua sur hermosillense",
+        "summary": "Lluvias provocan desperfecto que interrumpe suministro en zona sur de la capital.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/lluvias-provocan-falla-en-acueducto-independencia-y-afectan-suministro-de-agua-al-sur-de-hermosillo/",
+        "_added_at": "2026-08-01T11:48:33.296909-07:00"
+      },
+      {
+        "title": "Todos aspirantes a preparatoria obtienen lugar en Sonora",
+        "summary": "SEC asigna lugar escolar a cada solicitante de educación media superior en entidad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/asignan-lugar-a-todos-los-aspirantes-de-prepa-en-sonora/261595",
+        "_added_at": "2026-08-01T11:48:33.296909-07:00"
+      },
+      {
+        "title": "Hermosillo captura lluvia en sistemas de riego innovadores",
+        "summary": "Pasos de Colosio y Solidaridad aprovechan agua para riego de áreas verdes.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/la-lluvia-que-antes-causaba-riesgos-ahora-se-aprovecha-paso-de-colosio-y-solidaridad-capta-por-primera-vez-agua-que-sera-reutilizada-en-areas-verdes-de-hermosillo/",
+        "_added_at": "2026-08-01T11:48:33.296909-07:00"
+      },
       {
         "title": "Lluvias fuertes continúan en Sonora y cinco estados más",
         "summary": "Sistema de frente frío extiende precipitaciones en Sonora y estados vecinos de la frontera noreste.",
@@ -155,29 +225,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/31/programa-construyendo-sonrisas-entrega-mas-de-2-mil-protesis-dentales-a-adultos-mayores-en-hermosillo/",
         "_added_at": "2026-08-01T00:57:39.371047-07:00"
-      },
-      {
-        "title": "Cruz Roja advierte sobre riesgos del calor extremo",
-        "summary": "Institución alerta sobre deshidratación y golpe de calor en temporada estival sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/cruz-roja-hermosillo-advierte-sobre-riesgos-de-calor-deshidratacion-y-golpe-de-calor-aumentan-en-verano/",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
-      },
-      {
-        "title": "Jornada comunitaria ofrece servicios gratuitos en SLRC",
-        "summary": "Asociación civil cristiana brinda atención social a habitantes de colonia Aviación.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/sanluis/2026/08/01/asociacion-civil-cristiana-realizara-jornada-comunitaria-con-servicios-gratuitos-en-la-colonia-aviacion-en-slrc/",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
-      },
-      {
-        "title": "Séptima carrera solidaria anunciada para septiembre",
-        "summary": "Cruz Roja convoca a participantes para evento benéfico \"Todo México Salvando Vidas\" el 6 de septiembre.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/cruz-roja-anuncia-la-septima-carrera-todo-mexico-salvando-vidas-para-el-6-de-septiembre/",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-01T08:49:48.236481-07:00"
+  "last_updated": "2026-08-01T11:48:33.296909-07:00"
 }
