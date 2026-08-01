@@ -1,8 +1,36 @@
 {
   "date": "2026-07-31",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Derrame tóxico en Naco afecta a pobladores y ambiente",
+        "summary": "56 mil litros vertidos en Naco generan riesgo ambiental. Seis personas hospitalizadas presentan síntomas por sustancia tóxica.",
+        "source": "El Imparcial / Proyecto Puente",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/derrame-de-56-mil-litros-en-naco-es-un-riesgo-ambiental-que-no-se-puede-ignorar-advierte-experto/",
+        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+      },
+      {
+        "title": "Violencia familiar en Navojoa crece 174% en 2026",
+        "summary": "Aumento significativo de casos de violencia doméstica en municipio durante el presente año.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/violencia-familiar-en-navojoa-aumenta-174-en-2026/261557",
+        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+      },
+      {
+        "title": "Rescatan a niño de ahogamiento en San Carlos",
+        "summary": "Menor de 11 años rescatado en alberca de hotel tras perderlo de vista sus padres.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/rescatan-a-nino-de-ahogarse-en-alberca-de-san-carlos-guaymas/261552",
+        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+      },
+      {
+        "title": "Lluvia fuerte y vientos amenazan nueve municipios",
+        "summary": "Alerta meteorológica por tormentas intensas en zonas del sur de Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/lluvias-fuertes-y-viento-amenazan-al-sur-de-sonora-estos-nueve-municipios-tienen-mayor-probabilidad-de-tormentas/",
+        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+      },
       {
         "title": "Ferromex debe remediar derrame químico en Naco",
         "summary": "Profepa ordena a Ferromex presentar plan de remediación tras derrame de 70 mil litros de hidrosulfuro de sodio en arroyo de Naco.",
@@ -44,34 +72,6 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/31/detienen-a-joven-por-golpear-a-policia-durante-una-revision-por-escandalizar-en-la-via-publica-en-hermosillo/",
         "_added_at": "2026-07-31T09:28:59.492748-07:00"
-      },
-      {
-        "title": "Choque mortal en Guaymas deja un fallecido",
-        "summary": "Accidente nocturno entre camión de personal y automóvil en ruta a San José de Guaymas causa muerte.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/choque-mortal-entre-camion-de-personal-y-automovil-en-guaymas/261526",
-        "_added_at": "2026-07-31T09:28:59.492748-07:00"
-      },
-      {
-        "title": "Profepa clausura zona de derrame químico en Naco",
-        "summary": "Investigan posible infiltración de sustancia al acuífero tras derrame de Ferromex.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/30/tras-derrame-de-ferromex-en-naco-profepa-clausura-la-zona-e-investiga-posible-infiltracion-del-quimico-al-acuifero/",
-        "_added_at": "2026-07-31T09:28:59.492748-07:00"
-      },
-      {
-        "title": "Hermosillo registra seis muertes violentas en una semana",
-        "summary": "La capital sonorense acumula seis homicidios desde el sábado, incluyendo cuatro hechos violentos reportados en un solo jueves.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/hermosillo-suma-seis-muertes-violentas-desde-el-sabado/",
-        "_added_at": "2026-07-31T01:27:53.599349-07:00"
-      },
-      {
-        "title": "Ataque armado en colonia Floresta deja muerto y herido",
-        "summary": "Hombre fallece tras ataque a negocio en Floresta; otra persona quedó gravemente herida en el incidente.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/policiaca/2026/07/30/ataque-armado-en-negocio-de-la-colonia-floresta-deja-un-muerto-y-un-herido-de-gravedad/",
-        "_added_at": "2026-07-31T01:27:53.599349-07:00"
       }
     ],
     "politica": [
@@ -141,6 +141,20 @@
     ],
     "economia": [
       {
+        "title": "Ganaderos sonorenses recuperarán 40% de ingresos tras reapertura",
+        "summary": "Reactivación ganadera en Sonora proyecta recuperación parcial de ingresos perdidos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/ganaderos-de-sonora-recuperaran-hasta-40-de-sus-ingresos/261563",
+        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+      },
+      {
+        "title": "Usuarios prefieren efectivo en transporte de Hermosillo",
+        "summary": "Sistema UNE de pago enfrenta resistencia; ciudadanos siguen usando dinero en efectivo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/usuarios-optan-por-efectivo-en-el-transporte-urbano-de-hermosillo-pese-al-sistema-de-pago-une/",
+        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+      },
+      {
         "title": "CFE reforzará red eléctrica en Sierra Alta",
         "summary": "Compañía realizará mantenimiento en municipios de la Sierra Alta del 3 al 5 de agosto.",
         "source": "El Imparcial",
@@ -192,6 +206,27 @@
     ],
     "sociedad": [
       {
+        "title": "Programa Construyendo Sonrisas entrega prótesis dentales",
+        "summary": "Más de 2 mil prótesis distribuidas a adultos mayores en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/31/programa-construyendo-sonrisas-entrega-mas-de-2-mil-protesis-dentales-a-adultos-mayores-en-hermosillo/",
+        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+      },
+      {
+        "title": "Cruz Roja alerta sobre riesgos del calor extremo",
+        "summary": "Deshidratación y golpes de calor aumentan en temporada estival.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/cruz-roja-hermosillo-advierte-sobre-riesgos-de-calor-deshidratacion-y-golpe-de-calor-aumentan-en-verano/",
+        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+      },
+      {
+        "title": "Especialista explica desorientación en adultos mayores",
+        "summary": "Calor extremo causa pérdidas de orientación incluso sin diagnóstico de demencia.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/por-que-se-pierden-los-adultos-mayores-en-sonora/261545",
+        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+      },
+      {
         "title": "Alerta por lluvias fuertes en nueve municipios",
         "summary": "Protección Civil advierte sobre tormentas y lluvia intensas en sur de Sonora este fin de semana.",
         "source": "El Imparcial",
@@ -239,29 +274,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/31/recibe-centro-de-control-animal-hasta-158-reportes-al-mes-por-perros-en-situacion-de-calle/",
         "_added_at": "2026-07-31T12:02:58.581554-07:00"
-      },
-      {
-        "title": "Más de 500 mil alumnos retornan a clases el 31 de agosto",
-        "summary": "Ciclo escolar inicia en Sonora con uniformes y calzado gratuitos para estudiantes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/mas-de-500-mil-alumnos-regresaran-a-clases-en-sonora-el-31-de-agosto-con-uniformes-y-calzado-gratuitos/",
-        "_added_at": "2026-07-31T09:28:59.492748-07:00"
-      },
-      {
-        "title": "Gobierno reporta irregularidades en 18 guarderías Covafam",
-        "summary": "Autoridades sonorenses suspenden y observan estancias por negarse a recibir inspecciones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/gobierno-de-sonora-reporta-suspensiones-y-observaciones-en-18-guarderias-afiliadas-a-covafam-que-se-niegan-a-recibir-inspecciones/",
-        "_added_at": "2026-07-31T09:28:59.492748-07:00"
-      },
-      {
-        "title": "Hermosillo instala sensor de calidad del aire en San Pedro",
-        "summary": "Primer equipo en zona rural detecta riesgos y compara niveles de contaminación.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/hermosillo-instala-primer-sensor-de-calidad-del-aire-en-zona-rural-para-detectar-riesgos-y-comparar-niveles-de-contaminacion/",
-        "_added_at": "2026-07-31T09:28:59.492748-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-31T14:54:48.528388-07:00"
+  "last_updated": "2026-07-31T18:26:10.802682-07:00"
 }
