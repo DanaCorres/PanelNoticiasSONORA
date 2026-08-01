@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -50,6 +50,13 @@
     ],
     "economia": [
       {
+        "title": "Sonora exportará 120 mil cabezas de ganado",
+        "summary": "Reapertura de frontera permite a ganaderos sonorenses reanudar envíos internacionales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/ganaderos-de-sonora-alistan-envio-de-120-mil-cabezas-de-ganado/261563",
+        "_added_at": "2026-08-01T03:24:42.671440-07:00"
+      },
+      {
         "title": "Ganaderos sonorenses recuperarán 40% de ingresos tras reapertura",
         "summary": "Sector pecuario proyecta recuperación parcial de ganancias tras autorización de actividades.",
         "source": "Expreso",
@@ -72,6 +79,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Derrame en Naco pone en riesgo ambiental",
+        "summary": "Experto advierte sobre graves consecuencias de 56 mil litros derramados por Ferromex.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/derrame-de-56-mil-litros-en-naco-es-un-riesgo-ambiental-que-no-se-puede-ignorar-advierte-experto/",
+        "_added_at": "2026-08-01T03:24:42.671440-07:00"
+      },
+      {
+        "title": "Derriban álamos en Nogales por muro fronterizo",
+        "summary": "Construcción de barrera fronteriza en Santa Cruz elimina legendarios árboles.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/07/31/derriban-legendarios-alamos-por-construccion-de-muro-fronterizo-en-santa-cruz/",
+        "_added_at": "2026-08-01T03:24:42.671440-07:00"
+      },
       {
         "title": "Programa entrega más de 2 mil prótesis a adultos mayores",
         "summary": "Iniciativa \"Construyendo Sonrisas\" beneficia a tercera edad hermosillense con dentaduras postizas.",
@@ -102,5 +123,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-01T00:57:39.371047-07:00"
+  "last_updated": "2026-08-01T03:24:42.671440-07:00"
 }
