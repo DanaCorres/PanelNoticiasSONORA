@@ -1,295 +1,106 @@
 {
-  "date": "2026-07-31",
-  "run_count": 8,
+  "date": "2026-08-01",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Incendio en comercio de Hermosillo causa heridas",
-        "summary": "Bomberos atendieron incendio en Tacos Brother's del Centro, dejando un hombre con quemaduras e inhalación de humo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/incendio-en-negocio-de-hermosillo-deja-un-hombre-herido-por-quemaduras-e-inhalacion-de-humo/",
-        "_added_at": "2026-07-31T22:44:30.741223-07:00"
-      },
-      {
-        "title": "Derrame tóxico en Naco afecta a pobladores y ambiente",
-        "summary": "56 mil litros vertidos en Naco generan riesgo ambiental. Seis personas hospitalizadas presentan síntomas por sustancia tóxica.",
-        "source": "El Imparcial / Proyecto Puente",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/derrame-de-56-mil-litros-en-naco-es-un-riesgo-ambiental-que-no-se-puede-ignorar-advierte-experto/",
-        "_added_at": "2026-07-31T18:26:10.802682-07:00"
-      },
-      {
-        "title": "Violencia familiar en Navojoa crece 174% en 2026",
-        "summary": "Aumento significativo de casos de violencia doméstica en municipio durante el presente año.",
+        "title": "Violencia familiar en Navojoa crece 174% durante 2026",
+        "summary": "Incremento dramático de casos de violencia intrafamiliar reportados en Navojoa durante el año actual.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/violencia-familiar-en-navojoa-aumenta-174-en-2026/261557",
-        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       },
       {
-        "title": "Rescatan a niño de ahogamiento en San Carlos",
-        "summary": "Menor de 11 años rescatado en alberca de hotel tras perderlo de vista sus padres.",
+        "title": "Rescatan a menor de ahogarse en alberca de San Carlos",
+        "summary": "Niño de once años fue salvado mediante RCP en hotel de Guaymas tras emergencia acuática.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/rescatan-a-nino-de-ahogarse-en-alberca-de-san-carlos-guaymas/261552",
-        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       },
       {
-        "title": "Lluvia fuerte y vientos amenazan nueve municipios",
-        "summary": "Alerta meteorológica por tormentas intensas en zonas del sur de Sonora.",
+        "title": "Incendio en negocio hermosillense causa quemaduras a trabajador",
+        "summary": "Hombre resultó herido por quemaduras e inhalación de humo en incidente comercial en capital.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/incendio-en-negocio-de-hermosillo-deja-un-hombre-herido-por-quemaduras-e-inhalacion-de-humo/",
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
+      },
+      {
+        "title": "Lluvias fuertes amenazan nueve municipios sonorenses",
+        "summary": "Alerta por tormentas intensas y vientos en sur de Sonora durante próximos días.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/lluvias-fuertes-y-viento-amenazan-al-sur-de-sonora-estos-nueve-municipios-tienen-mayor-probabilidad-de-tormentas/",
-        "_added_at": "2026-07-31T18:26:10.802682-07:00"
-      },
-      {
-        "title": "Ferromex debe remediar derrame químico en Naco",
-        "summary": "Profepa ordena a Ferromex presentar plan de remediación tras derrame de 70 mil litros de hidrosulfuro de sodio en arroyo de Naco.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/profepa-ordena-a-ferromex-remediar-zona-del-derrame-en-naco-sonora-evaluaran-danos-en-tres-kilometros-de-arroyo/",
-        "_added_at": "2026-07-31T14:54:48.528388-07:00"
-      },
-      {
-        "title": "Choque fatal entre camión y auto en Guaymas",
-        "summary": "Joven muere en colisión frontal entre automóvil y camión de personal en ruta a San José de Guaymas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/choque-mortal-entre-camion-de-personal-y-automovil-guaymas/261526",
-        "_added_at": "2026-07-31T14:54:48.528388-07:00"
-      },
-      {
-        "title": "Adulto mayor rescatado en desierto de Altar",
-        "summary": "Protección Civil, Bomberos y Cruz Roja localizan vivo a hombre de 76 años perdido en el desierto.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/rescatan-adulto-mayor-en-el-desierto-de-altar/261534",
-        "_added_at": "2026-07-31T14:54:48.528388-07:00"
-      },
-      {
-        "title": "Derrame químico en Naco genera alerta sanitaria",
-        "summary": "Especialistas advierten sobre daños respiratorios y ambientales tras derrame químico registrado en Naco, Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/31/alerta-especialista-por-danos-respiratorios-y-ambientales-tras-derrame-quimico-en-naco-sonora/",
-        "_added_at": "2026-07-31T12:02:58.581554-07:00"
-      },
-      {
-        "title": "Detienen a dos jóvenes armados al sur de Hermosillo",
-        "summary": "Captura de dos menores con armas en zona sur; investigan posible vínculo con delitos de alto impacto.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/31/detienen-a-dos-jovenes-armados-al-sur-de-hermosillo-investigan-posible-vinculo-con-delitos-de-alto-impacto/",
-        "_added_at": "2026-07-31T09:28:59.492748-07:00"
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Javier Lamarque dialoga con profesionistas en Hermosillo",
-        "summary": "Candidato se reunió con profesionales de salud, educación, derecho e ingeniería para escuchar propuestas ciudadanas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/31/dialoga-lamarque-con-profesionistas-y-vecinos-de-hermosillo-durante-jornada-de-trabajo/",
-        "_added_at": "2026-07-31T22:44:30.741223-07:00"
+        "title": "Lamarque dialoga con profesionistas y vecinos hermosillenses",
+        "summary": "Candidato sostiene encuentro con especialistas en salud, educación, derecho e ingeniería para análisis de necesidades.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-escucha-propuestas-de-profesionistas-y-ciudadanos/261575",
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       },
       {
-        "title": "Avanza rehabilitación del malecón de Guaymas en 35%",
-        "summary": "Inversión de 17.5 millones de pesos continúa mejorando infraestructura costera de la ciudad.",
+        "title": "Avanzan obras del malecón guaymasense en 35% según Durazo",
+        "summary": "Inversión de 17.5 millones de pesos avanza en rehabilitación de atracadero portuario.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/07/31/avanza-rehabilitacion-del-malecon-de-guaymas-en-35-con-inversion-de-17-5-millones-de-pesos-durazo/",
-        "_added_at": "2026-07-31T22:44:30.741223-07:00"
-      },
-      {
-        "title": "Derriban álamos legendarios para muro fronterizo en Nogales",
-        "summary": "Construcción de estructura fronteriza en Santa Cruz requiere eliminación de árboles históricos de la zona.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/07/31/derriban-legendarios-alamos-por-construccion-de-muro-fronterizo-en-santa-cruz/",
-        "_added_at": "2026-07-31T22:44:30.741223-07:00"
-      },
-      {
-        "title": "Jubilados IMSS protestan en Cajeme por prestaciones",
-        "summary": "Pensionados demandan devolución de prestación que reclaman desde hace 18 años en Ciudad Obregón.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/31/jubilados-del-imss-protestan-en-cajeme-exigen-devolucion-de-prestacion-que-reclaman-desde-2008/",
-        "_added_at": "2026-07-31T14:54:48.528388-07:00"
-      },
-      {
-        "title": "Calendario escolar 2026-2027 confirmado en Sonora",
-        "summary": "Gobernador Durazo confirma inicio de clases el 31 de agosto para más de 500 mil alumnos de educación básica.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/hay-fechas-clave-del-calendario-escolar-2026-2027-en-sonora/261471",
-        "_added_at": "2026-07-31T12:02:58.581554-07:00"
-      },
-      {
-        "title": "Irregularidades en 18 guarderías afiliadas a Covafam",
-        "summary": "Gobierno de Sonora reporta suspensiones y observaciones en guarderías que rechazan inspecciones oficiales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/gobierno-de-sonora-reporta-suspensiones-y-observaciones-en-18-guarderias-afiliadas-a-covafam-que-se-niegan-a-recibir-inspecciones/",
-        "_added_at": "2026-07-31T12:02:58.581554-07:00"
-      },
-      {
-        "title": "INE fija calendario electoral para renovar diputaciones 2027",
-        "summary": "Instituto Electoral aprueba fechas clave para elección de 500 diputaciones federales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/07/31/ine-aprueba-el-calendario-electoral-2026-2027-estas-son-las-fechas-clave-para-renovar-las-500-diputaciones-federales-en-mexico/",
-        "_added_at": "2026-07-31T09:28:59.492748-07:00"
-      },
-      {
-        "title": "Lorenia Valles insta a jóvenes a perseguir sus metas",
-        "summary": "Funcionaria destaca programas de la Transformación para juventudes en Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-llama-a-jovenes-a-perseguir-sus-suenos/261507",
-        "_added_at": "2026-07-31T09:28:59.492748-07:00"
-      },
-      {
-        "title": "Confirman calendario escolar 2026-2027 en Sonora",
-        "summary": "Gobernador Durazo anuncia que 500 mil alumnos iniciarán clases el 31 de agosto en preescolar, primaria y secundaria.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/confirman-calendario-escolar-2026-2027-en-sonora-fechas/261471",
-        "_added_at": "2026-07-31T06:24:46.445701-07:00"
-      },
-      {
-        "title": "No hay escuelas militarizadas registradas en Sonora",
-        "summary": "Autoridades educativas estatales descartan la existencia de planteles con modelo militarizado incorporados oficialmente.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/31/no-hay-escuelas-militarizadas-incorporadas-a-la-sec-en-sonora-afirma-encargada-de-despacho/",
-        "_added_at": "2026-07-31T06:24:46.445701-07:00"
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Moda circular impulsa auge de bazares en San Luis Río Colorado",
-        "summary": "Jóvenes adoptan tendencia de compra-venta de ropa usada en tiendas de segunda mano de la ciudad.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/sanluis/2026/08/01/la-moda-circular-impulsa-el-auge-de-los-bazares-entre-los-jovenes-en-san-luis-rio-colorado/",
-        "_added_at": "2026-07-31T22:44:30.741223-07:00"
-      },
-      {
-        "title": "Alerta Airbnb sobre fraudes con alojamientos falsos",
-        "summary": "Plataforma advierte sobre estafas de alojamientos fraudulentos publicados en redes sociales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/alerta-airbnb-por-alojamientos-falsos-en-redes-sociales/261553",
-        "_added_at": "2026-07-31T22:44:30.741223-07:00"
-      },
-      {
         "title": "Ganaderos sonorenses recuperarán 40% de ingresos tras reapertura",
-        "summary": "Reactivación ganadera en Sonora proyecta recuperación parcial de ingresos perdidos.",
+        "summary": "Sector pecuario proyecta recuperación parcial de ganancias tras autorización de actividades.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/ganaderos-de-sonora-recuperaran-hasta-40-de-sus-ingresos/261563",
-        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       },
       {
-        "title": "Usuarios prefieren efectivo en transporte de Hermosillo",
-        "summary": "Sistema UNE de pago enfrenta resistencia; ciudadanos siguen usando dinero en efectivo.",
+        "title": "Moda circular impulsa tendencia de bazares en San Luis",
+        "summary": "Jóvenes adoptan consumo responsable a través de venta de prendas reutilizadas en SLRC.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/usuarios-optan-por-efectivo-en-el-transporte-urbano-de-hermosillo-pese-al-sistema-de-pago-une/",
-        "_added_at": "2026-07-31T18:26:10.802682-07:00"
+        "url": "https://www.elimparcial.com/mxl/sanluis/2026/08/01/la-moda-circular-impulsa-el-auge-de-los-bazares-entre-los-jovenes-en-san-luis-rio-colorado/",
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       },
       {
-        "title": "CFE reforzará red eléctrica en Sierra Alta",
-        "summary": "Compañía realizará mantenimiento en municipios de la Sierra Alta del 3 al 5 de agosto.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/cfe-realizara-mantenimiento-electrico-en-municipios-de-sonora-del-3-al-5-de-agosto-estas-son-las-zonas-contempladas/",
-        "_added_at": "2026-07-31T14:54:48.528388-07:00"
-      },
-      {
-        "title": "Precio del becerro sube tras reapertura fronteriza",
-        "summary": "Becerro aumenta hasta 40 pesos por kilo en Valle del Yaqui tras anuncio de reapertura ganadera.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/31/precio-del-becerro-aumenta-hasta-40-pesos-por-kilo-en-el-valle-del-yaqui-tras-anuncio-de-reapertura-de-la-frontera-para-exportar-ganado-a-eeuu/",
-        "_added_at": "2026-07-31T12:02:58.581554-07:00"
-      },
-      {
-        "title": "El Mandadito abre sucursal ampliada al sur de Hermosillo",
-        "summary": "Comercio local inaugura nueva sucursal más grande y mejor surtida en zona sur de la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/31/el-mandadito-se-expande-con-sucursal-mas-amplia-y-surtida-al-sur-de-hermosillo/",
-        "_added_at": "2026-07-31T12:02:58.581554-07:00"
-      },
-      {
-        "title": "México busca exportar 400 mil reses tras reapertura ganadera",
-        "summary": "Frontera Agua Prieta-Douglas reabre para enviar hasta 2 mil cabezas diarias; cierre gradual tras crisis del gusano barrenador.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/07/31/ante-la-proxima-reapertura-de-la-frontera-ganadera-por-douglas-arizona-mexico-busca-cerrar-2026-con-400-mil-reses-exportadas-a-eeuu-tras-mas-de-un-ano-de-crisis-por-el-gusano-barrenador/",
-        "_added_at": "2026-07-31T09:28:59.492748-07:00"
-      },
-      {
-        "title": "Cooperativas vecinales en Hermosillo ahorran hasta 400 pesos",
-        "summary": "Familias reducen gastos en despensa mediante compras colectivas organizadas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/familias-de-hermosillo-ahorran-hasta-400-pesos-con-cooperativas-vecinales-para-comprar-despensa/",
-        "_added_at": "2026-07-31T09:28:59.492748-07:00"
-      },
-      {
-        "title": "Gobernador Durazo confirma calendario escolar para Sonora",
-        "summary": "Más de 500 mil alumnos de preescolar, primaria y secundaria iniciarán clases el 31 de agosto en la entidad.",
+        "title": "Alerta sobre fraudes con alojamientos falsos en redes",
+        "summary": "Airbnb advierte sobre estafas con anuncios fraudulentos de hospedajes en plataformas digitales.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/confirman-calendario-escolar-2026-2027-en-sonora-fechas/261471",
-        "_added_at": "2026-07-31T04:15:02.353507-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/alerta-airbnb-por-alojamientos-falsos-en-redes-sociales/261553",
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Misión 4 Patas ofrece adopciones responsables en Hermosillo",
-        "summary": "Asociación animal realiza jornada de adopción de mascotas en Galerías Mall.",
+        "title": "Programa entrega más de 2 mil prótesis a adultos mayores",
+        "summary": "Iniciativa \"Construyendo Sonrisas\" beneficia a tercera edad hermosillense con dentaduras postizas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/31/programa-construyendo-sonrisas-entrega-mas-de-2-mil-protesis-dentales-a-adultos-mayores-en-hermosillo/",
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
+      },
+      {
+        "title": "Cruz Roja advierte sobre riesgos del calor extremo",
+        "summary": "Institución alerta sobre deshidratación y golpe de calor en temporada estival sonorense.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/mision-4-patas-ofrece-adopciones-responsables-en-galerias-mall-conoce-a-tus-futuros-companeros/",
-        "_added_at": "2026-07-31T22:44:30.741223-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/cruz-roja-hermosillo-advierte-sobre-riesgos-de-calor-deshidratacion-y-golpe-de-calor-aumentan-en-verano/",
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       },
       {
         "title": "Jornada comunitaria ofrece servicios gratuitos en SLRC",
-        "summary": "Asociación civil cristiana brinda servicios sin costo en colonia Aviación de San Luis Río Colorado.",
+        "summary": "Asociación civil cristiana brinda atención social a habitantes de colonia Aviación.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/mxl/sanluis/2026/08/01/asociacion-civil-cristiana-realizara-jornada-comunitaria-con-servicios-gratuitos-en-la-colonia-aviacion-en-slrc/",
-        "_added_at": "2026-07-31T22:44:30.741223-07:00"
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       },
       {
-        "title": "Programa Construyendo Sonrisas entrega prótesis dentales",
-        "summary": "Más de 2 mil prótesis distribuidas a adultos mayores en Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/31/programa-construyendo-sonrisas-entrega-mas-de-2-mil-protesis-dentales-a-adultos-mayores-en-hermosillo/",
-        "_added_at": "2026-07-31T18:26:10.802682-07:00"
-      },
-      {
-        "title": "Cruz Roja alerta sobre riesgos del calor extremo",
-        "summary": "Deshidratación y golpes de calor aumentan en temporada estival.",
+        "title": "Séptima carrera solidaria anunciada para septiembre",
+        "summary": "Cruz Roja convoca a participantes para evento benéfico \"Todo México Salvando Vidas\" el 6 de septiembre.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/cruz-roja-hermosillo-advierte-sobre-riesgos-de-calor-deshidratacion-y-golpe-de-calor-aumentan-en-verano/",
-        "_added_at": "2026-07-31T18:26:10.802682-07:00"
-      },
-      {
-        "title": "Especialista explica desorientación en adultos mayores",
-        "summary": "Calor extremo causa pérdidas de orientación incluso sin diagnóstico de demencia.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/por-que-se-pierden-los-adultos-mayores-en-sonora/261545",
-        "_added_at": "2026-07-31T18:26:10.802682-07:00"
-      },
-      {
-        "title": "Alerta por lluvias fuertes en nueve municipios",
-        "summary": "Protección Civil advierte sobre tormentas y lluvia intensas en sur de Sonora este fin de semana.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/lluvias-fuertes-y-viento-amenazan-al-sur-de-sonora-estos-nueve-municipios-tienen-mayor-probabilidad-de-tormentas/",
-        "_added_at": "2026-07-31T14:54:48.528388-07:00"
-      },
-      {
-        "title": "Inicia entrega de uniformes escolares en Hermosillo",
-        "summary": "Este lunes comienza distribución de uniformes; apellidos A y B son los primeros en acudir.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/este-lunes-comienza-la-entrega-en-hermosillo-apellidos-con-a-y-b-seran-los-primeros-en-acudir-al-cum/",
-        "_added_at": "2026-07-31T14:54:48.528388-07:00"
-      },
-      {
-        "title": "Afectaciones por turbiedad en presa El Molinito",
-        "summary": "AguaH reporta continuidad en problemas de suministro de agua en Hermosillo por alta turbiedad.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/31/continuan-afectaciones-al-suministro-de-agua-por-alta-turbiedad-en-presa-el-molinito-de-hermosillo-aguah/",
-        "_added_at": "2026-07-31T14:54:48.528388-07:00"
-      },
-      {
-        "title": "Niño rescatado tras casi ahogarse en San Carlos",
-        "summary": "Menor de 11 años es salvado en alberca de hotel tras emergencia acuática.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/31/rescatan-a-nino-de-11-anos-tras-casi-ahogarse-en-alberca-de-hotel-en-san-carlos/",
-        "_added_at": "2026-07-31T14:54:48.528388-07:00"
-      },
-      {
-        "title": "Rescatan adulto mayor perdido en desierto de Altar",
-        "summary": "Hombre de 76 años sobrevive perdido en desierto; Protección Civil y Cruz Roja lo rescatan con deshidratación severa.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/07/31/adulto-mayor-de-76-anos-sobrevive-perdido-en-el-desierto-de-altar-y-es-rescatado-con-deshidratacion-severa/",
-        "_added_at": "2026-07-31T12:02:58.581554-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/31/cruz-roja-anuncia-la-septima-carrera-todo-mexico-salvando-vidas-para-el-6-de-septiembre/",
+        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-31T22:44:30.741223-07:00"
+  "last_updated": "2026-08-01T00:57:39.371047-07:00"
 }
