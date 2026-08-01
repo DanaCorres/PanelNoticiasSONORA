@@ -1,8 +1,15 @@
 {
   "date": "2026-08-01",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Derrame en Naco genera riesgos ambientales graves",
+        "summary": "Experto advierte sobre consecuencias serias del derrame de 56 mil litros en Naco por Ferromex.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/derrame-de-56-mil-litros-en-naco-es-un-riesgo-ambiental-que-no-se-puede-ignorar-advierte-experto/",
+        "_added_at": "2026-08-01T05:48:54.255391-07:00"
+      },
       {
         "title": "Violencia familiar en Navojoa crece 174% durante 2026",
         "summary": "Incremento dramático de casos de violencia intrafamiliar reportados en Navojoa durante el año actual.",
@@ -50,6 +57,13 @@
     ],
     "economia": [
       {
+        "title": "Malecón de Guaymas avanza 35% en rehabilitación",
+        "summary": "Inversión de 17.5 millones de pesos impulsa obras de modernización en puerto guaymense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/07/31/avanza-rehabilitacion-del-malecon-de-guaymas-en-35-con-inversion-de-17-5-millones-de-pesos-durazo/",
+        "_added_at": "2026-08-01T05:48:54.255391-07:00"
+      },
+      {
         "title": "Sonora exportará 120 mil cabezas de ganado",
         "summary": "Reapertura de frontera permite a ganaderos sonorenses reanudar envíos internacionales.",
         "source": "Expreso",
@@ -79,6 +93,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Rescatan niño de ahogarse en alberca de San Carlos",
+        "summary": "Menor de 11 años es salvado con RCP en hotel de Guaymas tras perder vigilancia parental.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/rescatan-a-nino-de-ahogarse-en-alberca-de-san-carlos-guaymas/261552",
+        "_added_at": "2026-08-01T05:48:54.255391-07:00"
+      },
       {
         "title": "Derrame en Naco pone en riesgo ambiental",
         "summary": "Experto advierte sobre graves consecuencias de 56 mil litros derramados por Ferromex.",
@@ -123,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-01T03:24:42.671440-07:00"
+  "last_updated": "2026-08-01T05:48:54.255391-07:00"
 }
