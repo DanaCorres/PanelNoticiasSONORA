@@ -1,8 +1,22 @@
 {
   "date": "2026-08-01",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Muerte en choque carretero Caborca-Puerto Peñasco",
+        "summary": "Persona falleció y otra resultó herida en accidente vial en tramo de Caborca hacia Puerto Peñasco.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/identifican-victima-de-choque-en-tramo-caborca-puerto-penasco/261632",
+        "_added_at": "2026-08-01T22:45:09.261613-07:00"
+      },
+      {
+        "title": "Comerciante muere aplastado por pacas en Navojoa",
+        "summary": "Trabajador falleció al caerle encima pacas de ropa en establecimiento comercial de Navojoa.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/muere-comerciante-aplastado-por-pacas-de-ropa-en-navojoa/261621",
+        "_added_at": "2026-08-01T22:45:09.261613-07:00"
+      },
       {
         "title": "Múltiples ahogamientos registrados en Guaymas",
         "summary": "Hasta cinco ahogamientos en albercas y playas de Guaymas; bomberos emiten medidas preventivas.",
@@ -58,23 +72,23 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/01/habitantes-de-naco-sonora-denuncian-ante-fgr-derrame-de-hidrosulfuro-de-sodio-tras-descarrilamiento-de-ferromex-y-exigen-investigar-danos-y-remediacion-no-sabemos-si-el-agua-esta-contaminada/",
         "_added_at": "2026-08-01T08:49:48.236481-07:00"
-      },
-      {
-        "title": "Cuatro hospitalizados tras derrame químico en Naco",
-        "summary": "Alcalde reporta cuatro personas hospitalizadas por exposición al químico derramado. Ferromex niega afectaciones a la salud de habitantes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/01/no-se-debe-minimizar-alcalde-reporta-cuatro-habitantes-hospitalizados-tras-derrame-en-naco-sonora-trabajadores-de-ferromex-fueron-valorados-por-salud-publica/",
-        "_added_at": "2026-08-01T08:49:48.236481-07:00"
-      },
-      {
-        "title": "Choque fatal en Caborca deja un muerto y herido grave",
-        "summary": "Accidente vial frontal en la costa de Caborca causó una muerte y un herido de consideración.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/choque-frontal-deja-un-hombre-sin-vida-y-otro-gravemente-herido-en-la-costa-de-caborca/",
-        "_added_at": "2026-08-01T08:49:48.236481-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Célida López convoca unidad de mujeres en Sonora",
+        "summary": "Dirigente hace llamado a unidad femenina para fortalecer transformación política estatal.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/celida-lopez-llama-a-la-unidad-de-las-mujeres-para-fortalecer-la-transformacion-en-sonora/",
+        "_added_at": "2026-08-01T22:45:09.261613-07:00"
+      },
+      {
+        "title": "Grecia Quiroz cuestiona investigación de asesinato",
+        "summary": "Funcionaria exige aclarar inconsistencias en caso de homicidio de Carlos Manzo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/cuestiona-grecia-quiroz-la-investigacion-del-asesinato-de-carlos-manzo-exige-aclarar-posibles-inconsistencias-en-el-caso/",
+        "_added_at": "2026-08-01T22:45:09.261613-07:00"
+      },
       {
         "title": "Morena se deslinda de Roldán Álvarez, hermano del 'R1'",
         "summary": "Partido expulsó a Roldán Álvarez desde 2025 tras vínculos con narcotráfico.",
@@ -185,6 +199,20 @@
     ],
     "sociedad": [
       {
+        "title": "CEA restablece capacidad del Acueducto Independencia",
+        "summary": "Avanza normalización de suministro de agua en Hermosillo tras reparación de infraestructura.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/02/restablece-cea-capacidad-de-conduccion-del-acueducto-independencia-avanza-normalizacion-del-servicio-en-hermosillo/",
+        "_added_at": "2026-08-01T22:45:09.261613-07:00"
+      },
+      {
+        "title": "Clínica Móvil de Hermosillo supera 45 mil atenciones",
+        "summary": "Servicio móvil de salud amplía acceso médico para población vulnerable durante año.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/hermosillo-rompe-barreras-de-acceso-a-la-salud-clinica-movil-supera-las-45-mil-atenciones-en-un-ano/",
+        "_added_at": "2026-08-01T22:45:09.261613-07:00"
+      },
+      {
         "title": "Turbiedad del agua en El Molinito afecta Hermosillo",
         "summary": "Lodo y sedimentos en presa comprometen suministro de agua potable a la capital.",
         "source": "El Imparcial",
@@ -239,22 +267,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/lluvias-provocan-falla-en-acueducto-independencia-y-afectan-suministro-de-agua-al-sur-de-hermosillo/",
         "_added_at": "2026-08-01T11:48:33.296909-07:00"
-      },
-      {
-        "title": "Todos aspirantes a preparatoria obtienen lugar en Sonora",
-        "summary": "SEC asigna lugar escolar a cada solicitante de educación media superior en entidad.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/asignan-lugar-a-todos-los-aspirantes-de-prepa-en-sonora/261595",
-        "_added_at": "2026-08-01T11:48:33.296909-07:00"
-      },
-      {
-        "title": "Hermosillo captura lluvia en sistemas de riego innovadores",
-        "summary": "Pasos de Colosio y Solidaridad aprovechan agua para riego de áreas verdes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/la-lluvia-que-antes-causaba-riesgos-ahora-se-aprovecha-paso-de-colosio-y-solidaridad-capta-por-primera-vez-agua-que-sera-reutilizada-en-areas-verdes-de-hermosillo/",
-        "_added_at": "2026-08-01T11:48:33.296909-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-01T18:24:27.351476-07:00"
+  "last_updated": "2026-08-01T22:45:09.261613-07:00"
 }
