@@ -1,8 +1,29 @@
 {
   "date": "2026-08-01",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Múltiples ahogamientos registrados en Guaymas",
+        "summary": "Hasta cinco ahogamientos en albercas y playas de Guaymas; bomberos emiten medidas preventivas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/ahogamientos-en-guaymas-bomberos-emiten-medidas-preventivas/261617",
+        "_added_at": "2026-08-01T18:24:27.351476-07:00"
+      },
+      {
+        "title": "Patrulla Fronteriza detiene a traficantes en Nogales",
+        "summary": "Autoridades capturan a traficantes de personas y tres migrantes mexicanos en carretera de Yuma.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/01/patrulla-fronteriza-detiene-a-traficantes-de-personas-y-a-tres-migrantes-mexicanos-en-carretera-de-yuma-arizona/",
+        "_added_at": "2026-08-01T18:24:27.351476-07:00"
+      },
+      {
+        "title": "FGR solicita orden de aprehensión contra Raúl Rocha",
+        "summary": "Propietario de Miss Universo enfrenta nueva orden por presunto lavado de dinero.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/pide-fgr-nueva-orden-de-aprehension-contra-raul-rocha-propietario-de-miss-universo-por-presunto-lavado-de-dinero/",
+        "_added_at": "2026-08-01T18:24:27.351476-07:00"
+      },
       {
         "title": "Hombre cae en socavón en Hermosillo tras lluvias",
         "summary": "Persona cayó en socavón en colonia El Sahuaro; sus gritos alertaron a cuerpos de emergencia que acudieron al lugar.",
@@ -51,30 +72,16 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/01/choque-frontal-deja-un-hombre-sin-vida-y-otro-gravemente-herido-en-la-costa-de-caborca/",
         "_added_at": "2026-08-01T08:49:48.236481-07:00"
-      },
-      {
-        "title": "Derrame en Naco genera riesgos ambientales graves",
-        "summary": "Experto advierte sobre consecuencias serias del derrame de 56 mil litros en Naco por Ferromex.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/07/31/derrame-de-56-mil-litros-en-naco-es-un-riesgo-ambiental-que-no-se-puede-ignorar-advierte-experto/",
-        "_added_at": "2026-08-01T05:48:54.255391-07:00"
-      },
-      {
-        "title": "Violencia familiar en Navojoa crece 174% durante 2026",
-        "summary": "Incremento dramático de casos de violencia intrafamiliar reportados en Navojoa durante el año actual.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/violencia-familiar-en-navojoa-aumenta-174-en-2026/261557",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
-      },
-      {
-        "title": "Rescatan a menor de ahogarse en alberca de San Carlos",
-        "summary": "Niño de once años fue salvado mediante RCP en hotel de Guaymas tras emergencia acuática.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/rescatan-a-nino-de-ahogarse-en-alberca-de-san-carlos-guaymas/261552",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Morena se deslinda de Roldán Álvarez, hermano del 'R1'",
+        "summary": "Partido expulsó a Roldán Álvarez desde 2025 tras vínculos con narcotráfico.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/morena-se-deslinda-de-roldan-alvarez-hermano-del-r1-afirma-lo-expulso-del-partido-desde-2025/",
+        "_added_at": "2026-08-01T18:24:27.351476-07:00"
+      },
       {
         "title": "Unidad de Morena avanza en Sonora: Valles",
         "summary": "Lorenia Valles destacó que la Cuarta Transformación camina unida y con altura de miras en el estado.",
@@ -105,6 +112,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "PIB de México crece 2.1% mejorando expectativas",
+        "summary": "Crecimiento económico nacional abre perspectivas positivas para el estado de Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/pib-de-mexico-crece-21-y-mejora-expectativas-para-sonora/261613",
+        "_added_at": "2026-08-01T18:24:27.351476-07:00"
+      },
+      {
+        "title": "Sonora registra inscripciones abiertas para paneles solares",
+        "summary": "Programa estatal ofrece instalación gratuita; usuarios podrían reducir consumo de electricidad hasta 89%.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/pagar-hasta-89-menos-de-luz-sonora-mantiene-abierto-el-registro-para-instalar-paneles-solares-gratuitos/",
+        "_added_at": "2026-08-01T18:24:27.351476-07:00"
+      },
+      {
+        "title": "Moscas estériles se liberan contra gusano barrenador",
+        "summary": "Técnica biológica combate plaga que afectó ganadería sonorense.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/moscas-esteriles-para-combatir-plaga-del-gusano-barrenador/261616",
+        "_added_at": "2026-08-01T18:24:27.351476-07:00"
+      },
       {
         "title": "Lodo en presa reduce abasto de agua en Hermosillo",
         "summary": "Arrastre de lodo en presa El Molinito causa reducción del suministro de agua potable en la capital.",
@@ -153,23 +181,30 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/ganaderos-de-sonora-recuperaran-hasta-40-de-sus-ingresos/261563",
         "_added_at": "2026-08-01T00:57:39.371047-07:00"
-      },
-      {
-        "title": "Moda circular impulsa tendencia de bazares en San Luis",
-        "summary": "Jóvenes adoptan consumo responsable a través de venta de prendas reutilizadas en SLRC.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/sanluis/2026/08/01/la-moda-circular-impulsa-el-auge-de-los-bazares-entre-los-jovenes-en-san-luis-rio-colorado/",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
-      },
-      {
-        "title": "Alerta sobre fraudes con alojamientos falsos en redes",
-        "summary": "Airbnb advierte sobre estafas con anuncios fraudulentos de hospedajes en plataformas digitales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/alerta-airbnb-por-alojamientos-falsos-en-redes-sociales/261553",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Turbiedad del agua en El Molinito afecta Hermosillo",
+        "summary": "Lodo y sedimentos en presa comprometen suministro de agua potable a la capital.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/agua-de-hermosillo-implementa-medidas-ante-arrastre-de-lodo-y-sedimentos-en-la-presa-el-molinito-que-se-recomienda-a-los-ciudadanos/",
+        "_added_at": "2026-08-01T18:24:27.351476-07:00"
+      },
+      {
+        "title": "Rosa Tapia logra oro y bronce en Santo Domingo",
+        "summary": "Atleta hermosillense gana medalla de oro por equipos y bronce individual en triatlón.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/deporte/2026/08/01/rosa-maria-tapia-gana-dos-medallas-en-santo-domingo-2026-la-hermosillense-conquista-oro-por-equipos-y-bronce-individual-en-triatlon/",
+        "_added_at": "2026-08-01T18:24:27.351476-07:00"
+      },
+      {
+        "title": "Sonora intensifica combate a la rickettsia protegiendo perros",
+        "summary": "Más de 3 mil caninos reciben protección para reducir riesgo de contagios en población.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/sonora-intensifica-combate-a-la-rickettsia-mas-de-3-mil-perros-protegidos-para-reducir-el-riesgo-de-contagios/",
+        "_added_at": "2026-08-01T18:24:27.351476-07:00"
+      },
       {
         "title": "Socavón expone drenaje antiguo en Hermosillo",
         "summary": "Socavón en colonia Quintero Arce reveló tubería de drenaje de más de 50 años de antigüedad.",
@@ -218,29 +253,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/la-lluvia-que-antes-causaba-riesgos-ahora-se-aprovecha-paso-de-colosio-y-solidaridad-capta-por-primera-vez-agua-que-sera-reutilizada-en-areas-verdes-de-hermosillo/",
         "_added_at": "2026-08-01T11:48:33.296909-07:00"
-      },
-      {
-        "title": "Lluvias fuertes continúan en Sonora y cinco estados más",
-        "summary": "Sistema de frente frío extiende precipitaciones en Sonora y estados vecinos de la frontera noreste.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/01/lluvias-fuertes-seguiran-en-sonora-y-5-estados-mas-mientras-el-frente-frio-se-extiende-en-la-frontera-noreste-de-mexico/",
-        "_added_at": "2026-08-01T08:49:48.236481-07:00"
-      },
-      {
-        "title": "Incendio en negocio hermosillense deja hombre herido",
-        "summary": "Siniestro en establecimiento de Hermosillo causa quemaduras e inhalación de humo en persona.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/incendio-en-negocio-de-hermosillo-deja-un-hombre-herido-por-quemaduras-e-inhalacion-de-humo/",
-        "_added_at": "2026-08-01T08:49:48.236481-07:00"
-      },
-      {
-        "title": "Rescatan niño de ahogarse en alberca de San Carlos",
-        "summary": "Menor de 11 años es salvado con RCP en hotel de Guaymas tras perder vigilancia parental.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/rescatan-a-nino-de-ahogarse-en-alberca-de-san-carlos-guaymas/261552",
-        "_added_at": "2026-08-01T05:48:54.255391-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-01T14:41:52.171300-07:00"
+  "last_updated": "2026-08-01T18:24:27.351476-07:00"
 }
