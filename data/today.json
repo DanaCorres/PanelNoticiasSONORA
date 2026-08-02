@@ -1,8 +1,15 @@
 {
   "date": "2026-08-02",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre cae en socavón de colonia El Sahuaro",
+        "summary": "Persona cayó en hundimiento del terreno en Hermosillo. Cuerpos de emergencia alertados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/hombre-cayo-en-socavon-de-la-colonia-el-sahuaro-sus-gritos-alertaron-a-los-cuerpos-de-emergencia/",
+        "_added_at": "2026-08-02T03:23:01.943847-07:00"
+      },
       {
         "title": "Accidente fatal en ruta Caborca-Puerto Peñasco",
         "summary": "Choque deja un muerto y un herido trasladado a hospital en Caborca para atención especializada.",
@@ -33,6 +40,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Grecia Quiroz cuestiona investigación de caso Manzo",
+        "summary": "Exige aclarar inconsistencias en pesquisa del asesinato de Carlos Manzo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/cuestiona-grecia-quiroz-la-investigacion-del-asesinato-de-carlos-manzo-exige-aclarar-posibles-inconsistencias-en-el-caso/",
+        "_added_at": "2026-08-02T03:23:01.943847-07:00"
+      },
       {
         "title": "Líder de Cartel Los Reyes capturado en Michoacán",
         "summary": "Detención de criminal buscado por Estados Unidos que ofrecía recompensa de cinco millones.",
@@ -73,6 +87,20 @@
     ],
     "sociedad": [
       {
+        "title": "Turbiedad del agua afecta suministro en Hermosillo",
+        "summary": "Presa El Molinito presenta arrastre de lodo limitando distribución potable.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/agua-de-hermosillo-implementa-medidas-ante-arrastre-de-lodo-y-sedimentos-en-la-presa-el-molinito-que-se-recomienda-a-los-ciudadanos/",
+        "_added_at": "2026-08-02T03:23:01.943847-07:00"
+      },
+      {
+        "title": "Rosa Tapia gana medallas en Juegos Centroamericanos",
+        "summary": "Hermosillense conquista oro por equipos y bronce individual en triatlón.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/deporte/2026/08/01/rosa-maria-tapia-gana-dos-medallas-en-santo-domingo-2026-la-hermosillense-conquista-oro-por-equipos-y-bronce-individual-en-triatlon/",
+        "_added_at": "2026-08-02T03:23:01.943847-07:00"
+      },
+      {
         "title": "CEA restablece capacidad del Acueducto Independencia",
         "summary": "Avanza normalización del servicio de agua en sur de Hermosillo tras fallas recientes.",
         "source": "El Imparcial",
@@ -102,5 +130,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-02T00:59:16.638969-07:00"
+  "last_updated": "2026-08-02T03:23:01.943847-07:00"
 }
