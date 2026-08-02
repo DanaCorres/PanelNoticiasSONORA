@@ -1,8 +1,22 @@
 {
   "date": "2026-08-02",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Disparos causan pánico en campo de béisbol de Nogales",
+        "summary": "Incidentes de violencia alteran actividades deportivas en Nogales, generando preocupación entre la población local.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/02/disparos-provocan-panico-en-campo-de-beisbol-de-nogales/",
+        "_added_at": "2026-08-02T11:49:18.855502-07:00"
+      },
+      {
+        "title": "Capturan a presunto narcomenudista \"El Nani\" en Hermosillo",
+        "summary": "Autoridades detienen a individuo vinculado al tráfico de drogas en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/02/cae-el-nani-en-hermosillo-presunto-narcomenudista/",
+        "_added_at": "2026-08-02T11:49:18.855502-07:00"
+      },
       {
         "title": "Rickettsia causa 600% más muertes en Ciudad Obregón",
         "summary": "Aumento dramático de fallecimientos por enfermedad transmitida por garrapatas en la región del valle del Yaqui.",
@@ -55,6 +69,13 @@
     ],
     "politica": [
       {
+        "title": "Gobierno impulsa techos solares para familias vulnerables",
+        "summary": "Sheinbaum y Durazo promueven instalación de paneles solares que reducen recibos hasta 89% en Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/alfonso-durazo-impulsa-techos-solares/261637",
+        "_added_at": "2026-08-02T11:49:18.855502-07:00"
+      },
+      {
         "title": "Grecia Quiroz cuestiona investigación de caso Manzo",
         "summary": "Exige aclarar inconsistencias en pesquisa del asesinato de Carlos Manzo.",
         "source": "Proyecto Puente",
@@ -84,6 +105,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "70% de pasajeros paga en efectivo en transporte urbano",
+        "summary": "Mayoría de usuarios del transporte público en Hermosillo sigue utilizando dinero físico.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/02/paga-en-efectivo-el-70-de-pasajeros-del-transporte-urbano/",
+        "_added_at": "2026-08-02T11:49:18.855502-07:00"
+      },
       {
         "title": "Ciudad Obregón registra alto consumo de agua per cápita",
         "summary": "IMCO reporta consumo de 223 metros cúbicos por habitante anual, superior a media nacional.",
@@ -121,6 +149,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Vientos dañan bombeo de agua en Hermosillo",
+        "summary": "Afectaciones al servicio de agua en sectores Centro y Sur de Hermosillo por daños en equipos de bombeo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/fuertes-vientos-dejan-sin-operacion-equipos-de-bombeo-en-el-novillo-y-afectan-el-servicio-de-agua-en-el-centro-y-sur-de-hermosillo/",
+        "_added_at": "2026-08-02T11:49:18.855502-07:00"
+      },
+      {
+        "title": "Socavón se abre en colonia Sahuaro de Hermosillo",
+        "summary": "Hundimiento del terreno causa preocupación entre residentes de zona habitacional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/02/surge-socavon-en-el-sahuaro/",
+        "_added_at": "2026-08-02T11:49:18.855502-07:00"
+      },
+      {
+        "title": "Buscan a hombre desaparecido en accidente acuático San Carlos",
+        "summary": "Labores de búsqueda suspendidas temporalmente por falta de visibilidad en puerto sonorense.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/buscan-a-hombre-desaparecido-tras-accidente-en-san-carlos/261640",
+        "_added_at": "2026-08-02T11:49:18.855502-07:00"
+      },
       {
         "title": "Alerta por temperaturas de 40°C en Nogales",
         "summary": "Autoridades advierten sobre ola de calor extremo en frontera norte de Sonora.",
@@ -169,22 +218,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/01/hermosillo-rompe-barreras-de-acceso-a-la-salud-clinica-movil-supera-las-45-mil-atenciones-en-un-ano/",
         "_added_at": "2026-08-02T00:59:16.638969-07:00"
-      },
-      {
-        "title": "Fanbase de BTS organiza colecta de útiles escolares",
-        "summary": "Grupo de fans en Sonora recolecta materiales educativos para niños sin recursos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/fanbase-de-bts-en-sonora-organiza-colecta-de-utiles-escolares-para-ninos-de-escasos-recursos/",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
-      },
-      {
-        "title": "Tormentas fuertes pronosticadas para Hermosillo",
-        "summary": "Autoridades advierten lluvias, actividad eléctrica y vientos durante noche en Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/tormentas-avanzan-hacia-hermosillo-pronostican-lluvias-fuertes-actividad-electrica-y-vientos-durante-la-noche-en-sonora/",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-02T08:50:25.850346-07:00"
+  "last_updated": "2026-08-02T11:49:18.855502-07:00"
 }
