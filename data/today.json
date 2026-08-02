@@ -1,8 +1,22 @@
 {
   "date": "2026-08-02",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Rickettsia causa 600% más muertes en Ciudad Obregón",
+        "summary": "Aumento dramático de fallecimientos por enfermedad transmitida por garrapatas en la región del valle del Yaqui.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/aumentan-un-600-muertes-por-rickettsia-en-ciudad-obregon/",
+        "_added_at": "2026-08-02T08:50:25.850346-07:00"
+      },
+      {
+        "title": "Accidentes viales bajan 12% pero con más lesionados",
+        "summary": "Disminuyen choques en Sonora aunque aumenta cantidad de personas heridas por siniestros.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/accidentes-bajan-12-pero-con-mas-lesionados/",
+        "_added_at": "2026-08-02T08:50:25.850346-07:00"
+      },
       {
         "title": "Hombre cae en socavón de colonia El Sahuaro",
         "summary": "Persona cayó en hundimiento del terreno en Hermosillo. Cuerpos de emergencia alertados.",
@@ -71,6 +85,27 @@
     ],
     "economia": [
       {
+        "title": "Ciudad Obregón registra alto consumo de agua per cápita",
+        "summary": "IMCO reporta consumo de 223 metros cúbicos por habitante anual, superior a media nacional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/02/registra-ciudad-obregon-consumo-de-223-metros-cubicos-de-agua-por-habitante-al-ano-imco/",
+        "_added_at": "2026-08-02T08:50:25.850346-07:00"
+      },
+      {
+        "title": "Paneles solares reducen hasta 89% en recibos eléctricos",
+        "summary": "Gobierno estatal promueve techos solares para familias vulnerables con apoyo federal.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/alfonso-durazo-impulsa-techos-solares/261637",
+        "_added_at": "2026-08-02T08:50:25.850346-07:00"
+      },
+      {
+        "title": "Suspenderán servicio eléctrico en ocho municipios",
+        "summary": "Corte de luz programado para el 3 de agosto en municipios de Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/corte-de-luz-en-8-municipios-de-sonora-el-3-de-agosto/261610",
+        "_added_at": "2026-08-02T08:50:25.850346-07:00"
+      },
+      {
         "title": "Frontera ganadera reabre pero con exportaciones reducidas",
         "summary": "Reapertura en Agua Prieta-Douglas será gradual; volumen inicial inferior a niveles previos.",
         "source": "El Imparcial",
@@ -86,6 +121,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Alerta por temperaturas de 40°C en Nogales",
+        "summary": "Autoridades advierten sobre ola de calor extremo en frontera norte de Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/alertan-por-temperaturas-de-hasta-40c-en-nogales/",
+        "_added_at": "2026-08-02T08:50:25.850346-07:00"
+      },
+      {
+        "title": "Rayo incendia palmeras en Country Club de San Carlos",
+        "summary": "Tormenta eléctrica causa fuego en balneario; sin reportes de lesionados.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/rayo-provoca-incendio-en-cinco-palmeras-en-san-carlos/261633",
+        "_added_at": "2026-08-02T08:50:25.850346-07:00"
+      },
+      {
+        "title": "Gobierno refuerza atención directa con Sonora Atiende",
+        "summary": "Paulina Ocaña anuncia intensificación de programa durante mes de agosto en estado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/estado-refuerza-atencion-directa-a-familias-paulina-ocana/261620",
+        "_added_at": "2026-08-02T08:50:25.850346-07:00"
+      },
       {
         "title": "Turbiedad del agua afecta suministro en Hermosillo",
         "summary": "Presa El Molinito presenta arrastre de lodo limitando distribución potable.",
@@ -130,5 +186,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-02T05:51:13.130681-07:00"
+  "last_updated": "2026-08-02T08:50:25.850346-07:00"
 }
