@@ -1,274 +1,106 @@
 {
-  "date": "2026-08-01",
-  "run_count": 8,
+  "date": "2026-08-02",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Muerte en choque carretero Caborca-Puerto Peñasco",
-        "summary": "Persona falleció y otra resultó herida en accidente vial en tramo de Caborca hacia Puerto Peñasco.",
+        "title": "Accidente fatal en ruta Caborca-Puerto Peñasco",
+        "summary": "Choque deja un muerto y un herido trasladado a hospital en Caborca para atención especializada.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/identifican-victima-de-choque-en-tramo-caborca-puerto-penasco/261632",
-        "_added_at": "2026-08-01T22:45:09.261613-07:00"
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
+      },
+      {
+        "title": "Cinco ahogamientos registrados en Guaymas",
+        "summary": "Autoridades reportan múltiples ahogamientos en playas y albercas de Guaymas durante temporada.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/ahogamientos-en-guaymas-bomberos-emiten-medidas-preventivas/261617",
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       },
       {
         "title": "Comerciante muere aplastado por pacas en Navojoa",
-        "summary": "Trabajador falleció al caerle encima pacas de ropa en establecimiento comercial de Navojoa.",
+        "summary": "Hombre pierde la vida tras caerle mercancía encima en establecimiento comercial.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/muere-comerciante-aplastado-por-pacas-de-ropa-en-navojoa/261621",
-        "_added_at": "2026-08-01T22:45:09.261613-07:00"
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       },
       {
-        "title": "Múltiples ahogamientos registrados en Guaymas",
-        "summary": "Hasta cinco ahogamientos en albercas y playas de Guaymas; bomberos emiten medidas preventivas.",
+        "title": "Rayo causa incendio en Country Club San Carlos",
+        "summary": "Tormenta eléctrica provoca fuego en palmeras sin dejar personas lesionadas reportadas.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/ahogamientos-en-guaymas-bomberos-emiten-medidas-preventivas/261617",
-        "_added_at": "2026-08-01T18:24:27.351476-07:00"
-      },
-      {
-        "title": "Patrulla Fronteriza detiene a traficantes en Nogales",
-        "summary": "Autoridades capturan a traficantes de personas y tres migrantes mexicanos en carretera de Yuma.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/01/patrulla-fronteriza-detiene-a-traficantes-de-personas-y-a-tres-migrantes-mexicanos-en-carretera-de-yuma-arizona/",
-        "_added_at": "2026-08-01T18:24:27.351476-07:00"
-      },
-      {
-        "title": "FGR solicita orden de aprehensión contra Raúl Rocha",
-        "summary": "Propietario de Miss Universo enfrenta nueva orden por presunto lavado de dinero.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/pide-fgr-nueva-orden-de-aprehension-contra-raul-rocha-propietario-de-miss-universo-por-presunto-lavado-de-dinero/",
-        "_added_at": "2026-08-01T18:24:27.351476-07:00"
-      },
-      {
-        "title": "Hombre cae en socavón en Hermosillo tras lluvias",
-        "summary": "Persona cayó en socavón en colonia El Sahuaro; sus gritos alertaron a cuerpos de emergencia que acudieron al lugar.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/hombre-cayo-en-socavon-de-la-colonia-el-sahuaro-sus-gritos-alertaron-a-los-cuerpos-de-emergencia/",
-        "_added_at": "2026-08-01T14:41:52.171300-07:00"
-      },
-      {
-        "title": "Tránsito advierte sanciones por insultos a oficiales",
-        "summary": "Autoridades de Cajeme advierten que insultar a oficiales durante filtros de revisión puede resultar en sanciones legales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/01/transito-de-cajeme-advierte-que-insultar-a-oficiales-durante-filtros-de-revision-puede-derivar-en-sanciones/",
-        "_added_at": "2026-08-01T14:41:52.171300-07:00"
-      },
-      {
-        "title": "Hombre detenido por agredir a esposa en Hermosillo",
-        "summary": "Capturado sujeto que golpeó a su pareja y causó daños en vivienda hermosillense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/detienen-a-hombre-golpear-a-su-esposa-y-provocar-danos-en-vivienda-en-hermosillo/",
-        "_added_at": "2026-08-01T11:48:33.296909-07:00"
-      },
-      {
-        "title": "Descarrilamiento de Ferromex en Naco por deslave",
-        "summary": "Tren descarriló en Naco tras fenómeno meteorológico en vías de Ferromex.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/ferromex-explica-causas-del-descarrilamiento-en-naco/261583",
-        "_added_at": "2026-08-01T11:48:33.296909-07:00"
-      },
-      {
-        "title": "Derrame químico de tren en Naco requiere investigación federal",
-        "summary": "Descarrilamiento de Ferromex en Naco causó derrames de hidrosulfuro de sodio. Habitantes preocupados por contaminación del agua y sin información oficial sobre riesgos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/01/habitantes-de-naco-sonora-denuncian-ante-fgr-derrame-de-hidrosulfuro-de-sodio-tras-descarrilamiento-de-ferromex-y-exigen-investigar-danos-y-remediacion-no-sabemos-si-el-agua-esta-contaminada/",
-        "_added_at": "2026-08-01T08:49:48.236481-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/rayo-provoca-incendio-en-cinco-palmeras-en-san-carlos/261633",
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Célida López convoca unidad de mujeres en Sonora",
-        "summary": "Dirigente hace llamado a unidad femenina para fortalecer transformación política estatal.",
+        "title": "Líder de Cartel Los Reyes capturado en Michoacán",
+        "summary": "Detención de criminal buscado por Estados Unidos que ofrecía recompensa de cinco millones.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/capturan-a-lider-de-cartel-de-los-reyes-en-michoacan-eeuu-ofrecia-5-mdd-por-su-detencion/",
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
+      },
+      {
+        "title": "Gobierno de Sonora refuerza programas de atención familiar",
+        "summary": "Secretaria Paulina Ocaña anuncia intensificación de Sonora Atiende durante agosto.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/estado-refuerza-atencion-directa-a-familias-paulina-ocana/261620",
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
+      },
+      {
+        "title": "Célida López convoca a unidad de mujeres en Sonora",
+        "summary": "Llamado a fortalecer participación femenina en transformación del estado.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/01/celida-lopez-llama-a-la-unidad-de-las-mujeres-para-fortalecer-la-transformacion-en-sonora/",
-        "_added_at": "2026-08-01T22:45:09.261613-07:00"
-      },
-      {
-        "title": "Grecia Quiroz cuestiona investigación de asesinato",
-        "summary": "Funcionaria exige aclarar inconsistencias en caso de homicidio de Carlos Manzo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/cuestiona-grecia-quiroz-la-investigacion-del-asesinato-de-carlos-manzo-exige-aclarar-posibles-inconsistencias-en-el-caso/",
-        "_added_at": "2026-08-01T22:45:09.261613-07:00"
-      },
-      {
-        "title": "Morena se deslinda de Roldán Álvarez, hermano del 'R1'",
-        "summary": "Partido expulsó a Roldán Álvarez desde 2025 tras vínculos con narcotráfico.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/morena-se-deslinda-de-roldan-alvarez-hermano-del-r1-afirma-lo-expulso-del-partido-desde-2025/",
-        "_added_at": "2026-08-01T18:24:27.351476-07:00"
-      },
-      {
-        "title": "Unidad de Morena avanza en Sonora: Valles",
-        "summary": "Lorenia Valles destacó que la Cuarta Transformación camina unida y con altura de miras en el estado.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-unidad-de-morena-en-sonora/261606",
-        "_added_at": "2026-08-01T14:41:52.171300-07:00"
-      },
-      {
-        "title": "Lorenia Valles: 4T camina unida en Sonora",
-        "summary": "Funcionaria destaca unidad y visión clara del gobierno en la entidad.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/en-sonora-la-4t-camina-en-unidad-y-con-altura-de-miras-lorenia-valles/",
-        "_added_at": "2026-08-01T11:48:33.296909-07:00"
-      },
-      {
-        "title": "Lamarque dialoga con profesionistas y vecinos hermosillenses",
-        "summary": "Candidato sostiene encuentro con especialistas en salud, educación, derecho e ingeniería para análisis de necesidades.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-escucha-propuestas-de-profesionistas-y-ciudadanos/261575",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
-      },
-      {
-        "title": "Avanzan obras del malecón guaymasense en 35% según Durazo",
-        "summary": "Inversión de 17.5 millones de pesos avanza en rehabilitación de atracadero portuario.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/31/avanza-rehabilitacion-del-malecon-de-guaymas-en-35-con-inversion-de-17-5-millones-de-pesos-durazo/",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       }
     ],
     "economia": [
       {
-        "title": "PIB de México crece 2.1% mejorando expectativas",
-        "summary": "Crecimiento económico nacional abre perspectivas positivas para el estado de Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/pib-de-mexico-crece-21-y-mejora-expectativas-para-sonora/261613",
-        "_added_at": "2026-08-01T18:24:27.351476-07:00"
-      },
-      {
-        "title": "Sonora registra inscripciones abiertas para paneles solares",
-        "summary": "Programa estatal ofrece instalación gratuita; usuarios podrían reducir consumo de electricidad hasta 89%.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/pagar-hasta-89-menos-de-luz-sonora-mantiene-abierto-el-registro-para-instalar-paneles-solares-gratuitos/",
-        "_added_at": "2026-08-01T18:24:27.351476-07:00"
-      },
-      {
-        "title": "Moscas estériles se liberan contra gusano barrenador",
-        "summary": "Técnica biológica combate plaga que afectó ganadería sonorense.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/moscas-esteriles-para-combatir-plaga-del-gusano-barrenador/261616",
-        "_added_at": "2026-08-01T18:24:27.351476-07:00"
-      },
-      {
-        "title": "Lodo en presa reduce abasto de agua en Hermosillo",
-        "summary": "Arrastre de lodo en presa El Molinito causa reducción del suministro de agua potable en la capital.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lodo-en-presa-el-molinito-causa-reduccion-de-agua/261609",
-        "_added_at": "2026-08-01T14:41:52.171300-07:00"
-      },
-      {
-        "title": "Frontera ganadera reabre con exportaciones reducidas a EE.UU.",
-        "summary": "Reapertura por Agua Prieta-Douglas será gradual con volumen inicial del 50 por ciento anterior.",
+        "title": "Frontera ganadera reabre pero con exportaciones reducidas",
+        "summary": "Reapertura en Agua Prieta-Douglas será gradual; volumen inicial inferior a niveles previos.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/01/reapertura-de-frontera-al-ganado-mexicano-no-sera-como-antes-sonora-exportara-menos-reses-tras-cierre-por-gusano-barrenador-y-nuevos-controles-sanitarios/",
-        "_added_at": "2026-08-01T11:48:33.296909-07:00"
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       },
       {
-        "title": "Modernización del malecón de Guaymas avanza al 35 por ciento",
-        "summary": "Gobernador Durazo invierte 17.5 millones de pesos para fortalecer turismo en puerto.",
+        "title": "PIB de México crece y mejora perspectivas para Sonora",
+        "summary": "Crecimiento económico nacional del 2.1% abre expectativas positivas para el estado.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/avances-remodelacion-del-malecon-de-guaymas/261585",
-        "_added_at": "2026-08-01T11:48:33.296909-07:00"
-      },
-      {
-        "title": "UGRS solicita reapertura de estación cuarentenaria en Nogales",
-        "summary": "Ganaderos piden reactivar instalaciones sanitarias para agilizar proceso de exportación.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/piden-reapertura-de-estacion-cuarentenaria-en-nogales/261594",
-        "_added_at": "2026-08-01T11:48:33.296909-07:00"
-      },
-      {
-        "title": "Malecón de Guaymas avanza 35% en rehabilitación",
-        "summary": "Inversión de 17.5 millones de pesos impulsa obras de modernización en puerto guaymense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/07/31/avanza-rehabilitacion-del-malecon-de-guaymas-en-35-con-inversion-de-17-5-millones-de-pesos-durazo/",
-        "_added_at": "2026-08-01T05:48:54.255391-07:00"
-      },
-      {
-        "title": "Sonora exportará 120 mil cabezas de ganado",
-        "summary": "Reapertura de frontera permite a ganaderos sonorenses reanudar envíos internacionales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/ganaderos-de-sonora-alistan-envio-de-120-mil-cabezas-de-ganado/261563",
-        "_added_at": "2026-08-01T03:24:42.671440-07:00"
-      },
-      {
-        "title": "Ganaderos sonorenses recuperarán 40% de ingresos tras reapertura",
-        "summary": "Sector pecuario proyecta recuperación parcial de ganancias tras autorización de actividades.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/ganaderos-de-sonora-recuperaran-hasta-40-de-sus-ingresos/261563",
-        "_added_at": "2026-08-01T00:57:39.371047-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/pib-de-mexico-crece-21-y-mejora-expectativas-para-sonora/261613",
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       }
     ],
     "sociedad": [
       {
         "title": "CEA restablece capacidad del Acueducto Independencia",
-        "summary": "Avanza normalización de suministro de agua en Hermosillo tras reparación de infraestructura.",
+        "summary": "Avanza normalización del servicio de agua en sur de Hermosillo tras fallas recientes.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/02/restablece-cea-capacidad-de-conduccion-del-acueducto-independencia-avanza-normalizacion-del-servicio-en-hermosillo/",
-        "_added_at": "2026-08-01T22:45:09.261613-07:00"
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       },
       {
-        "title": "Clínica Móvil de Hermosillo supera 45 mil atenciones",
-        "summary": "Servicio móvil de salud amplía acceso médico para población vulnerable durante año.",
+        "title": "Clínica Móvil supera 45 mil atenciones en Hermosillo",
+        "summary": "Servicio de salud remueve barreras de acceso con atenciones masivas en la capital.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/01/hermosillo-rompe-barreras-de-acceso-a-la-salud-clinica-movil-supera-las-45-mil-atenciones-en-un-ano/",
-        "_added_at": "2026-08-01T22:45:09.261613-07:00"
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       },
       {
-        "title": "Turbiedad del agua en El Molinito afecta Hermosillo",
-        "summary": "Lodo y sedimentos en presa comprometen suministro de agua potable a la capital.",
+        "title": "Fanbase de BTS organiza colecta de útiles escolares",
+        "summary": "Grupo de fans en Sonora recolecta materiales educativos para niños sin recursos.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/agua-de-hermosillo-implementa-medidas-ante-arrastre-de-lodo-y-sedimentos-en-la-presa-el-molinito-que-se-recomienda-a-los-ciudadanos/",
-        "_added_at": "2026-08-01T18:24:27.351476-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/fanbase-de-bts-en-sonora-organiza-colecta-de-utiles-escolares-para-ninos-de-escasos-recursos/",
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       },
       {
-        "title": "Rosa Tapia logra oro y bronce en Santo Domingo",
-        "summary": "Atleta hermosillense gana medalla de oro por equipos y bronce individual en triatlón.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/deporte/2026/08/01/rosa-maria-tapia-gana-dos-medallas-en-santo-domingo-2026-la-hermosillense-conquista-oro-por-equipos-y-bronce-individual-en-triatlon/",
-        "_added_at": "2026-08-01T18:24:27.351476-07:00"
-      },
-      {
-        "title": "Sonora intensifica combate a la rickettsia protegiendo perros",
-        "summary": "Más de 3 mil caninos reciben protección para reducir riesgo de contagios en población.",
+        "title": "Tormentas fuertes pronosticadas para Hermosillo",
+        "summary": "Autoridades advierten lluvias, actividad eléctrica y vientos durante noche en Sonora.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/sonora-intensifica-combate-a-la-rickettsia-mas-de-3-mil-perros-protegidos-para-reducir-el-riesgo-de-contagios/",
-        "_added_at": "2026-08-01T18:24:27.351476-07:00"
-      },
-      {
-        "title": "Socavón expone drenaje antiguo en Hermosillo",
-        "summary": "Socavón en colonia Quintero Arce reveló tubería de drenaje de más de 50 años de antigüedad.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/socavon-en-el-quintero-arce-revela-antigua-tuberia-de-drenaje-de-hace-mas-de-50-anos-cuando-el-poniente-de-hermosillo-era-monte/",
-        "_added_at": "2026-08-01T14:41:52.171300-07:00"
-      },
-      {
-        "title": "IMCA ofrece talleres gratuitos para niños en agosto",
-        "summary": "Instituto Municipal de Cultura Artística abre talleres gratuitos de lectura para menores durante vacaciones escolares.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/vacaciones-en-hermosillo-imca-ofrece-talleres-gratuitos-de-lectura-para-ninos-durante-agosto/",
-        "_added_at": "2026-08-01T14:41:52.171300-07:00"
-      },
-      {
-        "title": "Comunidad indígena crea gallinero para niños",
-        "summary": "Comunidad Comcáac establece gallinero comunitario para proporcionar huevos orgánicos a menores indígenas de Sonora.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/comunidad-comcaac-crea-gallinero-comunitario-para-llevar-huevos-organicos-a-ninos-indigenas-de-sonora/",
-        "_added_at": "2026-08-01T14:41:52.171300-07:00"
-      },
-      {
-        "title": "Colapso de drenaje genera socavón en colonia Sahuaro",
-        "summary": "Falla en infraestructura causa fuga de aguas negras; reparación tardará 60 días.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/colapso-de-drenaje-en-la-colonia-sahuaro-deja-socavon-y-fuga-de-aguas-negras-reparacion-tardara-60-dias/",
-        "_added_at": "2026-08-01T11:48:33.296909-07:00"
-      },
-      {
-        "title": "Falla en Acueducto Independencia afecta agua sur hermosillense",
-        "summary": "Lluvias provocan desperfecto que interrumpe suministro en zona sur de la capital.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/lluvias-provocan-falla-en-acueducto-independencia-y-afectan-suministro-de-agua-al-sur-de-hermosillo/",
-        "_added_at": "2026-08-01T11:48:33.296909-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/01/tormentas-avanzan-hacia-hermosillo-pronostican-lluvias-fuertes-actividad-electrica-y-vientos-durante-la-noche-en-sonora/",
+        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-01T22:45:09.261613-07:00"
+  "last_updated": "2026-08-02T00:59:16.638969-07:00"
 }
