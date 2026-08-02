@@ -1,8 +1,29 @@
 {
   "date": "2026-08-02",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Líderes criminales capturados en Sonora",
+        "summary": "Dictan prisión preventiva a presunto jefe del CJNG vinculado al caso Manzo en la entidad.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/02/dictan-prision-preventiva-a-el-r1-presunto-lider-criminal-vinculado-al-cjng-senalado-por-el-caso-carlos-manzo/",
+        "_added_at": "2026-08-02T14:42:33.369237-07:00"
+      },
+      {
+        "title": "Balacera en campo deportivo de Nogales",
+        "summary": "Tiroteo interrumpe partido de softbol; no se reportan heridos en la zona.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/balacera-interrumpe-juego-en-campo-deportivo-de-nogales/261660",
+        "_added_at": "2026-08-02T14:42:33.369237-07:00"
+      },
+      {
+        "title": "Intoxicación química en Santa Ana",
+        "summary": "Sustancia desconocida causa intoxicación; bomberos de Nogales atienden emergencia.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/02/barril-con-sustancia-desconocida-fue-perforado-e-intoxica-a-personas-en-santa-ana-bomberos-de-nogales-acude-a-atender-la-emergencia/",
+        "_added_at": "2026-08-02T14:42:33.369237-07:00"
+      },
       {
         "title": "Disparos causan pánico en campo de béisbol de Nogales",
         "summary": "Incidentes de violencia alteran actividades deportivas en Nogales, generando preocupación entre la población local.",
@@ -51,23 +72,16 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/ahogamientos-en-guaymas-bomberos-emiten-medidas-preventivas/261617",
         "_added_at": "2026-08-02T00:59:16.638969-07:00"
-      },
-      {
-        "title": "Comerciante muere aplastado por pacas en Navojoa",
-        "summary": "Hombre pierde la vida tras caerle mercancía encima en establecimiento comercial.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/muere-comerciante-aplastado-por-pacas-de-ropa-en-navojoa/261621",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
-      },
-      {
-        "title": "Rayo causa incendio en Country Club San Carlos",
-        "summary": "Tormenta eléctrica provoca fuego en palmeras sin dejar personas lesionadas reportadas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/rayo-provoca-incendio-en-cinco-palmeras-en-san-carlos/261633",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Morena se deslinda de hermano del 'R1'",
+        "summary": "Partido expulsó a Roldán Álvarez en 2025; niega nexos con crimen organizado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/01/morena-se-deslinda-de-roldan-alvarez-hermano-del-r1-afirma-lo-expulso-del-partido-desde-2025/",
+        "_added_at": "2026-08-02T14:42:33.369237-07:00"
+      },
       {
         "title": "Gobierno impulsa techos solares para familias vulnerables",
         "summary": "Sheinbaum y Durazo promueven instalación de paneles solares que reducen recibos hasta 89% en Sonora.",
@@ -150,6 +164,20 @@
     ],
     "sociedad": [
       {
+        "title": "Colonias sin agua en Hermosillo por falla de acueducto",
+        "summary": "Baja presión afecta múltiples colonias tras problemas en acueducto Independencia.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/02/estas-son-las-colonias-afectadas-por-baja-presion-de-agua-en-hermosillo-tras-falla-en-el-acueducto-independencia/",
+        "_added_at": "2026-08-02T14:42:33.369237-07:00"
+      },
+      {
+        "title": "Megasocavón paraliza calle en Hermosillo",
+        "summary": "Rehabilitación de vía durará hasta 70 días por daño en infraestructura del Sahuaro.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/02/durara-hasta-70-dias-rehabilitacion-de-calle-por-megasocavon-en-hermosillo-aguah/",
+        "_added_at": "2026-08-02T14:42:33.369237-07:00"
+      },
+      {
         "title": "Vientos dañan bombeo de agua en Hermosillo",
         "summary": "Afectaciones al servicio de agua en sectores Centro y Sur de Hermosillo por daños en equipos de bombeo.",
         "source": "El Imparcial",
@@ -204,22 +232,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/deporte/2026/08/01/rosa-maria-tapia-gana-dos-medallas-en-santo-domingo-2026-la-hermosillense-conquista-oro-por-equipos-y-bronce-individual-en-triatlon/",
         "_added_at": "2026-08-02T03:23:01.943847-07:00"
-      },
-      {
-        "title": "CEA restablece capacidad del Acueducto Independencia",
-        "summary": "Avanza normalización del servicio de agua en sur de Hermosillo tras fallas recientes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/02/restablece-cea-capacidad-de-conduccion-del-acueducto-independencia-avanza-normalizacion-del-servicio-en-hermosillo/",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
-      },
-      {
-        "title": "Clínica Móvil supera 45 mil atenciones en Hermosillo",
-        "summary": "Servicio de salud remueve barreras de acceso con atenciones masivas en la capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/hermosillo-rompe-barreras-de-acceso-a-la-salud-clinica-movil-supera-las-45-mil-atenciones-en-un-ano/",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-02T11:49:18.855502-07:00"
+  "last_updated": "2026-08-02T14:42:33.369237-07:00"
 }
