@@ -1,8 +1,22 @@
 {
   "date": "2026-08-02",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Derrame químico de Ferromex hospitalizó a hombre en Naco",
+        "summary": "Accidente de tren causó derrame químico; un trabajador permanece hospitalizado en IMSS Nogales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/confirman-hombre-hospitalizado-tras-descarrilamiento-en-naco/261641",
+        "_added_at": "2026-08-02T18:24:27.007417-07:00"
+      },
+      {
+        "title": "Golpean y roban a adulto mayor en casino de Guaymas",
+        "summary": "Hombre vinculado a proceso por asalto y agresión a anciano en baños de establecimiento.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/vinculan-a-proceso-a-hombre-que-golpeo-y-robo-a-un-adulto-mayor-en-el-bano-de-un-casino-en-guaymas/",
+        "_added_at": "2026-08-02T18:24:27.007417-07:00"
+      },
       {
         "title": "Líderes criminales capturados en Sonora",
         "summary": "Dictan prisión preventiva a presunto jefe del CJNG vinculado al caso Manzo en la entidad.",
@@ -58,23 +72,23 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/hombre-cayo-en-socavon-de-la-colonia-el-sahuaro-sus-gritos-alertaron-a-los-cuerpos-de-emergencia/",
         "_added_at": "2026-08-02T03:23:01.943847-07:00"
-      },
-      {
-        "title": "Accidente fatal en ruta Caborca-Puerto Peñasco",
-        "summary": "Choque deja un muerto y un herido trasladado a hospital en Caborca para atención especializada.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/identifican-victima-de-choque-en-tramo-caborca-puerto-penasco/261632",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
-      },
-      {
-        "title": "Cinco ahogamientos registrados en Guaymas",
-        "summary": "Autoridades reportan múltiples ahogamientos en playas y albercas de Guaymas durante temporada.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/ahogamientos-en-guaymas-bomberos-emiten-medidas-preventivas/261617",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Gobierno entrega 109 mil uniformes escolares gratuitos",
+        "summary": "Gobierno de Sonora inicia distribución de uniformes escolares en Hermosillo para estudiantes.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/02/gobierno-de-sonora-inicia-entrega-de-mas-de-109-mil-uniformes-escolares-gratuitos-en-hermosillo/",
+        "_added_at": "2026-08-02T18:24:27.007417-07:00"
+      },
+      {
+        "title": "Promueven techos solares para familias vulnerables",
+        "summary": "Iniciativa conjunta de Sheinbaum y gobernador Durazo para instalar paneles solares en viviendas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/02/promueven-sheinbaum-y-gobernador-durazo-techos-solares-para-familias-vulnerables/",
+        "_added_at": "2026-08-02T18:24:27.007417-07:00"
+      },
       {
         "title": "Morena se deslinda de hermano del 'R1'",
         "summary": "Partido expulsó a Roldán Álvarez en 2025; niega nexos con crimen organizado.",
@@ -120,6 +134,13 @@
     ],
     "economia": [
       {
+        "title": "CFE suspenderá luz en 4 municipios sonorenses",
+        "summary": "Empresa eléctrica realizará trabajos de mejora con cortes de servicio programados en municipios.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/cfe-suspendera-servicio-electrico-en-4-municipios-de-sonora-este-martes-por-trabajos-de-mejora/",
+        "_added_at": "2026-08-02T18:24:27.007417-07:00"
+      },
+      {
         "title": "70% de pasajeros paga en efectivo en transporte urbano",
         "summary": "Mayoría de usuarios del transporte público en Hermosillo sigue utilizando dinero físico.",
         "source": "El Imparcial",
@@ -163,6 +184,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Autoridades activan operativo de emergencia en Hermosillo",
+        "summary": "Gobierno municipal atiende más de 11 reportes por árboles caídos y daños tras lluvias.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/02/gobierno-de-hermosillo-mantiene-activo-operativo-de-emergencia-para-atender-mas-de-11-reportes-por-arboles-caidos-y-danos-estructurales-tras-las-lluvias/",
+        "_added_at": "2026-08-02T18:24:27.007417-07:00"
+      },
+      {
+        "title": "Alerta por deshidratación en adultos mayores",
+        "summary": "Autoridades sanitarias advierten sobre riesgo de deshidratación en población vulnerable.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/adultos-mayores-mas-vulnerables-a-la-deshidratacion-claves-para-prevenir-riesgos/",
+        "_added_at": "2026-08-02T18:24:27.007417-07:00"
+      },
       {
         "title": "Colonias sin agua en Hermosillo por falla de acueducto",
         "summary": "Baja presión afecta múltiples colonias tras problemas en acueducto Independencia.",
@@ -218,22 +253,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/estado-refuerza-atencion-directa-a-familias-paulina-ocana/261620",
         "_added_at": "2026-08-02T08:50:25.850346-07:00"
-      },
-      {
-        "title": "Turbiedad del agua afecta suministro en Hermosillo",
-        "summary": "Presa El Molinito presenta arrastre de lodo limitando distribución potable.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/agua-de-hermosillo-implementa-medidas-ante-arrastre-de-lodo-y-sedimentos-en-la-presa-el-molinito-que-se-recomienda-a-los-ciudadanos/",
-        "_added_at": "2026-08-02T03:23:01.943847-07:00"
-      },
-      {
-        "title": "Rosa Tapia gana medallas en Juegos Centroamericanos",
-        "summary": "Hermosillense conquista oro por equipos y bronce individual en triatlón.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/deporte/2026/08/01/rosa-maria-tapia-gana-dos-medallas-en-santo-domingo-2026-la-hermosillense-conquista-oro-por-equipos-y-bronce-individual-en-triatlon/",
-        "_added_at": "2026-08-02T03:23:01.943847-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-02T14:42:33.369237-07:00"
+  "last_updated": "2026-08-02T18:24:27.007417-07:00"
 }
