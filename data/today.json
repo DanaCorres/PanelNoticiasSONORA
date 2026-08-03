@@ -1,274 +1,92 @@
 {
-  "date": "2026-08-02",
-  "run_count": 8,
+  "date": "2026-08-03",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Cinco lesionados en choque Hermosillo-Guaymas",
-        "summary": "Accidente vial en Los Arrieros deja cinco heridos, dos vehículos con pérdidas totales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/choque-en-carretera-hermosillo-guaymas-deja-cinco-lesionados/261674",
-        "_added_at": "2026-08-02T23:01:38.177354-07:00"
-      },
-      {
-        "title": "Mecánico muere aplastado por camión en Nogales",
-        "summary": "Trabajador falleció atrapado bajo vehículo urbano durante reparación en Las Haciendas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/camion-cae-encima-de-mecanico-mientras-lo-reparaba-en-nogales/261662",
-        "_added_at": "2026-08-02T23:01:38.177354-07:00"
-      },
-      {
-        "title": "Derrame químico de Ferromex hospitalizó a hombre en Naco",
-        "summary": "Accidente de tren causó derrame químico; un trabajador permanece hospitalizado en IMSS Nogales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/confirman-hombre-hospitalizado-tras-descarrilamiento-en-naco/261641",
-        "_added_at": "2026-08-02T18:24:27.007417-07:00"
-      },
-      {
-        "title": "Golpean y roban a adulto mayor en casino de Guaymas",
-        "summary": "Hombre vinculado a proceso por asalto y agresión a anciano en baños de establecimiento.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/vinculan-a-proceso-a-hombre-que-golpeo-y-robo-a-un-adulto-mayor-en-el-bano-de-un-casino-en-guaymas/",
-        "_added_at": "2026-08-02T18:24:27.007417-07:00"
-      },
-      {
-        "title": "Líderes criminales capturados en Sonora",
-        "summary": "Dictan prisión preventiva a presunto jefe del CJNG vinculado al caso Manzo en la entidad.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/02/dictan-prision-preventiva-a-el-r1-presunto-lider-criminal-vinculado-al-cjng-senalado-por-el-caso-carlos-manzo/",
-        "_added_at": "2026-08-02T14:42:33.369237-07:00"
-      },
-      {
-        "title": "Balacera en campo deportivo de Nogales",
-        "summary": "Tiroteo interrumpe partido de softbol; no se reportan heridos en la zona.",
+        "title": "Balacera interrumpe evento deportivo en Nogales",
+        "summary": "Disparos detuvieron juego de softbol en campo deportivo de Nogales sin reportar lesionados.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/balacera-interrumpe-juego-en-campo-deportivo-de-nogales/261660",
-        "_added_at": "2026-08-02T14:42:33.369237-07:00"
+        "_added_at": "2026-08-03T05:09:48.923162-07:00"
       },
       {
-        "title": "Intoxicación química en Santa Ana",
-        "summary": "Sustancia desconocida causa intoxicación; bomberos de Nogales atienden emergencia.",
+        "title": "Robo y agresión a adulto mayor en Guaymas",
+        "summary": "Hombre vinculado a proceso por golpear y robar a anciano en baño de casino en Guaymas.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/02/barril-con-sustancia-desconocida-fue-perforado-e-intoxica-a-personas-en-santa-ana-bomberos-de-nogales-acude-a-atender-la-emergencia/",
-        "_added_at": "2026-08-02T14:42:33.369237-07:00"
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/vinculan-a-proceso-a-hombre-que-golpeo-y-robo-a-un-adulto-mayor-en-el-bano-de-un-casino-en-guaymas/",
+        "_added_at": "2026-08-03T05:09:48.923162-07:00"
       },
       {
-        "title": "Disparos causan pánico en campo de béisbol de Nogales",
-        "summary": "Incidentes de violencia alteran actividades deportivas en Nogales, generando preocupación entre la población local.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/02/disparos-provocan-panico-en-campo-de-beisbol-de-nogales/",
-        "_added_at": "2026-08-02T11:49:18.855502-07:00"
+        "title": "Cinco lesionados en choque cerca de Guaymas",
+        "summary": "Colisión en carretera Hermosillo-Guaymas deja dos vehículos con pérdidas totales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/choque-en-carretera-hermosillo-guaymas-deja-cinco-lesionados/261674",
+        "_added_at": "2026-08-03T05:09:48.923162-07:00"
       },
       {
-        "title": "Capturan a presunto narcomenudista \"El Nani\" en Hermosillo",
-        "summary": "Autoridades detienen a individuo vinculado al tráfico de drogas en la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/02/cae-el-nani-en-hermosillo-presunto-narcomenudista/",
-        "_added_at": "2026-08-02T11:49:18.855502-07:00"
-      },
-      {
-        "title": "Rickettsia causa 600% más muertes en Ciudad Obregón",
-        "summary": "Aumento dramático de fallecimientos por enfermedad transmitida por garrapatas en la región del valle del Yaqui.",
+        "title": "Ciclista muere atropellado en Hermosillo",
+        "summary": "Colisión con automóvil en carretera Hermosillo-Moctezuma ocasiona muerte de ciclista.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/aumentan-un-600-muertes-por-rickettsia-en-ciudad-obregon/",
-        "_added_at": "2026-08-02T08:50:25.850346-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/ciclista-pierde-la-vida-en-colision-con-auto-en-la-carretera-hermosillo-moctezuma/",
+        "_added_at": "2026-08-03T05:09:48.923162-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Maestras cuestionan liderazgo de Lizeth Villalobos en Covafam",
-        "summary": "Docentes acusan intereses políticos y demandan destitución de presidenta de organización.",
+        "title": "Sheinbaum responde a Trump sobre soberanía",
+        "summary": "Presidenta defiende independencia mexicana frente a cuestionamientos sobre estrategia de seguridad.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/03/claudia-sheinbaum-respondio-a-donald-trump-tras-difundir-una-columna-que-cuestiona-la-estrategia-mexicana-de-seguridad-pero-dejo-claro-que-la-cooperacion-con-eeuu-seguira-sin-permitir-injerencias-y-con-la-soberania-como-limite-central/",
+        "_added_at": "2026-08-03T05:09:48.923162-07:00"
+      },
+      {
+        "title": "Maestras piden destitución de lideresa de Covafam",
+        "summary": "Grupo se deslinda de Lizeth Villalobos acusando intereses políticos en su gestión.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/02/maestras-de-covafam-se-deslindan-de-lider-lizeth-villalobos-acusan-intereses-politicos-y-exigen-su-destitucion-como-presidenta/",
-        "_added_at": "2026-08-02T23:01:38.177354-07:00"
-      },
-      {
-        "title": "Gobierno entrega 109 mil uniformes escolares gratuitos",
-        "summary": "Gobierno de Sonora inicia distribución de uniformes escolares en Hermosillo para estudiantes.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/02/gobierno-de-sonora-inicia-entrega-de-mas-de-109-mil-uniformes-escolares-gratuitos-en-hermosillo/",
-        "_added_at": "2026-08-02T18:24:27.007417-07:00"
-      },
-      {
-        "title": "Promueven techos solares para familias vulnerables",
-        "summary": "Iniciativa conjunta de Sheinbaum y gobernador Durazo para instalar paneles solares en viviendas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/02/promueven-sheinbaum-y-gobernador-durazo-techos-solares-para-familias-vulnerables/",
-        "_added_at": "2026-08-02T18:24:27.007417-07:00"
-      },
-      {
-        "title": "Morena se deslinda de hermano del 'R1'",
-        "summary": "Partido expulsó a Roldán Álvarez en 2025; niega nexos con crimen organizado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/morena-se-deslinda-de-roldan-alvarez-hermano-del-r1-afirma-lo-expulso-del-partido-desde-2025/",
-        "_added_at": "2026-08-02T14:42:33.369237-07:00"
-      },
-      {
-        "title": "Gobierno impulsa techos solares para familias vulnerables",
-        "summary": "Sheinbaum y Durazo promueven instalación de paneles solares que reducen recibos hasta 89% en Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/alfonso-durazo-impulsa-techos-solares/261637",
-        "_added_at": "2026-08-02T11:49:18.855502-07:00"
-      },
-      {
-        "title": "Grecia Quiroz cuestiona investigación de caso Manzo",
-        "summary": "Exige aclarar inconsistencias en pesquisa del asesinato de Carlos Manzo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/cuestiona-grecia-quiroz-la-investigacion-del-asesinato-de-carlos-manzo-exige-aclarar-posibles-inconsistencias-en-el-caso/",
-        "_added_at": "2026-08-02T03:23:01.943847-07:00"
-      },
-      {
-        "title": "Líder de Cartel Los Reyes capturado en Michoacán",
-        "summary": "Detención de criminal buscado por Estados Unidos que ofrecía recompensa de cinco millones.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/capturan-a-lider-de-cartel-de-los-reyes-en-michoacan-eeuu-ofrecia-5-mdd-por-su-detencion/",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
-      },
-      {
-        "title": "Gobierno de Sonora refuerza programas de atención familiar",
-        "summary": "Secretaria Paulina Ocaña anuncia intensificación de Sonora Atiende durante agosto.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/estado-refuerza-atencion-directa-a-familias-paulina-ocana/261620",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
-      },
-      {
-        "title": "Célida López convoca a unidad de mujeres en Sonora",
-        "summary": "Llamado a fortalecer participación femenina en transformación del estado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/01/celida-lopez-llama-a-la-unidad-de-las-mujeres-para-fortalecer-la-transformacion-en-sonora/",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
+        "_added_at": "2026-08-03T05:09:48.923162-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Vecinos bloquean Bulevar Solidaridad por agua y luz",
-        "summary": "Hermosillo: protestantes cierran vía demandando respuesta inmediata a falta de servicios.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/02/vecinos-bloquean-bulevar-solidaridad-en-hermosillo-por-falta-de-luz-y-agua-exigen-respuesta-inmediata-de-autoridades/",
-        "_added_at": "2026-08-02T23:01:38.177354-07:00"
-      },
-      {
-        "title": "CFE suspenderá luz en 4 municipios sonorenses",
-        "summary": "Empresa eléctrica realizará trabajos de mejora con cortes de servicio programados en municipios.",
+        "title": "CFE suspenderá servicio en cuatro municipios",
+        "summary": "Cortes de electricidad programados en Sonora para labores de mejora de infraestructura.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/02/cfe-suspendera-servicio-electrico-en-4-municipios-de-sonora-este-martes-por-trabajos-de-mejora/",
-        "_added_at": "2026-08-02T18:24:27.007417-07:00"
-      },
-      {
-        "title": "70% de pasajeros paga en efectivo en transporte urbano",
-        "summary": "Mayoría de usuarios del transporte público en Hermosillo sigue utilizando dinero físico.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/02/paga-en-efectivo-el-70-de-pasajeros-del-transporte-urbano/",
-        "_added_at": "2026-08-02T11:49:18.855502-07:00"
-      },
-      {
-        "title": "Ciudad Obregón registra alto consumo de agua per cápita",
-        "summary": "IMCO reporta consumo de 223 metros cúbicos por habitante anual, superior a media nacional.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/02/registra-ciudad-obregon-consumo-de-223-metros-cubicos-de-agua-por-habitante-al-ano-imco/",
-        "_added_at": "2026-08-02T08:50:25.850346-07:00"
-      },
-      {
-        "title": "Paneles solares reducen hasta 89% en recibos eléctricos",
-        "summary": "Gobierno estatal promueve techos solares para familias vulnerables con apoyo federal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/alfonso-durazo-impulsa-techos-solares/261637",
-        "_added_at": "2026-08-02T08:50:25.850346-07:00"
-      },
-      {
-        "title": "Suspenderán servicio eléctrico en ocho municipios",
-        "summary": "Corte de luz programado para el 3 de agosto en municipios de Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/corte-de-luz-en-8-municipios-de-sonora-el-3-de-agosto/261610",
-        "_added_at": "2026-08-02T08:50:25.850346-07:00"
-      },
-      {
-        "title": "Frontera ganadera reabre pero con exportaciones reducidas",
-        "summary": "Reapertura en Agua Prieta-Douglas será gradual; volumen inicial inferior a niveles previos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/01/reapertura-de-frontera-al-ganado-mexicano-no-sera-como-antes-sonora-exportara-menos-reses-tras-cierre-por-gusano-barrenador-y-nuevos-controles-sanitarios/",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
-      },
-      {
-        "title": "PIB de México crece y mejora perspectivas para Sonora",
-        "summary": "Crecimiento económico nacional del 2.1% abre expectativas positivas para el estado.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/pib-de-mexico-crece-21-y-mejora-expectativas-para-sonora/261613",
-        "_added_at": "2026-08-02T00:59:16.638969-07:00"
+        "_added_at": "2026-08-03T05:09:48.923162-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Sonora lidera casos por afectaciones de calor",
-        "summary": "Entidad reporta 254 casos y 10 muertes relacionadas al calor en lo que va del año.",
+        "title": "Sonora lidera afectaciones por calor extremo",
+        "summary": "254 reportes y 10 defunciones por golpe de calor en el estado durante el año.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/03/sonora-lidera-en-casos-de-afectaciones-por-calor-254-reportes-y-10-defunciones-en-el-ano/",
-        "_added_at": "2026-08-02T23:01:38.177354-07:00"
+        "_added_at": "2026-08-03T05:09:48.923162-07:00"
       },
       {
-        "title": "Acueducto Independencia restablece servicio a Hermosillo",
-        "summary": "Bombeos reanudan operaciones restaurando agua al sur de capital tras falla momentánea.",
+        "title": "Agua gradualmente restaurada al sur de Hermosillo",
+        "summary": "Acueducto Independencia reanuda operaciones tras falla momentánea en servicio.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/se-recupera-gradualmente-el-servicio-de-agua-al-sur-de-hermosillo-al-reanudar-operacion-el-acueducto-independencia/",
-        "_added_at": "2026-08-02T23:01:38.177354-07:00"
+        "_added_at": "2026-08-03T05:09:48.923162-07:00"
+      },
+      {
+        "title": "Vecinos bloquean vía por falta de servicios",
+        "summary": "Protesta en bulevar Solidaridad de Hermosillo exige respuesta inmediata en luz y agua.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/02/vecinos-bloquean-bulevar-solidaridad-en-hermosillo-por-falta-de-luz-y-agua-exigen-respuesta-inmediata-de-autoridades/",
+        "_added_at": "2026-08-03T05:09:48.923162-07:00"
       },
       {
         "title": "Menor fallece ahogado en alberca de Bahía Kino",
-        "summary": "Niño de tres años pierde la vida tras caer en piscina en localidad costera.",
+        "summary": "Niño de tres años pierde la vida tras caer a piscina en localidad costera.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/02/menor-de-3-anos-cae-en-alberca-y-pierde-la-vida-en-bahia-kino/",
-        "_added_at": "2026-08-02T23:01:38.177354-07:00"
-      },
-      {
-        "title": "Autoridades activan operativo de emergencia en Hermosillo",
-        "summary": "Gobierno municipal atiende más de 11 reportes por árboles caídos y daños tras lluvias.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/02/gobierno-de-hermosillo-mantiene-activo-operativo-de-emergencia-para-atender-mas-de-11-reportes-por-arboles-caidos-y-danos-estructurales-tras-las-lluvias/",
-        "_added_at": "2026-08-02T18:24:27.007417-07:00"
-      },
-      {
-        "title": "Alerta por deshidratación en adultos mayores",
-        "summary": "Autoridades sanitarias advierten sobre riesgo de deshidratación en población vulnerable.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/adultos-mayores-mas-vulnerables-a-la-deshidratacion-claves-para-prevenir-riesgos/",
-        "_added_at": "2026-08-02T18:24:27.007417-07:00"
-      },
-      {
-        "title": "Colonias sin agua en Hermosillo por falla de acueducto",
-        "summary": "Baja presión afecta múltiples colonias tras problemas en acueducto Independencia.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/02/estas-son-las-colonias-afectadas-por-baja-presion-de-agua-en-hermosillo-tras-falla-en-el-acueducto-independencia/",
-        "_added_at": "2026-08-02T14:42:33.369237-07:00"
-      },
-      {
-        "title": "Megasocavón paraliza calle en Hermosillo",
-        "summary": "Rehabilitación de vía durará hasta 70 días por daño en infraestructura del Sahuaro.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/02/durara-hasta-70-dias-rehabilitacion-de-calle-por-megasocavon-en-hermosillo-aguah/",
-        "_added_at": "2026-08-02T14:42:33.369237-07:00"
-      },
-      {
-        "title": "Vientos dañan bombeo de agua en Hermosillo",
-        "summary": "Afectaciones al servicio de agua en sectores Centro y Sur de Hermosillo por daños en equipos de bombeo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/fuertes-vientos-dejan-sin-operacion-equipos-de-bombeo-en-el-novillo-y-afectan-el-servicio-de-agua-en-el-centro-y-sur-de-hermosillo/",
-        "_added_at": "2026-08-02T11:49:18.855502-07:00"
-      },
-      {
-        "title": "Socavón se abre en colonia Sahuaro de Hermosillo",
-        "summary": "Hundimiento del terreno causa preocupación entre residentes de zona habitacional.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/02/surge-socavon-en-el-sahuaro/",
-        "_added_at": "2026-08-02T11:49:18.855502-07:00"
-      },
-      {
-        "title": "Buscan a hombre desaparecido en accidente acuático San Carlos",
-        "summary": "Labores de búsqueda suspendidas temporalmente por falta de visibilidad en puerto sonorense.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/buscan-a-hombre-desaparecido-tras-accidente-en-san-carlos/261640",
-        "_added_at": "2026-08-02T11:49:18.855502-07:00"
+        "_added_at": "2026-08-03T05:09:48.923162-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-02T23:01:38.177354-07:00"
+  "last_updated": "2026-08-03T05:09:48.923162-07:00"
 }
