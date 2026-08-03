@@ -1,8 +1,29 @@
 {
   "date": "2026-08-03",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Balacera interrumpe evento deportivo en Nogales",
+        "summary": "Tiroteo se registró durante transmisión en vivo de partido de softbol en la ciudad fronteriza.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/03/captan-balacera-durante-transmision-de-partido-de-softbol-en-nogales/",
+        "_added_at": "2026-08-03T10:03:33.809053-07:00"
+      },
+      {
+        "title": "CBP decomisa millón de pastillas de fentanilo en Nogales",
+        "summary": "Autoridades estadounidenses confiscaron droga y detuvieron a 43 personas por tráfico en garitas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/03/detienen-a-43-personas-por-trafico-de-narcoticos-en-garitas-de-nogales-durante-julio/",
+        "_added_at": "2026-08-03T10:03:33.809053-07:00"
+      },
+      {
+        "title": "Mecánico muere aplastado por camión en Nogales",
+        "summary": "Trabajador quedó atrapado bajo vehículo urbano mientras realizaba reparaciones en colonia Las Haciendas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/camion-cae-encima-de-mecanico-mientras-lo-reparaba-en-nogales/261662",
+        "_added_at": "2026-08-03T10:03:33.809053-07:00"
+      },
       {
         "title": "Balacera interrumpe evento deportivo en Nogales",
         "summary": "Disparos detuvieron juego de softbol en campo deportivo de Nogales sin reportar lesionados.",
@@ -34,6 +55,20 @@
     ],
     "politica": [
       {
+        "title": "Fallece director del IMPLAN de Hermosillo",
+        "summary": "José Carrillo Atondo, funcionario municipal, perdió la vida recientemente.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/fallece-jose-carrillo-atondo-director-del-implan-de-hermosillo/",
+        "_added_at": "2026-08-03T10:03:33.809053-07:00"
+      },
+      {
+        "title": "René García reitera aspiraciones para dirigir Hermosillo",
+        "summary": "Político celebró cumpleaños con vecinos y reafirmó intenciones de candidatura municipal.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/03/reitera-rene-garcia-sus-aspiraciones-para-dirigir-el-municipio-de-hermosillo-festeja-cumpleanos-con-vecinos-de-pueblitos/",
+        "_added_at": "2026-08-03T10:03:33.809053-07:00"
+      },
+      {
         "title": "Sheinbaum responde a Trump sobre soberanía",
         "summary": "Presidenta defiende independencia mexicana frente a cuestionamientos sobre estrategia de seguridad.",
         "source": "El Imparcial",
@@ -50,6 +85,27 @@
     ],
     "economia": [
       {
+        "title": "Lluvias benefician sector ganadero de Sonora",
+        "summary": "Precipitaciones cubren 90% del estado, mejorando agostaderos y actividad ganadera regional.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/favorecen-las-lluvias-al-sector-ganadero-ugrs/261688",
+        "_added_at": "2026-08-03T10:03:33.809053-07:00"
+      },
+      {
+        "title": "Gobernador Durazo entrega uniformes gratuitos a estudiantes",
+        "summary": "Programa beneficia a más de 109 mil alumnos de educación básica en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/gobernador-durazo-respalda-economia-familiar-con-uniformes-gratuitos-para-mas-de-109-mil-estudiantes-de-educacion-basica-en-hermosillo/",
+        "_added_at": "2026-08-03T10:03:33.809053-07:00"
+      },
+      {
+        "title": "Plaza Satélite de Hermosillo enfrenta declive comercial",
+        "summary": "Centro comercial con 30 años de historia lucha por mantener operaciones y comerciantes.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/03/de-la-gloria-al-olvido-plaza-satelite-de-hermosillo-un-lugar-con-mas-de-30-anos-de-recuerdos-y-donde-comerciantes-luchan-por-seguir-adelante/",
+        "_added_at": "2026-08-03T10:03:33.809053-07:00"
+      },
+      {
         "title": "CFE suspenderá servicio en cuatro municipios",
         "summary": "Cortes de electricidad programados en Sonora para labores de mejora de infraestructura.",
         "source": "El Imparcial",
@@ -58,6 +114,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Cinco municipios de Sonora en riesgo de inundación",
+        "summary": "CNPC y Conagua identifican 19 sitios vulnerables donde viven casi 474 mil personas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/cinco-municipios-de-sonora-concentran-zonas-de-riesgo-de-inundacion-donde-viven-casi-474-mil-personas/",
+        "_added_at": "2026-08-03T10:03:33.809053-07:00"
+      },
+      {
+        "title": "Niño de 3 años muere ahogado en Bahía de Kino",
+        "summary": "Menor falleció en alberca de condominio durante estancia familiar en la localidad costera.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/nino-de-3-anos-muere-ahogado-en-alberca-de-un-condominio-durante-estancia-familiar-en-bahia-de-kino/",
+        "_added_at": "2026-08-03T10:03:33.809053-07:00"
+      },
+      {
+        "title": "Agua de Hermosillo recupera servicio tras falla en acueducto",
+        "summary": "Colonias del sur reinician suministro tras problema temporal en Acueducto Independencia.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/02/agua-de-hermosillo-reporta-recuperacion-gradual-del-servicio-tras-falla-temporal-en-acueducto-independencia-colonias-del-sur-vuelven-a-recibir-agua/",
+        "_added_at": "2026-08-03T10:03:33.809053-07:00"
+      },
       {
         "title": "Sonora lidera afectaciones por calor extremo",
         "summary": "254 reportes y 10 defunciones por golpe de calor en el estado durante el año.",
@@ -88,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-03T05:09:48.923162-07:00"
+  "last_updated": "2026-08-03T10:03:33.809053-07:00"
 }
