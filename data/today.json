@@ -1,8 +1,22 @@
 {
   "date": "2026-08-02",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Cinco lesionados en choque Hermosillo-Guaymas",
+        "summary": "Accidente vial en Los Arrieros deja cinco heridos, dos vehículos con pérdidas totales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/choque-en-carretera-hermosillo-guaymas-deja-cinco-lesionados/261674",
+        "_added_at": "2026-08-02T23:01:38.177354-07:00"
+      },
+      {
+        "title": "Mecánico muere aplastado por camión en Nogales",
+        "summary": "Trabajador falleció atrapado bajo vehículo urbano durante reparación en Las Haciendas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/camion-cae-encima-de-mecanico-mientras-lo-reparaba-en-nogales/261662",
+        "_added_at": "2026-08-02T23:01:38.177354-07:00"
+      },
       {
         "title": "Derrame químico de Ferromex hospitalizó a hombre en Naco",
         "summary": "Accidente de tren causó derrame químico; un trabajador permanece hospitalizado en IMSS Nogales.",
@@ -58,23 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/02/aumentan-un-600-muertes-por-rickettsia-en-ciudad-obregon/",
         "_added_at": "2026-08-02T08:50:25.850346-07:00"
-      },
-      {
-        "title": "Accidentes viales bajan 12% pero con más lesionados",
-        "summary": "Disminuyen choques en Sonora aunque aumenta cantidad de personas heridas por siniestros.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/accidentes-bajan-12-pero-con-mas-lesionados/",
-        "_added_at": "2026-08-02T08:50:25.850346-07:00"
-      },
-      {
-        "title": "Hombre cae en socavón de colonia El Sahuaro",
-        "summary": "Persona cayó en hundimiento del terreno en Hermosillo. Cuerpos de emergencia alertados.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/01/hombre-cayo-en-socavon-de-la-colonia-el-sahuaro-sus-gritos-alertaron-a-los-cuerpos-de-emergencia/",
-        "_added_at": "2026-08-02T03:23:01.943847-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Maestras cuestionan liderazgo de Lizeth Villalobos en Covafam",
+        "summary": "Docentes acusan intereses políticos y demandan destitución de presidenta de organización.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/02/maestras-de-covafam-se-deslindan-de-lider-lizeth-villalobos-acusan-intereses-politicos-y-exigen-su-destitucion-como-presidenta/",
+        "_added_at": "2026-08-02T23:01:38.177354-07:00"
+      },
       {
         "title": "Gobierno entrega 109 mil uniformes escolares gratuitos",
         "summary": "Gobierno de Sonora inicia distribución de uniformes escolares en Hermosillo para estudiantes.",
@@ -134,6 +141,13 @@
     ],
     "economia": [
       {
+        "title": "Vecinos bloquean Bulevar Solidaridad por agua y luz",
+        "summary": "Hermosillo: protestantes cierran vía demandando respuesta inmediata a falta de servicios.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/02/vecinos-bloquean-bulevar-solidaridad-en-hermosillo-por-falta-de-luz-y-agua-exigen-respuesta-inmediata-de-autoridades/",
+        "_added_at": "2026-08-02T23:01:38.177354-07:00"
+      },
+      {
         "title": "CFE suspenderá luz en 4 municipios sonorenses",
         "summary": "Empresa eléctrica realizará trabajos de mejora con cortes de servicio programados en municipios.",
         "source": "El Imparcial",
@@ -185,6 +199,27 @@
     ],
     "sociedad": [
       {
+        "title": "Sonora lidera casos por afectaciones de calor",
+        "summary": "Entidad reporta 254 casos y 10 muertes relacionadas al calor en lo que va del año.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/sonora-lidera-en-casos-de-afectaciones-por-calor-254-reportes-y-10-defunciones-en-el-ano/",
+        "_added_at": "2026-08-02T23:01:38.177354-07:00"
+      },
+      {
+        "title": "Acueducto Independencia restablece servicio a Hermosillo",
+        "summary": "Bombeos reanudan operaciones restaurando agua al sur de capital tras falla momentánea.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/se-recupera-gradualmente-el-servicio-de-agua-al-sur-de-hermosillo-al-reanudar-operacion-el-acueducto-independencia/",
+        "_added_at": "2026-08-02T23:01:38.177354-07:00"
+      },
+      {
+        "title": "Menor fallece ahogado en alberca de Bahía Kino",
+        "summary": "Niño de tres años pierde la vida tras caer en piscina en localidad costera.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/02/menor-de-3-anos-cae-en-alberca-y-pierde-la-vida-en-bahia-kino/",
+        "_added_at": "2026-08-02T23:01:38.177354-07:00"
+      },
+      {
         "title": "Autoridades activan operativo de emergencia en Hermosillo",
         "summary": "Gobierno municipal atiende más de 11 reportes por árboles caídos y daños tras lluvias.",
         "source": "El Imparcial",
@@ -232,29 +267,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/buscan-a-hombre-desaparecido-tras-accidente-en-san-carlos/261640",
         "_added_at": "2026-08-02T11:49:18.855502-07:00"
-      },
-      {
-        "title": "Alerta por temperaturas de 40°C en Nogales",
-        "summary": "Autoridades advierten sobre ola de calor extremo en frontera norte de Sonora.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/alertan-por-temperaturas-de-hasta-40c-en-nogales/",
-        "_added_at": "2026-08-02T08:50:25.850346-07:00"
-      },
-      {
-        "title": "Rayo incendia palmeras en Country Club de San Carlos",
-        "summary": "Tormenta eléctrica causa fuego en balneario; sin reportes de lesionados.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/rayo-provoca-incendio-en-cinco-palmeras-en-san-carlos/261633",
-        "_added_at": "2026-08-02T08:50:25.850346-07:00"
-      },
-      {
-        "title": "Gobierno refuerza atención directa con Sonora Atiende",
-        "summary": "Paulina Ocaña anuncia intensificación de programa durante mes de agosto en estado.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/estado-refuerza-atencion-directa-a-familias-paulina-ocana/261620",
-        "_added_at": "2026-08-02T08:50:25.850346-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-02T18:24:27.007417-07:00"
+  "last_updated": "2026-08-02T23:01:38.177354-07:00"
 }
