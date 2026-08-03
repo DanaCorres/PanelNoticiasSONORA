@@ -1,8 +1,29 @@
 {
   "date": "2026-08-03",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Cinco municipios de Sonora en riesgo de inundación",
+        "summary": "474 mil personas viven en zonas vulnerables identificadas por CNPC y Conagua en sur sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/cinco-municipios-de-sonora-concentran-zonas-de-riesgo-de-inundacion-donde-viven-casi-474-mil-personas/",
+        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+      },
+      {
+        "title": "Hombre hallado sin vida en Nogales",
+        "summary": "Autoridades investigan muerte de persona encontrada en vía pública de la frontera.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/03/autoridades-investigan-causa-de-muerte-de-hombre-encontrado-sin-vida-en-via-publica-de-nogales/",
+        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+      },
+      {
+        "title": "Niño de tres años muere ahogado en Bahía de Kino",
+        "summary": "Menor falleció en alberca de condominio durante estancia familiar en zona costera.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/nino-de-3-anos-muere-ahogado-en-alberca-de-un-condominio-durante-estancia-familiar-en-bahia-de-kino/",
+        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+      },
       {
         "title": "Balacera interrumpe evento deportivo en Nogales",
         "summary": "Tiroteo se registró durante transmisión en vivo de partido de softbol en la ciudad fronteriza.",
@@ -55,6 +76,27 @@
     ],
     "politica": [
       {
+        "title": "López Caballero busca regresar a alcaldía de Hermosillo",
+        "summary": "Exfuncionario del PAN aspira a contender por presidencia municipal en 2027.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/alejandro-lopez-caballero-quiere-sumar-su-experiencia-al-proyecto-del-pan-y-volver-a-contender-por-la-alcaldia-de-hermosillo-en-2027/",
+        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+      },
+      {
+        "title": "Morena define coordinador estatal por encuesta",
+        "summary": "Lorenia Valles anuncia que proceso de selección concluirá a finales de agosto.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/lorenia-valles-afirma-que-la-encuesta-de-morena-definira-a-finales-de-agosto-al-coordinador-de-la-4t-en-sonora/",
+        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+      },
+      {
+        "title": "Maestras de Covafam exigen cambio de dirigencia",
+        "summary": "Docentes solicitan destitución de directiva y se deslindan de movilizaciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/maestras-de-covafam-exigen-destitucion-de-lizeth-villalobos-y-se-deslindan-de-bloqueos-y-protestas-en-sonora/",
+        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+      },
+      {
         "title": "Fallece director del IMPLAN de Hermosillo",
         "summary": "José Carrillo Atondo, funcionario municipal, perdió la vida recientemente.",
         "source": "El Imparcial",
@@ -85,6 +127,20 @@
     ],
     "economia": [
       {
+        "title": "CFE corta luz en tres municipios de la sierra",
+        "summary": "Suspensión de servicio afectará ocho horas a localidades por trabajos de mantenimiento.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/tres-municipios-de-la-sierra-de-sonora-estaran-sin-luz-por-ocho-horas-este-miercoles/",
+        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+      },
+      {
+        "title": "Ferromex enfrenta demanda por derrame en rancho",
+        "summary": "Propiedad afectada demanda al ferrocarril; otras demandas están en proceso en Naco.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/03/rancho-afectado-por-derrame-en-sonora-demanda-a-ferromex-hay-otras-en-proceso-confirma-ayuntamiento-de-naco/",
+        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+      },
+      {
         "title": "Lluvias benefician sector ganadero de Sonora",
         "summary": "Precipitaciones cubren 90% del estado, mejorando agostaderos y actividad ganadera regional.",
         "source": "Expreso",
@@ -114,6 +170,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora activa plan preventivo por huracanes",
+        "summary": "Gobierno y federación despliegan operativo en municipios vulnerables ante riesgos climáticos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/ante-el-riesgo-de-inundaciones-sonora-y-federacion-activan-operativo-por-huracanes-en-los-municipios-mas-vulnerables/",
+        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+      },
+      {
+        "title": "Uniformes escolares gratis en Sonora",
+        "summary": "Entrega de uniformes gratuitos iniciará con fechas y sedes por municipio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/uniformes-escolares-gratuitos-en-sonora-para-el-ciclo-2026-2027-ya-hay-fechas-sedes-y-requisitos-de-entrega/",
+        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+      },
+      {
+        "title": "Hermosillo mejora atención de alumbrado público",
+        "summary": "Ampliación de telegestión para supervisión remota acelerará reparaciones en 12 bulevares.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/fallas-de-alumbrado-publico-se-atenderan-mas-rapido-en-12-bulevares-de-hermosillo-con-ampliacion-de-telegestion-de-supervision-y-control-remoto/",
+        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+      },
+      {
+        "title": "Organismo desmienta tandeos en Hermosillo",
+        "summary": "Asegura distribución equitativa de agua; situación responde a baja presión del sistema.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/03/no-hay-tandeos-en-hermosillo-es-baja-presion-agua-se-distribuye-de-manera-ajusta-contesta-organismo/",
+        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+      },
       {
         "title": "Cinco municipios de Sonora en riesgo de inundación",
         "summary": "CNPC y Conagua identifican 19 sitios vulnerables donde viven casi 474 mil personas.",
@@ -155,15 +239,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/02/vecinos-bloquean-bulevar-solidaridad-en-hermosillo-por-falta-de-luz-y-agua-exigen-respuesta-inmediata-de-autoridades/",
         "_added_at": "2026-08-03T05:09:48.923162-07:00"
-      },
-      {
-        "title": "Menor fallece ahogado en alberca de Bahía Kino",
-        "summary": "Niño de tres años pierde la vida tras caer a piscina en localidad costera.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/02/menor-de-3-anos-cae-en-alberca-y-pierde-la-vida-en-bahia-kino/",
-        "_added_at": "2026-08-03T05:09:48.923162-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-03T10:03:33.809053-07:00"
+  "last_updated": "2026-08-03T12:14:17.339321-07:00"
 }
