@@ -1,8 +1,15 @@
 {
   "date": "2026-08-04",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sonora lidera casos de dengue en México con 969 contagios",
+        "summary": "Sonora concentra el 29% de los casos de dengue a nivel nacional, liderando con 969 contagios de los 3 mil 351 totales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/sonora-lidera-casos-de-dengue-en-mexico-con-969-contagios-en-2026/",
+        "_added_at": "2026-08-04T06:31:20.658337-07:00"
+      },
       {
         "title": "Ciclista muere en carretera Hermosillo-Ures",
         "summary": "Muerte de ciclista genera llamado para mejorar seguridad vial en la zona.",
@@ -34,6 +41,13 @@
     ],
     "politica": [
       {
+        "title": "Nuevo coordinador de Guardia Nacional asume cargo en Sonora",
+        "summary": "General Alberto Román González Fernández rinde protesta como coordinador estatal de la Guardia Nacional.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/nombran-nuevo-coordinador-de-la-guardia-nacional-en-sonora/261760",
+        "_added_at": "2026-08-04T06:31:20.658337-07:00"
+      },
+      {
         "title": "Lamarque se reúne con alcaldes y líderes del PT",
         "summary": "Encuentro morenista con presidentes municipales para discutir unidad en Sonora.",
         "source": "Expreso",
@@ -49,6 +63,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Sonora lidera crecimiento agrícola en el norte del país",
+        "summary": "Gobierno de Sonora atribuye resultados a programas de apoyo, obras hidroagrícolas y fortalecimiento del sector.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-lidera-crecimiento-del-campo-en-el-norte-adm/261759",
+        "_added_at": "2026-08-04T06:31:20.658337-07:00"
+      },
+      {
+        "title": "CFE suspenderá servicio eléctrico en municipios de Sonora",
+        "summary": "CFE realizará trabajos de mejora suspendiendo servicio en varios municipios sonorenses.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/cfe-suspendera-servicio-electrico-en-4-municipios-de-sonora-este-martes-por-trabajos-de-mejora/",
+        "_added_at": "2026-08-04T06:31:20.658337-07:00"
+      },
       {
         "title": "Plaza Satélite de Hermosillo lucha por sobrevivir",
         "summary": "Centro comercial con más de 30 años enfrenta declive; comerciantes trabajan por mantenerse en operación.",
@@ -79,6 +107,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Monzón traerá lluvias y alivio a temperaturas en Sonora",
+        "summary": "Pronósticos indican llegada del Monzón de México con precipitaciones y descenso de temperaturas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/el-monzon-de-mexico-traera-lluvias-y-frescura-a-sonora-pronosticos-y-temperaturas-esperadas/",
+        "_added_at": "2026-08-04T06:31:20.658337-07:00"
+      },
       {
         "title": "Hermosillo activa programa emergente de pipas gratuitas",
         "summary": "Municipio distribuye agua gratuita y realiza reparaciones de tuberías tras crisis hídrica.",
@@ -116,5 +151,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-04T04:13:07.463209-07:00"
+  "last_updated": "2026-08-04T06:31:20.658337-07:00"
 }
