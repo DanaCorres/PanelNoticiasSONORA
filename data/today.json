@@ -1,8 +1,22 @@
 {
   "date": "2026-08-04",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Camionazo deja un muerto y 37 lesionados en Sonora",
+        "summary": "Accidente en carretera Guaymas-Obregón causó una muerte y decenas de heridos. Operador presuntamente se quedó dormido.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/accidente-entre-autobus-y-trailer-en-guaymas-deja-un-muerto/261761",
+        "_added_at": "2026-08-04T12:15:28.322204-07:00"
+      },
+      {
+        "title": "Arrestan a hombre armado con navaja al norte de Hermosillo",
+        "summary": "Detención de sujeto identificado como \"El Tony Lomas\" portando arma blanca.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/04/arrestan-a-el-tony-lomas-joven-que-portaba-un-cuchillo-en-via-publica-al-norte-de-hermosillo/",
+        "_added_at": "2026-08-04T12:15:28.322204-07:00"
+      },
       {
         "title": "Camionazo en Guaymas-Obregón deja un muerto y 39 lesionados",
         "summary": "Accidente en carretera Federal México 15 durante la noche. Operador posiblemente se quedó dormido. Hay adolescente grave entre las víctimas.",
@@ -136,6 +150,20 @@
     ],
     "sociedad": [
       {
+        "title": "Cruz Roja Hermosillo atendió 100 servicios por calor extremo",
+        "summary": "Entre abril y julio registró 100 atenciones relacionadas con temperaturas altas, 59 casos más que 2025.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/cruz-roja-hermosillo-atendio-100-servicios-por-altas-temperaturas-entre-abril-y-julio-59-casos-mas-que-en-2025/",
+        "_added_at": "2026-08-04T12:15:28.322204-07:00"
+      },
+      {
+        "title": "Hermosillo debe reparar tuberías e instalar medidores de agua",
+        "summary": "Expertos recomiendan acciones para acabar con socavones y fugas en red municipal.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/04/para-acabar-con-socavones-y-fugas-hermosillo-debe-reparar-tuberias-e-instalar-mas-medidores-de-agua/",
+        "_added_at": "2026-08-04T12:15:28.322204-07:00"
+      },
+      {
         "title": "Hermosillo ofrece pipas de agua gratis a familias afectadas",
         "summary": "Programa de apoyo por servicio interrumpido. Familias pueden solicitar pipas al teléfono 073.",
         "source": "El Imparcial",
@@ -190,15 +218,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/03/tormentas-fuertes-amenazan-el-norte-de-sonora-esta-tarde-proteccion-civil-alerta-por-lluvias-intensas-descargas-electricas-y-fuertes-vientos-mientras-continua-el-calor-extremo-de-hasta-43-c/",
         "_added_at": "2026-08-04T01:13:33.792609-07:00"
-      },
-      {
-        "title": "CEA explica desabasto de agua por fallas en red",
-        "summary": "Comisión Estatal de Agua atribuye crisis a deficiencias y fugas municipales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/cea-atribuye-desabasto-de-agua-en-hermosillo-a-deficiencias-en-la-red-municipal-pide-reforzar-reparacion-de-fugas/",
-        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-04T09:45:02.675579-07:00"
+  "last_updated": "2026-08-04T12:15:28.322204-07:00"
 }
