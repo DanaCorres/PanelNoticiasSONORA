@@ -1,8 +1,36 @@
 {
   "date": "2026-08-04",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Identifican presunto autor de asesinato policial en Hermosillo",
+        "summary": "Autoridades identifican al responsable del homicidio de policía municipal ocurrido en el centro de la capital.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/amic-tiene-identificado-al-presunto-responsable-del-asesinato-del-policia-municipal-en-el-centro-de-hermosillo/",
+        "_added_at": "2026-08-04T15:02:56.765963-07:00"
+      },
+      {
+        "title": "Detienen sujeto por allanamiento y amenazas en Nogales",
+        "summary": "Capturan individuo acusado de allanamiento de morada y amenazas en la fronteriza.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/04/detenido-por-allanamiento-de-morada-y-amenazas/",
+        "_added_at": "2026-08-04T15:02:56.765963-07:00"
+      },
+      {
+        "title": "Capturan presunto halcón criminal en Nogales",
+        "summary": "Detienen a sujeto que reportaba movimientos policiales por radio para grupos criminales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/04/cae-presunto-halcon-en-nogales-usaba-radio-para-reportar-movimientos-de-la-policia-fiscalia/",
+        "_added_at": "2026-08-04T15:02:56.765963-07:00"
+      },
+      {
+        "title": "Accidente vehicular deja muerto en carretera Obregón-Empalme",
+        "summary": "Choque de autobús en vía Obregón-Guaymas cobra vida de chofer e hiere a múltiples pasajeros.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/identifican-al-chofer-fallecido-en-choque-de-autobus-en-carretera-obregon-empalme-y-actualizan-saldo-de-heridos-incluidos-menores-y-adultos-mayores/",
+        "_added_at": "2026-08-04T15:02:56.765963-07:00"
+      },
       {
         "title": "Camionazo deja un muerto y 37 lesionados en Sonora",
         "summary": "Accidente en carretera Guaymas-Obregón causó una muerte y decenas de heridos. Operador presuntamente se quedó dormido.",
@@ -44,30 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/llamado-urgente-para-mejorar-la-seguridad-vial-tras-la-muerte-de-ciclista-en-carretera-hermosillo-ures/",
         "_added_at": "2026-08-04T01:13:33.792609-07:00"
-      },
-      {
-        "title": "Vinculan a dos hombres por agresión familiar en Nogales",
-        "summary": "Dos sujetos ligados a proceso por agredir a familia en Nogales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-dos-hombres-por-agresion-a-familia-en-nogales/261725",
-        "_added_at": "2026-08-04T01:13:33.792609-07:00"
-      },
-      {
-        "title": "Incendio por falla eléctrica en comercio de Navojoa",
-        "summary": "Bomberos controlan incendio provocado por falla eléctrica en el centro de Navojoa.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/incendio-en-comercio-de-navojoa-moviliza-a-bomberos/261726",
-        "_added_at": "2026-08-04T01:13:33.792609-07:00"
-      },
-      {
-        "title": "Derrame químico crítico en Naco requiere traslado urgente",
-        "summary": "Persona hospitalizada por derrame químico en Naco solicita traslado inmediato.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/derrame-quimico-en-naco-afecta-a-luis-arturo-ozuna-vasquez/261717",
-        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Durazo aguardará consulta nacional sobre celulares en escuelas",
+        "summary": "Gobernador Durazo espera resultados de encuesta ciudadana antes de regular uso de móviles en aulas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/el-gobernador-alfonso-durazo-esperara-resultados-de-consulta-nacional-para-decidir-sobre-uso-de-celulares-en-las-aulas-de-sonora/",
+        "_added_at": "2026-08-04T15:02:56.765963-07:00"
+      },
       {
         "title": "Colosio en el radar para gubernatura de Sonora en 2027",
         "summary": "Movimiento Ciudadano realiza plenaria en Guaymas agosto 24 enfocando estrategia electoral estatal.",
@@ -98,6 +112,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Sonora consolida inversiones históricas por 32 mil millones",
+        "summary": "Gobierno estatal impulsa comité promotor de inversiones para fortalecer desarrollo económico regional.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/gobierno-de-sonora-impulsa-comite-promotor-de-inversiones/261778",
+        "_added_at": "2026-08-04T15:02:56.765963-07:00"
+      },
       {
         "title": "Lluvias favorecen recuperación de principales presas sonorenses",
         "summary": "Sistema estatal ganó 19.8 millones de metros cúbicos en un día. El Novillo registra incremento importante.",
@@ -150,6 +171,34 @@
     ],
     "sociedad": [
       {
+        "title": "Hermosillo enfrenta crisis de agua con distribución de pipas",
+        "summary": "Autoridades amplían operativo de pipas para abastecer colonias afectadas por falta de suministro.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/04/gobierno-de-hermosillo-amplia-operativo-de-pipas-para-abastecer-de-agua-a-colonias-afectadas/",
+        "_added_at": "2026-08-04T15:02:56.765963-07:00"
+      },
+      {
+        "title": "Diez sonorenses mueren por golpe de calor en 2026",
+        "summary": "Registro de defunciones por altas temperaturas afecta principalmente a Hermosillo con ocho casos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/mueren-10-sonorenses-por-golpe-de-calor-8-son-en-hermosillo/261782",
+        "_added_at": "2026-08-04T15:02:56.765963-07:00"
+      },
+      {
+        "title": "Lluvia favorece recuperación de principales presas de Sonora",
+        "summary": "Precipitaciones benefician almacenamiento de agua en reservorios estatales durante temporada de secas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/lluvias-favorecen-la-recuperacion-de-las-presas-en-sonora-y-tepache-registra-la-precipitacion-mas-alta-del-estado/",
+        "_added_at": "2026-08-04T15:02:56.765963-07:00"
+      },
+      {
+        "title": "Derrame químico en Naco deja seis personas atendidas",
+        "summary": "Alcalde mantiene vigilancia tras incidente en municipio fronterizo con atención médica reforzada.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/derrame-quimico-en-naco-sonora-alcalde-informa-6-atendidos/261785",
+        "_added_at": "2026-08-04T15:02:56.765963-07:00"
+      },
+      {
         "title": "Cruz Roja Hermosillo atendió 100 servicios por calor extremo",
         "summary": "Entre abril y julio registró 100 atenciones relacionadas con temperaturas altas, 59 casos más que 2025.",
         "source": "El Imparcial",
@@ -190,36 +239,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/03/el-monzon-de-mexico-traera-lluvias-y-frescura-a-sonora-pronosticos-y-temperaturas-esperadas/",
         "_added_at": "2026-08-04T06:31:20.658337-07:00"
-      },
-      {
-        "title": "Hermosillo activa programa emergente de pipas gratuitas",
-        "summary": "Municipio distribuye agua gratuita y realiza reparaciones de tuberías tras crisis hídrica.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/distribucion-gratuita-de-agua-y-reparacion-de-tuberias-programa-emergente-del-ayuntamiento-de-hermosillo-tras-lluvias/",
-        "_added_at": "2026-08-04T04:13:07.463209-07:00"
-      },
-      {
-        "title": "Sonora lidera casos de dengue en México con 969",
-        "summary": "Sonora encabeza contagios de dengue a nivel nacional durante 2026.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/sonora-lidera-casos-de-dengue-en-mexico-con-969-contagios-en-2026/",
-        "_added_at": "2026-08-04T01:13:33.792609-07:00"
-      },
-      {
-        "title": "Disminuye turbidez en presa El Molinito de Hermosillo",
-        "summary": "Agua inicia pruebas para reactivar potabilización tras mejorar calidad.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/disminuye-turbidez-en-presa-el-molinito-agua-de-hermosillo-inicia-pruebas-para-reactivar-potabilizacion/",
-        "_added_at": "2026-08-04T01:13:33.792609-07:00"
-      },
-      {
-        "title": "Norte de Sonora bajo alerta por tormentas fuertes",
-        "summary": "Protección Civil alerta por lluvias intensas, descargas y vientos en región.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/tormentas-fuertes-amenazan-el-norte-de-sonora-esta-tarde-proteccion-civil-alerta-por-lluvias-intensas-descargas-electricas-y-fuertes-vientos-mientras-continua-el-calor-extremo-de-hasta-43-c/",
-        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-04T12:15:28.322204-07:00"
+  "last_updated": "2026-08-04T15:02:56.765963-07:00"
 }
