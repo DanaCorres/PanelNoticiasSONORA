@@ -1,295 +1,99 @@
 {
-  "date": "2026-08-03",
-  "run_count": 6,
+  "date": "2026-08-04",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
         "title": "Ciclista muere en carretera Hermosillo-Ures",
-        "summary": "Muerte de ciclista genera llamado urgente para mejorar seguridad vial en la zona.",
+        "summary": "Muerte de ciclista genera llamado para mejorar seguridad vial en la zona.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/llamado-urgente-para-mejorar-la-seguridad-vial-tras-la-muerte-de-ciclista-en-carretera-hermosillo-ures/",
-        "_added_at": "2026-08-03T22:36:07.234156-07:00"
+        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       },
       {
-        "title": "Vinculan a dos hombres por agresión a familia en Nogales",
-        "summary": "Dos personas procesadas tras agredir a familia en Nogales.",
+        "title": "Vinculan a dos hombres por agresión familiar en Nogales",
+        "summary": "Dos sujetos ligados a proceso por agredir a familia en Nogales.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-dos-hombres-por-agresion-a-familia-en-nogales/261725",
-        "_added_at": "2026-08-03T22:36:07.234156-07:00"
+        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       },
       {
-        "title": "Sonora lidera casos de dengue en México con 969 contagios",
-        "summary": "Estado concentra mayor cantidad de casos de dengue en el país durante 2026, alertando sobre crisis sanitaria.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/sonora-lidera-casos-de-dengue-en-mexico-con-969-contagios-en-2026/",
-        "_added_at": "2026-08-03T18:15:48.306860-07:00"
-      },
-      {
-        "title": "Veinte personas atacadas por abejas en Valle del Yaqui",
-        "summary": "Autoridades atienden a múltiples afectados tras incidente con enjambre en Ciudad Obregón.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/03/atienden-a-20-personas-por-ataque-de-abejas-en-el-valle-del-yaqui/",
-        "_added_at": "2026-08-03T18:15:48.306860-07:00"
-      },
-      {
-        "title": "Derrame químico en Naco deja hospitalizado en estado crítico",
-        "summary": "Persona inhala químicos tras incidente ferroviario, familia solicita traslado urgente.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/derrame-quimico-en-naco-afecta-a-luis-arturo-ozuna-vasquez/261717",
-        "_added_at": "2026-08-03T18:15:48.306860-07:00"
-      },
-      {
-        "title": "Incendio en comercio del centro de Navojoa",
-        "summary": "Falla eléctrica provoca fuego, bomberos contienen las llamas en establecimiento.",
+        "title": "Incendio por falla eléctrica en comercio de Navojoa",
+        "summary": "Bomberos controlan incendio provocado por falla eléctrica en el centro de Navojoa.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/incendio-en-comercio-de-navojoa-moviliza-a-bomberos/261726",
-        "_added_at": "2026-08-03T18:15:48.306860-07:00"
+        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       },
       {
-        "title": "Hombre detenido en Nogales por posesión de fentanilo",
-        "summary": "Vinculado a proceso por transportar más de mil pastillas de fentanilo en Nogales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/vinculan-a-proceso-a-hombre-por-posesion-de-mas-de-mil-pastillas-de-fentanilo-en-nogales/",
-        "_added_at": "2026-08-03T14:55:51.917614-07:00"
-      },
-      {
-        "title": "Mujer sentenciada por transportar drogas en Guaymas",
-        "summary": "Condenada a ocho años de prisión por transportar drogas en autobús en Guaymas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/sentencian-a-ocho-anos-de-prision-a-mujer-acusada-de-transportar-drogas-en-autobus-en-guaymas/",
-        "_added_at": "2026-08-03T14:55:51.917614-07:00"
-      },
-      {
-        "title": "Menor de tres años muere ahogado en Bahía de Kino",
-        "summary": "Niño de tres años cae a alberca y fallece en Bahía de Kino.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/02/menor-de-3-anos-cae-en-alberca-y-pierde-la-vida-en-bahia-kino/",
-        "_added_at": "2026-08-03T14:55:51.917614-07:00"
-      },
-      {
-        "title": "Cinco municipios de Sonora en riesgo de inundación",
-        "summary": "474 mil personas viven en zonas vulnerables identificadas por CNPC y Conagua en sur sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/cinco-municipios-de-sonora-concentran-zonas-de-riesgo-de-inundacion-donde-viven-casi-474-mil-personas/",
-        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+        "title": "Derrame químico crítico en Naco requiere traslado urgente",
+        "summary": "Persona hospitalizada por derrame químico en Naco solicita traslado inmediato.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/derrame-quimico-en-naco-afecta-a-luis-arturo-ozuna-vasquez/261717",
+        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       }
     ],
     "politica": [
       {
         "title": "Lamarque se reúne con alcaldes y líderes del PT",
-        "summary": "Encuentro entre dirigente morenista y presidentes municipales para discutir unidad.",
+        "summary": "Encuentro morenista con presidentes municipales para discutir unidad en Sonora.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-se-reune-con-alcaldes-y-lideres-del-pt-en-sonora/261740",
-        "_added_at": "2026-08-03T22:36:07.234156-07:00"
+        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       },
       {
-        "title": "Verdadera encuesta será conocida a finales de agosto",
-        "summary": "Valles destaca que proceso interno ocurre en unidad y con paridad de género.",
+        "title": "Valles: encuesta real será conocida finales de agosto",
+        "summary": "Dirigente morenista destaca proceso interno con paridad de género en Sonora.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/verdadera-encuesta-la-conoceremos-a-finales-de-agosto-valles/261735",
-        "_added_at": "2026-08-03T22:36:07.234156-07:00"
-      },
-      {
-        "title": "Colosio Riojas decidirá sobre candidatura a gubernatura en diciembre",
-        "summary": "Político anuncia que informará si buscará gobernar Sonora a finales del año.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/buscara-colosio-riojas-gubernatura-de-sonora-afirma-que-lo-dara-a-conocer-hasta-diciembre/",
-        "_added_at": "2026-08-03T18:15:48.306860-07:00"
-      },
-      {
-        "title": "Encuesta Morena en Sonora definirá liderazgo a finales agosto",
-        "summary": "Morena aplicará encuesta interna a finales de agosto para elegir coordinador de Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-encuesta-de-morena-sonora-al-final-de-agosto/261704",
-        "_added_at": "2026-08-03T14:55:51.917614-07:00"
-      },
-      {
-        "title": "López Caballero busca regresar a alcaldía de Hermosillo",
-        "summary": "Exfuncionario del PAN aspira a contender por presidencia municipal en 2027.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/alejandro-lopez-caballero-quiere-sumar-su-experiencia-al-proyecto-del-pan-y-volver-a-contender-por-la-alcaldia-de-hermosillo-en-2027/",
-        "_added_at": "2026-08-03T12:14:17.339321-07:00"
-      },
-      {
-        "title": "Morena define coordinador estatal por encuesta",
-        "summary": "Lorenia Valles anuncia que proceso de selección concluirá a finales de agosto.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/lorenia-valles-afirma-que-la-encuesta-de-morena-definira-a-finales-de-agosto-al-coordinador-de-la-4t-en-sonora/",
-        "_added_at": "2026-08-03T12:14:17.339321-07:00"
-      },
-      {
-        "title": "Maestras de Covafam exigen cambio de dirigencia",
-        "summary": "Docentes solicitan destitución de directiva y se deslindan de movilizaciones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/maestras-de-covafam-exigen-destitucion-de-lizeth-villalobos-y-se-deslindan-de-bloqueos-y-protestas-en-sonora/",
-        "_added_at": "2026-08-03T12:14:17.339321-07:00"
-      },
-      {
-        "title": "Fallece director del IMPLAN de Hermosillo",
-        "summary": "José Carrillo Atondo, funcionario municipal, perdió la vida recientemente.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/fallece-jose-carrillo-atondo-director-del-implan-de-hermosillo/",
-        "_added_at": "2026-08-03T10:03:33.809053-07:00"
-      },
-      {
-        "title": "René García reitera aspiraciones para dirigir Hermosillo",
-        "summary": "Político celebró cumpleaños con vecinos y reafirmó intenciones de candidatura municipal.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/reitera-rene-garcia-sus-aspiraciones-para-dirigir-el-municipio-de-hermosillo-festeja-cumpleanos-con-vecinos-de-pueblitos/",
-        "_added_at": "2026-08-03T10:03:33.809053-07:00"
-      },
-      {
-        "title": "Sheinbaum responde a Trump sobre soberanía",
-        "summary": "Presidenta defiende independencia mexicana frente a cuestionamientos sobre estrategia de seguridad.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/03/claudia-sheinbaum-respondio-a-donald-trump-tras-difundir-una-columna-que-cuestiona-la-estrategia-mexicana-de-seguridad-pero-dejo-claro-que-la-cooperacion-con-eeuu-seguira-sin-permitir-injerencias-y-con-la-soberania-como-limite-central/",
-        "_added_at": "2026-08-03T05:09:48.923162-07:00"
+        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Pago electrónico obligatorio en transporte de Hermosillo",
-        "summary": "Tres rutas de transporte urbano implementarán sistema de pago electrónico.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/pago-electronico-sera-obligatorio-en-tres-rutas-del-transporte-urbano-de-hermosillo-te-contamos-cuales-y-cuando/",
-        "_added_at": "2026-08-03T22:36:07.234156-07:00"
-      },
-      {
-        "title": "Producción agrícola de Sonora crece 12.6 por ciento",
-        "summary": "Actividades primarias lideran región norte, impulsando economía estatal.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/sonora-dispara-su-produccion-del-campo-actividades-primarias-crecen-12-6-y-lideran-la-region-norte-del-pais/",
-        "_added_at": "2026-08-03T18:15:48.306860-07:00"
-      },
-      {
-        "title": "Cajeme inicia obra sanitaria de 4 millones de pesos",
-        "summary": "Nueva infraestructura beneficiará a más de 46 mil habitantes en recolección de aguas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/cajeme-inicia-obra-sanitaria-que-beneficiara-a-mas-de-46-mil-habitantes-invertiran-mas-de-4-millones-de-pesos-en-nuevo-colector/",
-        "_added_at": "2026-08-03T18:15:48.306860-07:00"
-      },
-      {
-        "title": "Escasez de agua afecta norte de Hermosillo",
-        "summary": "CEA reporta incidencias en distribución de agua en zonas norte de Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/hay-escasez-de-agua-en-el-norte-de-hermosillo-registran-incidencias-en-distribucion-cea/",
-        "_added_at": "2026-08-03T14:55:51.917614-07:00"
-      },
-      {
-        "title": "Entregarán uniformes escolares gratuitos en Sonora",
-        "summary": "Sonora inicia distribución de uniformes escolares por municipio para ciclo 2026-2027.",
+        "title": "Hermosillo activa programa emergente de pipas gratuitas",
+        "summary": "Distribución de agua gratuita y reparación de tuberías por crisis hídrica.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/uniformes-escolares-gratuitos-en-sonora-para-el-ciclo-2026-2027-ya-hay-fechas-sedes-y-requisitos-de-entrega/",
-        "_added_at": "2026-08-03T14:55:51.917614-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/distribucion-gratuita-de-agua-y-reparacion-de-tuberias-programa-emergente-del-ayuntamiento-de-hermosillo-tras-lluvias/",
+        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       },
       {
-        "title": "CFE corta luz en tres municipios de la sierra",
-        "summary": "Suspensión de servicio afectará ocho horas a localidades por trabajos de mantenimiento.",
+        "title": "CFE corta luz en tres municipios serranos de Sonora",
+        "summary": "Suspensión de ocho horas de servicio eléctrico en municipios de la sierra.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/03/tres-municipios-de-la-sierra-de-sonora-estaran-sin-luz-por-ocho-horas-este-miercoles/",
-        "_added_at": "2026-08-03T12:14:17.339321-07:00"
-      },
-      {
-        "title": "Ferromex enfrenta demanda por derrame en rancho",
-        "summary": "Propiedad afectada demanda al ferrocarril; otras demandas están en proceso en Naco.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/rancho-afectado-por-derrame-en-sonora-demanda-a-ferromex-hay-otras-en-proceso-confirma-ayuntamiento-de-naco/",
-        "_added_at": "2026-08-03T12:14:17.339321-07:00"
-      },
-      {
-        "title": "Lluvias benefician sector ganadero de Sonora",
-        "summary": "Precipitaciones cubren 90% del estado, mejorando agostaderos y actividad ganadera regional.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/favorecen-las-lluvias-al-sector-ganadero-ugrs/261688",
-        "_added_at": "2026-08-03T10:03:33.809053-07:00"
-      },
-      {
-        "title": "Gobernador Durazo entrega uniformes gratuitos a estudiantes",
-        "summary": "Programa beneficia a más de 109 mil alumnos de educación básica en Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/gobernador-durazo-respalda-economia-familiar-con-uniformes-gratuitos-para-mas-de-109-mil-estudiantes-de-educacion-basica-en-hermosillo/",
-        "_added_at": "2026-08-03T10:03:33.809053-07:00"
-      },
-      {
-        "title": "Plaza Satélite de Hermosillo enfrenta declive comercial",
-        "summary": "Centro comercial con 30 años de historia lucha por mantener operaciones y comerciantes.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/de-la-gloria-al-olvido-plaza-satelite-de-hermosillo-un-lugar-con-mas-de-30-anos-de-recuerdos-y-donde-comerciantes-luchan-por-seguir-adelante/",
-        "_added_at": "2026-08-03T10:03:33.809053-07:00"
+        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Sonora lidera casos de dengue en México con 969 contagios",
-        "summary": "Entidad registra mayor número de casos de dengue a nivel nacional.",
+        "title": "Sonora lidera casos de dengue en México con 969",
+        "summary": "Sonora encabeza contagios de dengue a nivel nacional durante 2026.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/03/sonora-lidera-casos-de-dengue-en-mexico-con-969-contagios-en-2026/",
-        "_added_at": "2026-08-03T22:36:07.234156-07:00"
+        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       },
       {
-        "title": "Turbidez disminuye en presa El Molinito de Hermosillo",
-        "summary": "Calidad de agua mejora; inician pruebas para reactivar potabilización.",
+        "title": "Disminuye turbidez en presa El Molinito de Hermosillo",
+        "summary": "Agua inicia pruebas para reactivar potabilización tras mejorar calidad.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/disminuye-turbidez-en-presa-el-molinito-agua-de-hermosillo-inicia-pruebas-para-reactivar-potabilizacion/",
-        "_added_at": "2026-08-03T22:36:07.234156-07:00"
+        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       },
       {
-        "title": "Hermosillo activa programa de pipas gratuitas por escasez",
-        "summary": "Municipio distribuirá agua gratuita y reparará tuberías tras lluvias.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/distribucion-gratuita-de-agua-y-reparacion-de-tuberias-programa-emergente-del-ayuntamiento-de-hermosillo-tras-lluvias/",
-        "_added_at": "2026-08-03T22:36:07.234156-07:00"
-      },
-      {
-        "title": "Bloqueo en Hermosillo por falta de agua en colonia",
-        "summary": "Vecinos de El Mariachi cierren bulevar tras seis días sin servicio de agua.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/seis-dias-sin-agua-vecinos-de-la-colonia-el-mariachi-bloquean-el-bulevar-luis-encinas-en-protesta-ante-falta-del-servicio/",
-        "_added_at": "2026-08-03T18:15:48.306860-07:00"
-      },
-      {
-        "title": "Fallece director del Implan José E. Carrillo Atondo",
-        "summary": "Arquitecto que transformó urbanismo de Hermosillo muere dejando legado institucional.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/fallece-director-del-implan-jose-e-carrillo-atondo-arquitecto-que-dejo-huella-en-la-transformacion-urbana-de-hermosillo/",
-        "_added_at": "2026-08-03T18:15:48.306860-07:00"
-      },
-      {
-        "title": "Tormentas fuertes amenazan norte de Sonora",
-        "summary": "Protección Civil alerta por lluvias intensas, descargas eléctricas y vientos en el norte.",
+        "title": "Norte de Sonora bajo alerta por tormentas fuertes",
+        "summary": "Protección Civil alerta por lluvias intensas, descargas y vientos en región.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/03/tormentas-fuertes-amenazan-el-norte-de-sonora-esta-tarde-proteccion-civil-alerta-por-lluvias-intensas-descargas-electricas-y-fuertes-vientos-mientras-continua-el-calor-extremo-de-hasta-43-c/",
-        "_added_at": "2026-08-03T14:55:51.917614-07:00"
+        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       },
       {
-        "title": "Derrame químico en Naco deja paciente en estado crítico",
-        "summary": "Hombre hospitalizado tras inhalar químicos por derrame ferroviario en Naco.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/derrame-quimico-en-naco-afecta-a-luis-arturo-ozuna-vasquez/261717",
-        "_added_at": "2026-08-03T14:55:51.917614-07:00"
-      },
-      {
-        "title": "Maestras de Covafam exigen cambio de liderazgo",
-        "summary": "Maestras piden destitución de Lizeth Villalobos y se deslindan de protestas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/03/maestras-de-covafam-exigen-destitucion-de-lizeth-villalobos-y-se-deslindan-de-bloqueos-y-protestas-en-sonora/",
-        "_added_at": "2026-08-03T14:55:51.917614-07:00"
-      },
-      {
-        "title": "Sonora activa plan preventivo por huracanes",
-        "summary": "Gobierno y federación despliegan operativo en municipios vulnerables ante riesgos climáticos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/ante-el-riesgo-de-inundaciones-sonora-y-federacion-activan-operativo-por-huracanes-en-los-municipios-mas-vulnerables/",
-        "_added_at": "2026-08-03T12:14:17.339321-07:00"
-      },
-      {
-        "title": "Uniformes escolares gratis en Sonora",
-        "summary": "Entrega de uniformes gratuitos iniciará con fechas y sedes por municipio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/27/uniformes-escolares-gratuitos-en-sonora-para-el-ciclo-2026-2027-ya-hay-fechas-sedes-y-requisitos-de-entrega/",
-        "_added_at": "2026-08-03T12:14:17.339321-07:00"
+        "title": "CEA explica desabasto de agua por fallas en red",
+        "summary": "Comisión Estatal de Agua atribuye crisis a deficiencias y fugas municipales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/03/cea-atribuye-desabasto-de-agua-en-hermosillo-a-deficiencias-en-la-red-municipal-pide-reforzar-reparacion-de-fugas/",
+        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-03T22:36:07.234156-07:00"
+  "last_updated": "2026-08-04T01:13:33.792609-07:00"
 }
