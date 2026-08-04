@@ -1,8 +1,22 @@
 {
   "date": "2026-08-04",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Camionazo en Guaymas-Obregón deja un muerto y 39 lesionados",
+        "summary": "Accidente en carretera Federal México 15 durante la noche. Operador posiblemente se quedó dormido. Hay adolescente grave entre las víctimas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/04/camionazo-en-carretera-obregonempalme-deja-un-muerto-y-39-lesionados-entre-las-victimas-hay-ninos-y-adultos-mayores/",
+        "_added_at": "2026-08-04T09:45:02.675579-07:00"
+      },
+      {
+        "title": "Nogales: decomisan 182 mil pastillas de fentanilo y armas",
+        "summary": "Aseguramiento de drogas y armamento en garita de Nogales durante operativo de seguridad.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/04/interceptan-armas-y-decomisan-fentanilo-en-garita-de-nogales/",
+        "_added_at": "2026-08-04T09:45:02.675579-07:00"
+      },
       {
         "title": "Sonora lidera casos de dengue en México con 969 contagios",
         "summary": "Sonora concentra el 29% de los casos de dengue a nivel nacional, liderando con 969 contagios de los 3 mil 351 totales.",
@@ -41,6 +55,13 @@
     ],
     "politica": [
       {
+        "title": "Colosio en el radar para gubernatura de Sonora en 2027",
+        "summary": "Movimiento Ciudadano realiza plenaria en Guaymas agosto 24 enfocando estrategia electoral estatal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/04/colosio-vuelve-al-radar-por-la-gubernatura-de-sonora-ante-la-plenaria-que-mc-realizara-en-guaymas-el-24-de-agosto-y-que-coloca-al-estado-en-el-centro-de-su-estrategia-rumbo-a-2027/",
+        "_added_at": "2026-08-04T09:45:02.675579-07:00"
+      },
+      {
         "title": "Nuevo coordinador de Guardia Nacional asume cargo en Sonora",
         "summary": "General Alberto Román González Fernández rinde protesta como coordinador estatal de la Guardia Nacional.",
         "source": "Expreso",
@@ -63,6 +84,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Lluvias favorecen recuperación de principales presas sonorenses",
+        "summary": "Sistema estatal ganó 19.8 millones de metros cúbicos en un día. El Novillo registra incremento importante.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/lluvias-favorecen-la-recuperacion-de-las-presas-en-sonora-y-tepache-registra-la-precipitacion-mas-alta-del-estado/",
+        "_added_at": "2026-08-04T09:45:02.675579-07:00"
+      },
       {
         "title": "Sonora lidera crecimiento agrícola en el norte del país",
         "summary": "Gobierno de Sonora atribuye resultados a programas de apoyo, obras hidroagrícolas y fortalecimiento del sector.",
@@ -108,6 +136,27 @@
     ],
     "sociedad": [
       {
+        "title": "Hermosillo ofrece pipas de agua gratis a familias afectadas",
+        "summary": "Programa de apoyo por servicio interrumpido. Familias pueden solicitar pipas al teléfono 073.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/familias-sin-agua-en-hermosillo-pueden-pedir-una-pipa-gratis-al-073-mientras-se-normaliza-el-servicio/",
+        "_added_at": "2026-08-04T09:45:02.675579-07:00"
+      },
+      {
+        "title": "Sonora tendrá más lluvias en agosto, afirma Conagua",
+        "summary": "Pronóstico favorable para el estado. Se superó la etapa crítica de calor extremo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/04/tendra-sonora-mas-lluvias-en-agosto-ya-se-supero-etapa-critica-del-calor-afirma-conagua/",
+        "_added_at": "2026-08-04T09:45:02.675579-07:00"
+      },
+      {
+        "title": "Plaza Satélite de Hermosillo lucha por resurgimiento",
+        "summary": "Centro comercial con 30 años de historia enfrenta abandono. Comerciantes buscan reactivación.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/03/de-la-gloria-al-olvido-plaza-satelite-de-hermosillo-un-lugar-con-mas-de-30-anos-de-recuerdos-y-donde-comerciantes-luchan-por-seguir-adelante/",
+        "_added_at": "2026-08-04T09:45:02.675579-07:00"
+      },
+      {
         "title": "Monzón traerá lluvias y alivio a temperaturas en Sonora",
         "summary": "Pronósticos indican llegada del Monzón de México con precipitaciones y descenso de temperaturas.",
         "source": "El Imparcial",
@@ -151,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-04T06:31:20.658337-07:00"
+  "last_updated": "2026-08-04T09:45:02.675579-07:00"
 }
