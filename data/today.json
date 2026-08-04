@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -50,6 +50,20 @@
     ],
     "economia": [
       {
+        "title": "Plaza Satélite de Hermosillo lucha por sobrevivir",
+        "summary": "Centro comercial con más de 30 años enfrenta declive; comerciantes trabajan por mantenerse en operación.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/03/de-la-gloria-al-olvido-plaza-satelite-de-hermosillo-un-lugar-con-mas-de-30-anos-de-recuerdos-y-donde-comerciantes-luchan-por-seguir-adelante/",
+        "_added_at": "2026-08-04T04:13:07.463209-07:00"
+      },
+      {
+        "title": "CFE suspenderá luz en tres municipios de Sonora",
+        "summary": "Corte de servicio eléctrico por 8 horas en municipios de la sierra el 5 de agosto.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/03/cfe-suspendera-el-servicio-de-luz-en-tres-municipios-de-sonora-este-5-de-agosto-conoce-horarios/",
+        "_added_at": "2026-08-04T04:13:07.463209-07:00"
+      },
+      {
         "title": "Hermosillo activa programa emergente de pipas gratuitas",
         "summary": "Distribución de agua gratuita y reparación de tuberías por crisis hídrica.",
         "source": "El Imparcial",
@@ -65,6 +79,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Hermosillo activa programa emergente de pipas gratuitas",
+        "summary": "Municipio distribuye agua gratuita y realiza reparaciones de tuberías tras crisis hídrica.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/distribucion-gratuita-de-agua-y-reparacion-de-tuberias-programa-emergente-del-ayuntamiento-de-hermosillo-tras-lluvias/",
+        "_added_at": "2026-08-04T04:13:07.463209-07:00"
+      },
       {
         "title": "Sonora lidera casos de dengue en México con 969",
         "summary": "Sonora encabeza contagios de dengue a nivel nacional durante 2026.",
@@ -95,5 +116,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-04T01:13:33.792609-07:00"
+  "last_updated": "2026-08-04T04:13:07.463209-07:00"
 }
