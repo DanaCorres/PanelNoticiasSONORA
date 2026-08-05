@@ -1,8 +1,29 @@
 {
   "date": "2026-08-05",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sentencian a 25 años por homicidio en Hermosillo",
+        "summary": "Hombre condenado a prisión por matar a rescatista durante traslado a centro de rehabilitación en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/04/sentencian-a-25-anos-de-carcel-a-hombre-por-homicidio-durante-traslado-a-centro-de-rehabilitacion-en-hermosillo/",
+        "_added_at": "2026-08-05T06:29:56.671697-07:00"
+      },
+      {
+        "title": "Avioneta se desploma al sur de Hermosillo",
+        "summary": "Accidente aéreo deja tres personas lesionadas tras despegar hacia Culiacán en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/04/avioneta-se-desploma-al-sur-de-hermosillo-tras-despegar-rumbo-a-culiacan-hay-tres-personas-lesionadas/",
+        "_added_at": "2026-08-05T06:29:56.671697-07:00"
+      },
+      {
+        "title": "Derrame químico en Naco monitorizado",
+        "summary": "Autoridades atienden seis personas afectadas por incidente químico en Naco; refuerzan vigilancia.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/derrame-quimico-en-naco-sonora-alcalde-informa-6-atendidos/261785",
+        "_added_at": "2026-08-05T06:29:56.671697-07:00"
+      },
       {
         "title": "Avioneta se desploma en Hermosillo con tres lesionados",
         "summary": "Aeronave cayó en carretera Hermosillo-La Colorada dejando tres pasajeros heridos que fueron atendidos por bomberos.",
@@ -34,6 +55,20 @@
     ],
     "politica": [
       {
+        "title": "Gildardo Real propone frenar influencia de Morena en Hermosillo",
+        "summary": "Candidato afirma capacidad para contener presencia política de Morena en la capital del estado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/05/hay-que-frenar-la-epidemia-de-morena-en-hermosillo-yo-puedo-hacerlo-gildardo-real/",
+        "_added_at": "2026-08-05T06:29:56.671697-07:00"
+      },
+      {
+        "title": "Lorenia Valles impulsa apoyo a Mipymes sonorenses",
+        "summary": "Senadora con licencia destaca importancia de pequeñas y medianas empresas durante encuentro con jóvenes empresarios.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-llama-a-fortalecer-apoyo-a-las-mipymes/261800",
+        "_added_at": "2026-08-05T06:29:56.671697-07:00"
+      },
+      {
         "title": "Durazo espera consulta nacional para decidir sobre celulares",
         "summary": "Gobernador Alfonso Durazo aguarda resultados de encuesta nacional para política sobre uso de teléfonos en aulas.",
         "source": "El Imparcial",
@@ -57,6 +92,20 @@
     ],
     "economia": [
       {
+        "title": "Sonora supera 65% del promedio histórico de lluvias",
+        "summary": "Conagua reporta avances en precipitaciones; presas podrían alcanzar 50% almacenamiento si condiciones persisten.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/sonora-supero-el-65-del-promedio-historico-de-lluvias-este-ano-conagua/",
+        "_added_at": "2026-08-05T06:29:56.671697-07:00"
+      },
+      {
+        "title": "Crece nivel de agua en presas de Sonora",
+        "summary": "Almacenamiento de agua en presas de Sonora supera niveles de agosto 2025; podrían llenarse este año.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/05/crece-almacenamiento-de-agua-en-presas-de-sonora-superan-niveles-de-agosto-2025-podrian-llenarse-este-ano-segun-especialista/",
+        "_added_at": "2026-08-05T06:29:56.671697-07:00"
+      },
+      {
         "title": "Proponen programa permanente de pipas para agua en Hermosillo",
         "summary": "Plan busca abastecer agua constantemente en zonas norte de la capital ante crisis hídrica.",
         "source": "El Imparcial",
@@ -79,6 +128,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Agosto traerá temperaturas más agradables a Hermosillo",
+        "summary": "Pronóstico indica máximas de 37°C con semana lluviosa; alivio ante intenso calor previo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/agosto-traera-alivio-ante-el-calor-de-hermosillo-pronostican-maximas-de-hasta-37c-y-semana-lluviosa/",
+        "_added_at": "2026-08-05T06:29:56.671697-07:00"
+      },
+      {
+        "title": "Jornada gratuita de esterilización de mascotas en Hermosillo",
+        "summary": "Autoridades realizarán servicios de esterilización para perros y gatos; difunden requisitos para participar.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/05/realizaran-jornada-de-esterilizacion-gratuita-de-perros-y-gatos-en-hermosillo-conoce-los-requisitos/",
+        "_added_at": "2026-08-05T06:29:56.671697-07:00"
+      },
+      {
+        "title": "Tato Balderrama regresa al rap desde Hermosillo",
+        "summary": "Artista lanza proyecto \"El Barrio Se Quema II\" con mensaje de esperanza para nuevas generaciones.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/05/el-barrio-se-quema-ii-tato-balderrama-regresa-al-rap-con-un-mensaje-de-esperanza-para-las-nuevas-generaciones-desde-hermosillo/",
+        "_added_at": "2026-08-05T06:29:56.671697-07:00"
+      },
       {
         "title": "Activistas ocupan álamo centenario en frontera sonorense",
         "summary": "Manifestantes protegen árbol de 200 años para evitar su tala por construcción de muro.",
@@ -116,5 +186,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-05T04:10:34.240350-07:00"
+  "last_updated": "2026-08-05T06:29:56.671697-07:00"
 }
