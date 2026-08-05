@@ -1,8 +1,15 @@
 {
   "date": "2026-08-05",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre sigue grave por derrame tóxico en tren en Naco",
+        "summary": "Residente del ejido continúa en estado delicado tras inhalación de gases por descarrilamiento de tren de Ferromex; esperan dictamen médico.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/05/residente-del-ejido-cuauhtemoc-sigue-grave-tras-presunta-inhalacion-de-gases-por-derrame-toxico-en-descarrilamiento-de-tren-de-ferromex-en-naco-esperan-dictamen-medico/",
+        "_added_at": "2026-08-05T09:25:03.117172-07:00"
+      },
       {
         "title": "Sentencian a 25 años por homicidio en Hermosillo",
         "summary": "Hombre condenado a prisión por matar a rescatista durante traslado a centro de rehabilitación en la capital sonorense.",
@@ -92,6 +99,20 @@
     ],
     "economia": [
       {
+        "title": "Guaymas se posiciona como puerta comercial del Norte",
+        "summary": "Municipio amplía infraestructura hospitalaria, vial y seguridad para consolidarse como polo de desarrollo regional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/05/guaymas-busca-convertirse-en-la-puerta-comercial-del-norte-mientras-amplia-hospitales-carreteras-seguridad-y-apoyos-para-estudiantes/",
+        "_added_at": "2026-08-05T09:25:03.117172-07:00"
+      },
+      {
+        "title": "Apagones afectan comercios y vecinos en Ciudad Obregón",
+        "summary": "Cortes de electricidad impactan actividades comerciales y vida cotidiana en centro de la ciudad.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/05/apagones-afectan-a-comercios-y-vecinos-del-centro-de-ciudad-obregon/",
+        "_added_at": "2026-08-05T09:25:03.117172-07:00"
+      },
+      {
         "title": "Sonora supera 65% del promedio histórico de lluvias",
         "summary": "Conagua reporta avances en precipitaciones; presas podrían alcanzar 50% almacenamiento si condiciones persisten.",
         "source": "El Imparcial",
@@ -128,6 +149,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Cárcamo H Cerro Colorado alcanza 88% de avance en Hermosillo",
+        "summary": "Proyecto infraestructural en etapa final abrirá campos deportivos, skatepark y teatro al aire libre.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/carcamo-h-cerro-colorado-entra-en-su-etapa-final-con-88-de-avance-y-abrira-nuevos-campos-deportivos-skatepark-y-teatro-al-aire-libre/",
+        "_added_at": "2026-08-05T09:25:03.117172-07:00"
+      },
+      {
+        "title": "Alertan por fuertes lluvias que podrían inundar Nogales",
+        "summary": "Autoridades previenen sobre precipitaciones intensas en próximos días que convertirían calles en arroyos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/05/alertan-por-fuertes-lluvias-en-nogales-los-proximos-dias-estas-calles-podrian-convertirse-en-arroyos-o-inundarse/",
+        "_added_at": "2026-08-05T09:25:03.117172-07:00"
+      },
       {
         "title": "Agosto traerá temperaturas más agradables a Hermosillo",
         "summary": "Pronóstico indica máximas de 37°C con semana lluviosa; alivio ante intenso calor previo.",
@@ -186,5 +221,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-05T06:29:56.671697-07:00"
+  "last_updated": "2026-08-05T09:25:03.117172-07:00"
 }
