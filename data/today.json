@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -57,6 +57,13 @@
     ],
     "economia": [
       {
+        "title": "Proponen programa permanente de pipas para agua en Hermosillo",
+        "summary": "Plan busca abastecer agua constantemente en zonas norte de la capital ante crisis hídrica.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/proponen-programa-permanente-de-pipas-para-abastecer-agua-en-el-norte-de-hermosillo/",
+        "_added_at": "2026-08-05T04:10:34.240350-07:00"
+      },
+      {
         "title": "Abarrotes descartan alza en bebidas de Coca-Cola",
         "summary": "Comerciantes hermosillenses niegan impacto de incremento nacional de precios en refrescos Coca-Cola.",
         "source": "El Imparcial",
@@ -72,6 +79,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Activistas ocupan álamo centenario en frontera sonorense",
+        "summary": "Manifestantes protegen árbol de 200 años para evitar su tala por construcción de muro.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/05/un-alamo-de-mas-de-200-anos-resiste-en-la-frontera-de-arizona-con-sonora-tras-la-tala-de-otros-tres-mientras-manifestantes-ocupan-sus-ramas-para-impedir-que-el-segundo-muro-de-trump-lo-destruya/",
+        "_added_at": "2026-08-05T04:10:34.240350-07:00"
+      },
       {
         "title": "Vecinos bloquean bulevar por falta de agua en Hermosillo",
         "summary": "Ciudadanos realizan bloqueo en López Portillo tras siete días sin servicio de agua.",
@@ -102,5 +116,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-05T01:12:02.752277-07:00"
+  "last_updated": "2026-08-05T04:10:34.240350-07:00"
 }
