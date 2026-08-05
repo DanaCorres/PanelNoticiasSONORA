@@ -1,8 +1,36 @@
 {
   "date": "2026-08-05",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Descomponen 567 mil pastillas fentanilo en Nogales",
+        "summary": "Autoridades aseguran gran cantidad de fentanilo en camioneta en garita Dennis DeConcini; conductor detenido y entregado a DEA.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/05/decomisan-mas-de-567-mil-pastillas-de-fentanilo-ocultas-en-una-camioneta-en-la-garita-dennis-deconcini-de-nogales/",
+        "_added_at": "2026-08-05T12:09:11.836436-07:00"
+      },
+      {
+        "title": "Interceptan envío peyote en empresa paquetería Hermosillo",
+        "summary": "Aseguran seis ejemplares de peyote que viajaba de Torreón a Rosarito en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/interceptan-envio-de-6-ejemplares-de-peyote-en-empresa-de-paqueteria-de-hermosillo-iban-de-torreon-a-rosarito/",
+        "_added_at": "2026-08-05T12:09:11.836436-07:00"
+      },
+      {
+        "title": "Detienen hombre por amenazar y agredir abuela Hermosillo",
+        "summary": "Capturan individuo tras amenazas y agresiones contra su abuela en sur de Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/05/detienen-a-hombre-tras-amenazar-y-agredir-a-su-abuela-al-sur-de-hermosillo/",
+        "_added_at": "2026-08-05T12:09:11.836436-07:00"
+      },
+      {
+        "title": "Roban joyas en vuelo Volaris Guadalajara-Hermosillo",
+        "summary": "Pasajero reporta pérdida de 70 mil pesos en joyas; aerolínea ofrece 2 mil de compensación.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/05/me-robaron-70-mil-pesos-en-joyas-en-vuelo-volaris-de-guadalajara-a-hermosillo-solo-me-ofrecen-2-mil-de-recompensa-denuncia-joven/",
+        "_added_at": "2026-08-05T12:09:11.836436-07:00"
+      },
       {
         "title": "Hombre sigue grave por derrame tóxico en tren en Naco",
         "summary": "Residente del ejido continúa en estado delicado tras inhalación de gases por descarrilamiento de tren de Ferromex; esperan dictamen médico.",
@@ -44,23 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/sentencian-a-25-anos-de-prision-a-hombre-que-mato-a-rescatista-en-hermosillo/",
         "_added_at": "2026-08-05T01:12:02.752277-07:00"
-      },
-      {
-        "title": "Identifican a presunto asesino de policía municipal",
-        "summary": "AMIC identifica responsable del asesinato de policía en el Centro de Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/amic-tiene-identificado-al-presunto-responsable-del-asesinato-del-policia-municipal-en-el-centro-de-hermosillo/",
-        "_added_at": "2026-08-05T01:12:02.752277-07:00"
-      },
-      {
-        "title": "Banda El Cajoncito sufre accidente en Agua Prieta",
-        "summary": "Accidente carretero en Agua Prieta dejó cinco heridos graves y seis leves entre integrantes de la banda.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/banda-el-cajoncito-sufre-accidente-en-agua-prieta/261787",
-        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Guaymas apunta a consolidarse como polo desarrollo",
+        "summary": "Gobierno Sonora anuncia proyectos en infraestructura, salud, seguridad, turismo y conectividad para Guaymas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/guaymas-busca-consolidarse-como-polo-de-desarrollo/261816",
+        "_added_at": "2026-08-05T12:09:11.836436-07:00"
+      },
       {
         "title": "Gildardo Real propone frenar influencia de Morena en Hermosillo",
         "summary": "Candidato afirma capacidad para contener presencia política de Morena en la capital del estado.",
@@ -98,6 +119,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Profeco recibe quejas cobros propina hasta 20% Cajeme",
+        "summary": "Consumidores denuncian altos porcentajes propina en restaurantes Ciudad Obregón ante comisión.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/05/cobros-de-hasta-20-de-propina-llegan-a-profeco-esto-deben-saber-los-consumidores-antes-de-pagar-la-cuenta/",
+        "_added_at": "2026-08-05T12:09:11.836436-07:00"
+      },
       {
         "title": "Guaymas se posiciona como puerta comercial del Norte",
         "summary": "Municipio amplía infraestructura hospitalaria, vial y seguridad para consolidarse como polo de desarrollo regional.",
@@ -150,6 +178,27 @@
     ],
     "sociedad": [
       {
+        "title": "Pipas abastecen colonias sin agua Hermosillo",
+        "summary": "Agua de Hermosillo distribuye pipas en colonias afectadas por fallas suministro de agua.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/agua-de-hermosillo-lleva-pipas-a-colonias-afectadas-por-fallas-en-el-suministro-conoce-los-puntos-de-abastecimiento/",
+        "_added_at": "2026-08-05T12:09:11.836436-07:00"
+      },
+      {
+        "title": "Monzón traerá tormentas Sonora esta tarde",
+        "summary": "Advierte por lluvias fuertes y temperatura alta en diferentes zonas del estado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/05/monzon-traera-otra-tarde-de-tormentas-a-sonora-mientras-persisten-las-altas-temperaturas-en-que-zonas-podria-llover/",
+        "_added_at": "2026-08-05T12:09:11.836436-07:00"
+      },
+      {
+        "title": "Unison instala módulos hidratación prevenir golpes calor",
+        "summary": "Universidad instala puntos gratuitos agua en campus Hermosillo para estudiantes durante calor intenso.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/05/unison-instalara-modulos-gratuitos-de-hidratacion-en-campus-hermosillo-para-prevenir-golpes-de-calor-en-estudiantes/",
+        "_added_at": "2026-08-05T12:09:11.836436-07:00"
+      },
+      {
         "title": "Cárcamo H Cerro Colorado alcanza 88% de avance en Hermosillo",
         "summary": "Proyecto infraestructural en etapa final abrirá campos deportivos, skatepark y teatro al aire libre.",
         "source": "El Imparcial",
@@ -197,29 +246,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/04/vecinos-bloquean-bulevar-lopez-portillo-en-hermosillo-ante-falta-de-agua-denuncian-hasta-7-dias-sin-servicio/",
         "_added_at": "2026-08-05T01:12:02.752277-07:00"
-      },
-      {
-        "title": "Proponen programa permanente de pipas de agua",
-        "summary": "Iniciativa para abastecimiento permanente de agua mediante pipas en norte de Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/proponen-programa-permanente-de-pipas-para-abastecer-agua-en-el-norte-de-hermosillo/",
-        "_added_at": "2026-08-05T01:12:02.752277-07:00"
-      },
-      {
-        "title": "Sonora supera 65% del promedio histórico de lluvias",
-        "summary": "Conagua reporta que estado ha recibido precipitaciones superiores al promedio anual histórico.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/sonora-supero-el-65-del-promedio-historico-de-lluvias-este-ano-conagua/",
-        "_added_at": "2026-08-05T01:12:02.752277-07:00"
-      },
-      {
-        "title": "Alcalde de Naco monitorea derrame químico",
-        "summary": "A diez días del incidente en Naco, seis personas fueron atendidas y se refuerza vigilancia médica.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/derrame-quimico-en-naco-sonora-alcalde-informa-6-atendidos/261785",
-        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-05T09:25:03.117172-07:00"
+  "last_updated": "2026-08-05T12:09:11.836436-07:00"
 }
