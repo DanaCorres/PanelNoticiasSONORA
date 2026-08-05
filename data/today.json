@@ -1,274 +1,106 @@
 {
-  "date": "2026-08-04",
-  "run_count": 8,
+  "date": "2026-08-05",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
         "title": "Avioneta se desploma en Hermosillo con tres lesionados",
-        "summary": "Tres pasajeros resultaron heridos al caer avioneta en carretera de Hermosillo. Bomberos atendieron a los afectados.",
+        "summary": "Aeronave cayó en carretera Hermosillo-La Colorada dejando tres pasajeros heridos que fueron atendidos por bomberos.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/tres-pasajeros-resultan-lesionados-por-desplome-de-avioneta-en-carretera-de-hermosillo-a-la-colorada/",
-        "_added_at": "2026-08-04T22:34:51.816810-07:00"
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
+      },
+      {
+        "title": "Sentencian a 25 años al homicida de rescatista",
+        "summary": "Condenan a hombre por muerte de rescatista durante traslado a rehabilitación en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/sentencian-a-25-anos-de-prision-a-hombre-que-mato-a-rescatista-en-hermosillo/",
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
+      },
+      {
+        "title": "Identifican a presunto asesino de policía municipal",
+        "summary": "AMIC identifica responsable del asesinato de policía en el Centro de Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/amic-tiene-identificado-al-presunto-responsable-del-asesinato-del-policia-municipal-en-el-centro-de-hermosillo/",
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       },
       {
         "title": "Banda El Cajoncito sufre accidente en Agua Prieta",
-        "summary": "Accidente carretero en Agua Prieta dejó cinco heridos graves y seis leves entre integrantes de banda musical.",
+        "summary": "Accidente carretero en Agua Prieta dejó cinco heridos graves y seis leves entre integrantes de la banda.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/banda-el-cajoncito-sufre-accidente-en-agua-prieta/261787",
-        "_added_at": "2026-08-04T22:34:51.816810-07:00"
-      },
-      {
-        "title": "Avioneta se desploma al sureste de Hermosillo",
-        "summary": "Cessna 206 cae cerca de rancho El Charolais; bomberos atienden tres personas lesionadas en el kilómetro 24.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/bomberos-de-hermosillo-atienden-caida-de-avioneta-y-estabilizan-a-tres-lesionados/",
-        "_added_at": "2026-08-04T18:17:37.203607-07:00"
-      },
-      {
-        "title": "Sentencian a 25 años al asesino de rescatista hermosillense",
-        "summary": "Hombre condenado por matar a personal de rescate en Hermosillo recibe sentencia de 25 años de prisión.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/sentencian-a-25-anos-de-prision-a-hombre-que-mato-a-rescatista-en-hermosillo/",
-        "_added_at": "2026-08-04T18:17:37.203607-07:00"
-      },
-      {
-        "title": "Camionazo deja 40 víctimas entre Guaymas y Obregón",
-        "summary": "Accidente vial en carretera Guaymas-Obregón genera numerosos lesionados trasladados a hospitales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/guaymas-lista-de-39-lesionados-en-camion-norte-de-sinaloa/261764",
-        "_added_at": "2026-08-04T18:17:37.203607-07:00"
-      },
-      {
-        "title": "Identifican presunto autor de asesinato policial en Hermosillo",
-        "summary": "Autoridades identifican al responsable del homicidio de policía municipal ocurrido en el centro de la capital.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/amic-tiene-identificado-al-presunto-responsable-del-asesinato-del-policia-municipal-en-el-centro-de-hermosillo/",
-        "_added_at": "2026-08-04T15:02:56.765963-07:00"
-      },
-      {
-        "title": "Detienen sujeto por allanamiento y amenazas en Nogales",
-        "summary": "Capturan individuo acusado de allanamiento de morada y amenazas en la fronteriza.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/04/detenido-por-allanamiento-de-morada-y-amenazas/",
-        "_added_at": "2026-08-04T15:02:56.765963-07:00"
-      },
-      {
-        "title": "Capturan presunto halcón criminal en Nogales",
-        "summary": "Detienen a sujeto que reportaba movimientos policiales por radio para grupos criminales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/04/cae-presunto-halcon-en-nogales-usaba-radio-para-reportar-movimientos-de-la-policia-fiscalia/",
-        "_added_at": "2026-08-04T15:02:56.765963-07:00"
-      },
-      {
-        "title": "Accidente vehicular deja muerto en carretera Obregón-Empalme",
-        "summary": "Choque de autobús en vía Obregón-Guaymas cobra vida de chofer e hiere a múltiples pasajeros.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/identifican-al-chofer-fallecido-en-choque-de-autobus-en-carretera-obregon-empalme-y-actualizan-saldo-de-heridos-incluidos-menores-y-adultos-mayores/",
-        "_added_at": "2026-08-04T15:02:56.765963-07:00"
-      },
-      {
-        "title": "Camionazo deja un muerto y 37 lesionados en Sonora",
-        "summary": "Accidente en carretera Guaymas-Obregón causó una muerte y decenas de heridos. Operador presuntamente se quedó dormido.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/accidente-entre-autobus-y-trailer-en-guaymas-deja-un-muerto/261761",
-        "_added_at": "2026-08-04T12:15:28.322204-07:00"
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Durazo ve Puerto de Guaymas como plataforma económica estatal",
-        "summary": "Gobernador destaca potencial del puerto como catalizador para relanzamiento económico de Sonora.",
+        "title": "Durazo espera consulta nacional para decidir sobre celulares",
+        "summary": "Gobernador Alfonso Durazo aguarda resultados de encuesta nacional para política sobre uso de teléfonos en aulas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/el-gobernador-alfonso-durazo-esperara-resultados-de-consulta-nacional-para-decidir-sobre-uso-de-celulares-en-las-aulas-de-sonora/",
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
+      },
+      {
+        "title": "Puerto de Guaymas como plataforma económica de Sonora",
+        "summary": "Durazo afirma que Puerto de Guaymas puede relanzar la economía estatal.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/04/puerto-de-guaymas-puede-convertirse-en-plataforma-para-relanzamiento-economico-de-sonora-afirma-durazo/",
-        "_added_at": "2026-08-04T22:34:51.816810-07:00"
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       },
       {
         "title": "Lamarque dialoga con trabajadores y alcaldes serranos",
-        "summary": "Javier Lamarque visitó plantas y se reunió con presidentes municipales para escuchar necesidades de la sierra sonorense.",
+        "summary": "Javier Lamarque visitó planta textil y se reunió con presidentes municipales de la sierra.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-destaca-que-la-fuerza-de-sonora-esta-en-su-gente/261798",
-        "_added_at": "2026-08-04T22:34:51.816810-07:00"
-      },
-      {
-        "title": "Despiden con honores a director del Implan Carrillo Atondo",
-        "summary": "Cabildo de Hermosillo rinde homenaje al fallecido director del Instituto Municipal de Planeación.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/04/despiden-con-guardia-de-honor-al-director-del-implan-jose-eufemio-carrillo-atondo-en-el-cabildo-de-hermosillo/",
-        "_added_at": "2026-08-04T18:17:37.203607-07:00"
-      },
-      {
-        "title": "Durazo aguardará consulta nacional sobre celulares en escuelas",
-        "summary": "Gobernador Durazo espera resultados de encuesta ciudadana antes de regular uso de móviles en aulas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/el-gobernador-alfonso-durazo-esperara-resultados-de-consulta-nacional-para-decidir-sobre-uso-de-celulares-en-las-aulas-de-sonora/",
-        "_added_at": "2026-08-04T15:02:56.765963-07:00"
-      },
-      {
-        "title": "Colosio en el radar para gubernatura de Sonora en 2027",
-        "summary": "Movimiento Ciudadano realiza plenaria en Guaymas agosto 24 enfocando estrategia electoral estatal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/04/colosio-vuelve-al-radar-por-la-gubernatura-de-sonora-ante-la-plenaria-que-mc-realizara-en-guaymas-el-24-de-agosto-y-que-coloca-al-estado-en-el-centro-de-su-estrategia-rumbo-a-2027/",
-        "_added_at": "2026-08-04T09:45:02.675579-07:00"
-      },
-      {
-        "title": "Nuevo coordinador de Guardia Nacional asume cargo en Sonora",
-        "summary": "General Alberto Román González Fernández rinde protesta como coordinador estatal de la Guardia Nacional.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/nombran-nuevo-coordinador-de-la-guardia-nacional-en-sonora/261760",
-        "_added_at": "2026-08-04T06:31:20.658337-07:00"
-      },
-      {
-        "title": "Lamarque se reúne con alcaldes y líderes del PT",
-        "summary": "Encuentro morenista con presidentes municipales para discutir unidad en Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-se-reune-con-alcaldes-y-lideres-del-pt-en-sonora/261740",
-        "_added_at": "2026-08-04T01:13:33.792609-07:00"
-      },
-      {
-        "title": "Valles: encuesta real será conocida finales de agosto",
-        "summary": "Dirigente morenista destaca proceso interno con paridad de género en Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/verdadera-encuesta-la-conoceremos-a-finales-de-agosto-valles/261735",
-        "_added_at": "2026-08-04T01:13:33.792609-07:00"
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Abarrotes descartan alza en bebidas Coca-Cola hermosillenses",
-        "summary": "Comerciantes locales niegan afectación por incremento de precios nacional de refrescos.",
+        "title": "Abarrotes descartan alza en bebidas de Coca-Cola",
+        "summary": "Comerciantes hermosillenses niegan impacto de incremento nacional de precios en refrescos Coca-Cola.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/coca-cola-incrementa-precios-a-nivel-nacional-pero-abarrotes-de-hermosillo-niegan-afectacion/",
-        "_added_at": "2026-08-04T18:17:37.203607-07:00"
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       },
       {
-        "title": "Sonora consolida inversiones históricas por 32 mil millones",
-        "summary": "Gobierno estatal impulsa comité promotor de inversiones para fortalecer desarrollo económico regional.",
+        "title": "Lorenia Valles destaca importancia de Mipymes sonorenses",
+        "summary": "Senadora con licencia subraya papel de pequeñas y medianas empresas en economía estatal.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/gobierno-de-sonora-impulsa-comite-promotor-de-inversiones/261778",
-        "_added_at": "2026-08-04T15:02:56.765963-07:00"
-      },
-      {
-        "title": "Lluvias favorecen recuperación de principales presas sonorenses",
-        "summary": "Sistema estatal ganó 19.8 millones de metros cúbicos en un día. El Novillo registra incremento importante.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/lluvias-favorecen-la-recuperacion-de-las-presas-en-sonora-y-tepache-registra-la-precipitacion-mas-alta-del-estado/",
-        "_added_at": "2026-08-04T09:45:02.675579-07:00"
-      },
-      {
-        "title": "Sonora lidera crecimiento agrícola en el norte del país",
-        "summary": "Gobierno de Sonora atribuye resultados a programas de apoyo, obras hidroagrícolas y fortalecimiento del sector.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-lidera-crecimiento-del-campo-en-el-norte-adm/261759",
-        "_added_at": "2026-08-04T06:31:20.658337-07:00"
-      },
-      {
-        "title": "CFE suspenderá servicio eléctrico en municipios de Sonora",
-        "summary": "CFE realizará trabajos de mejora suspendiendo servicio en varios municipios sonorenses.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/02/cfe-suspendera-servicio-electrico-en-4-municipios-de-sonora-este-martes-por-trabajos-de-mejora/",
-        "_added_at": "2026-08-04T06:31:20.658337-07:00"
-      },
-      {
-        "title": "Plaza Satélite de Hermosillo lucha por sobrevivir",
-        "summary": "Centro comercial con más de 30 años enfrenta declive; comerciantes trabajan por mantenerse en operación.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/de-la-gloria-al-olvido-plaza-satelite-de-hermosillo-un-lugar-con-mas-de-30-anos-de-recuerdos-y-donde-comerciantes-luchan-por-seguir-adelante/",
-        "_added_at": "2026-08-04T04:13:07.463209-07:00"
-      },
-      {
-        "title": "CFE suspenderá luz en tres municipios de Sonora",
-        "summary": "Corte de servicio eléctrico por 8 horas en municipios de la sierra el 5 de agosto.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/cfe-suspendera-el-servicio-de-luz-en-tres-municipios-de-sonora-este-5-de-agosto-conoce-horarios/",
-        "_added_at": "2026-08-04T04:13:07.463209-07:00"
-      },
-      {
-        "title": "Hermosillo activa programa emergente de pipas gratuitas",
-        "summary": "Distribución de agua gratuita y reparación de tuberías por crisis hídrica.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/distribucion-gratuita-de-agua-y-reparacion-de-tuberias-programa-emergente-del-ayuntamiento-de-hermosillo-tras-lluvias/",
-        "_added_at": "2026-08-04T01:13:33.792609-07:00"
-      },
-      {
-        "title": "CFE corta luz en tres municipios serranos de Sonora",
-        "summary": "Suspensión de ocho horas de servicio eléctrico en municipios de la sierra.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/tres-municipios-de-la-sierra-de-sonora-estaran-sin-luz-por-ocho-horas-este-miercoles/",
-        "_added_at": "2026-08-04T01:13:33.792609-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-llama-a-fortalecer-apoyo-a-las-mipymes/261800",
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Vecinos bloquean bulevar López Portillo por falta de agua",
-        "summary": "Ciudadanos protestan en Hermosillo tras denunciar hasta siete días sin servicio de agua potable.",
+        "title": "Vecinos bloquean bulevar por falta de agua en Hermosillo",
+        "summary": "Ciudadanos realizan bloqueo en López Portillo tras siete días sin servicio de agua.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/04/vecinos-bloquean-bulevar-lopez-portillo-en-hermosillo-ante-falta-de-agua-denuncian-hasta-7-dias-sin-servicio/",
-        "_added_at": "2026-08-04T22:34:51.816810-07:00"
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       },
       {
-        "title": "Activistas ocupan álamo centenario para protegerlo frontera",
-        "summary": "Manifestantes ocupan árbol de más 200 años en frontera Arizona-Sonora para impedir su derribo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/05/un-alamo-de-mas-de-200-anos-resiste-en-la-frontera-de-arizona-con-sonora-tras-la-tala-de-otros-tres-mientras-manifestantes-ocupan-sus-ramas-para-impedir-que-el-segundo-muro-de-trump-lo-destruya/",
-        "_added_at": "2026-08-04T22:34:51.816810-07:00"
-      },
-      {
-        "title": "Sonora supera 65% de promedio histórico de lluvias",
-        "summary": "Conagua reporta que el estado ha registrado precipitaciones por encima del promedio anual esperado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/sonora-supero-el-65-del-promedio-historico-de-lluvias-este-ano-conagua/",
-        "_added_at": "2026-08-04T18:17:37.203607-07:00"
-      },
-      {
-        "title": "Proponen programa permanente de pipas de agua en Hermosillo",
-        "summary": "Iniciativa busca abastecer colonias sin servicio mediante sistema permanente de distribución.",
+        "title": "Proponen programa permanente de pipas de agua",
+        "summary": "Iniciativa para abastecimiento permanente de agua mediante pipas en norte de Hermosillo.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/proponen-programa-permanente-de-pipas-para-abastecer-agua-en-el-norte-de-hermosillo/",
-        "_added_at": "2026-08-04T18:17:37.203607-07:00"
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       },
       {
-        "title": "Hermosillo enfrenta crisis de agua con distribución de pipas",
-        "summary": "Autoridades amplían operativo de pipas para abastecer colonias afectadas por falta de suministro.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/04/gobierno-de-hermosillo-amplia-operativo-de-pipas-para-abastecer-de-agua-a-colonias-afectadas/",
-        "_added_at": "2026-08-04T15:02:56.765963-07:00"
-      },
-      {
-        "title": "Diez sonorenses mueren por golpe de calor en 2026",
-        "summary": "Registro de defunciones por altas temperaturas afecta principalmente a Hermosillo con ocho casos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/mueren-10-sonorenses-por-golpe-de-calor-8-son-en-hermosillo/261782",
-        "_added_at": "2026-08-04T15:02:56.765963-07:00"
-      },
-      {
-        "title": "Lluvia favorece recuperación de principales presas de Sonora",
-        "summary": "Precipitaciones benefician almacenamiento de agua en reservorios estatales durante temporada de secas.",
+        "title": "Sonora supera 65% del promedio histórico de lluvias",
+        "summary": "Conagua reporta que estado ha recibido precipitaciones superiores al promedio anual histórico.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/lluvias-favorecen-la-recuperacion-de-las-presas-en-sonora-y-tepache-registra-la-precipitacion-mas-alta-del-estado/",
-        "_added_at": "2026-08-04T15:02:56.765963-07:00"
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/sonora-supero-el-65-del-promedio-historico-de-lluvias-este-ano-conagua/",
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       },
       {
-        "title": "Derrame químico en Naco deja seis personas atendidas",
-        "summary": "Alcalde mantiene vigilancia tras incidente en municipio fronterizo con atención médica reforzada.",
+        "title": "Alcalde de Naco monitorea derrame químico",
+        "summary": "A diez días del incidente en Naco, seis personas fueron atendidas y se refuerza vigilancia médica.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/derrame-quimico-en-naco-sonora-alcalde-informa-6-atendidos/261785",
-        "_added_at": "2026-08-04T15:02:56.765963-07:00"
-      },
-      {
-        "title": "Cruz Roja Hermosillo atendió 100 servicios por calor extremo",
-        "summary": "Entre abril y julio registró 100 atenciones relacionadas con temperaturas altas, 59 casos más que 2025.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/cruz-roja-hermosillo-atendio-100-servicios-por-altas-temperaturas-entre-abril-y-julio-59-casos-mas-que-en-2025/",
-        "_added_at": "2026-08-04T12:15:28.322204-07:00"
-      },
-      {
-        "title": "Hermosillo debe reparar tuberías e instalar medidores de agua",
-        "summary": "Expertos recomiendan acciones para acabar con socavones y fugas en red municipal.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/04/para-acabar-con-socavones-y-fugas-hermosillo-debe-reparar-tuberias-e-instalar-mas-medidores-de-agua/",
-        "_added_at": "2026-08-04T12:15:28.322204-07:00"
+        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-04T22:34:51.816810-07:00"
+  "last_updated": "2026-08-05T01:12:02.752277-07:00"
 }
