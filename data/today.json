@@ -1,8 +1,22 @@
 {
   "date": "2026-08-04",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Avioneta se desploma en Hermosillo con tres lesionados",
+        "summary": "Tres pasajeros resultaron heridos al caer avioneta en carretera de Hermosillo. Bomberos atendieron a los afectados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/tres-pasajeros-resultan-lesionados-por-desplome-de-avioneta-en-carretera-de-hermosillo-a-la-colorada/",
+        "_added_at": "2026-08-04T22:34:51.816810-07:00"
+      },
+      {
+        "title": "Banda El Cajoncito sufre accidente en Agua Prieta",
+        "summary": "Accidente carretero en Agua Prieta dejó cinco heridos graves y seis leves entre integrantes de banda musical.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/banda-el-cajoncito-sufre-accidente-en-agua-prieta/261787",
+        "_added_at": "2026-08-04T22:34:51.816810-07:00"
+      },
       {
         "title": "Avioneta se desploma al sureste de Hermosillo",
         "summary": "Cessna 206 cae cerca de rancho El Charolais; bomberos atienden tres personas lesionadas en el kilómetro 24.",
@@ -58,23 +72,23 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/accidente-entre-autobus-y-trailer-en-guaymas-deja-un-muerto/261761",
         "_added_at": "2026-08-04T12:15:28.322204-07:00"
-      },
-      {
-        "title": "Arrestan a hombre armado con navaja al norte de Hermosillo",
-        "summary": "Detención de sujeto identificado como \"El Tony Lomas\" portando arma blanca.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/04/arrestan-a-el-tony-lomas-joven-que-portaba-un-cuchillo-en-via-publica-al-norte-de-hermosillo/",
-        "_added_at": "2026-08-04T12:15:28.322204-07:00"
-      },
-      {
-        "title": "Camionazo en Guaymas-Obregón deja un muerto y 39 lesionados",
-        "summary": "Accidente en carretera Federal México 15 durante la noche. Operador posiblemente se quedó dormido. Hay adolescente grave entre las víctimas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/04/camionazo-en-carretera-obregonempalme-deja-un-muerto-y-39-lesionados-entre-las-victimas-hay-ninos-y-adultos-mayores/",
-        "_added_at": "2026-08-04T09:45:02.675579-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Durazo ve Puerto de Guaymas como plataforma económica estatal",
+        "summary": "Gobernador destaca potencial del puerto como catalizador para relanzamiento económico de Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/04/puerto-de-guaymas-puede-convertirse-en-plataforma-para-relanzamiento-economico-de-sonora-afirma-durazo/",
+        "_added_at": "2026-08-04T22:34:51.816810-07:00"
+      },
+      {
+        "title": "Lamarque dialoga con trabajadores y alcaldes serranos",
+        "summary": "Javier Lamarque visitó plantas y se reunió con presidentes municipales para escuchar necesidades de la sierra sonorense.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-destaca-que-la-fuerza-de-sonora-esta-en-su-gente/261798",
+        "_added_at": "2026-08-04T22:34:51.816810-07:00"
+      },
       {
         "title": "Despiden con honores a director del Implan Carrillo Atondo",
         "summary": "Cabildo de Hermosillo rinde homenaje al fallecido director del Instituto Municipal de Planeación.",
@@ -185,6 +199,20 @@
     ],
     "sociedad": [
       {
+        "title": "Vecinos bloquean bulevar López Portillo por falta de agua",
+        "summary": "Ciudadanos protestan en Hermosillo tras denunciar hasta siete días sin servicio de agua potable.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/04/vecinos-bloquean-bulevar-lopez-portillo-en-hermosillo-ante-falta-de-agua-denuncian-hasta-7-dias-sin-servicio/",
+        "_added_at": "2026-08-04T22:34:51.816810-07:00"
+      },
+      {
+        "title": "Activistas ocupan álamo centenario para protegerlo frontera",
+        "summary": "Manifestantes ocupan árbol de más 200 años en frontera Arizona-Sonora para impedir su derribo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/05/un-alamo-de-mas-de-200-anos-resiste-en-la-frontera-de-arizona-con-sonora-tras-la-tala-de-otros-tres-mientras-manifestantes-ocupan-sus-ramas-para-impedir-que-el-segundo-muro-de-trump-lo-destruya/",
+        "_added_at": "2026-08-04T22:34:51.816810-07:00"
+      },
+      {
         "title": "Sonora supera 65% de promedio histórico de lluvias",
         "summary": "Conagua reporta que el estado ha registrado precipitaciones por encima del promedio anual esperado.",
         "source": "El Imparcial",
@@ -239,22 +267,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/04/para-acabar-con-socavones-y-fugas-hermosillo-debe-reparar-tuberias-e-instalar-mas-medidores-de-agua/",
         "_added_at": "2026-08-04T12:15:28.322204-07:00"
-      },
-      {
-        "title": "Hermosillo ofrece pipas de agua gratis a familias afectadas",
-        "summary": "Programa de apoyo por servicio interrumpido. Familias pueden solicitar pipas al teléfono 073.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/familias-sin-agua-en-hermosillo-pueden-pedir-una-pipa-gratis-al-073-mientras-se-normaliza-el-servicio/",
-        "_added_at": "2026-08-04T09:45:02.675579-07:00"
-      },
-      {
-        "title": "Sonora tendrá más lluvias en agosto, afirma Conagua",
-        "summary": "Pronóstico favorable para el estado. Se superó la etapa crítica de calor extremo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/04/tendra-sonora-mas-lluvias-en-agosto-ya-se-supero-etapa-critica-del-calor-afirma-conagua/",
-        "_added_at": "2026-08-04T09:45:02.675579-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-04T18:17:37.203607-07:00"
+  "last_updated": "2026-08-04T22:34:51.816810-07:00"
 }
