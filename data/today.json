@@ -1,8 +1,29 @@
 {
   "date": "2026-08-04",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Avioneta se desploma al sureste de Hermosillo",
+        "summary": "Cessna 206 cae cerca de rancho El Charolais; bomberos atienden tres personas lesionadas en el kilómetro 24.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/bomberos-de-hermosillo-atienden-caida-de-avioneta-y-estabilizan-a-tres-lesionados/",
+        "_added_at": "2026-08-04T18:17:37.203607-07:00"
+      },
+      {
+        "title": "Sentencian a 25 años al asesino de rescatista hermosillense",
+        "summary": "Hombre condenado por matar a personal de rescate en Hermosillo recibe sentencia de 25 años de prisión.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/sentencian-a-25-anos-de-prision-a-hombre-que-mato-a-rescatista-en-hermosillo/",
+        "_added_at": "2026-08-04T18:17:37.203607-07:00"
+      },
+      {
+        "title": "Camionazo deja 40 víctimas entre Guaymas y Obregón",
+        "summary": "Accidente vial en carretera Guaymas-Obregón genera numerosos lesionados trasladados a hospitales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/guaymas-lista-de-39-lesionados-en-camion-norte-de-sinaloa/261764",
+        "_added_at": "2026-08-04T18:17:37.203607-07:00"
+      },
       {
         "title": "Identifican presunto autor de asesinato policial en Hermosillo",
         "summary": "Autoridades identifican al responsable del homicidio de policía municipal ocurrido en el centro de la capital.",
@@ -51,30 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/04/camionazo-en-carretera-obregonempalme-deja-un-muerto-y-39-lesionados-entre-las-victimas-hay-ninos-y-adultos-mayores/",
         "_added_at": "2026-08-04T09:45:02.675579-07:00"
-      },
-      {
-        "title": "Nogales: decomisan 182 mil pastillas de fentanilo y armas",
-        "summary": "Aseguramiento de drogas y armamento en garita de Nogales durante operativo de seguridad.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/04/interceptan-armas-y-decomisan-fentanilo-en-garita-de-nogales/",
-        "_added_at": "2026-08-04T09:45:02.675579-07:00"
-      },
-      {
-        "title": "Sonora lidera casos de dengue en México con 969 contagios",
-        "summary": "Sonora concentra el 29% de los casos de dengue a nivel nacional, liderando con 969 contagios de los 3 mil 351 totales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/sonora-lidera-casos-de-dengue-en-mexico-con-969-contagios-en-2026/",
-        "_added_at": "2026-08-04T06:31:20.658337-07:00"
-      },
-      {
-        "title": "Ciclista muere en carretera Hermosillo-Ures",
-        "summary": "Muerte de ciclista genera llamado para mejorar seguridad vial en la zona.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/llamado-urgente-para-mejorar-la-seguridad-vial-tras-la-muerte-de-ciclista-en-carretera-hermosillo-ures/",
-        "_added_at": "2026-08-04T01:13:33.792609-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Despiden con honores a director del Implan Carrillo Atondo",
+        "summary": "Cabildo de Hermosillo rinde homenaje al fallecido director del Instituto Municipal de Planeación.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/04/despiden-con-guardia-de-honor-al-director-del-implan-jose-eufemio-carrillo-atondo-en-el-cabildo-de-hermosillo/",
+        "_added_at": "2026-08-04T18:17:37.203607-07:00"
+      },
       {
         "title": "Durazo aguardará consulta nacional sobre celulares en escuelas",
         "summary": "Gobernador Durazo espera resultados de encuesta ciudadana antes de regular uso de móviles en aulas.",
@@ -112,6 +119,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Abarrotes descartan alza en bebidas Coca-Cola hermosillenses",
+        "summary": "Comerciantes locales niegan afectación por incremento de precios nacional de refrescos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/coca-cola-incrementa-precios-a-nivel-nacional-pero-abarrotes-de-hermosillo-niegan-afectacion/",
+        "_added_at": "2026-08-04T18:17:37.203607-07:00"
+      },
       {
         "title": "Sonora consolida inversiones históricas por 32 mil millones",
         "summary": "Gobierno estatal impulsa comité promotor de inversiones para fortalecer desarrollo económico regional.",
@@ -171,6 +185,20 @@
     ],
     "sociedad": [
       {
+        "title": "Sonora supera 65% de promedio histórico de lluvias",
+        "summary": "Conagua reporta que el estado ha registrado precipitaciones por encima del promedio anual esperado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/sonora-supero-el-65-del-promedio-historico-de-lluvias-este-ano-conagua/",
+        "_added_at": "2026-08-04T18:17:37.203607-07:00"
+      },
+      {
+        "title": "Proponen programa permanente de pipas de agua en Hermosillo",
+        "summary": "Iniciativa busca abastecer colonias sin servicio mediante sistema permanente de distribución.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/proponen-programa-permanente-de-pipas-para-abastecer-agua-en-el-norte-de-hermosillo/",
+        "_added_at": "2026-08-04T18:17:37.203607-07:00"
+      },
+      {
         "title": "Hermosillo enfrenta crisis de agua con distribución de pipas",
         "summary": "Autoridades amplían operativo de pipas para abastecer colonias afectadas por falta de suministro.",
         "source": "Proyecto Puente",
@@ -225,22 +253,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/04/tendra-sonora-mas-lluvias-en-agosto-ya-se-supero-etapa-critica-del-calor-afirma-conagua/",
         "_added_at": "2026-08-04T09:45:02.675579-07:00"
-      },
-      {
-        "title": "Plaza Satélite de Hermosillo lucha por resurgimiento",
-        "summary": "Centro comercial con 30 años de historia enfrenta abandono. Comerciantes buscan reactivación.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/03/de-la-gloria-al-olvido-plaza-satelite-de-hermosillo-un-lugar-con-mas-de-30-anos-de-recuerdos-y-donde-comerciantes-luchan-por-seguir-adelante/",
-        "_added_at": "2026-08-04T09:45:02.675579-07:00"
-      },
-      {
-        "title": "Monzón traerá lluvias y alivio a temperaturas en Sonora",
-        "summary": "Pronósticos indican llegada del Monzón de México con precipitaciones y descenso de temperaturas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/03/el-monzon-de-mexico-traera-lluvias-y-frescura-a-sonora-pronosticos-y-temperaturas-esperadas/",
-        "_added_at": "2026-08-04T06:31:20.658337-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-04T15:02:56.765963-07:00"
+  "last_updated": "2026-08-04T18:17:37.203607-07:00"
 }
