@@ -1,8 +1,22 @@
 {
   "date": "2026-08-06",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Aseguran cactus de peyote en envío interceptado",
+        "summary": "Seis ejemplares de peyote fueron interceptados en paquetería hermosillense con destino a Baja California.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/interceptan-envio-de-6-ejemplares-de-peyote-en-empresa-de-paqueteria-de-hermosillo-iban-de-torreon-a-rosarito/",
+        "_added_at": "2026-08-06T06:28:16.073505-07:00"
+      },
+      {
+        "title": "Sonora lidera casos de golpes de calor a nivel nacional",
+        "summary": "Sonora registra primer lugar en golpes de calor y segundo en muertes por esta causa durante 2026.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/sonora-ocupa-primer-lugar-nacional-por-golpes-de-calor-y-segundo-lugar-por-muertes-por-la-misma-causa-en-2026/",
+        "_added_at": "2026-08-06T06:28:16.073505-07:00"
+      },
       {
         "title": "Vinculan a proceso a responsable de homicidio en Hermosillo",
         "summary": "Hombre acusado de asesinar comerciante durante asalto en bazar fue vinculado a proceso judicial.",
@@ -66,6 +80,20 @@
     ],
     "sociedad": [
       {
+        "title": "Proyecto Tierra Viva rescata abejas en Hermosillo",
+        "summary": "Iniciativa familiar promueve vida sustentable y conservación de abejas en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/familia-villegas-crea-tierra-viva-proyecto-que-rescata-abejas-y-promueve-vida-sustentable-en-hermosillo/",
+        "_added_at": "2026-08-06T06:28:16.073505-07:00"
+      },
+      {
+        "title": "Empresaria hermosillense dona anillo a pasajera benéfica",
+        "summary": "Comerciante regala anillo de compromiso a viajera que perdió el suyo en vuelo, devolviendo su esperanza.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/empresaria-de-hermosillo-sorprende-a-pasajera-que-perdio-su-anillo-de-compromiso-en-vuelo-le-regala-uno-nuevo-para-devolverle-la-esperanza/",
+        "_added_at": "2026-08-06T06:28:16.073505-07:00"
+      },
+      {
         "title": "Gimnasta sonorense Leah busca apoyo para campeonato regional",
         "summary": "Joven atleta solicita ayuda para representar a Sonora en competencia de gimnasia.",
         "source": "Proyecto Puente",
@@ -109,5 +137,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-06T04:11:00.013834-07:00"
+  "last_updated": "2026-08-06T06:28:16.073505-07:00"
 }
