@@ -1,8 +1,15 @@
 {
   "date": "2026-08-05",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a proceso a homicida de comerciante en Hermosillo",
+        "summary": "Detienen a presunto responsable de asesinato durante asalto en bazar hermosillense tras investigación de unidad especializada.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/vinculan-a-proceso-a-hombre-que-asesino-a-un-comerciante-durante-un-asalto-en-un-bazar-de-hermosillo/",
+        "_added_at": "2026-08-05T18:15:09.966751-07:00"
+      },
       {
         "title": "Capturan sospechoso por homicidio en bazar Hermosillo",
         "summary": "Detienen a presunto responsable del asesinato de trabajador durante asalto en comercio hermosillense; vinculado a proceso.",
@@ -65,13 +72,6 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/04/avioneta-se-desploma-al-sur-de-hermosillo-tras-despegar-rumbo-a-culiacan-hay-tres-personas-lesionadas/",
         "_added_at": "2026-08-05T06:29:56.671697-07:00"
-      },
-      {
-        "title": "Derrame químico en Naco monitorizado",
-        "summary": "Autoridades atienden seis personas afectadas por incidente químico en Naco; refuerzan vigilancia.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/derrame-quimico-en-naco-sonora-alcalde-informa-6-atendidos/261785",
-        "_added_at": "2026-08-05T06:29:56.671697-07:00"
       }
     ],
     "politica": [
@@ -133,6 +133,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Inicia construcción de Hospital Regional en Ures",
+        "summary": "Tras doce años de espera, comienzan obras del hospital con inversión superior a quinientos millones.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/05/tras-12-anos-de-espera-inicia-en-ures-construccion-del-hospital-regional-del-rio-sonora-con-inversion-superior-a-500-mdp/",
+        "_added_at": "2026-08-05T18:15:09.966751-07:00"
+      },
       {
         "title": "Guaymas impulsa transformación con obras infraestructura",
         "summary": "Gobierno de Sonora destaca proyectos en infraestructura, salud, seguridad, turismo y conectividad para Guaymas.",
@@ -199,6 +206,20 @@
     ],
     "sociedad": [
       {
+        "title": "Cajeme rehabilita miles de metros de calles",
+        "summary": "Municipio suma aproximadamente cincuenta mil metros cuadrados en obras de mejoramiento vial.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/05/cajeme-suma-cerca-de-50-mil-metros-cuadrados-de-calles-rehabilitadas-claudia-santacruz/",
+        "_added_at": "2026-08-05T18:15:09.966751-07:00"
+      },
+      {
+        "title": "Astiazarán entrega obras en Deportivo Montecarlo",
+        "summary": "Ejecutivo estatal entrega proyectos financiados por presupuesto CRECES en instalación hermosillense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/05/tono-astiazaran-entrega-obras-del-presupuesto-creces-en-el-deportivo-montecarlo-en-hermosillo/",
+        "_added_at": "2026-08-05T18:15:09.966751-07:00"
+      },
+      {
         "title": "Explosión por gas en vivienda Hermosillo deja lesionado",
         "summary": "Acumulación de gas provoca explosión en casa al norponiente; una persona resulta con lesiones.",
         "source": "Proyecto Puente",
@@ -253,22 +274,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/05/realizaran-jornada-de-esterilizacion-gratuita-de-perros-y-gatos-en-hermosillo-conoce-los-requisitos/",
         "_added_at": "2026-08-05T06:29:56.671697-07:00"
-      },
-      {
-        "title": "Tato Balderrama regresa al rap desde Hermosillo",
-        "summary": "Artista lanza proyecto \"El Barrio Se Quema II\" con mensaje de esperanza para nuevas generaciones.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/el-barrio-se-quema-ii-tato-balderrama-regresa-al-rap-con-un-mensaje-de-esperanza-para-las-nuevas-generaciones-desde-hermosillo/",
-        "_added_at": "2026-08-05T06:29:56.671697-07:00"
-      },
-      {
-        "title": "Activistas ocupan álamo centenario en frontera sonorense",
-        "summary": "Manifestantes protegen árbol de 200 años para evitar su tala por construcción de muro.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/05/un-alamo-de-mas-de-200-anos-resiste-en-la-frontera-de-arizona-con-sonora-tras-la-tala-de-otros-tres-mientras-manifestantes-ocupan-sus-ramas-para-impedir-que-el-segundo-muro-de-trump-lo-destruya/",
-        "_added_at": "2026-08-05T04:10:34.240350-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-05T15:03:30.605590-07:00"
+  "last_updated": "2026-08-05T18:15:09.966751-07:00"
 }
