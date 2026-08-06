@@ -1,288 +1,85 @@
 {
-  "date": "2026-08-05",
-  "run_count": 8,
+  "date": "2026-08-06",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Vinculan a proceso a homicida de comerciante en Hermosillo",
-        "summary": "Detienen a presunto responsable de asesinato durante asalto en bazar hermosillense tras investigación de unidad especializada.",
+        "title": "Vinculan a proceso a responsable de homicidio en Hermosillo",
+        "summary": "Hombre acusado de asesinar comerciante durante asalto en bazar fue vinculado a proceso judicial.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/vinculan-a-proceso-a-hombre-que-asesino-a-un-comerciante-durante-un-asalto-en-un-bazar-de-hermosillo/",
-        "_added_at": "2026-08-05T18:15:09.966751-07:00"
-      },
-      {
-        "title": "Capturan sospechoso por homicidio en bazar Hermosillo",
-        "summary": "Detienen a presunto responsable del asesinato de trabajador durante asalto en comercio hermosillense; vinculado a proceso.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/detienen-a-presunto-responsable-de-quitarle-la-vida-a-trabajador-de-bazar-durante-asalto-en-hermosillo/",
-        "_added_at": "2026-08-05T15:03:30.605590-07:00"
-      },
-      {
-        "title": "Hombre muere por intoxicación en Nogales",
-        "summary": "Fallecimiento de persona tras intoxicarse con presunta sustancia ilícita; autoridades investigan circunstancias del deceso.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/05/hombre-muere-en-nogales-tras-intoxicarse-con-presunta-sustancia-ilicita-autoridades-investigan/",
-        "_added_at": "2026-08-05T15:03:30.605590-07:00"
-      },
-      {
-        "title": "Descomponen 567 mil pastillas fentanilo en Nogales",
-        "summary": "Autoridades aseguran gran cantidad de fentanilo en camioneta en garita Dennis DeConcini; conductor detenido y entregado a DEA.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/05/decomisan-mas-de-567-mil-pastillas-de-fentanilo-ocultas-en-una-camioneta-en-la-garita-dennis-deconcini-de-nogales/",
-        "_added_at": "2026-08-05T12:09:11.836436-07:00"
-      },
-      {
-        "title": "Interceptan envío peyote en empresa paquetería Hermosillo",
-        "summary": "Aseguran seis ejemplares de peyote que viajaba de Torreón a Rosarito en Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/interceptan-envio-de-6-ejemplares-de-peyote-en-empresa-de-paqueteria-de-hermosillo-iban-de-torreon-a-rosarito/",
-        "_added_at": "2026-08-05T12:09:11.836436-07:00"
-      },
-      {
-        "title": "Detienen hombre por amenazar y agredir abuela Hermosillo",
-        "summary": "Capturan individuo tras amenazas y agresiones contra su abuela en sur de Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/detienen-a-hombre-tras-amenazar-y-agredir-a-su-abuela-al-sur-de-hermosillo/",
-        "_added_at": "2026-08-05T12:09:11.836436-07:00"
-      },
-      {
-        "title": "Roban joyas en vuelo Volaris Guadalajara-Hermosillo",
-        "summary": "Pasajero reporta pérdida de 70 mil pesos en joyas; aerolínea ofrece 2 mil de compensación.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/me-robaron-70-mil-pesos-en-joyas-en-vuelo-volaris-de-guadalajara-a-hermosillo-solo-me-ofrecen-2-mil-de-recompensa-denuncia-joven/",
-        "_added_at": "2026-08-05T12:09:11.836436-07:00"
-      },
-      {
-        "title": "Hombre sigue grave por derrame tóxico en tren en Naco",
-        "summary": "Residente del ejido continúa en estado delicado tras inhalación de gases por descarrilamiento de tren de Ferromex; esperan dictamen médico.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/05/residente-del-ejido-cuauhtemoc-sigue-grave-tras-presunta-inhalacion-de-gases-por-derrame-toxico-en-descarrilamiento-de-tren-de-ferromex-en-naco-esperan-dictamen-medico/",
-        "_added_at": "2026-08-05T09:25:03.117172-07:00"
-      },
-      {
-        "title": "Sentencian a 25 años por homicidio en Hermosillo",
-        "summary": "Hombre condenado a prisión por matar a rescatista durante traslado a centro de rehabilitación en la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/04/sentencian-a-25-anos-de-carcel-a-hombre-por-homicidio-durante-traslado-a-centro-de-rehabilitacion-en-hermosillo/",
-        "_added_at": "2026-08-05T06:29:56.671697-07:00"
-      },
-      {
-        "title": "Avioneta se desploma al sur de Hermosillo",
-        "summary": "Accidente aéreo deja tres personas lesionadas tras despegar hacia Culiacán en Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/04/avioneta-se-desploma-al-sur-de-hermosillo-tras-despegar-rumbo-a-culiacan-hay-tres-personas-lesionadas/",
-        "_added_at": "2026-08-05T06:29:56.671697-07:00"
+        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Lamarque reúne líderes en Cajeme con discurso de experiencia",
-        "summary": "Aspirante convoca a cerca de 700 líderes en Ciudad Obregón para fortalecer unidad del movimiento.",
+        "title": "Lamarque reúne líderes en Cajeme buscando fortalecer organización",
+        "summary": "Aspirante convocó a 700 líderes en Ciudad Obregón para llamar a unidad del movimiento.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-afirma-que-se-requiere-experiencia-para-gobernar/261872",
-        "_added_at": "2026-08-05T22:37:05.886527-07:00"
+        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       },
       {
-        "title": "Senador Aguilar respalda lineamientos derechos audiencias",
-        "summary": "Heriberto Aguilar apoya nuevos lineamientos que garantizan información veraz y protegen audiencias sin censurar contenidos.",
+        "title": "Senador Aguilar respalda lineamientos de derechos de audiencias",
+        "summary": "Legislador considera que regulación garantiza información veraz sin censurar contenidos.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/aguilar-respalda-lineamientos-de-derechos-de-audiencias/261832",
-        "_added_at": "2026-08-05T15:03:30.605590-07:00"
+        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       },
       {
-        "title": "Lorenia Valles destaca trabajo territorial Morena",
-        "summary": "Senadora con licencia ha recorrido cuatro mil kilómetros en encuentros ciudadanos como parte proceso interno del partido.",
+        "title": "Lorenia Valles destaca recorrido territorial en proceso interno",
+        "summary": "Senadora con licencia reporta cuatro mil kilómetros de encuentros con ciudadanos.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-trabajo-territorial/261829",
-        "_added_at": "2026-08-05T15:03:30.605590-07:00"
-      },
-      {
-        "title": "Guaymas apunta a consolidarse como polo desarrollo",
-        "summary": "Gobierno Sonora anuncia proyectos en infraestructura, salud, seguridad, turismo y conectividad para Guaymas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/guaymas-busca-consolidarse-como-polo-de-desarrollo/261816",
-        "_added_at": "2026-08-05T12:09:11.836436-07:00"
-      },
-      {
-        "title": "Gildardo Real propone frenar influencia de Morena en Hermosillo",
-        "summary": "Candidato afirma capacidad para contener presencia política de Morena en la capital del estado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/hay-que-frenar-la-epidemia-de-morena-en-hermosillo-yo-puedo-hacerlo-gildardo-real/",
-        "_added_at": "2026-08-05T06:29:56.671697-07:00"
-      },
-      {
-        "title": "Lorenia Valles impulsa apoyo a Mipymes sonorenses",
-        "summary": "Senadora con licencia destaca importancia de pequeñas y medianas empresas durante encuentro con jóvenes empresarios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-llama-a-fortalecer-apoyo-a-las-mipymes/261800",
-        "_added_at": "2026-08-05T06:29:56.671697-07:00"
-      },
-      {
-        "title": "Durazo espera consulta nacional para decidir sobre celulares",
-        "summary": "Gobernador Alfonso Durazo aguarda resultados de encuesta nacional para política sobre uso de teléfonos en aulas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/el-gobernador-alfonso-durazo-esperara-resultados-de-consulta-nacional-para-decidir-sobre-uso-de-celulares-en-las-aulas-de-sonora/",
-        "_added_at": "2026-08-05T01:12:02.752277-07:00"
-      },
-      {
-        "title": "Puerto de Guaymas como plataforma económica de Sonora",
-        "summary": "Durazo afirma que Puerto de Guaymas puede relanzar la economía estatal.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/04/puerto-de-guaymas-puede-convertirse-en-plataforma-para-relanzamiento-economico-de-sonora-afirma-durazo/",
-        "_added_at": "2026-08-05T01:12:02.752277-07:00"
-      },
-      {
-        "title": "Lamarque dialoga con trabajadores y alcaldes serranos",
-        "summary": "Javier Lamarque visitó planta textil y se reunió con presidentes municipales de la sierra.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-destaca-que-la-fuerza-de-sonora-esta-en-su-gente/261798",
-        "_added_at": "2026-08-05T01:12:02.752277-07:00"
+        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Inicia construcción Hospital Regional del Río Sonora en Ures",
-        "summary": "Tras 12 años de espera, comienza obra con inversión superior a 500 millones de pesos.",
+        "title": "Inicia construcción Hospital Regional en Ures con 500 mdp",
+        "summary": "Después de 12 años de espera, comienza obra que atenderá 60 mil habitantes con especialidades médicas.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/colocan-primera-piedra-de-hospital-regional-en-ures/261859",
-        "_added_at": "2026-08-05T22:37:05.886527-07:00"
+        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       },
       {
-        "title": "Hermosillo inicia jornada para regularizar adeudos predial",
-        "summary": "Gobierno municipal ofrece oportunidad para regularizar pagos de predial y multas pendientes.",
+        "title": "Hermosillo anuncia jornada para regularizar adeudos de predial",
+        "summary": "Gobierno municipal habilitará período para pago de multas y contribuciones atrasadas.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/05/anuncia-gobierno-de-hermosillo-jornada-para-regularizar-adeudos-de-predial-y-multas-te-contamos/",
-        "_added_at": "2026-08-05T22:37:05.886527-07:00"
-      },
-      {
-        "title": "Inicia construcción de Hospital Regional en Ures",
-        "summary": "Tras doce años de espera, comienzan obras del hospital con inversión superior a quinientos millones.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/tras-12-anos-de-espera-inicia-en-ures-construccion-del-hospital-regional-del-rio-sonora-con-inversion-superior-a-500-mdp/",
-        "_added_at": "2026-08-05T18:15:09.966751-07:00"
-      },
-      {
-        "title": "Guaymas impulsa transformación con obras infraestructura",
-        "summary": "Gobierno de Sonora destaca proyectos en infraestructura, salud, seguridad, turismo y conectividad para Guaymas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/guaymas-busca-consolidarse-como-polo-de-desarrollo/261816",
-        "_added_at": "2026-08-05T15:03:30.605590-07:00"
-      },
-      {
-        "title": "Profeco recibe quejas cobros propina hasta 20% Cajeme",
-        "summary": "Consumidores denuncian altos porcentajes propina en restaurantes Ciudad Obregón ante comisión.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/05/cobros-de-hasta-20-de-propina-llegan-a-profeco-esto-deben-saber-los-consumidores-antes-de-pagar-la-cuenta/",
-        "_added_at": "2026-08-05T12:09:11.836436-07:00"
-      },
-      {
-        "title": "Guaymas se posiciona como puerta comercial del Norte",
-        "summary": "Municipio amplía infraestructura hospitalaria, vial y seguridad para consolidarse como polo de desarrollo regional.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/05/guaymas-busca-convertirse-en-la-puerta-comercial-del-norte-mientras-amplia-hospitales-carreteras-seguridad-y-apoyos-para-estudiantes/",
-        "_added_at": "2026-08-05T09:25:03.117172-07:00"
-      },
-      {
-        "title": "Apagones afectan comercios y vecinos en Ciudad Obregón",
-        "summary": "Cortes de electricidad impactan actividades comerciales y vida cotidiana en centro de la ciudad.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/05/apagones-afectan-a-comercios-y-vecinos-del-centro-de-ciudad-obregon/",
-        "_added_at": "2026-08-05T09:25:03.117172-07:00"
-      },
-      {
-        "title": "Sonora supera 65% del promedio histórico de lluvias",
-        "summary": "Conagua reporta avances en precipitaciones; presas podrían alcanzar 50% almacenamiento si condiciones persisten.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/04/sonora-supero-el-65-del-promedio-historico-de-lluvias-este-ano-conagua/",
-        "_added_at": "2026-08-05T06:29:56.671697-07:00"
-      },
-      {
-        "title": "Crece nivel de agua en presas de Sonora",
-        "summary": "Almacenamiento de agua en presas de Sonora supera niveles de agosto 2025; podrían llenarse este año.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/crece-almacenamiento-de-agua-en-presas-de-sonora-superan-niveles-de-agosto-2025-podrian-llenarse-este-ano-segun-especialista/",
-        "_added_at": "2026-08-05T06:29:56.671697-07:00"
-      },
-      {
-        "title": "Proponen programa permanente de pipas para agua en Hermosillo",
-        "summary": "Plan busca abastecer agua constantemente en zonas norte de la capital ante crisis hídrica.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/proponen-programa-permanente-de-pipas-para-abastecer-agua-en-el-norte-de-hermosillo/",
-        "_added_at": "2026-08-05T04:10:34.240350-07:00"
+        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Piden apoyo para doctora accidentada en Ciudad de México",
-        "summary": "Solicitan ayuda para trasladar a profesional de salud de Cajeme tras grave accidente.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/05/piden-apoyo-para-trasladar-a-doctora-cajemense-tras-sufrir-grave-accidente-en-ciudad-de-mexico/",
-        "_added_at": "2026-08-05T22:37:05.886527-07:00"
-      },
-      {
-        "title": "Familia pide apoyo urgente para menor con enfermedad rara",
-        "summary": "Solicitan donaciones para tratamiento de Reyna Milagros que requiere viajar a Ciudad de México.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/06/familia-de-la-menor-reyna-milagros-pide-apoyo-urgente-para-continuar-tratamiento-esta-semana-debe-viajar-a-la-ciudad-de-mexico/",
-        "_added_at": "2026-08-05T22:37:05.886527-07:00"
-      },
-      {
-        "title": "Cajeme rehabilita miles de metros de calles",
-        "summary": "Municipio suma aproximadamente cincuenta mil metros cuadrados en obras de mejoramiento vial.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/cajeme-suma-cerca-de-50-mil-metros-cuadrados-de-calles-rehabilitadas-claudia-santacruz/",
-        "_added_at": "2026-08-05T18:15:09.966751-07:00"
-      },
-      {
-        "title": "Astiazarán entrega obras en Deportivo Montecarlo",
-        "summary": "Ejecutivo estatal entrega proyectos financiados por presupuesto CRECES en instalación hermosillense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/tono-astiazaran-entrega-obras-del-presupuesto-creces-en-el-deportivo-montecarlo-en-hermosillo/",
-        "_added_at": "2026-08-05T18:15:09.966751-07:00"
-      },
-      {
-        "title": "Explosión por gas en vivienda Hermosillo deja lesionado",
-        "summary": "Acumulación de gas provoca explosión en casa al norponiente; una persona resulta con lesiones.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/explosion-por-acumulacion-de-gas-deja-una-persona-lesionada-en-vivienda-al-norponiente-de-hermosillo/",
-        "_added_at": "2026-08-05T15:03:30.605590-07:00"
-      },
-      {
-        "title": "Pipas abastecen colonias sin agua Hermosillo",
-        "summary": "Agua de Hermosillo distribuye pipas en colonias afectadas por fallas suministro de agua.",
+        "title": "Pipas abastecen colonias sin agua en Hermosillo",
+        "summary": "Autoridades distribuyen agua por fallas en suministro a zonas afectadas de la capital.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/agua-de-hermosillo-lleva-pipas-a-colonias-afectadas-por-fallas-en-el-suministro-conoce-los-puntos-de-abastecimiento/",
-        "_added_at": "2026-08-05T12:09:11.836436-07:00"
+        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       },
       {
-        "title": "Monzón traerá tormentas Sonora esta tarde",
-        "summary": "Advierte por lluvias fuertes y temperatura alta en diferentes zonas del estado.",
+        "title": "Monzón traerá tormentas a varias zonas de Sonora esta tarde",
+        "summary": "Sistema de baja presión generará precipitaciones en diferentes regiones del estado.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/05/monzon-traera-otra-tarde-de-tormentas-a-sonora-mientras-persisten-las-altas-temperaturas-en-que-zonas-podria-llover/",
-        "_added_at": "2026-08-05T12:09:11.836436-07:00"
+        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       },
       {
-        "title": "Unison instala módulos hidratación prevenir golpes calor",
-        "summary": "Universidad instala puntos gratuitos agua en campus Hermosillo para estudiantes durante calor intenso.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/unison-instalara-modulos-gratuitos-de-hidratacion-en-campus-hermosillo-para-prevenir-golpes-de-calor-en-estudiantes/",
-        "_added_at": "2026-08-05T12:09:11.836436-07:00"
-      },
-      {
-        "title": "Cárcamo H Cerro Colorado alcanza 88% de avance en Hermosillo",
-        "summary": "Proyecto infraestructural en etapa final abrirá campos deportivos, skatepark y teatro al aire libre.",
+        "title": "Piden apoyo para trasladar doctora cajemense desde Ciudad de México",
+        "summary": "Profesional de Cajeme sufrió grave accidente en CDMX y requiere ayuda para regreso.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/carcamo-h-cerro-colorado-entra-en-su-etapa-final-con-88-de-avance-y-abrira-nuevos-campos-deportivos-skatepark-y-teatro-al-aire-libre/",
-        "_added_at": "2026-08-05T09:25:03.117172-07:00"
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/05/piden-apoyo-para-trasladar-a-doctora-cajemense-tras-sufrir-grave-accidente-en-ciudad-de-mexico/",
+        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       },
       {
-        "title": "Alertan por fuertes lluvias que podrían inundar Nogales",
-        "summary": "Autoridades previenen sobre precipitaciones intensas en próximos días que convertirían calles en arroyos.",
+        "title": "Familia de menor con enfermedad inusual solicita apoyo urgente",
+        "summary": "Reyna Milagros requiere continuar tratamiento especializado en Ciudad de México esta semana.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/05/alertan-por-fuertes-lluvias-en-nogales-los-proximos-dias-estas-calles-podrian-convertirse-en-arroyos-o-inundarse/",
-        "_added_at": "2026-08-05T09:25:03.117172-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/06/familia-de-la-menor-reyna-milagros-pide-apoyo-urgente-para-continuar-tratamiento-esta-semana-debe-viajar-a-la-ciudad-de-mexico/",
+        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-05T22:37:05.886527-07:00"
+  "last_updated": "2026-08-06T01:11:01.250087-07:00"
 }
