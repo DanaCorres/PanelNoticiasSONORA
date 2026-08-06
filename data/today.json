@@ -1,8 +1,36 @@
 {
   "date": "2026-08-06",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan en Nogales a buscado por narcotráfico en EU",
+        "summary": "Interpol y AMIC detienen a objetivo prioritario requerido por Estados Unidos por delitos de narcotráfico y tráfico de armas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/06/interpol-y-amic-detienen-en-nogales-a-objetivo-prioritario-requerido-por-estados-unidos-era-buscado-por-narcotrafico-y-trafico-de-armas/",
+        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+      },
+      {
+        "title": "Extorsiones telefónicas disminuyen con denuncias en Sonora",
+        "summary": "Autoridades urgen denunciar extorsiones telefónicas al 089 para frenar este tipo de delitos en el estado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/06/extorsion-telefonica-en-sonora-que-hacer-ante-una-llamada-sospechosa-y-como-denunciar-al-089/",
+        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+      },
+      {
+        "title": "Hallazgo de adulto mayor sin vida en Guaymas",
+        "summary": "Localizan fallecido a persona mayor en avanzado estado de descomposición dentro de domicilio en Guaymas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/encuentran-sin-vida-a-adulto-mayor-en-guaymas/261930",
+        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+      },
+      {
+        "title": "Rescatan motociclista arrastrado por arroyo en Nogales",
+        "summary": "Autoridades salvan a conductor que intentó cruzar crecida durante lluvia en cruce de calles principales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/motociclista-es-arrastrado-por-corriente-de-agua-en-nogales/261916",
+        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+      },
       {
         "title": "Aseguran cactus de peyote en envío interceptado",
         "summary": "Seis ejemplares de peyote fueron interceptados en paquetería hermosillense con destino a Baja California.",
@@ -27,6 +55,27 @@
     ],
     "politica": [
       {
+        "title": "Sonora fortalece relaciones comerciales con Estados Unidos",
+        "summary": "Nuevo cónsul en Nogales impulsa agenda bilateral enfocada en infraestructura portuaria e inversiones binacionales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/06/sonora-y-eeuu-refuerzan-cooperacion-con-nuevo-consul-en-nogales-para-impulsar-drenaje-puerto-de-guaymas-e-inversiones/",
+        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+      },
+      {
+        "title": "Durazo inicia modernización de carretera Guaymas-Chihuahua",
+        "summary": "Gobierno arranca mejora de cinco tramos viales que conectan Sonora con Chihuahua.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/encabeza-alfonso-durazo-arranque-de-modernizacion-de-cinco-tramos-en-carretera-guaymas-chihuahua/",
+        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+      },
+      {
+        "title": "Lorenia Valles reconoce reforestación nacional del Gobierno",
+        "summary": "Funcionaria estatal aprecia esfuerzos de programa de plantación de árboles a nivel nacional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/06/reconoce-lorenia-valles-al-gobierno-de-mexico-por-jornada-nacional-de-reforestacion/",
+        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+      },
+      {
         "title": "Lamarque reúne líderes en Cajeme buscando fortalecer organización",
         "summary": "Aspirante convocó a 700 líderes en Ciudad Obregón para llamar a unidad del movimiento.",
         "source": "Expreso",
@@ -49,6 +98,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Convocan a formar nuevos policías penitenciarios en Sonora",
+        "summary": "Universidad abre reclutamiento para profesionalizar personal de centros de reinserción social estatal.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lanzan-convocatoria-para-formar-nuevos-custodios-penitenciarios/261913",
+        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+      },
       {
         "title": "Hospital Regional del Río Sonora inicia construcción en Ures",
         "summary": "Nuevo hospital atienda 60 mil habitantes con especialidades médicas en zona afectada por contaminación.",
@@ -79,6 +135,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "ISSSTE de Hermosillo tiene 42 deficiencias graves",
+        "summary": "Protección Civil detecta numerosas observaciones en infraestructura y operación del hospital estatal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/06/dictamen-de-proteccion-civil-detecta-42-observaciones-en-hospital-del-issste-abogado-las-compara-con-waldos/",
+        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+      },
+      {
+        "title": "DinoFest 2026 celebra paleontología en Esqueda",
+        "summary": "Museo organiza festival con recorridos y espectáculos sobre dinosaurios del 6 al 9 de agosto.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/06/dinofest-2026-esqueda-celebra-a-los-dinosaurios-con-recorridos-museo-y-espectaculos-del-6-al-9-de-agosto/",
+        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+      },
+      {
+        "title": "Feria de adopciones ofrece mascotas en Hermosillo",
+        "summary": "Invitan a ciudadanos a adoptar perros y gatos en evento comunitario de la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/buscas-una-mascota-invitan-a-la-feria-de-adopciones-en-hermosillo-para-dar-un-hogar-a-perros-y-gatos/",
+        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+      },
       {
         "title": "Proyecto Tierra Viva rescata abejas en Hermosillo",
         "summary": "Iniciativa familiar promueve vida sustentable y conservación de abejas en la capital sonorense.",
@@ -127,15 +204,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/05/piden-apoyo-para-trasladar-a-doctora-cajemense-tras-sufrir-grave-accidente-en-ciudad-de-mexico/",
         "_added_at": "2026-08-06T01:11:01.250087-07:00"
-      },
-      {
-        "title": "Familia de menor con enfermedad inusual solicita apoyo urgente",
-        "summary": "Reyna Milagros requiere continuar tratamiento especializado en Ciudad de México esta semana.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/06/familia-de-la-menor-reyna-milagros-pide-apoyo-urgente-para-continuar-tratamiento-esta-semana-debe-viajar-a-la-ciudad-de-mexico/",
-        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-06T06:28:16.073505-07:00"
+  "last_updated": "2026-08-06T16:46:36.484756-07:00"
 }
