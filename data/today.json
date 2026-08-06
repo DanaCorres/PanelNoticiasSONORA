@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
       {
@@ -76,6 +76,13 @@
     ],
     "politica": [
       {
+        "title": "Lamarque reúne líderes en Cajeme con discurso de experiencia",
+        "summary": "Aspirante convoca a cerca de 700 líderes en Ciudad Obregón para fortalecer unidad del movimiento.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-afirma-que-se-requiere-experiencia-para-gobernar/261872",
+        "_added_at": "2026-08-05T22:37:05.886527-07:00"
+      },
+      {
         "title": "Senador Aguilar respalda lineamientos derechos audiencias",
         "summary": "Heriberto Aguilar apoya nuevos lineamientos que garantizan información veraz y protegen audiencias sin censurar contenidos.",
         "source": "Expreso",
@@ -134,6 +141,20 @@
     ],
     "economia": [
       {
+        "title": "Inicia construcción Hospital Regional del Río Sonora en Ures",
+        "summary": "Tras 12 años de espera, comienza obra con inversión superior a 500 millones de pesos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/colocan-primera-piedra-de-hospital-regional-en-ures/261859",
+        "_added_at": "2026-08-05T22:37:05.886527-07:00"
+      },
+      {
+        "title": "Hermosillo inicia jornada para regularizar adeudos predial",
+        "summary": "Gobierno municipal ofrece oportunidad para regularizar pagos de predial y multas pendientes.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/05/anuncia-gobierno-de-hermosillo-jornada-para-regularizar-adeudos-de-predial-y-multas-te-contamos/",
+        "_added_at": "2026-08-05T22:37:05.886527-07:00"
+      },
+      {
         "title": "Inicia construcción de Hospital Regional en Ures",
         "summary": "Tras doce años de espera, comienzan obras del hospital con inversión superior a quinientos millones.",
         "source": "Proyecto Puente",
@@ -188,23 +209,23 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/proponen-programa-permanente-de-pipas-para-abastecer-agua-en-el-norte-de-hermosillo/",
         "_added_at": "2026-08-05T04:10:34.240350-07:00"
-      },
-      {
-        "title": "Abarrotes descartan alza en bebidas de Coca-Cola",
-        "summary": "Comerciantes hermosillenses niegan impacto de incremento nacional de precios en refrescos Coca-Cola.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/coca-cola-incrementa-precios-a-nivel-nacional-pero-abarrotes-de-hermosillo-niegan-afectacion/",
-        "_added_at": "2026-08-05T01:12:02.752277-07:00"
-      },
-      {
-        "title": "Lorenia Valles destaca importancia de Mipymes sonorenses",
-        "summary": "Senadora con licencia subraya papel de pequeñas y medianas empresas en economía estatal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-llama-a-fortalecer-apoyo-a-las-mipymes/261800",
-        "_added_at": "2026-08-05T01:12:02.752277-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Piden apoyo para doctora accidentada en Ciudad de México",
+        "summary": "Solicitan ayuda para trasladar a profesional de salud de Cajeme tras grave accidente.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/05/piden-apoyo-para-trasladar-a-doctora-cajemense-tras-sufrir-grave-accidente-en-ciudad-de-mexico/",
+        "_added_at": "2026-08-05T22:37:05.886527-07:00"
+      },
+      {
+        "title": "Familia pide apoyo urgente para menor con enfermedad rara",
+        "summary": "Solicitan donaciones para tratamiento de Reyna Milagros que requiere viajar a Ciudad de México.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/06/familia-de-la-menor-reyna-milagros-pide-apoyo-urgente-para-continuar-tratamiento-esta-semana-debe-viajar-a-la-ciudad-de-mexico/",
+        "_added_at": "2026-08-05T22:37:05.886527-07:00"
+      },
       {
         "title": "Cajeme rehabilita miles de metros de calles",
         "summary": "Municipio suma aproximadamente cincuenta mil metros cuadrados en obras de mejoramiento vial.",
@@ -260,22 +281,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/08/05/alertan-por-fuertes-lluvias-en-nogales-los-proximos-dias-estas-calles-podrian-convertirse-en-arroyos-o-inundarse/",
         "_added_at": "2026-08-05T09:25:03.117172-07:00"
-      },
-      {
-        "title": "Agosto traerá temperaturas más agradables a Hermosillo",
-        "summary": "Pronóstico indica máximas de 37°C con semana lluviosa; alivio ante intenso calor previo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/agosto-traera-alivio-ante-el-calor-de-hermosillo-pronostican-maximas-de-hasta-37c-y-semana-lluviosa/",
-        "_added_at": "2026-08-05T06:29:56.671697-07:00"
-      },
-      {
-        "title": "Jornada gratuita de esterilización de mascotas en Hermosillo",
-        "summary": "Autoridades realizarán servicios de esterilización para perros y gatos; difunden requisitos para participar.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/realizaran-jornada-de-esterilizacion-gratuita-de-perros-y-gatos-en-hermosillo-conoce-los-requisitos/",
-        "_added_at": "2026-08-05T06:29:56.671697-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-05T18:15:09.966751-07:00"
+  "last_updated": "2026-08-05T22:37:05.886527-07:00"
 }
