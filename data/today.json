@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -36,6 +36,20 @@
     ],
     "economia": [
       {
+        "title": "Hospital Regional del Río Sonora inicia construcción en Ures",
+        "summary": "Nuevo hospital atienda 60 mil habitantes con especialidades médicas en zona afectada por contaminación.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/arranca-justicia-para-el-rio-sonora-con-nuevo-hospital/261859",
+        "_added_at": "2026-08-06T04:11:00.013834-07:00"
+      },
+      {
+        "title": "Pipas abastecen colonias hermosillenses por fallas de agua",
+        "summary": "Sistema municipal distribuye agua en pipas mientras persisten problemas suministro en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/agua-de-hermosillo-lleva-pipas-a-colonias-afectadas-por-fallas-en-el-suministro-conoce-los-puntos-de-abastecimiento/",
+        "_added_at": "2026-08-06T04:11:00.013834-07:00"
+      },
+      {
         "title": "Inicia construcción Hospital Regional en Ures con 500 mdp",
         "summary": "Después de 12 años de espera, comienza obra que atenderá 60 mil habitantes con especialidades médicas.",
         "source": "Expreso",
@@ -51,6 +65,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Gimnasta sonorense Leah busca apoyo para campeonato regional",
+        "summary": "Joven atleta solicita ayuda para representar a Sonora en competencia de gimnasia.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/la-pequena-gimnasta-sonorense-leah-busca-apoyo-para-representar-a-sonora-en-campeonato-regional/",
+        "_added_at": "2026-08-06T04:11:00.013834-07:00"
+      },
+      {
+        "title": "Monzón mantiene tormentas activas en Sonora esta semana",
+        "summary": "Sistema meteorológico genera probabilidad lluvia en diversas zonas del estado continuamente.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/05/monzon-se-mantiene-activo-en-sonora/",
+        "_added_at": "2026-08-06T04:11:00.013834-07:00"
+      },
       {
         "title": "Pipas abastecen colonias sin agua en Hermosillo",
         "summary": "Autoridades distribuyen agua por fallas en suministro a zonas afectadas de la capital.",
@@ -81,5 +109,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-06T01:11:01.250087-07:00"
+  "last_updated": "2026-08-06T04:11:00.013834-07:00"
 }
