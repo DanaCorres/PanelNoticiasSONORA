@@ -1,8 +1,15 @@
 {
   "date": "2026-08-06",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Imputan a mujer por maltrato animal en Hermosillo",
+        "summary": "Mujer enfrentará proceso judicial por verter agua hirviendo a perrita llamada Deysi.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/policiaca/2026/08/06/imputan-a-mujer-que-arrojo-agua-hirviendo-a-la-perrita-deysi-por-presunto-maltrato-animal/",
+        "_added_at": "2026-08-06T18:57:48.599634-07:00"
+      },
       {
         "title": "Capturan en Nogales a buscado por narcotráfico en EU",
         "summary": "Interpol y AMIC detienen a objetivo prioritario requerido por Estados Unidos por delitos de narcotráfico y tráfico de armas.",
@@ -54,6 +61,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Vecinos reconocen labor de Célida López en la Emiliano Zapata",
+        "summary": "Residentes valoran el trabajo realizado por Célida López en la colonia sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/07/vecinos-de-la-emiliano-zapata-reconocen-el-trabajo-de-celida-lopez/",
+        "_added_at": "2026-08-06T18:57:48.599634-07:00"
+      },
       {
         "title": "Sonora fortalece relaciones comerciales con Estados Unidos",
         "summary": "Nuevo cónsul en Nogales impulsa agenda bilateral enfocada en infraestructura portuaria e inversiones binacionales.",
@@ -136,6 +150,13 @@
     ],
     "sociedad": [
       {
+        "title": "Cómo evitar golpe de calor en Hermosillo",
+        "summary": "Autoridades difunden medidas de prevención y señales de alarma que requieren llamar al 911.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/06/como-evitar-un-golpe-de-calor-en-hermosillo-estas-son-las-medidas-para-protegerse-y-las-senales-de-alarma-que-requieren-llamar-al-911/",
+        "_added_at": "2026-08-06T18:57:48.599634-07:00"
+      },
+      {
         "title": "ISSSTE de Hermosillo tiene 42 deficiencias graves",
         "summary": "Protección Civil detecta numerosas observaciones en infraestructura y operación del hospital estatal.",
         "source": "El Imparcial",
@@ -197,15 +218,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/05/monzon-traera-otra-tarde-de-tormentas-a-sonora-mientras-persisten-las-altas-temperaturas-en-que-zonas-podria-llover/",
         "_added_at": "2026-08-06T01:11:01.250087-07:00"
-      },
-      {
-        "title": "Piden apoyo para trasladar doctora cajemense desde Ciudad de México",
-        "summary": "Profesional de Cajeme sufrió grave accidente en CDMX y requiere ayuda para regreso.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/05/piden-apoyo-para-trasladar-a-doctora-cajemense-tras-sufrir-grave-accidente-en-ciudad-de-mexico/",
-        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-06T16:46:36.484756-07:00"
+  "last_updated": "2026-08-06T18:57:48.599634-07:00"
 }
