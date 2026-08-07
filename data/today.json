@@ -1,8 +1,15 @@
 {
   "date": "2026-08-07",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Localizan sin vida a adulto mayor en Guaymas",
+        "summary": "Descubren cuerpo en avanzado estado de descomposición dentro de vivienda en Guaymas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/encuentran-sin-vida-a-adulto-mayor-en-guaymas/261930",
+        "_added_at": "2026-08-07T08:41:28.710168-07:00"
+      },
       {
         "title": "Policía intoxicado choca a conductora en Cananea sin justicia",
         "summary": "Zulema denuncia falta de avances; Ayuntamiento dice brinda apoyo pero MP no cita declaración.",
@@ -34,6 +41,13 @@
     ],
     "politica": [
       {
+        "title": "Sonora coordina políticas de salud para migrantes",
+        "summary": "Estados reúnense para fortalecer protección sanitaria de población migrante en la región.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-marca-ruta-nacional-en-salud-para-migrantes/261956",
+        "_added_at": "2026-08-07T08:41:28.710168-07:00"
+      },
+      {
         "title": "Vecinos reconocen trabajo de Célida López en Emiliano Zapata",
         "summary": "Residentes del sector expresan conformidad con gestión de la funcionaria local.",
         "source": "El Imparcial",
@@ -64,6 +78,13 @@
     ],
     "economia": [
       {
+        "title": "Sonora recibe 364 millones en remesas durante 2026",
+        "summary": "Entidad mantiene flujo estable de remesas pero queda por debajo de otros estados del norte.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/07/sonora-recibe-mas-de-364-millones-de-dolares-en-remesas-durante-2026-pero-queda-por-debajo-de-baja-california-y-chihuahua/",
+        "_added_at": "2026-08-07T08:41:28.710168-07:00"
+      },
+      {
         "title": "Hospital Regional del Río Sonora en construcción en Cananea",
         "summary": "Valles destaca obra de IMSS Bienestar como parte del Plan de Justicia para Cananea.",
         "source": "Expreso",
@@ -79,6 +100,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Hospital Regional Río Sonora avanza construcción",
+        "summary": "Obra de IMSS Bienestar en Cananea cumple con Plan de Justicia para la región.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-hospital-del-rio-sonora/261946",
+        "_added_at": "2026-08-07T08:41:28.710168-07:00"
+      },
+      {
+        "title": "Consejos para prevenir golpes de calor en Sonora",
+        "summary": "Autoridades ofrecen medidas de protección y señales de alerta ante clima extremo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/07/como-evitar-un-golpe-de-calor-en-sonora-estas-son-las-medidas-para-protegerse-y-las-senales-de-alarma-que-requieren-llamar-al-911/",
+        "_added_at": "2026-08-07T08:41:28.710168-07:00"
+      },
+      {
+        "title": "Joven de Nogales toca violonchelo para financiar estudios",
+        "summary": "Fronterizo interpreta música en la garita para generar ingresos y pagar carrera de ingeniería.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/07/en-la-garita-de-nogales-sonora-el-joven-axel-duran-toca-el-violonchelo-para-fomentar-el-gusto-por-el-arte-y-pagar-sus-estudios/",
+        "_added_at": "2026-08-07T08:41:28.710168-07:00"
+      },
       {
         "title": "Sonora supera casos de fiebre manchada en 2026 vs 2025",
         "summary": "Entidad acumula 86 casos confirmados y 36 muertes, cifras superiores al año anterior.",
@@ -130,5 +172,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-07T05:34:46.787341-07:00"
+  "last_updated": "2026-08-07T08:41:28.710168-07:00"
 }
