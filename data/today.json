@@ -1,8 +1,15 @@
 {
   "date": "2026-08-07",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Derrame químico en Naco afecta a ocho personas",
+        "summary": "Hidrosulfuro de sodio se derramó en Naco. Ocho personas recibieron atención médica. Autoridades esperan resultados de muestreos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/naco-espera-resultados-de-muestreos-tras-derrame-quimico/261976",
+        "_added_at": "2026-08-07T14:25:52.114043-07:00"
+      },
       {
         "title": "Corredor de seguridad con botón de pánico en Hermosillo",
         "summary": "Los Ángeles inaugura corredor Camina Segura con cámaras conectadas a policía y botón de emergencia para proteger a ciudadanos.",
@@ -69,6 +76,20 @@
     ],
     "politica": [
       {
+        "title": "Lamarque busca coordinar Morena en Sonora con experiencia",
+        "summary": "Aspirante a dirigir Cuarta Transformación en Sonora destaca trayectoria y experiencia como garantía de continuidad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/experiencia-clave-para-consolidar-transformacion-lamarque/261974",
+        "_added_at": "2026-08-07T14:25:52.114043-07:00"
+      },
+      {
+        "title": "Senador Aguilar descarta censura en nueva regulación mediática",
+        "summary": "Nuevos lineamientos distinguirán información, opinión y publicidad sin censurar, explica senador sonorense.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/heriberto-aguilar-descarta-censura-con-nueva-regulacion/261973",
+        "_added_at": "2026-08-07T14:25:52.114043-07:00"
+      },
+      {
         "title": "Hospital ISSSTE en Hermosillo presenta riesgos estructurales graves",
         "summary": "Dictamen de Protección Civil revela que instalaciones tienen más deficiencias que centro comercial afectado.",
         "source": "Proyecto Puente",
@@ -120,6 +141,13 @@
     ],
     "economia": [
       {
+        "title": "Fundación Sempra instala paneles solares en instituciones",
+        "summary": "Programa de energía solar beneficia asociaciones y organizaciones que más lo necesitan en Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/07/fundacion-sempra-lleva-paneles-solares-a-instituciones-que-mas-lo-necesitan/",
+        "_added_at": "2026-08-07T14:25:52.114043-07:00"
+      },
+      {
         "title": "Presas del Yaqui al 23% de capacidad, insuficiente para siembra",
         "summary": "Valle del Yaqui enfrenta crisis hídrica; lluvias no alcanzan para riego de 100% de superficie agrícola.",
         "source": "El Imparcial",
@@ -149,6 +177,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora encabeza iniciativa nacional sobre salud de migrantes",
+        "summary": "Reunión con siete estados y organismos internacionales para fortalecer atención sanitaria de población migrante.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-marca-ruta-nacional-en-salud-para-migrantes/261956",
+        "_added_at": "2026-08-07T14:25:52.114043-07:00"
+      },
+      {
+        "title": "Unison abre inscripciones para talleres de Bellas Artes",
+        "summary": "Universidad de Sonora convoca a nuevos inscritos para talleres libres de artes con diversos requisitos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/07/unison-abrira-inscripciones-a-talleres-libres-de-bellas-artes-2026-fechas-edades-y-requisitos-por-disciplina/",
+        "_added_at": "2026-08-07T14:25:52.114043-07:00"
+      },
       {
         "title": "Sonora espera tormentas y calor extremo de más de 45°C",
         "summary": "Protección Civil prevé lluvias, rayos y vientos fuertes en zonas mientras Hermosillo alcanzará 42°C.",
@@ -204,22 +246,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/06/oro-para-sonora-sylvana-huerta-conquista-la-dance-world-cup-2026/",
         "_added_at": "2026-08-07T05:34:46.787341-07:00"
-      },
-      {
-        "title": "Unison Hermosillo coloca barandales en estacionamiento multinivel",
-        "summary": "Universidad refuerza seguridad en infraestructura previo al regreso a clases.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/06/colocan-nuevos-barandales-en-estacionamiento-multinivel-de-unison-hermosillo-previo-a-regreso-a-clases/",
-        "_added_at": "2026-08-07T05:34:46.787341-07:00"
-      },
-      {
-        "title": "Motociclista rescatado tras ser arrastrado en Nogales",
-        "summary": "Conducente de motocicleta es rescatado después de intentar cruzar arroyo crecido en cruce de 5 de Febrero.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/motociclista-es-arrastrado-por-corriente-de-agua-en-nogales/261916",
-        "_added_at": "2026-08-07T02:47:31.296506-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-07T11:36:09.672610-07:00"
+  "last_updated": "2026-08-07T14:25:52.114043-07:00"
 }
