@@ -1,253 +1,92 @@
 {
-  "date": "2026-08-06",
-  "run_count": 7,
+  "date": "2026-08-07",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Imputan a mujer por maltrato animal en Hermosillo",
-        "summary": "Mujer enfrentará proceso judicial por verter agua hirviendo a perrita llamada Deysi.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/policiaca/2026/08/06/imputan-a-mujer-que-arrojo-agua-hirviendo-a-la-perrita-deysi-por-presunto-maltrato-animal/",
-        "_added_at": "2026-08-06T18:57:48.599634-07:00"
-      },
-      {
-        "title": "Capturan en Nogales a buscado por narcotráfico en EU",
-        "summary": "Interpol y AMIC detienen a objetivo prioritario requerido por Estados Unidos por delitos de narcotráfico y tráfico de armas.",
+        "title": "Capturan en Nogales a prófugo buscado por narcotráfico",
+        "summary": "Interpol y AMIC detienen a objetivo prioritario requerido por Estados Unidos en Nogales, acusado de narcotráfico y tráfico de armas.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/08/06/interpol-y-amic-detienen-en-nogales-a-objetivo-prioritario-requerido-por-estados-unidos-era-buscado-por-narcotrafico-y-trafico-de-armas/",
-        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+        "_added_at": "2026-08-07T02:47:31.296506-07:00"
       },
       {
-        "title": "Extorsiones telefónicas disminuyen con denuncias en Sonora",
-        "summary": "Autoridades urgen denunciar extorsiones telefónicas al 089 para frenar este tipo de delitos en el estado.",
+        "title": "Mujer imputada por maltrato animal en Hermosillo",
+        "summary": "Detienen a mujer acusada de verter agua hirviendo sobre perrita; ingresa al Cereso Hermosillo Uno por maltrato animal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/policiaca/2026/08/06/imputan-a-mujer-que-arrojo-agua-hirviendo-a-la-perrita-deysi-por-presunto-maltrato-animal/",
+        "_added_at": "2026-08-07T02:47:31.296506-07:00"
+      },
+      {
+        "title": "Extorsiones telefónicas en Sonora: cómo denunciar",
+        "summary": "Recomendaciones para ciudadanos sobre cómo actuar y denunciar extorsiones telefónicas a través del número 089.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/06/extorsion-telefonica-en-sonora-que-hacer-ante-una-llamada-sospechosa-y-como-denunciar-al-089/",
-        "_added_at": "2026-08-06T16:46:36.484756-07:00"
-      },
-      {
-        "title": "Hallazgo de adulto mayor sin vida en Guaymas",
-        "summary": "Localizan fallecido a persona mayor en avanzado estado de descomposición dentro de domicilio en Guaymas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/encuentran-sin-vida-a-adulto-mayor-en-guaymas/261930",
-        "_added_at": "2026-08-06T16:46:36.484756-07:00"
-      },
-      {
-        "title": "Rescatan motociclista arrastrado por arroyo en Nogales",
-        "summary": "Autoridades salvan a conductor que intentó cruzar crecida durante lluvia en cruce de calles principales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/motociclista-es-arrastrado-por-corriente-de-agua-en-nogales/261916",
-        "_added_at": "2026-08-06T16:46:36.484756-07:00"
-      },
-      {
-        "title": "Aseguran cactus de peyote en envío interceptado",
-        "summary": "Seis ejemplares de peyote fueron interceptados en paquetería hermosillense con destino a Baja California.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/interceptan-envio-de-6-ejemplares-de-peyote-en-empresa-de-paqueteria-de-hermosillo-iban-de-torreon-a-rosarito/",
-        "_added_at": "2026-08-06T06:28:16.073505-07:00"
-      },
-      {
-        "title": "Sonora lidera casos de golpes de calor a nivel nacional",
-        "summary": "Sonora registra primer lugar en golpes de calor y segundo en muertes por esta causa durante 2026.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/06/sonora-ocupa-primer-lugar-nacional-por-golpes-de-calor-y-segundo-lugar-por-muertes-por-la-misma-causa-en-2026/",
-        "_added_at": "2026-08-06T06:28:16.073505-07:00"
-      },
-      {
-        "title": "Vinculan a proceso a responsable de homicidio en Hermosillo",
-        "summary": "Hombre acusado de asesinar comerciante durante asalto en bazar fue vinculado a proceso judicial.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/05/vinculan-a-proceso-a-hombre-que-asesino-a-un-comerciante-durante-un-asalto-en-un-bazar-de-hermosillo/",
-        "_added_at": "2026-08-06T01:11:01.250087-07:00"
+        "_added_at": "2026-08-07T02:47:31.296506-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Colosio exige reparación ambiental por derrame Ferromex",
-        "summary": "Solicita compensación del daño ambiental causado por derrame de Ferromex en Naco, Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/06/exige-colosio-riojas-reparacion-del-dano-ambiental-por-derrame-de-ferromex-en-naco-sonora/",
-        "_added_at": "2026-08-06T23:56:42.153620-07:00"
-      },
-      {
-        "title": "Hospital del Río Sonora avanza en Cananea",
-        "summary": "Lorenia Valles destaca construcción de Hospital Regional como parte del Plan de Justicia.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-hospital-del-rio-sonora/261946",
-        "_added_at": "2026-08-06T23:56:42.153620-07:00"
-      },
-      {
-        "title": "Célida López dialoga con familias en Hermosillo",
-        "summary": "Gobernadora resalta avances de la 4T y diálogo con vecinos rumbo al proceso interno 2027.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/06/celida-lopez-dialoga-con-familias-de-hermosillo-resalta-avances-de-la-4t-rumbo-al-proceso-interno-de-2027/",
-        "_added_at": "2026-08-06T21:45:23.077861-07:00"
-      },
-      {
-        "title": "Vecinos reconocen labor de Célida López en la Emiliano Zapata",
-        "summary": "Residentes valoran el trabajo realizado por Célida López en la colonia sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/07/vecinos-de-la-emiliano-zapata-reconocen-el-trabajo-de-celida-lopez/",
-        "_added_at": "2026-08-06T18:57:48.599634-07:00"
-      },
-      {
-        "title": "Sonora fortalece relaciones comerciales con Estados Unidos",
-        "summary": "Nuevo cónsul en Nogales impulsa agenda bilateral enfocada en infraestructura portuaria e inversiones binacionales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/06/sonora-y-eeuu-refuerzan-cooperacion-con-nuevo-consul-en-nogales-para-impulsar-drenaje-puerto-de-guaymas-e-inversiones/",
-        "_added_at": "2026-08-06T16:46:36.484756-07:00"
-      },
-      {
         "title": "Durazo inicia modernización de carretera Guaymas-Chihuahua",
-        "summary": "Gobierno arranca mejora de cinco tramos viales que conectan Sonora con Chihuahua.",
+        "summary": "Alfonso Durazo encabeza arranque de modernización en cinco tramos de la carretera Guaymas-Chihuahua.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/06/encabeza-alfonso-durazo-arranque-de-modernizacion-de-cinco-tramos-en-carretera-guaymas-chihuahua/",
-        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+        "_added_at": "2026-08-07T02:47:31.296506-07:00"
       },
       {
-        "title": "Lorenia Valles reconoce reforestación nacional del Gobierno",
-        "summary": "Funcionaria estatal aprecia esfuerzos de programa de plantación de árboles a nivel nacional.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/06/reconoce-lorenia-valles-al-gobierno-de-mexico-por-jornada-nacional-de-reforestacion/",
-        "_added_at": "2026-08-06T16:46:36.484756-07:00"
+        "title": "Colosio exige reparación por derrame de Ferromex en Naco",
+        "summary": "Colosio Riojas demanda reparación del daño ambiental causado por derrame de Ferromex en municipio de Naco.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/exige-colosio-riojas-reparacion-del-dano-ambiental-por-derrame-de-ferromex-en-naco-sonora/",
+        "_added_at": "2026-08-07T02:47:31.296506-07:00"
       },
       {
-        "title": "Lamarque reúne líderes en Cajeme buscando fortalecer organización",
-        "summary": "Aspirante convocó a 700 líderes en Ciudad Obregón para llamar a unidad del movimiento.",
+        "title": "Hospital Regional del Río Sonora avanza en construcción",
+        "summary": "Lorenia Valles destaca avance de hospital IMSS Bienestar como parte del Plan de Justicia para Cananea.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-afirma-que-se-requiere-experiencia-para-gobernar/261872",
-        "_added_at": "2026-08-06T01:11:01.250087-07:00"
-      },
-      {
-        "title": "Senador Aguilar respalda lineamientos de derechos de audiencias",
-        "summary": "Legislador considera que regulación garantiza información veraz sin censurar contenidos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/aguilar-respalda-lineamientos-de-derechos-de-audiencias/261832",
-        "_added_at": "2026-08-06T01:11:01.250087-07:00"
-      },
-      {
-        "title": "Lorenia Valles destaca recorrido territorial en proceso interno",
-        "summary": "Senadora con licencia reporta cuatro mil kilómetros de encuentros con ciudadanos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-trabajo-territorial/261829",
-        "_added_at": "2026-08-06T01:11:01.250087-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-hospital-del-rio-sonora/261946",
+        "_added_at": "2026-08-07T02:47:31.296506-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Banxico prevé pausa en tasas para resto 2026",
-        "summary": "Banco de México anticipa detención de ajustes de tasas de interés después de reducción a 6.50 por ciento.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/08/06/por-que-el-banco-de-mexico-preve-pausa-para-el-resto-2026-tras-tasar-en-650/",
-        "_added_at": "2026-08-06T21:45:23.077861-07:00"
-      },
-      {
-        "title": "Convocan a formar nuevos policías penitenciarios en Sonora",
-        "summary": "Universidad abre reclutamiento para profesionalizar personal de centros de reinserción social estatal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lanzan-convocatoria-para-formar-nuevos-custodios-penitenciarios/261913",
-        "_added_at": "2026-08-06T16:46:36.484756-07:00"
-      },
-      {
-        "title": "Hospital Regional del Río Sonora inicia construcción en Ures",
-        "summary": "Nuevo hospital atienda 60 mil habitantes con especialidades médicas en zona afectada por contaminación.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/arranca-justicia-para-el-rio-sonora-con-nuevo-hospital/261859",
-        "_added_at": "2026-08-06T04:11:00.013834-07:00"
-      },
-      {
-        "title": "Pipas abastecen colonias hermosillenses por fallas de agua",
-        "summary": "Sistema municipal distribuye agua en pipas mientras persisten problemas suministro en Hermosillo.",
+        "title": "Pipas abastecen colonias sin agua en Hermosillo",
+        "summary": "Agua de Hermosillo distribuye pipas en colonias afectadas por fallas en suministro de agua potable.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/agua-de-hermosillo-lleva-pipas-a-colonias-afectadas-por-fallas-en-el-suministro-conoce-los-puntos-de-abastecimiento/",
-        "_added_at": "2026-08-06T04:11:00.013834-07:00"
-      },
-      {
-        "title": "Inicia construcción Hospital Regional en Ures con 500 mdp",
-        "summary": "Después de 12 años de espera, comienza obra que atenderá 60 mil habitantes con especialidades médicas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/colocan-primera-piedra-de-hospital-regional-en-ures/261859",
-        "_added_at": "2026-08-06T01:11:01.250087-07:00"
-      },
-      {
-        "title": "Hermosillo anuncia jornada para regularizar adeudos de predial",
-        "summary": "Gobierno municipal habilitará período para pago de multas y contribuciones atrasadas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/05/anuncia-gobierno-de-hermosillo-jornada-para-regularizar-adeudos-de-predial-y-multas-te-contamos/",
-        "_added_at": "2026-08-06T01:11:01.250087-07:00"
+        "_added_at": "2026-08-07T02:47:31.296506-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Rescatan motociclista arrastrado por corriente en Nogales",
-        "summary": "Motorista fue arrastrado varios metros al intentar cruzar arroyo crecido en Nogales.",
+        "title": "Motociclista rescatado tras ser arrastrado en Nogales",
+        "summary": "Conducente de motocicleta es rescatado después de intentar cruzar arroyo crecido en cruce de 5 de Febrero.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/motociclista-es-arrastrado-por-corriente-de-agua-en-nogales/261916",
-        "_added_at": "2026-08-06T23:56:42.153620-07:00"
+        "_added_at": "2026-08-07T02:47:31.296506-07:00"
       },
       {
-        "title": "Cortometraje sonorense galardonado en festival de Guanajuato",
-        "summary": "Película \"Parió la cochi\" grabada en ITAMA de Hermosillo recibe premio en festival.",
+        "title": "Adulto mayor localizado sin vida en Guaymas",
+        "summary": "Encuentran sin vida a persona de edad avanzada en domicilio de Guaymas en estado avanzado de descomposición.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/encuentran-sin-vida-a-adulto-mayor-en-guaymas/261930",
+        "_added_at": "2026-08-07T02:47:31.296506-07:00"
+      },
+      {
+        "title": "Tormentas concentradas al norte; Hermosillo con baja probabilidad",
+        "summary": "Protección Civil prevé actividad convectiva en norte de Sonora; capital tendría solo 25% posibilidad de lluvia.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/tormentas-en-sonora-se-concentran-al-norte-y-en-hermosillo/261919",
+        "_added_at": "2026-08-07T02:47:31.296506-07:00"
+      },
+      {
+        "title": "Avanza reparación de colector tras megasocavón en Hermosillo",
+        "summary": "Continúan trabajos en colector de 36 pulgadas tras megasocavón en colonia Sahuaro de Hermosillo.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/06/cortometraje-pario-la-cochi-grabado-en-el-itama-de-hermosillo-fue-galardonado-en-festival-internacional-de-cine-de-guanajuato/",
-        "_added_at": "2026-08-06T23:56:42.153620-07:00"
-      },
-      {
-        "title": "Futuros maestros de Navojoa aprenderán Braille",
-        "summary": "Sesenta estudiantes de magisterio reciben beca nacional para cursos de Braille y Lengua de Señas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/06/60-futuros-maestros-de-navojoa-aprenderan-braille-y-lengua-de-senas-gracias-a-beca-nacional/",
-        "_added_at": "2026-08-06T21:45:23.077861-07:00"
-      },
-      {
-        "title": "Hermosillo suma 155 corredores en Camina Segura",
-        "summary": "Nuevo andador en Los Ángeles busca brindar mayor seguridad a residentes de Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/06/hermosillo-suma-155-corredores-camina-segura-nuevo-andador-busca-dar-mayor-tranquilidad-a-vecinos-de-los-angeles/",
-        "_added_at": "2026-08-06T21:45:23.077861-07:00"
-      },
-      {
-        "title": "Cómo evitar golpe de calor en Hermosillo",
-        "summary": "Autoridades difunden medidas de prevención y señales de alarma que requieren llamar al 911.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/06/como-evitar-un-golpe-de-calor-en-hermosillo-estas-son-las-medidas-para-protegerse-y-las-senales-de-alarma-que-requieren-llamar-al-911/",
-        "_added_at": "2026-08-06T18:57:48.599634-07:00"
-      },
-      {
-        "title": "ISSSTE de Hermosillo tiene 42 deficiencias graves",
-        "summary": "Protección Civil detecta numerosas observaciones en infraestructura y operación del hospital estatal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/06/dictamen-de-proteccion-civil-detecta-42-observaciones-en-hospital-del-issste-abogado-las-compara-con-waldos/",
-        "_added_at": "2026-08-06T16:46:36.484756-07:00"
-      },
-      {
-        "title": "DinoFest 2026 celebra paleontología en Esqueda",
-        "summary": "Museo organiza festival con recorridos y espectáculos sobre dinosaurios del 6 al 9 de agosto.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/06/dinofest-2026-esqueda-celebra-a-los-dinosaurios-con-recorridos-museo-y-espectaculos-del-6-al-9-de-agosto/",
-        "_added_at": "2026-08-06T16:46:36.484756-07:00"
-      },
-      {
-        "title": "Feria de adopciones ofrece mascotas en Hermosillo",
-        "summary": "Invitan a ciudadanos a adoptar perros y gatos en evento comunitario de la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/06/buscas-una-mascota-invitan-a-la-feria-de-adopciones-en-hermosillo-para-dar-un-hogar-a-perros-y-gatos/",
-        "_added_at": "2026-08-06T16:46:36.484756-07:00"
-      },
-      {
-        "title": "Proyecto Tierra Viva rescata abejas en Hermosillo",
-        "summary": "Iniciativa familiar promueve vida sustentable y conservación de abejas en la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/06/familia-villegas-crea-tierra-viva-proyecto-que-rescata-abejas-y-promueve-vida-sustentable-en-hermosillo/",
-        "_added_at": "2026-08-06T06:28:16.073505-07:00"
-      },
-      {
-        "title": "Empresaria hermosillense dona anillo a pasajera benéfica",
-        "summary": "Comerciante regala anillo de compromiso a viajera que perdió el suyo en vuelo, devolviendo su esperanza.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/06/empresaria-de-hermosillo-sorprende-a-pasajera-que-perdio-su-anillo-de-compromiso-en-vuelo-le-regala-uno-nuevo-para-devolverle-la-esperanza/",
-        "_added_at": "2026-08-06T06:28:16.073505-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/06/avanzan-trabajos-en-colector-de-36-pulgadas-tras-megasocavon-en-colonia-sahuaro-de-hermosillo/",
+        "_added_at": "2026-08-07T02:47:31.296506-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-06T23:56:42.153620-07:00"
+  "last_updated": "2026-08-07T02:47:31.296506-07:00"
 }
