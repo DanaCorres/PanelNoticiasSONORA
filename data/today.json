@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
       {
@@ -61,6 +61,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Colosio exige reparación ambiental por derrame Ferromex",
+        "summary": "Solicita compensación del daño ambiental causado por derrame de Ferromex en Naco, Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/exige-colosio-riojas-reparacion-del-dano-ambiental-por-derrame-de-ferromex-en-naco-sonora/",
+        "_added_at": "2026-08-06T23:56:42.153620-07:00"
+      },
+      {
+        "title": "Hospital del Río Sonora avanza en Cananea",
+        "summary": "Lorenia Valles destaca construcción de Hospital Regional como parte del Plan de Justicia.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-hospital-del-rio-sonora/261946",
+        "_added_at": "2026-08-06T23:56:42.153620-07:00"
+      },
       {
         "title": "Célida López dialoga con familias en Hermosillo",
         "summary": "Gobernadora resalta avances de la 4T y diálogo con vecinos rumbo al proceso interno 2027.",
@@ -164,6 +178,20 @@
     ],
     "sociedad": [
       {
+        "title": "Rescatan motociclista arrastrado por corriente en Nogales",
+        "summary": "Motorista fue arrastrado varios metros al intentar cruzar arroyo crecido en Nogales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/motociclista-es-arrastrado-por-corriente-de-agua-en-nogales/261916",
+        "_added_at": "2026-08-06T23:56:42.153620-07:00"
+      },
+      {
+        "title": "Cortometraje sonorense galardonado en festival de Guanajuato",
+        "summary": "Película \"Parió la cochi\" grabada en ITAMA de Hermosillo recibe premio en festival.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/cortometraje-pario-la-cochi-grabado-en-el-itama-de-hermosillo-fue-galardonado-en-festival-internacional-de-cine-de-guanajuato/",
+        "_added_at": "2026-08-06T23:56:42.153620-07:00"
+      },
+      {
         "title": "Futuros maestros de Navojoa aprenderán Braille",
         "summary": "Sesenta estudiantes de magisterio reciben beca nacional para cursos de Braille y Lengua de Señas.",
         "source": "Proyecto Puente",
@@ -218,22 +246,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/06/empresaria-de-hermosillo-sorprende-a-pasajera-que-perdio-su-anillo-de-compromiso-en-vuelo-le-regala-uno-nuevo-para-devolverle-la-esperanza/",
         "_added_at": "2026-08-06T06:28:16.073505-07:00"
-      },
-      {
-        "title": "Gimnasta sonorense Leah busca apoyo para campeonato regional",
-        "summary": "Joven atleta solicita ayuda para representar a Sonora en competencia de gimnasia.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/06/la-pequena-gimnasta-sonorense-leah-busca-apoyo-para-representar-a-sonora-en-campeonato-regional/",
-        "_added_at": "2026-08-06T04:11:00.013834-07:00"
-      },
-      {
-        "title": "Monzón mantiene tormentas activas en Sonora esta semana",
-        "summary": "Sistema meteorológico genera probabilidad lluvia en diversas zonas del estado continuamente.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/05/monzon-se-mantiene-activo-en-sonora/",
-        "_added_at": "2026-08-06T04:11:00.013834-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-06T21:45:23.077861-07:00"
+  "last_updated": "2026-08-06T23:56:42.153620-07:00"
 }
