@@ -1,8 +1,36 @@
 {
   "date": "2026-08-07",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Corredor de seguridad con botón de pánico en Hermosillo",
+        "summary": "Los Ángeles inaugura corredor Camina Segura con cámaras conectadas a policía y botón de emergencia para proteger a ciudadanos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/07/colonia-los-angeles-estrena-corredor-camina-segura-con-boton-de-panico-y-camara-conectada-a-la-policia-de-hermosillo/",
+        "_added_at": "2026-08-07T11:36:09.672610-07:00"
+      },
+      {
+        "title": "Fiebre manchada en Sonora supera cifras de 2025",
+        "summary": "Se registran 86 casos confirmados y 36 defunciones, superando números del mismo período del año anterior.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/crecen-casos-de-fiebre-manchada-en-sonora/261957",
+        "_added_at": "2026-08-07T11:36:09.672610-07:00"
+      },
+      {
+        "title": "Detienen a mujer por maltratar perro en Hermosillo",
+        "summary": "Capturan a persona acusada de arrojar agua hirviendo a mascota en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/detienen-a-mujer-por-presuntamente-arrojar-agua-hirviendo-a-la-perrita-deysi-en-hermosillo/",
+        "_added_at": "2026-08-07T11:36:09.672610-07:00"
+      },
+      {
+        "title": "Denuncia detención ilegal en Hermosillo relacionada con clínica",
+        "summary": "Familiares reclaman liberación de Daniel Humberto, recepcionista detenido sin garantías legales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/07/familiares-denuncian-detencion-ilegal-de-daniel-humberto-recepcionista-de-la-clinica-del-doctor-de-sueros-vitaminados-en-hermosillo/",
+        "_added_at": "2026-08-07T11:36:09.672610-07:00"
+      },
       {
         "title": "Localizan sin vida a adulto mayor en Guaymas",
         "summary": "Descubren cuerpo en avanzado estado de descomposición dentro de vivienda en Guaymas.",
@@ -41,6 +69,20 @@
     ],
     "politica": [
       {
+        "title": "Hospital ISSSTE en Hermosillo presenta riesgos estructurales graves",
+        "summary": "Dictamen de Protección Civil revela que instalaciones tienen más deficiencias que centro comercial afectado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/07/hospital-del-issste-en-hermosillo-tiene-mas-riesgos-que-waldos-revela-dictamen-de-proteccion-civil-estatal-afirma-diputada/",
+        "_added_at": "2026-08-07T11:36:09.672610-07:00"
+      },
+      {
+        "title": "Profepa sancionará a Ferromex por derrame en Naco",
+        "summary": "Sheinbaum confirma que se aplicarán sanciones ambientales por incidente químico en municipio sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/07/sheinbaum-confirma-que-profepa-definira-sanciones-contra-ferromex-por-derrame-quimico-en-naco-sonora/",
+        "_added_at": "2026-08-07T11:36:09.672610-07:00"
+      },
+      {
         "title": "Sonora coordina políticas de salud para migrantes",
         "summary": "Estados reúnense para fortalecer protección sanitaria de población migrante en la región.",
         "source": "Expreso",
@@ -78,6 +120,13 @@
     ],
     "economia": [
       {
+        "title": "Presas del Yaqui al 23% de capacidad, insuficiente para siembra",
+        "summary": "Valle del Yaqui enfrenta crisis hídrica; lluvias no alcanzan para riego de 100% de superficie agrícola.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/07/aunque-llegaron-las-lluvias-las-presas-del-rio-yaqui-tienen-poco-mas-de-la-mitad-del-agua-necesaria-para-un-ciclo-agricola-normal/",
+        "_added_at": "2026-08-07T11:36:09.672610-07:00"
+      },
+      {
         "title": "Sonora recibe 364 millones en remesas durante 2026",
         "summary": "Entidad mantiene flujo estable de remesas pero queda por debajo de otros estados del norte.",
         "source": "El Imparcial",
@@ -100,6 +149,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora espera tormentas y calor extremo de más de 45°C",
+        "summary": "Protección Civil prevé lluvias, rayos y vientos fuertes en zonas mientras Hermosillo alcanzará 42°C.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/tormentas-y-calor-extremo-en-sonora-hermosillo/261961",
+        "_added_at": "2026-08-07T11:36:09.672610-07:00"
+      },
+      {
+        "title": "Reparación de tubería deja sin agua a cuatro colonias",
+        "summary": "Zona norte de Hermosillo quedará desabastecida durante reparación de infraestructura hidráulica.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/07/reparacion-de-tuberia-deja-sin-agua-a-cuatro-colonias-del-norte-de-hermosillo-este-viernes/",
+        "_added_at": "2026-08-07T11:36:09.672610-07:00"
+      },
+      {
+        "title": "Víctima reclama justicia tras accidente con policía intoxicado",
+        "summary": "Zulema denuncia falta de avances en caso de choque con oficial en Cananea; Ministerio Público no cita.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/07/zulema-fue-chocada-por-policia-intoxicado-en-cananea-denuncia-falta-de-justicia-ayuntamiento-afirma-si-ha-dado-apoyo-mp-no-cita-a-declarar/",
+        "_added_at": "2026-08-07T11:36:09.672610-07:00"
+      },
       {
         "title": "Hospital Regional Río Sonora avanza construcción",
         "summary": "Obra de IMSS Bienestar en Cananea cumple con Plan de Justicia para la región.",
@@ -148,29 +218,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/motociclista-es-arrastrado-por-corriente-de-agua-en-nogales/261916",
         "_added_at": "2026-08-07T02:47:31.296506-07:00"
-      },
-      {
-        "title": "Adulto mayor localizado sin vida en Guaymas",
-        "summary": "Encuentran sin vida a persona de edad avanzada en domicilio de Guaymas en estado avanzado de descomposición.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/encuentran-sin-vida-a-adulto-mayor-en-guaymas/261930",
-        "_added_at": "2026-08-07T02:47:31.296506-07:00"
-      },
-      {
-        "title": "Tormentas concentradas al norte; Hermosillo con baja probabilidad",
-        "summary": "Protección Civil prevé actividad convectiva en norte de Sonora; capital tendría solo 25% posibilidad de lluvia.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/tormentas-en-sonora-se-concentran-al-norte-y-en-hermosillo/261919",
-        "_added_at": "2026-08-07T02:47:31.296506-07:00"
-      },
-      {
-        "title": "Avanza reparación de colector tras megasocavón en Hermosillo",
-        "summary": "Continúan trabajos en colector de 36 pulgadas tras megasocavón en colonia Sahuaro de Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/06/avanzan-trabajos-en-colector-de-36-pulgadas-tras-megasocavon-en-colonia-sahuaro-de-hermosillo/",
-        "_added_at": "2026-08-07T02:47:31.296506-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-07T08:41:28.710168-07:00"
+  "last_updated": "2026-08-07T11:36:09.672610-07:00"
 }
