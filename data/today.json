@@ -1,8 +1,15 @@
 {
   "date": "2026-08-07",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Policía intoxicado choca a conductora en Cananea sin justicia",
+        "summary": "Zulema denuncia falta de avances; Ayuntamiento dice brinda apoyo pero MP no cita declaración.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/07/zulema-fue-chocada-por-policia-intoxicado-en-cananea-denuncia-falta-de-justicia-ayuntamiento-afirma-si-ha-dado-apoyo-mp-no-cita-a-declarar/",
+        "_added_at": "2026-08-07T05:34:46.787341-07:00"
+      },
       {
         "title": "Capturan en Nogales a prófugo buscado por narcotráfico",
         "summary": "Interpol y AMIC detienen a objetivo prioritario requerido por Estados Unidos en Nogales, acusado de narcotráfico y tráfico de armas.",
@@ -27,6 +34,13 @@
     ],
     "politica": [
       {
+        "title": "Vecinos reconocen trabajo de Célida López en Emiliano Zapata",
+        "summary": "Residentes del sector expresan conformidad con gestión de la funcionaria local.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/07/vecinos-de-la-emiliano-zapata-reconocen-el-trabajo-de-celida-lopez/",
+        "_added_at": "2026-08-07T05:34:46.787341-07:00"
+      },
+      {
         "title": "Durazo inicia modernización de carretera Guaymas-Chihuahua",
         "summary": "Alfonso Durazo encabeza arranque de modernización en cinco tramos de la carretera Guaymas-Chihuahua.",
         "source": "Proyecto Puente",
@@ -50,6 +64,13 @@
     ],
     "economia": [
       {
+        "title": "Hospital Regional del Río Sonora en construcción en Cananea",
+        "summary": "Valles destaca obra de IMSS Bienestar como parte del Plan de Justicia para Cananea.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-hospital-del-rio-sonora/261946",
+        "_added_at": "2026-08-07T05:34:46.787341-07:00"
+      },
+      {
         "title": "Pipas abastecen colonias sin agua en Hermosillo",
         "summary": "Agua de Hermosillo distribuye pipas en colonias afectadas por fallas en suministro de agua potable.",
         "source": "El Imparcial",
@@ -58,6 +79,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora supera casos de fiebre manchada en 2026 vs 2025",
+        "summary": "Entidad acumula 86 casos confirmados y 36 muertes, cifras superiores al año anterior.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/crecen-casos-de-fiebre-manchada-en-sonora/261957",
+        "_added_at": "2026-08-07T05:34:46.787341-07:00"
+      },
+      {
+        "title": "Sylvana Huerta gana Dance World Cup 2026 para Sonora",
+        "summary": "Sonorense conquista oro en prestigiosa competencia mundial de danza.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/oro-para-sonora-sylvana-huerta-conquista-la-dance-world-cup-2026/",
+        "_added_at": "2026-08-07T05:34:46.787341-07:00"
+      },
+      {
+        "title": "Unison Hermosillo coloca barandales en estacionamiento multinivel",
+        "summary": "Universidad refuerza seguridad en infraestructura previo al regreso a clases.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/colocan-nuevos-barandales-en-estacionamiento-multinivel-de-unison-hermosillo-previo-a-regreso-a-clases/",
+        "_added_at": "2026-08-07T05:34:46.787341-07:00"
+      },
       {
         "title": "Motociclista rescatado tras ser arrastrado en Nogales",
         "summary": "Conducente de motocicleta es rescatado después de intentar cruzar arroyo crecido en cruce de 5 de Febrero.",
@@ -88,5 +130,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-07T02:47:31.296506-07:00"
+  "last_updated": "2026-08-07T05:34:46.787341-07:00"
 }
