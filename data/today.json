@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
       {
@@ -62,6 +62,13 @@
     ],
     "politica": [
       {
+        "title": "Célida López dialoga con familias en Hermosillo",
+        "summary": "Gobernadora resalta avances de la 4T y diálogo con vecinos rumbo al proceso interno 2027.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/celida-lopez-dialoga-con-familias-de-hermosillo-resalta-avances-de-la-4t-rumbo-al-proceso-interno-de-2027/",
+        "_added_at": "2026-08-06T21:45:23.077861-07:00"
+      },
+      {
         "title": "Vecinos reconocen labor de Célida López en la Emiliano Zapata",
         "summary": "Residentes valoran el trabajo realizado por Célida López en la colonia sonorense.",
         "source": "El Imparcial",
@@ -113,6 +120,13 @@
     ],
     "economia": [
       {
+        "title": "Banxico prevé pausa en tasas para resto 2026",
+        "summary": "Banco de México anticipa detención de ajustes de tasas de interés después de reducción a 6.50 por ciento.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/08/06/por-que-el-banco-de-mexico-preve-pausa-para-el-resto-2026-tras-tasar-en-650/",
+        "_added_at": "2026-08-06T21:45:23.077861-07:00"
+      },
+      {
         "title": "Convocan a formar nuevos policías penitenciarios en Sonora",
         "summary": "Universidad abre reclutamiento para profesionalizar personal de centros de reinserción social estatal.",
         "source": "Expreso",
@@ -149,6 +163,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Futuros maestros de Navojoa aprenderán Braille",
+        "summary": "Sesenta estudiantes de magisterio reciben beca nacional para cursos de Braille y Lengua de Señas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/60-futuros-maestros-de-navojoa-aprenderan-braille-y-lengua-de-senas-gracias-a-beca-nacional/",
+        "_added_at": "2026-08-06T21:45:23.077861-07:00"
+      },
+      {
+        "title": "Hermosillo suma 155 corredores en Camina Segura",
+        "summary": "Nuevo andador en Los Ángeles busca brindar mayor seguridad a residentes de Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/06/hermosillo-suma-155-corredores-camina-segura-nuevo-andador-busca-dar-mayor-tranquilidad-a-vecinos-de-los-angeles/",
+        "_added_at": "2026-08-06T21:45:23.077861-07:00"
+      },
       {
         "title": "Cómo evitar golpe de calor en Hermosillo",
         "summary": "Autoridades difunden medidas de prevención y señales de alarma que requieren llamar al 911.",
@@ -204,22 +232,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/05/monzon-se-mantiene-activo-en-sonora/",
         "_added_at": "2026-08-06T04:11:00.013834-07:00"
-      },
-      {
-        "title": "Pipas abastecen colonias sin agua en Hermosillo",
-        "summary": "Autoridades distribuyen agua por fallas en suministro a zonas afectadas de la capital.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/04/agua-de-hermosillo-lleva-pipas-a-colonias-afectadas-por-fallas-en-el-suministro-conoce-los-puntos-de-abastecimiento/",
-        "_added_at": "2026-08-06T01:11:01.250087-07:00"
-      },
-      {
-        "title": "Monzón traerá tormentas a varias zonas de Sonora esta tarde",
-        "summary": "Sistema de baja presión generará precipitaciones en diferentes regiones del estado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/05/monzon-traera-otra-tarde-de-tormentas-a-sonora-mientras-persisten-las-altas-temperaturas-en-que-zonas-podria-llover/",
-        "_added_at": "2026-08-06T01:11:01.250087-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-06T18:57:48.599634-07:00"
+  "last_updated": "2026-08-06T21:45:23.077861-07:00"
 }
