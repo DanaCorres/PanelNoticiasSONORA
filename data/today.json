@@ -1,8 +1,36 @@
 {
   "date": "2026-08-08",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallan tres personas muertas en vehículo al poniente",
+        "summary": "Descubren a mujer y dos hombres sin vida en auto en Hermosillo tras posible riña; investigan circunstancias del caso.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/hallan-mujer-y-dos-hombres-sin-vida-dentro-de-vehiculo-al-poniente-de-hermosillo-tras-posible-rina-otra-persona-habria-escapado/",
+        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+      },
+      {
+        "title": "Policía activa operativo de seguridad por regreso a clases",
+        "summary": "Hermosillo refuerza vigilancia en paradas y planteles universitarios para garantizar seguridad de estudiantes.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/policia-municipal-de-hermosillo-activa-operativo-vial-por-regreso-a-clases-en-universidades/",
+        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+      },
+      {
+        "title": "Detienen a hombre por conducta inapropiada contra menor",
+        "summary": "Capturan a sujeto acusado de abuso sexual contra su hija mientras dormía en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/detienen-a-hombre-acusado-de-conducta-inapropiada-contra-su-hija-mientras-dormia-en-hermosillo/",
+        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+      },
+      {
+        "title": "Detiene a hombre por muerte de adulto mayor atropellado",
+        "summary": "Capturan individuo señalado de provocar deceso tras empujar a anciano que fue atropellado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/detienen-a-hombre-senalado-de-provocar-muerte-de-adulto-mayor-tras-empujarlo-y-ser-atropellado/",
+        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+      },
       {
         "title": "Detienen a hombre por disparar contra adolescente en Hermosillo",
         "summary": "Capturan sujeto acusado de intentar feminicidio, violencia familiar y disparo contra menor de 14 años.",
@@ -48,6 +76,13 @@
     ],
     "politica": [
       {
+        "title": "Celida López busca encabezar defensa de la 4T",
+        "summary": "Presidenta destaca respaldo ciudadano en Hermosillo para fortalecer proyecto de transformación.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/07/busca-celida-lopez-encabezar-defensa-de-la-4t-destaca-respaldo-ciudadano-en-hermosillo/",
+        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+      },
+      {
         "title": "Sonora recibe visita de embajadores de la Unión Europea",
         "summary": "Delegación europea visita Sonora en marco de relaciones diplomáticas internacionales.",
         "source": "El Imparcial",
@@ -77,6 +112,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Hacienda reduce subsidio a gasolina y sube impuesto",
+        "summary": "Gobierno retira estímulo fiscal a combustibles premium; magna tendrá apoyo limitado a partir de agosto.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/08/08/hacienda-reduce-el-estimulo-fiscal-del-8-al-14-de-agosto-deja-la-gasolina-magna-con-140-pesos-de-apoyo-y-retira-casi-todo-el-subsidio-a-la-premium-elevando-en-mas-de-un-peso-el-impuesto-por-litro/",
+        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+      },
       {
         "title": "Inflación en México baja a 3.12 por ciento en julio",
         "summary": "Menor nivel en 75 meses con desaceleración impulsada por precios agropecuarios.",
@@ -129,6 +171,34 @@
     ],
     "sociedad": [
       {
+        "title": "Servicio de agua mejora gradualmente en Hermosillo",
+        "summary": "Normalización del suministro tras fallas por lluvias y problemas en acueducto; autoridades reportan avance.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/servicio-de-agua-comienza-a-normalizarse-en-hermosillo-tras-fallas-por-lluvias-astiazaran-atribuye-afectaciones-a-turbiedad-cortes-de-energia-y-problemas-en-el-acueducto-independencia/",
+        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+      },
+      {
+        "title": "Invitan a campamento creativo para niños en Hermosillo",
+        "summary": "Realizan convocatoria para verano con talleres de arte, música, lectura y cine en La Malinche.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/invitan-a-ninos-de-hermosillo-al-campamento-de-verano-creativo-2026-en-la-malinche-habra-talleres-de-arte-musica-lectura-y-cine/",
+        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+      },
+      {
+        "title": "Fernando Rojo entrega bicicletas a jóvenes sonorenses",
+        "summary": "Programa Enbici beneficia a niños y adolescentes de centros de bienestar juvenil en el estado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/08/fernando-rojo-entrega-bicicletas-del-programa-enbici-a-ninas-ninos-y-jovenes-de-centros-de-bienestar-juvenil-en-sonora/",
+        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+      },
+      {
+        "title": "Naco espera resultados por derrame químico en frontera",
+        "summary": "Alcalde pide certeza sobre seguridad ciudadana tras incidente; ocho personas recibieron atención médica.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/naco-espera-resultados-de-muestreos-tras-derrame-quimico/261976",
+        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+      },
+      {
         "title": "Treinta jóvenes sonorenses viajarán a Taiwán por semiconductores",
         "summary": "Grupo de especialización en semiconductores y energías limpias como parte de capacitación internacional.",
         "source": "Proyecto Puente",
@@ -172,5 +242,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-08T11:19:01.087592-07:00"
+  "last_updated": "2026-08-08T14:17:20.154515-07:00"
 }
