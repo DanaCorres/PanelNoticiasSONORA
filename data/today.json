@@ -1,8 +1,22 @@
 {
   "date": "2026-08-07",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre capturado por disparar contra joven en Hermosillo",
+        "summary": "Detienen a sujeto de 53 años acusado de intento de feminicidio y violencia familiar tras agredir a pareja y disparar contra adolescente.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/detienen-en-hermosillo-a-hombre-de-53-anos-por-tentativa-de-feminicidio-y-violencia-familiar-agredio-a-su-pareja-y-disparo-contra-una-adolescente-de-14-anos/",
+        "_added_at": "2026-08-07T23:29:47.513211-07:00"
+      },
+      {
+        "title": "Carroza fúnebre se incendia en bulevar Morelos",
+        "summary": "Incendio de vehículo fúnebre moviliza a Bomberos en Hermosillo; posible fuga de gasolina investigada como causa.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/carroza-funebre-se-incendia-en-bulevar-morelos-en-hermosillo-conductor-logra-salir-tras-ser-alertado-por-testigos/",
+        "_added_at": "2026-08-07T23:29:47.513211-07:00"
+      },
       {
         "title": "Capturan a hombre por atacar pareja y disparar",
         "summary": "Detenido sujeto acusado de violencia doméstica y disparos contra adolescentes en Hermosillo.",
@@ -58,23 +72,16 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/06/detienen-a-mujer-por-presuntamente-arrojar-agua-hirviendo-a-la-perrita-deysi-en-hermosillo/",
         "_added_at": "2026-08-07T11:36:09.672610-07:00"
-      },
-      {
-        "title": "Denuncia detención ilegal en Hermosillo relacionada con clínica",
-        "summary": "Familiares reclaman liberación de Daniel Humberto, recepcionista detenido sin garantías legales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/07/familiares-denuncian-detencion-ilegal-de-daniel-humberto-recepcionista-de-la-clinica-del-doctor-de-sueros-vitaminados-en-hermosillo/",
-        "_added_at": "2026-08-07T11:36:09.672610-07:00"
-      },
-      {
-        "title": "Localizan sin vida a adulto mayor en Guaymas",
-        "summary": "Descubren cuerpo en avanzado estado de descomposición dentro de vivienda en Guaymas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/encuentran-sin-vida-a-adulto-mayor-en-guaymas/261930",
-        "_added_at": "2026-08-07T08:41:28.710168-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Lamarque destaca igualdad y vida libre de violencia para mujeres",
+        "summary": "Javier Lamarque resalta necesidad de perspectiva de género en construcción de sociedad más justa en Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-llama-a-fortalecer-igualdad-para-mujeres/262005",
+        "_added_at": "2026-08-07T23:29:47.513211-07:00"
+      },
       {
         "title": "Joven liberado en caso de narcomenudeo, no Dr. Verduzco",
         "summary": "Daniel Humberto liberado tras acusación por droga, caso no relacionado a médico.",
@@ -137,13 +144,6 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/06/exige-colosio-riojas-reparacion-del-dano-ambiental-por-derrame-de-ferromex-en-naco-sonora/",
         "_added_at": "2026-08-07T02:47:31.296506-07:00"
-      },
-      {
-        "title": "Hospital Regional del Río Sonora avanza en construcción",
-        "summary": "Lorenia Valles destaca avance de hospital IMSS Bienestar como parte del Plan de Justicia para Cananea.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-hospital-del-rio-sonora/261946",
-        "_added_at": "2026-08-07T02:47:31.296506-07:00"
       }
     ],
     "economia": [
@@ -191,6 +191,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora espera tormentas y calor superior a los 45 grados",
+        "summary": "Dos zonas de Sonora esperan tormentas con rayos y fuertes vientos; temperatura superará 45 grados Celsius.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/07/dos-zonas-de-sonora-esperan-tormentas-con-rayos-y-fuertes-vientos-mientras-el-calor-superara-los-45c-este-viernes/",
+        "_added_at": "2026-08-07T23:29:47.513211-07:00"
+      },
+      {
+        "title": "Águila real liberada en Chihuahua recorre mil 200 kilómetros",
+        "summary": "Proyecto de monitoreo internacional impulsa conservación de águila real que vuela desde Chihuahua.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/aguila-real-vuela-mil-200-km-desde-chihuahua-hasta-nevada/261992",
+        "_added_at": "2026-08-07T23:29:47.513211-07:00"
+      },
       {
         "title": "Ocho vialidades de Hermosillo con colectores obsoletos",
         "summary": "Identificadas ocho calles con colectores en riesgo de colapso en temporada lluvia.",
@@ -246,22 +260,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/07/reparacion-de-tuberia-deja-sin-agua-a-cuatro-colonias-del-norte-de-hermosillo-este-viernes/",
         "_added_at": "2026-08-07T11:36:09.672610-07:00"
-      },
-      {
-        "title": "Víctima reclama justicia tras accidente con policía intoxicado",
-        "summary": "Zulema denuncia falta de avances en caso de choque con oficial en Cananea; Ministerio Público no cita.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/07/zulema-fue-chocada-por-policia-intoxicado-en-cananea-denuncia-falta-de-justicia-ayuntamiento-afirma-si-ha-dado-apoyo-mp-no-cita-a-declarar/",
-        "_added_at": "2026-08-07T11:36:09.672610-07:00"
-      },
-      {
-        "title": "Hospital Regional Río Sonora avanza construcción",
-        "summary": "Obra de IMSS Bienestar en Cananea cumple con Plan de Justicia para la región.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-hospital-del-rio-sonora/261946",
-        "_added_at": "2026-08-07T08:41:28.710168-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-07T21:01:58.956195-07:00"
+  "last_updated": "2026-08-07T23:29:47.513211-07:00"
 }
