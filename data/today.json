@@ -1,8 +1,15 @@
 {
   "date": "2026-08-07",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan a hombre por atacar pareja y disparar",
+        "summary": "Detenido sujeto acusado de violencia doméstica y disparos contra adolescentes en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/07/capturan-a-hombre-acusado-de-atacar-a-su-pareja-y-disparar-contra-dos-adolescentes-en-hermosillo/",
+        "_added_at": "2026-08-07T21:01:58.956195-07:00"
+      },
       {
         "title": "Detienen a familiares durante protesta por liberación en Hermosillo",
         "summary": "Autoridades arrestaron a dos tíos de Daniel Humberto mientras se manifestaban pidiendo su liberación en la capital sonorense.",
@@ -65,16 +72,16 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/encuentran-sin-vida-a-adulto-mayor-en-guaymas/261930",
         "_added_at": "2026-08-07T08:41:28.710168-07:00"
-      },
-      {
-        "title": "Policía intoxicado choca a conductora en Cananea sin justicia",
-        "summary": "Zulema denuncia falta de avances; Ayuntamiento dice brinda apoyo pero MP no cita declaración.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/07/zulema-fue-chocada-por-policia-intoxicado-en-cananea-denuncia-falta-de-justicia-ayuntamiento-afirma-si-ha-dado-apoyo-mp-no-cita-a-declarar/",
-        "_added_at": "2026-08-07T05:34:46.787341-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Joven liberado en caso de narcomenudeo, no Dr. Verduzco",
+        "summary": "Daniel Humberto liberado tras acusación por droga, caso no relacionado a médico.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/07/detencion-de-daniel-recepcionista-del-doctor-de-los-sueros-es-por-narcomenudeo/",
+        "_added_at": "2026-08-07T21:01:58.956195-07:00"
+      },
       {
         "title": "Lamarque busca coordinar Morena en Sonora con experiencia",
         "summary": "Aspirante a dirigir Cuarta Transformación en Sonora destaca trayectoria y experiencia como garantía de continuidad.",
@@ -141,6 +148,13 @@
     ],
     "economia": [
       {
+        "title": "30 jóvenes de Sonora viajarán a Taiwán especializarse",
+        "summary": "Estudiantes sonorenses irán a Taiwan para semiconductores y energías limpias.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/07/de-sonora-a-taiwan-30-jovenes-viajaran-para-especializarse-en-semiconductores-y-energias-limpias/",
+        "_added_at": "2026-08-07T21:01:58.956195-07:00"
+      },
+      {
         "title": "Fundación Sempra instala paneles solares en instituciones",
         "summary": "Programa de energía solar beneficia asociaciones y organizaciones que más lo necesitan en Sonora.",
         "source": "El Imparcial",
@@ -177,6 +191,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Ocho vialidades de Hermosillo con colectores obsoletos",
+        "summary": "Identificadas ocho calles con colectores en riesgo de colapso en temporada lluvia.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/identifican-ocho-vialidades-en-hermosillo-con-colectores-obsoletos-riesgo-de-colapso-en-temporada-de-lluvias/",
+        "_added_at": "2026-08-07T21:01:58.956195-07:00"
+      },
+      {
+        "title": "Recomendaciones de movilidad para regreso a Unison",
+        "summary": "Autoridades recomiendan a estudiantes salir anticipado y usar rutas alternas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/regreso-a-clases-en-unison-recomiendan-salir-con-tiempo-y-evitar-luis-encinas-en-horas-pico/",
+        "_added_at": "2026-08-07T21:01:58.956195-07:00"
+      },
       {
         "title": "ISSSTE descarta colapso estructural en Hospital Ocaranza",
         "summary": "Institución médica niega problemas de estabilidad estructural en áreas de consulta del nosocomio hermosillense.",
@@ -232,22 +260,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-hospital-del-rio-sonora/261946",
         "_added_at": "2026-08-07T08:41:28.710168-07:00"
-      },
-      {
-        "title": "Consejos para prevenir golpes de calor en Sonora",
-        "summary": "Autoridades ofrecen medidas de protección y señales de alerta ante clima extremo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/07/como-evitar-un-golpe-de-calor-en-sonora-estas-son-las-medidas-para-protegerse-y-las-senales-de-alarma-que-requieren-llamar-al-911/",
-        "_added_at": "2026-08-07T08:41:28.710168-07:00"
-      },
-      {
-        "title": "Joven de Nogales toca violonchelo para financiar estudios",
-        "summary": "Fronterizo interpreta música en la garita para generar ingresos y pagar carrera de ingeniería.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/07/en-la-garita-de-nogales-sonora-el-joven-axel-duran-toca-el-violonchelo-para-fomentar-el-gusto-por-el-arte-y-pagar-sus-estudios/",
-        "_added_at": "2026-08-07T08:41:28.710168-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-07T17:40:33.745284-07:00"
+  "last_updated": "2026-08-07T21:01:58.956195-07:00"
 }
