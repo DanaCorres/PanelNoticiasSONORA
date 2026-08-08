@@ -1,8 +1,15 @@
 {
   "date": "2026-08-08",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Recompensa de 25 millones por captura de 'El Pelón'",
+        "summary": "Gobierno estadounidense y mexicano elevan oferta por información sobre líder del narcotráfico.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/08/ronald-johnson-advierte-que-ningun-lider-del-narcotrafico-esta-fuera-del-alcance-de-mexico-y-eu-tras-elevarse-a-25-millones-de-dolares-la-recompensa-por-informacion-que-lleve-a-la-captura-del-hijastro-de-el-mencho/",
+        "_added_at": "2026-08-08T05:20:29.179554-07:00"
+      },
       {
         "title": "Detienen a hombre que disparó contra jóvenes en Hermosillo",
         "summary": "Capturan individuo de 53 años acusado de intentar feminicidio, violencia familiar y disparos contra adolescente en Villa Verde.",
@@ -102,5 +109,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-08T02:24:50.219158-07:00"
+  "last_updated": "2026-08-08T05:20:29.179554-07:00"
 }
