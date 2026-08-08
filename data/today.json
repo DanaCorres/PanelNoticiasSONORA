@@ -1,8 +1,15 @@
 {
   "date": "2026-08-08",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Balacera fatal al sur de Hermosillo deja tres muertos",
+        "summary": "Tres personas murieron en enfrentamiento armado en bulevar Quiroga con Camino del Seri. Se activó código rojo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/policiaca/2026/08/08/mueren-tres-personas-por-balacera-al-sur-de-hermosillo-se-activa-codigo-rojo/",
+        "_added_at": "2026-08-08T08:16:49.816670-07:00"
+      },
       {
         "title": "Recompensa de 25 millones por captura de 'El Pelón'",
         "summary": "Gobierno estadounidense y mexicano elevan oferta por información sobre líder del narcotráfico.",
@@ -34,6 +41,13 @@
     ],
     "politica": [
       {
+        "title": "Sonora recibe visita de embajadores de la Unión Europea",
+        "summary": "Delegación europea visita Sonora en marco de relaciones diplomáticas internacionales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/08/inflacion-en-mexico-baja-a-312-en-julio-su-menor-nivel-en-75-meses-precios-agropecuarios-impulsan-la-desaceleracion/",
+        "_added_at": "2026-08-08T08:16:49.816670-07:00"
+      },
+      {
         "title": "Javier Lamarque enfatiza igualdad y protección de mujeres",
         "summary": "Aspirante a coordinador de transformación en Sonora subraya necesidad de perspectiva de género en construcción de sociedad justa.",
         "source": "Expreso",
@@ -57,6 +71,20 @@
     ],
     "economia": [
       {
+        "title": "Treinta jóvenes sonorenses se capacitarán en semiconductores en Taiwán",
+        "summary": "Estudiantes viajan para especializarse en semiconductores y energías limpias. Iniciativa de desarrollo laboral.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/08/30-joveneses-sonorenses-viajaran-a-taiwan-para-especializarse-en-semiconductores/",
+        "_added_at": "2026-08-08T08:16:49.816670-07:00"
+      },
+      {
+        "title": "Peso mexicano continúa ganando frente al dólar",
+        "summary": "Moneda mexicana mantiene fortaleza en mercado de divisas durante esta semana.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/08/08/el-peso-mexicano-sigue-ganando-frente-al-dolar-y-asi-cotiza-el-tipo-de-cambio-este-sabado-8-de-agosto-de-2026/",
+        "_added_at": "2026-08-08T08:16:49.816670-07:00"
+      },
+      {
         "title": "CFE invertirá 13 mil mdp en red eléctrica sonorense",
         "summary": "Proyectos incluyen nuevas subestaciones, líneas transmisión y modernización para atender demanda energética creciente.",
         "source": "Expreso",
@@ -79,6 +107,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Lluvias fuertes en norte de México por onda tropical",
+        "summary": "Monzón y onda tropical generan precipitaciones persistentes en Sonora durante fin de semana.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/preven-lluvias-este-fin-de-semana-en-sonora/262029",
+        "_added_at": "2026-08-08T08:16:49.816670-07:00"
+      },
       {
         "title": "Sonora impulsa monitoreo internacional del águila real",
         "summary": "Proyecto de conservación colaborativo para proteger especie emblemática mediante seguimiento transfronterizo.",
@@ -109,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-08T05:20:29.179554-07:00"
+  "last_updated": "2026-08-08T08:16:49.816670-07:00"
 }
