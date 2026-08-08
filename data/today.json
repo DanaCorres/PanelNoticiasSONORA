@@ -1,8 +1,15 @@
 {
   "date": "2026-08-08",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a hombre por disparar contra adolescente en Hermosillo",
+        "summary": "Capturan sujeto acusado de intentar feminicidio, violencia familiar y disparo contra menor de 14 años.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/07/capturan-a-hombre-acusado-de-atacar-a-su-pareja-y-disparar-contra-dos-adolescentes-en-hermosillo/",
+        "_added_at": "2026-08-08T11:19:01.087592-07:00"
+      },
       {
         "title": "Balacera fatal al sur de Hermosillo deja tres muertos",
         "summary": "Tres personas murieron en enfrentamiento armado en bulevar Quiroga con Camino del Seri. Se activó código rojo.",
@@ -71,6 +78,20 @@
     ],
     "economia": [
       {
+        "title": "Inflación en México baja a 3.12 por ciento en julio",
+        "summary": "Menor nivel en 75 meses con desaceleración impulsada por precios agropecuarios.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/08/inflacion-en-mexico-baja-a-312-en-julio-su-menor-nivel-en-75-meses-precios-agropecuarios-impulsan-la-desaceleracion/",
+        "_added_at": "2026-08-08T11:19:01.087592-07:00"
+      },
+      {
+        "title": "Rehabilitarán bulevar Gómez del Campo con inversión de 517 mdp",
+        "summary": "Obra beneficiará 22 colonias y servirá como ruta alterna al bulevar Quiroga en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/arranca-astiazaran-rehabilitacion-del-bulevar-agustin-gomez-del-campo-en-hermosillo-con-inversion-de-517-mdp-sera-ruta-alterna-al-quiroga-y-beneficiara-a-22-colonias/",
+        "_added_at": "2026-08-08T11:19:01.087592-07:00"
+      },
+      {
         "title": "Treinta jóvenes sonorenses se capacitarán en semiconductores en Taiwán",
         "summary": "Estudiantes viajan para especializarse en semiconductores y energías limpias. Iniciativa de desarrollo laboral.",
         "source": "El Imparcial",
@@ -108,6 +129,13 @@
     ],
     "sociedad": [
       {
+        "title": "Treinta jóvenes sonorenses viajarán a Taiwán por semiconductores",
+        "summary": "Grupo de especialización en semiconductores y energías limpias como parte de capacitación internacional.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/07/de-sonora-a-taiwan-30-jovenes-viajaran-para-especializarse-en-semiconductores-y-energias-limpias/",
+        "_added_at": "2026-08-08T11:19:01.087592-07:00"
+      },
+      {
         "title": "Lluvias fuertes en norte de México por onda tropical",
         "summary": "Monzón y onda tropical generan precipitaciones persistentes en Sonora durante fin de semana.",
         "source": "Expreso",
@@ -144,5 +172,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-08T08:16:49.816670-07:00"
+  "last_updated": "2026-08-08T11:19:01.087592-07:00"
 }
