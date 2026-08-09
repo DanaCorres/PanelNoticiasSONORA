@@ -1,8 +1,22 @@
 {
   "date": "2026-08-09",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Doble homicidio y suicidio investigados en Hermosillo",
+        "summary": "Hallazgo de tres personas sin vida en camioneta de lujo. Fiscalía investiga posible móvil pasional en el caso.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/fiscalia-investiga-doble-homicidio-y-suicidio-en-hermosillo-bajo-la-hipotesis-de-movil-pasional/",
+        "_added_at": "2026-08-09T14:19:24.519959-07:00"
+      },
+      {
+        "title": "Niña intoxicada por medicamento en San Pedro",
+        "summary": "Menores de dos años ingirió clonazepam. Policías municipales brindaron auxilio inmediato a la menor.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/policias-municipales-auxilian-a-nina-de-2-anos-intoxicada-por-ingerir-clonazepam-en-san-pedro-el-saucito/",
+        "_added_at": "2026-08-09T14:19:24.519959-07:00"
+      },
       {
         "title": "Adulto mayor muere electrocutado durante tormenta en Vícam",
         "summary": "Persona se refugiaba de lluvia cuando sufrió descarga eléctrica por cortocircuito en transformador cercano.",
@@ -85,6 +99,13 @@
     ],
     "economia": [
       {
+        "title": "Restablecen energía eléctrica en Cajeme tras lluvias",
+        "summary": "CFE repara infraestructura dañada en Ciudad Obregón. Servicio recuperado casi completamente tras tormentas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/la-cfe-ya-restablecio-la-luz-en-cajeme-esto-dice-durazo/262082",
+        "_added_at": "2026-08-09T14:19:24.519959-07:00"
+      },
+      {
         "title": "Gobernador anuncia proyectos de CFE por 13 mil mdp",
         "summary": "Durazo presenta iniciativas energéticas de inversión significativa para infraestructura estatal.",
         "source": "El Imparcial",
@@ -135,6 +156,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Lluvias causan afectaciones en Ciudad Obregón",
+        "summary": "Tormentas provocan daños en diversos sectores. Autoridades atienden afectaciones por precipitaciones intensas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/provocan-lluvias-afectaciones-en-distintos-sectores-de-ciudad-obregon/",
+        "_added_at": "2026-08-09T14:19:24.519959-07:00"
+      },
+      {
+        "title": "Tres tormentas se acercan a Sonora este fin de semana",
+        "summary": "Protección Civil prevé tres zonas de tormenta. Hermosillo tendría baja probabilidad de precipitaciones.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/tormentas-en-sonora-hara-lluvia-este-domingo-en-hermosillo/262085",
+        "_added_at": "2026-08-09T14:19:24.519959-07:00"
+      },
       {
         "title": "Tormenta causa inundaciones y apagones en Cajeme",
         "summary": "Lluvias y vientos provocaron inundaciones, caída de árboles, postes y daños eléctricos.",
@@ -190,22 +225,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/retiran-649-autos-abandonados-de-calles-de-hermosillo-456-fueron-retirados-por-sus-duenos-para-evitar-multas-y-costos-de-grua/",
         "_added_at": "2026-08-09T02:26:43.174123-07:00"
-      },
-      {
-        "title": "Refuerzan atención médica en Cuauhtémoc tras derrame químico",
-        "summary": "Autoridades sanitarias intensifican vigilancia en ejido de Naco por incidente ambiental.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/refuerzan-atencion-medica-en-ejido-cuauhtemoc-tras-derrame-quimico-en-naco/",
-        "_added_at": "2026-08-09T02:26:43.174123-07:00"
-      },
-      {
-        "title": "Daños por lluvia y vientos en Ciudad Obregón",
-        "summary": "Fenómeno meteorológico provoca caída de árboles y otras afectaciones en la zona.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/lluvia-y-fuertes-vientos-provocan-caida-de-arboles-y-otras-afectaciones-en-ciudad-obregon/",
-        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-09T11:20:55.501762-07:00"
+  "last_updated": "2026-08-09T14:19:24.519959-07:00"
 }
