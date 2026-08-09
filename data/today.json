@@ -1,8 +1,15 @@
 {
   "date": "2026-08-09",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Gobernador Durazo se pronuncia tras fuertes lluvias",
+        "summary": "Alfonso Durazo emite declaración tras afectaciones por tormentas y apagones registrados en Cajeme.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/se-pronuncia-alfonso-durazo-tras-fuertes-lluvias-y-apagones-en-cajeme/",
+        "_added_at": "2026-08-09T08:19:00.151432-07:00"
+      },
       {
         "title": "Tormenta causa inundaciones y apagones en Cajeme",
         "summary": "Lluvias y vientos fuertes provocaron inundaciones, caída de árboles y postes, y afectaciones al suministro eléctrico en Ciudad Obregón.",
@@ -34,6 +41,20 @@
     ],
     "politica": [
       {
+        "title": "Durazo anuncia proyectos de CFE por 13 mil millones",
+        "summary": "Gobernador presenta iniciativas de Comisión Federal de Electricidad con inversión de 13 mil millones de pesos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/anuncia-gobernador-durazo-proyectos-de-la-cfe-por-13-mmdp/",
+        "_added_at": "2026-08-09T08:19:00.151432-07:00"
+      },
+      {
+        "title": "Durazo impulsa Hospital Universitario en Etchojoa",
+        "summary": "Proyecto de inversión de 510 millones para construir hospital con urgencias, quirófanos y especialidades.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/impulsa-durazo-hospital-universitario-en-etchojoa/262068",
+        "_added_at": "2026-08-09T08:19:00.151432-07:00"
+      },
+      {
         "title": "Simpatizantes de Celida López intensifican apoyo político en Sonora",
         "summary": "Seguidores refuerzan respaldo a proyecto político de Celida López en la entidad.",
         "source": "Proyecto Puente",
@@ -42,6 +63,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Sagarhpa dispersa 360 mil larvas de mosca estéril",
+        "summary": "Iniciativa busca contener avance del gusano barrenador del ganado desde Chihuahua hacia Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sagarhpa-inicia-dispersion-larvas-mosca-esteril-sonora/262067",
+        "_added_at": "2026-08-09T08:19:00.151432-07:00"
+      },
       {
         "title": "Invertiirán 510 millones en Hospital Universitario de Etchojoa",
         "summary": "Proyecto incluye urgencias, quirófanos, especialidades, laboratorio e imagenología con respaldo gubernamental.",
@@ -72,6 +100,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Prepa Municipal Nogales refuerza atención e inclusión",
+        "summary": "Institución educativa fortalece programas de atención y políticas de inclusión para estudiantes.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/09/refuerzan-atencion-e-inclusion-en-prepa-municipal/",
+        "_added_at": "2026-08-09T08:19:00.151432-07:00"
+      },
+      {
+        "title": "Instalan punto de hidratación en Ciudad Obregón",
+        "summary": "Municipio de Cajeme implementa centro para proteger ciudadanos del calor extremo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/instalan-punto-de-hidratacion-para-proteger-del-calor-en-ciudad-obregon/",
+        "_added_at": "2026-08-09T08:19:00.151432-07:00"
+      },
       {
         "title": "CFE restablece 62% de servicio tras tormenta en Cajeme",
         "summary": "Compañía eléctrica restaura la mayoría del suministro de usuarios afectados por tormenta reciente.",
@@ -109,5 +151,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-09T05:22:05.583036-07:00"
+  "last_updated": "2026-08-09T08:19:00.151432-07:00"
 }
