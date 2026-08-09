@@ -1,8 +1,36 @@
 {
   "date": "2026-08-08",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fuerte lluvia causa apagones en Cajeme",
+        "summary": "Durazo se pronuncia tras tormentas y cortes de electricidad en Ciudad Obregón. CFE restableció luz al 62% de afectados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/se-pronuncia-alfonso-durazo-tras-fuertes-lluvias-y-apagones-en-cajeme/",
+        "_added_at": "2026-08-08T23:34:34.634604-07:00"
+      },
+      {
+        "title": "Vados peligrosos en Hermosillo por lluvias",
+        "summary": "Protección Civil advierte sobre cruces de riesgo durante precipitaciones en capital estatal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/no-cruces-vados-ni-arroyos-con-corriente-proteccion-civil-advierte-sobre-zonas-de-alto-riesgo-por-lluvias-en-hermosillo/",
+        "_added_at": "2026-08-08T23:34:34.634604-07:00"
+      },
+      {
+        "title": "Lluvia causa daños y caída de árboles en Obregón",
+        "summary": "Vientos fuertes provocan afectaciones en Ciudad Obregón durante tormenta.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/lluvia-y-fuertes-vientos-provocan-caida-de-arboles-y-otras-afectaciones-en-ciudad-obregon/",
+        "_added_at": "2026-08-08T23:34:34.634604-07:00"
+      },
+      {
+        "title": "Mujer se ahoga en playa San Carlos",
+        "summary": "Fallecimiento en Playa Bonita durante intento de nado; acompañantes intentaron rescatarla.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/mujer-muere-ahogada-en-playa-bonita-en-san-carlos/262049",
+        "_added_at": "2026-08-08T23:34:34.634604-07:00"
+      },
       {
         "title": "Choque y volcadura en Hermosillo sin heridos",
         "summary": "Accidente en bulevar Luis Donaldo Colosio causa solo daños materiales. Conductores resultan ilesos.",
@@ -44,37 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/policia-municipal-de-hermosillo-activa-operativo-vial-por-regreso-a-clases-en-universidades/",
         "_added_at": "2026-08-08T14:17:20.154515-07:00"
-      },
-      {
-        "title": "Detienen a hombre por conducta inapropiada contra menor",
-        "summary": "Capturan a sujeto acusado de abuso sexual contra su hija mientras dormía en Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/detienen-a-hombre-acusado-de-conducta-inapropiada-contra-su-hija-mientras-dormia-en-hermosillo/",
-        "_added_at": "2026-08-08T14:17:20.154515-07:00"
-      },
-      {
-        "title": "Detiene a hombre por muerte de adulto mayor atropellado",
-        "summary": "Capturan individuo señalado de provocar deceso tras empujar a anciano que fue atropellado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/detienen-a-hombre-senalado-de-provocar-muerte-de-adulto-mayor-tras-empujarlo-y-ser-atropellado/",
-        "_added_at": "2026-08-08T14:17:20.154515-07:00"
-      },
-      {
-        "title": "Detienen a hombre por disparar contra adolescente en Hermosillo",
-        "summary": "Capturan sujeto acusado de intentar feminicidio, violencia familiar y disparo contra menor de 14 años.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/07/capturan-a-hombre-acusado-de-atacar-a-su-pareja-y-disparar-contra-dos-adolescentes-en-hermosillo/",
-        "_added_at": "2026-08-08T11:19:01.087592-07:00"
-      },
-      {
-        "title": "Balacera fatal al sur de Hermosillo deja tres muertos",
-        "summary": "Tres personas murieron en enfrentamiento armado en bulevar Quiroga con Camino del Seri. Se activó código rojo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/policiaca/2026/08/08/mueren-tres-personas-por-balacera-al-sur-de-hermosillo-se-activa-codigo-rojo/",
-        "_added_at": "2026-08-08T08:16:49.816670-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Simpatizantes respaldan proyecto político de Celida López",
+        "summary": "Se intensifica respaldo a proyecto político de Celida López en estado de Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/simpatizantes-de-celida-lopez-intensifican-respaldo-a-su-proyecto-politico-en-sonora/",
+        "_added_at": "2026-08-08T23:34:34.634604-07:00"
+      },
       {
         "title": "Morena suspende derechos de dos diputadas por burlas",
         "summary": "Nayeli Salvatori y Grace Palomares suspendidas por comentarios ofensivos hacia adultos mayores.",
@@ -199,6 +206,20 @@
     ],
     "sociedad": [
       {
+        "title": "Alacranes lideran intoxicaciones por animales",
+        "summary": "Salud reporta 3 mil intoxicaciones por ponzoñosos hasta junio; 2.5 mil por escorpión.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/alacranes-encabezan-casos-de-intoxicacion-en-sonora/262057",
+        "_added_at": "2026-08-08T23:34:34.634604-07:00"
+      },
+      {
+        "title": "Derrame químico en Naco requiere atención médica",
+        "summary": "Refuerzan servicios de salud en ejido Cuauhtémoc tras incidente en frontera.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/refuerzan-atencion-medica-en-ejido-cuauhtemoc-tras-derrame-quimico-en-naco/",
+        "_added_at": "2026-08-08T23:34:34.634604-07:00"
+      },
+      {
         "title": "Lluvia y vientos fuertes afectan Ciudad Obregón",
         "summary": "Árboles, postes y cables caen. Se registran inundaciones y apagones en distintas zonas de la ciudad.",
         "source": "Proyecto Puente",
@@ -253,22 +274,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/08/fernando-rojo-entrega-bicicletas-del-programa-enbici-a-ninas-ninos-y-jovenes-de-centros-de-bienestar-juvenil-en-sonora/",
         "_added_at": "2026-08-08T14:17:20.154515-07:00"
-      },
-      {
-        "title": "Naco espera resultados por derrame químico en frontera",
-        "summary": "Alcalde pide certeza sobre seguridad ciudadana tras incidente; ocho personas recibieron atención médica.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/naco-espera-resultados-de-muestreos-tras-derrame-quimico/261976",
-        "_added_at": "2026-08-08T14:17:20.154515-07:00"
-      },
-      {
-        "title": "Treinta jóvenes sonorenses viajarán a Taiwán por semiconductores",
-        "summary": "Grupo de especialización en semiconductores y energías limpias como parte de capacitación internacional.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/07/de-sonora-a-taiwan-30-jovenes-viajaran-para-especializarse-en-semiconductores-y-energias-limpias/",
-        "_added_at": "2026-08-08T11:19:01.087592-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-08T21:07:55.750352-07:00"
+  "last_updated": "2026-08-08T23:34:34.634604-07:00"
 }
