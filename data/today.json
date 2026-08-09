@@ -1,281 +1,106 @@
 {
-  "date": "2026-08-08",
-  "run_count": 8,
+  "date": "2026-08-09",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Fuerte lluvia causa apagones en Cajeme",
-        "summary": "Durazo se pronuncia tras tormentas y cortes de electricidad en Ciudad Obregón. CFE restableció luz al 62% de afectados.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/se-pronuncia-alfonso-durazo-tras-fuertes-lluvias-y-apagones-en-cajeme/",
-        "_added_at": "2026-08-08T23:34:34.634604-07:00"
-      },
-      {
-        "title": "Vados peligrosos en Hermosillo por lluvias",
-        "summary": "Protección Civil advierte sobre cruces de riesgo durante precipitaciones en capital estatal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/no-cruces-vados-ni-arroyos-con-corriente-proteccion-civil-advierte-sobre-zonas-de-alto-riesgo-por-lluvias-en-hermosillo/",
-        "_added_at": "2026-08-08T23:34:34.634604-07:00"
-      },
-      {
-        "title": "Lluvia causa daños y caída de árboles en Obregón",
-        "summary": "Vientos fuertes provocan afectaciones en Ciudad Obregón durante tormenta.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/lluvia-y-fuertes-vientos-provocan-caida-de-arboles-y-otras-afectaciones-en-ciudad-obregon/",
-        "_added_at": "2026-08-08T23:34:34.634604-07:00"
-      },
-      {
-        "title": "Mujer se ahoga en playa San Carlos",
-        "summary": "Fallecimiento en Playa Bonita durante intento de nado; acompañantes intentaron rescatarla.",
+        "title": "Tormenta causa inundaciones y apagones en Cajeme",
+        "summary": "Lluvias y vientos fuertes provocaron inundaciones, caída de árboles y postes, y afectaciones al suministro eléctrico en Ciudad Obregón.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/mujer-muere-ahogada-en-playa-bonita-en-san-carlos/262049",
-        "_added_at": "2026-08-08T23:34:34.634604-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-causan-inundaciones-y-caida-de-postes-en-cajeme/262063",
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       },
       {
-        "title": "Choque y volcadura en Hermosillo sin heridos",
-        "summary": "Accidente en bulevar Luis Donaldo Colosio causa solo daños materiales. Conductores resultan ilesos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/choque-volcadura-en-hermosillo-ocasiona-solo-danos-materiales-conductores-resultan-ilesos/",
-        "_added_at": "2026-08-08T21:07:55.750352-07:00"
-      },
-      {
-        "title": "Derrame químico afecta ejido Cuauhtémoc en Naco",
-        "summary": "Refuerzan atención médica tras derrame químico en Naco. Autoridades monitorean situación en comunidad cercana.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/refuerzan-atencion-medica-en-ejido-cuauhtemoc-tras-derrame-quimico-en-naco/",
-        "_added_at": "2026-08-08T21:07:55.750352-07:00"
-      },
-      {
-        "title": "Policía refuerza vigilancia en universidades por regreso a clases",
-        "summary": "Operativo de seguridad activado en Hermosillo para proteger a estudiantes universitarios.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/policia-de-hermosillo-refuerza-vigilancia-en-universidades-por-regreso-a-clases/",
-        "_added_at": "2026-08-08T17:43:07.283194-07:00"
+        "title": "Alacranes generan mayoría de envenenamientos en Sonora",
+        "summary": "Secretaría de Salud reporta más de 3 mil intoxicaciones por animales ponzoñosos; 2 mil 500 casos fueron por alacrán.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/alacranes-encabezan-casos-de-intoxicacion-en-sonora/262057",
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       },
       {
         "title": "Mujer fallece ahogada en playa de San Carlos",
-        "summary": "Turista pierde la vida durante baño en playas del estado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/mujer-pierde-la-vida-en-playa-de-san-carlos-se-metio-a-nadar-y-no-salio/",
-        "_added_at": "2026-08-08T17:43:07.283194-07:00"
+        "summary": "Autoridades confirman muerte por ahogamiento en Playa Bonita; acompañantes intentaron rescatarla pero no pudieron.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/mujer-muere-ahogada-en-playa-bonita-en-san-carlos/262049",
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       },
       {
-        "title": "Hallan tres personas muertas en vehículo al poniente",
-        "summary": "Descubren a mujer y dos hombres sin vida en auto en Hermosillo tras posible riña; investigan circunstancias del caso.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/hallan-mujer-y-dos-hombres-sin-vida-dentro-de-vehiculo-al-poniente-de-hermosillo-tras-posible-rina-otra-persona-habria-escapado/",
-        "_added_at": "2026-08-08T14:17:20.154515-07:00"
-      },
-      {
-        "title": "Policía activa operativo de seguridad por regreso a clases",
-        "summary": "Hermosillo refuerza vigilancia en paradas y planteles universitarios para garantizar seguridad de estudiantes.",
+        "title": "Zona afectada por fuerte lluvia en Hermosillo requiere precaución",
+        "summary": "Protección Civil advierte sobre cruces y vados peligrosos durante lluvias en la capital sonorense.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/policia-municipal-de-hermosillo-activa-operativo-vial-por-regreso-a-clases-en-universidades/",
-        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/no-cruces-vados-ni-arroyos-con-corriente-proteccion-civil-advierte-sobre-zonas-de-alto-riesgo-por-lluvias-en-hermosillo/",
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Simpatizantes respaldan proyecto político de Celida López",
-        "summary": "Se intensifica respaldo a proyecto político de Celida López en estado de Sonora.",
+        "title": "Simpatizantes de Celida López intensifican apoyo político en Sonora",
+        "summary": "Seguidores refuerzan respaldo a proyecto político de Celida López en la entidad.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/08/simpatizantes-de-celida-lopez-intensifican-respaldo-a-su-proyecto-politico-en-sonora/",
-        "_added_at": "2026-08-08T23:34:34.634604-07:00"
-      },
-      {
-        "title": "Morena suspende derechos de dos diputadas por burlas",
-        "summary": "Nayeli Salvatori y Grace Palomares suspendidas por comentarios ofensivos hacia adultos mayores.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/morena-suspende-derechos-de-las-diputadas-nayeli-salvatori-y-grace-palomares-por-burlas-a-adultos-mayores/",
-        "_added_at": "2026-08-08T17:43:07.283194-07:00"
-      },
-      {
-        "title": "Inicia consulta sobre Ley de Derechos de Pueblos Indígenas",
-        "summary": "Sonora participa en proceso de consulta para nueva legislación sobre derechos indígenas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/inicia-en-sonora-consulta-sobre-nueva-ley-de-derechos-de-pueblos-indigenas-y-afromexicanos/",
-        "_added_at": "2026-08-08T17:43:07.283194-07:00"
-      },
-      {
-        "title": "Celida López busca encabezar defensa de la 4T",
-        "summary": "Presidenta destaca respaldo ciudadano en Hermosillo para fortalecer proyecto de transformación.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/07/busca-celida-lopez-encabezar-defensa-de-la-4t-destaca-respaldo-ciudadano-en-hermosillo/",
-        "_added_at": "2026-08-08T14:17:20.154515-07:00"
-      },
-      {
-        "title": "Sonora recibe visita de embajadores de la Unión Europea",
-        "summary": "Delegación europea visita Sonora en marco de relaciones diplomáticas internacionales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/08/inflacion-en-mexico-baja-a-312-en-julio-su-menor-nivel-en-75-meses-precios-agropecuarios-impulsan-la-desaceleracion/",
-        "_added_at": "2026-08-08T08:16:49.816670-07:00"
-      },
-      {
-        "title": "Javier Lamarque enfatiza igualdad y protección de mujeres",
-        "summary": "Aspirante a coordinador de transformación en Sonora subraya necesidad de perspectiva de género en construcción de sociedad justa.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-llama-a-fortalecer-igualdad-para-mujeres/262005",
-        "_added_at": "2026-08-08T02:24:50.219158-07:00"
-      },
-      {
-        "title": "Lamarque: Sonora requiere gobierno sin margen para improvisar",
-        "summary": "Candidato a coordinar proyecto de Cuarta Transformación destaca trayectoria en Morena y experiencia administrativa.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/experiencia-clave-para-consolidar-transformacion-lamarque/261974",
-        "_added_at": "2026-08-08T02:24:50.219158-07:00"
-      },
-      {
-        "title": "Daniel Humberto liberado; proceso continúa en libertad",
-        "summary": "Exrecepcionista de clínica procesado por posesión de droga; familia bloqueó centro de Hermosillo en protesta.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/07/llevara-daniel-humberto-exrecepcionista-de-clinica-de-sueros-proceso-en-libertad-familiares-bloquearon-por-horas-centro-de-hermosillo/",
-        "_added_at": "2026-08-08T02:24:50.219158-07:00"
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Restauranteros piden revelar negocios bajo investigación",
-        "summary": "Comerciantes de Ciudad Obregón solicitan transparencia sobre establecimientos investigados por propinas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/08/restauranteros-de-ciudad-obregon-piden-a-profeco-revelar-que-establecimientos-son-investigados-por-cobro-obligatorio-de-propinas/",
-        "_added_at": "2026-08-08T17:43:07.283194-07:00"
+        "title": "Invertiirán 510 millones en Hospital Universitario de Etchojoa",
+        "summary": "Proyecto incluye urgencias, quirófanos, especialidades, laboratorio e imagenología con respaldo gubernamental.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/impulsa-durazo-hospital-universitario-en-etchojoa/262068",
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       },
       {
-        "title": "Avanza construcción de hospital universitario en Etchojoa",
-        "summary": "Inversión de 510 millones de pesos para nuevo hospital que atienda sur de Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/avanza-construccion-de-hospital-universitario-de-510-mdp-en-etchojoa-para-atender-demanda-de-salud-en-el-sur-de-sonora/",
-        "_added_at": "2026-08-08T17:43:07.283194-07:00"
-      },
-      {
-        "title": "Hacienda reduce subsidio a gasolina y sube impuesto",
-        "summary": "Gobierno retira estímulo fiscal a combustibles premium; magna tendrá apoyo limitado a partir de agosto.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/08/08/hacienda-reduce-el-estimulo-fiscal-del-8-al-14-de-agosto-deja-la-gasolina-magna-con-140-pesos-de-apoyo-y-retira-casi-todo-el-subsidio-a-la-premium-elevando-en-mas-de-un-peso-el-impuesto-por-litro/",
-        "_added_at": "2026-08-08T14:17:20.154515-07:00"
-      },
-      {
-        "title": "Inflación en México baja a 3.12 por ciento en julio",
-        "summary": "Menor nivel en 75 meses con desaceleración impulsada por precios agropecuarios.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/08/inflacion-en-mexico-baja-a-312-en-julio-su-menor-nivel-en-75-meses-precios-agropecuarios-impulsan-la-desaceleracion/",
-        "_added_at": "2026-08-08T11:19:01.087592-07:00"
-      },
-      {
-        "title": "Rehabilitarán bulevar Gómez del Campo con inversión de 517 mdp",
-        "summary": "Obra beneficiará 22 colonias y servirá como ruta alterna al bulevar Quiroga en Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/arranca-astiazaran-rehabilitacion-del-bulevar-agustin-gomez-del-campo-en-hermosillo-con-inversion-de-517-mdp-sera-ruta-alterna-al-quiroga-y-beneficiara-a-22-colonias/",
-        "_added_at": "2026-08-08T11:19:01.087592-07:00"
-      },
-      {
-        "title": "Treinta jóvenes sonorenses se capacitarán en semiconductores en Taiwán",
-        "summary": "Estudiantes viajan para especializarse en semiconductores y energías limpias. Iniciativa de desarrollo laboral.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/08/30-joveneses-sonorenses-viajaran-a-taiwan-para-especializarse-en-semiconductores/",
-        "_added_at": "2026-08-08T08:16:49.816670-07:00"
-      },
-      {
-        "title": "Peso mexicano continúa ganando frente al dólar",
-        "summary": "Moneda mexicana mantiene fortaleza en mercado de divisas durante esta semana.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/08/08/el-peso-mexicano-sigue-ganando-frente-al-dolar-y-asi-cotiza-el-tipo-de-cambio-este-sabado-8-de-agosto-de-2026/",
-        "_added_at": "2026-08-08T08:16:49.816670-07:00"
-      },
-      {
-        "title": "CFE invertirá 13 mil mdp en red eléctrica sonorense",
-        "summary": "Proyectos incluyen nuevas subestaciones, líneas transmisión y modernización para atender demanda energética creciente.",
+        "title": "CFE destina más de 13 mil millones a red eléctrica sonorense",
+        "summary": "Inversión para nuevas subestaciones, líneas de transmisión y modernización ante creciente demanda energética.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/cfe-destinara-mas-de-13-mil-mdp-a-sonora/262027",
-        "_added_at": "2026-08-08T02:24:50.219158-07:00"
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       },
       {
-        "title": "Sonora envía treinta jóvenes a Taiwán para especializarse",
-        "summary": "Estudiantes se capacitarán en semiconductores y energías limpias, fortaleciendo sector tecnológico estatal.",
+        "title": "CFE restablece luz a 62% de afectados por tormenta en Cajeme",
+        "summary": "Compañía restaura suministro eléctrico a mayoría de usuarios tras afectaciones por fenómeno meteorológico.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/07/de-sonora-a-taiwan-30-jovenes-viajaran-para-especializarse-en-semiconductores-y-energias-limpias/",
-        "_added_at": "2026-08-08T02:24:50.219158-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/08/cfe-restablece-luz-al-62-de-usuarios-afectados-por-tormenta-en-cajeme/",
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       },
       {
-        "title": "Presas del Yaqui con reservas insuficientes pese a lluvias",
-        "summary": "Infraestructura hídrica en Ciudad Obregón contiene poco más de mitad del agua requerida para ciclo agrícola normal.",
+        "title": "Restauranteros piden transparencia sobre investigaciones de Profeco",
+        "summary": "Comerciantes de Ciudad Obregón solicitan revelación de establecimientos investigados por cobro obligatorio de propinas.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/07/aunque-llegaron-las-lluvias-las-presas-del-rio-yaqui-tienen-poco-mas-de-la-mitad-del-agua-necesaria-para-un-ciclo-agricola-normal/",
-        "_added_at": "2026-08-08T02:24:50.219158-07:00"
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/08/restauranteros-de-ciudad-obregon-piden-a-profeco-revelar-que-establecimientos-son-investigados-por-cobro-obligatorio-de-propinas/",
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Alacranes lideran intoxicaciones por animales",
-        "summary": "Salud reporta 3 mil intoxicaciones por ponzoñosos hasta junio; 2.5 mil por escorpión.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/alacranes-encabezan-casos-de-intoxicacion-en-sonora/262057",
-        "_added_at": "2026-08-08T23:34:34.634604-07:00"
-      },
-      {
-        "title": "Derrame químico en Naco requiere atención médica",
-        "summary": "Refuerzan servicios de salud en ejido Cuauhtémoc tras incidente en frontera.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/refuerzan-atencion-medica-en-ejido-cuauhtemoc-tras-derrame-quimico-en-naco/",
-        "_added_at": "2026-08-08T23:34:34.634604-07:00"
-      },
-      {
-        "title": "Lluvia y vientos fuertes afectan Ciudad Obregón",
-        "summary": "Árboles, postes y cables caen. Se registran inundaciones y apagones en distintas zonas de la ciudad.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/tormenta-deja-arboles-postes-y-cables-caidos-inundaciones-y-apagones-en-ciudad-obregon/",
-        "_added_at": "2026-08-08T21:07:55.750352-07:00"
-      },
-      {
-        "title": "Protección Civil alerta sobre zonas peligrosas en Hermosillo",
-        "summary": "Advierte evitar arroyos, vados y vialidades de riesgo por inundaciones durante temporada de lluvias.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/alerta-proteccion-civil-ante-riesgo-de-inundaciones-en-hermosillo-piden-evitar-los-siguiente-arroyos-vados-y-vialidades-peligrosas/",
-        "_added_at": "2026-08-08T21:07:55.750352-07:00"
-      },
-      {
-        "title": "Durazo se pronuncia tras lluvias y apagones en Cajeme",
-        "summary": "Gobernador señala que trabajos se concentran en restablecer servicio eléctrico en sur de Sonora.",
+        "title": "Durazo se pronuncia tras lluvias e impacto en Cajeme",
+        "summary": "Titular estatal comenta situación generada por fenómeno meteorológico en zona de Obregón.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/se-pronuncia-alfonso-durazo-tras-fuertes-lluvias-y-apagones-en-cajeme/",
-        "_added_at": "2026-08-08T21:07:55.750352-07:00"
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       },
       {
-        "title": "Último día para recoger uniformes escolares gratis",
-        "summary": "Hermosillo ofrece distribución gratuita de uniformes y zapatos para estudiantes.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/este-domingo-es-el-ultimo-dia-para-recoger-uniformes-y-zapatos-escolares-gratis-en-hermosillo/",
-        "_added_at": "2026-08-08T17:43:07.283194-07:00"
-      },
-      {
-        "title": "Ayuntamiento retira 649 autos abandonados de Hermosillo",
-        "summary": "Operativo de limpieza elimina vehículos abandonados; 456 fueron recogidos por propietarios.",
+        "title": "Hermosillo retira 649 vehículos abandonados de calles",
+        "summary": "Ayuntamiento retiró autos; 456 fueron recogidos por dueños para evitar multas y costos.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/retiran-649-autos-abandonados-de-calles-de-hermosillo-456-fueron-retirados-por-sus-duenos-para-evitar-multas-y-costos-de-grua/",
-        "_added_at": "2026-08-08T17:43:07.283194-07:00"
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       },
       {
-        "title": "Servicio de agua mejora gradualmente en Hermosillo",
-        "summary": "Normalización del suministro tras fallas por lluvias y problemas en acueducto; autoridades reportan avance.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/servicio-de-agua-comienza-a-normalizarse-en-hermosillo-tras-fallas-por-lluvias-astiazaran-atribuye-afectaciones-a-turbiedad-cortes-de-energia-y-problemas-en-el-acueducto-independencia/",
-        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+        "title": "Refuerzan atención médica en Cuauhtémoc tras derrame químico",
+        "summary": "Autoridades sanitarias intensifican vigilancia en ejido de Naco por incidente ambiental.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/refuerzan-atencion-medica-en-ejido-cuauhtemoc-tras-derrame-quimico-en-naco/",
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       },
       {
-        "title": "Invitan a campamento creativo para niños en Hermosillo",
-        "summary": "Realizan convocatoria para verano con talleres de arte, música, lectura y cine en La Malinche.",
+        "title": "Daños por lluvia y vientos en Ciudad Obregón",
+        "summary": "Fenómeno meteorológico provoca caída de árboles y otras afectaciones en la zona.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/invitan-a-ninos-de-hermosillo-al-campamento-de-verano-creativo-2026-en-la-malinche-habra-talleres-de-arte-musica-lectura-y-cine/",
-        "_added_at": "2026-08-08T14:17:20.154515-07:00"
-      },
-      {
-        "title": "Fernando Rojo entrega bicicletas a jóvenes sonorenses",
-        "summary": "Programa Enbici beneficia a niños y adolescentes de centros de bienestar juvenil en el estado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/08/fernando-rojo-entrega-bicicletas-del-programa-enbici-a-ninas-ninos-y-jovenes-de-centros-de-bienestar-juvenil-en-sonora/",
-        "_added_at": "2026-08-08T14:17:20.154515-07:00"
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/lluvia-y-fuertes-vientos-provocan-caida-de-arboles-y-otras-afectaciones-en-ciudad-obregon/",
+        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-08T23:34:34.634604-07:00"
+  "last_updated": "2026-08-09T02:26:43.174123-07:00"
 }
