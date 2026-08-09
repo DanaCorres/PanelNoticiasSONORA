@@ -1,8 +1,29 @@
 {
   "date": "2026-08-09",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Adulto mayor muere electrocutado durante tormenta en Vícam",
+        "summary": "Persona se refugiaba de lluvia cuando sufrió descarga eléctrica por cortocircuito en transformador cercano.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/muere-hombre-electrocutado-durante-tormenta-en-vicam/262073",
+        "_added_at": "2026-08-09T11:20:55.501762-07:00"
+      },
+      {
+        "title": "Sonorenses reportan mayor venta de alcohol en las calles",
+        "summary": "Ciudadanos expresan preocupación por incremento en comercio de bebidas alcohólicas en espacios públicos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/ven-sonorenses-mas-alcohol-en-las-calles/",
+        "_added_at": "2026-08-09T11:20:55.501762-07:00"
+      },
+      {
+        "title": "Policía rescata bebé de dos meses con emergencia respiratoria",
+        "summary": "Elementos municipales salvaron a recién nacido en situación crítica al norte de Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/09/policia-salva-a-bebe-de-dos-meses-tras-emergencia-respiratoria-al-norte-de-hermosillo/",
+        "_added_at": "2026-08-09T11:20:55.501762-07:00"
+      },
       {
         "title": "Gobernador Durazo se pronuncia tras fuertes lluvias",
         "summary": "Alfonso Durazo emite declaración tras afectaciones por tormentas y apagones registrados en Cajeme.",
@@ -64,6 +85,20 @@
     ],
     "economia": [
       {
+        "title": "Gobernador anuncia proyectos de CFE por 13 mil mdp",
+        "summary": "Durazo presenta iniciativas energéticas de inversión significativa para infraestructura estatal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/anuncia-gobernador-durazo-proyectos-de-la-cfe-por-13-mmdp/",
+        "_added_at": "2026-08-09T11:20:55.501762-07:00"
+      },
+      {
+        "title": "Ganadería sonorense enfrenta nuevos retos a 90 años",
+        "summary": "Sector ganadero analiza desafíos actuales en su evolución histórica y perspectivas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/enfrenta-ganaderia-sonorense-nuevos-retos-a-90-anos-de-la-ugrs/",
+        "_added_at": "2026-08-09T11:20:55.501762-07:00"
+      },
+      {
         "title": "Sagarhpa dispersa 360 mil larvas de mosca estéril",
         "summary": "Iniciativa busca contener avance del gusano barrenador del ganado desde Chihuahua hacia Sonora.",
         "source": "Expreso",
@@ -100,6 +135,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Tormenta causa inundaciones y apagones en Cajeme",
+        "summary": "Lluvias y vientos provocaron inundaciones, caída de árboles, postes y daños eléctricos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-causan-inundaciones-y-caida-de-postes-en-cajeme/262063",
+        "_added_at": "2026-08-09T11:20:55.501762-07:00"
+      },
+      {
+        "title": "Prevén tráfico pesado por regreso a clases en Hermosillo",
+        "summary": "Autoridades anticipan congestionamiento vehicular por reinicio de actividades escolares.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/preven-trafico-pesado-por-regreso-a-clases/",
+        "_added_at": "2026-08-09T11:20:55.501762-07:00"
+      },
+      {
+        "title": "Hermosillo ofrece esterilizaciones gratuitas para mascotas",
+        "summary": "Municipio anuncia programa de castración para perros y gatos con fechas y requisitos.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/hermosillo-ofrecera-esterilizaciones-gratuitas-para-perros-y-gatos-conoce-fechas-y-requisitos/",
+        "_added_at": "2026-08-09T11:20:55.501762-07:00"
+      },
       {
         "title": "Prepa Municipal Nogales refuerza atención e inclusión",
         "summary": "Institución educativa fortalece programas de atención y políticas de inclusión para estudiantes.",
@@ -151,5 +207,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-09T08:19:00.151432-07:00"
+  "last_updated": "2026-08-09T11:20:55.501762-07:00"
 }
