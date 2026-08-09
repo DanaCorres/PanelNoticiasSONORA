@@ -1,8 +1,22 @@
 {
   "date": "2026-08-08",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Policía refuerza vigilancia en universidades por regreso a clases",
+        "summary": "Operativo de seguridad activado en Hermosillo para proteger a estudiantes universitarios.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/policia-de-hermosillo-refuerza-vigilancia-en-universidades-por-regreso-a-clases/",
+        "_added_at": "2026-08-08T17:43:07.283194-07:00"
+      },
+      {
+        "title": "Mujer fallece ahogada en playa de San Carlos",
+        "summary": "Turista pierde la vida durante baño en playas del estado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/mujer-pierde-la-vida-en-playa-de-san-carlos-se-metio-a-nadar-y-no-salio/",
+        "_added_at": "2026-08-08T17:43:07.283194-07:00"
+      },
       {
         "title": "Hallan tres personas muertas en vehículo al poniente",
         "summary": "Descubren a mujer y dos hombres sin vida en auto en Hermosillo tras posible riña; investigan circunstancias del caso.",
@@ -58,23 +72,23 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/detienen-en-hermosillo-a-hombre-de-53-anos-por-tentativa-de-feminicidio-y-violencia-familiar-agredio-a-su-pareja-y-disparo-contra-una-adolescente-de-14-anos/",
         "_added_at": "2026-08-08T02:24:50.219158-07:00"
-      },
-      {
-        "title": "Derrame químico en Naco requiere muestreos de seguridad",
-        "summary": "Hidrosulfuro de sodio derramado en frontera; ocho personas recibieron atención médica, alcalde demanda certeza sobre riesgos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/naco-espera-resultados-de-muestreos-tras-derrame-quimico/261976",
-        "_added_at": "2026-08-08T02:24:50.219158-07:00"
-      },
-      {
-        "title": "Carroza fúnebre se incendia en bulevar Morelos",
-        "summary": "Vehículo se incendió en Hermosillo; posible fuga de gasolina investigada, Bomberos movilizados y vía cerrada temporalmente.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/carroza-funebre-se-incendia-en-bulevar-morelos-en-hermosillo-conductor-logra-salir-tras-ser-alertado-por-testigos/",
-        "_added_at": "2026-08-08T02:24:50.219158-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Morena suspende derechos de dos diputadas por burlas",
+        "summary": "Nayeli Salvatori y Grace Palomares suspendidas por comentarios ofensivos hacia adultos mayores.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/morena-suspende-derechos-de-las-diputadas-nayeli-salvatori-y-grace-palomares-por-burlas-a-adultos-mayores/",
+        "_added_at": "2026-08-08T17:43:07.283194-07:00"
+      },
+      {
+        "title": "Inicia consulta sobre Ley de Derechos de Pueblos Indígenas",
+        "summary": "Sonora participa en proceso de consulta para nueva legislación sobre derechos indígenas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/inicia-en-sonora-consulta-sobre-nueva-ley-de-derechos-de-pueblos-indigenas-y-afromexicanos/",
+        "_added_at": "2026-08-08T17:43:07.283194-07:00"
+      },
       {
         "title": "Celida López busca encabezar defensa de la 4T",
         "summary": "Presidenta destaca respaldo ciudadano en Hermosillo para fortalecer proyecto de transformación.",
@@ -112,6 +126,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Restauranteros piden revelar negocios bajo investigación",
+        "summary": "Comerciantes de Ciudad Obregón solicitan transparencia sobre establecimientos investigados por propinas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/08/restauranteros-de-ciudad-obregon-piden-a-profeco-revelar-que-establecimientos-son-investigados-por-cobro-obligatorio-de-propinas/",
+        "_added_at": "2026-08-08T17:43:07.283194-07:00"
+      },
+      {
+        "title": "Avanza construcción de hospital universitario en Etchojoa",
+        "summary": "Inversión de 510 millones de pesos para nuevo hospital que atienda sur de Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/avanza-construccion-de-hospital-universitario-de-510-mdp-en-etchojoa-para-atender-demanda-de-salud-en-el-sur-de-sonora/",
+        "_added_at": "2026-08-08T17:43:07.283194-07:00"
+      },
       {
         "title": "Hacienda reduce subsidio a gasolina y sube impuesto",
         "summary": "Gobierno retira estímulo fiscal a combustibles premium; magna tendrá apoyo limitado a partir de agosto.",
@@ -171,6 +199,20 @@
     ],
     "sociedad": [
       {
+        "title": "Último día para recoger uniformes escolares gratis",
+        "summary": "Hermosillo ofrece distribución gratuita de uniformes y zapatos para estudiantes.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/este-domingo-es-el-ultimo-dia-para-recoger-uniformes-y-zapatos-escolares-gratis-en-hermosillo/",
+        "_added_at": "2026-08-08T17:43:07.283194-07:00"
+      },
+      {
+        "title": "Ayuntamiento retira 649 autos abandonados de Hermosillo",
+        "summary": "Operativo de limpieza elimina vehículos abandonados; 456 fueron recogidos por propietarios.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/retiran-649-autos-abandonados-de-calles-de-hermosillo-456-fueron-retirados-por-sus-duenos-para-evitar-multas-y-costos-de-grua/",
+        "_added_at": "2026-08-08T17:43:07.283194-07:00"
+      },
+      {
         "title": "Servicio de agua mejora gradualmente en Hermosillo",
         "summary": "Normalización del suministro tras fallas por lluvias y problemas en acueducto; autoridades reportan avance.",
         "source": "El Imparcial",
@@ -225,22 +267,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/07/dos-zonas-de-sonora-esperan-tormentas-con-rayos-y-fuertes-vientos-mientras-el-calor-superara-los-45c-este-viernes/",
         "_added_at": "2026-08-08T02:24:50.219158-07:00"
-      },
-      {
-        "title": "Unison recomienda medidas para regreso a clases seguro",
-        "summary": "Universidad sugiere salir con tiempo y evitar Luis Encinas en horas pico para movilidad fluidez.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/regreso-a-clases-en-unison-recomiendan-salir-con-tiempo-y-evitar-luis-encinas-en-horas-pico/",
-        "_added_at": "2026-08-08T02:24:50.219158-07:00"
-      },
-      {
-        "title": "Inician reparación de pasarela en Navojoa por petición ciudadana",
-        "summary": "Municipio atiende solicitud de menor para rehabilitar infraestructura en colonia Allende.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/rehabilitan-pasarela-en-la-colonia-allende-de-navojoa/261993",
-        "_added_at": "2026-08-08T02:24:50.219158-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-08T14:17:20.154515-07:00"
+  "last_updated": "2026-08-08T17:43:07.283194-07:00"
 }
