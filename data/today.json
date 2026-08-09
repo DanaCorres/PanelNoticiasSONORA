@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -73,6 +73,13 @@
     ],
     "sociedad": [
       {
+        "title": "CFE restablece 62% de servicio tras tormenta en Cajeme",
+        "summary": "Compañía eléctrica restaura la mayoría del suministro de usuarios afectados por tormenta reciente.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/08/cfe-restablece-luz-al-62-de-usuarios-afectados-por-tormenta-en-cajeme/",
+        "_added_at": "2026-08-09T05:22:05.583036-07:00"
+      },
+      {
         "title": "Durazo se pronuncia tras lluvias e impacto en Cajeme",
         "summary": "Titular estatal comenta situación generada por fenómeno meteorológico en zona de Obregón.",
         "source": "El Imparcial",
@@ -102,5 +109,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-09T02:26:43.174123-07:00"
+  "last_updated": "2026-08-09T05:22:05.583036-07:00"
 }
