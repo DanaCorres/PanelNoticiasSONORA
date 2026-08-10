@@ -1,253 +1,99 @@
 {
-  "date": "2026-08-09",
-  "run_count": 7,
+  "date": "2026-08-10",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Roxana N vinculada a proceso por muerte de menor en auto",
-        "summary": "Tribunal confirma vinculación a proceso en caso Vicentito. Defensa rechaza reclasificación a homicidio culposo.",
+        "title": "Roxana N vinculada a proceso por muerte de Vicentito",
+        "summary": "Tribunal confirma vinculación a proceso de Roxana N por muerte de menor tras olvidarlo en automóvil más de 12 horas.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/mxl/policiaca/2026/08/10/caso-vicentito-tribunal-confirma-vinculacion-a-proceso-de-roxana-n-por-muerte-del-menor-tras-permanecer-olvidado-mas-de-12-horas-en-un-carro/",
-        "_added_at": "2026-08-09T21:20:37.993719-07:00"
+        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       },
       {
-        "title": "Decomisan drogas y armas en operativo en San Luis Río Colorado",
-        "summary": "Aseguran ametralladora, lanzagranadas y drogas en SLRC durante operativo de seguridad.",
+        "title": "Decomisan ametralladora y drogas en San Luis Río Colorado",
+        "summary": "Operativo en SLRC recupera ametralladora, lanzagranadas y drogas durante acciones contra delincuencia.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/mxl/sanluis/2026/08/09/decomisan-ametralladora-lanzagranadas-y-drogas-durante-operativo-en-san-luis-rio-colorado/",
-        "_added_at": "2026-08-09T21:20:37.993719-07:00"
+        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       },
       {
-        "title": "Localizan prendas de joven desaparecido en San Luis Río Colorado",
-        "summary": "Encuentran posibles pertenencias de persona desaparecida durante búsqueda en SLRC.",
+        "title": "Hallan prendas de joven desaparecido en San Luis Río Colorado",
+        "summary": "Búsqueda de desaparecido en SLRC localiza prendas que podrían pertenecerle durante operativos de rastreo.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/mxl/sanluis/2026/08/09/localizan-prendas-que-podrian-pertenecer-a-joven-desaparecido-durante-busqueda-en-san-luis-rio-colorado/",
-        "_added_at": "2026-08-09T21:20:37.993719-07:00"
+        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       },
       {
-        "title": "Adulto mayor muere por descarga eléctrica en Vícam",
-        "summary": "Persona adulta mayor falleció al recibir descarga eléctrica mientras se refugiaba de la lluvia en Vícam, Sonora.",
+        "title": "Tres personas halladas sin vida en Hermosillo",
+        "summary": "Descubren tres cadáveres en camioneta de lujo en Hermosillo; se investiga posible móvil pasional.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/09/adulto-mayor-pierde-la-vida-tras-recibir-descarga-electrica-mientras-se-refugiaba-de-la-lluvia-en-vicam/",
-        "_added_at": "2026-08-09T17:44:40.237203-07:00"
-      },
-      {
-        "title": "Imputan crueldad animal por muerte de cachorro en Empalme",
-        "summary": "Sujeto acusado de quemar vivo a cachorro de cinco meses en Empalme; pericia confirma asfixia.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/imputan-a-sujeto-por-crueldad-animal-en-empalme/262092",
-        "_added_at": "2026-08-09T17:44:40.237203-07:00"
-      },
-      {
-        "title": "Doble homicidio y suicidio investigados en Hermosillo",
-        "summary": "Hallazgo de tres personas sin vida en camioneta de lujo. Fiscalía investiga posible móvil pasional en el caso.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/fiscalia-investiga-doble-homicidio-y-suicidio-en-hermosillo-bajo-la-hipotesis-de-movil-pasional/",
-        "_added_at": "2026-08-09T14:19:24.519959-07:00"
-      },
-      {
-        "title": "Niña intoxicada por medicamento en San Pedro",
-        "summary": "Menores de dos años ingirió clonazepam. Policías municipales brindaron auxilio inmediato a la menor.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/policias-municipales-auxilian-a-nina-de-2-anos-intoxicada-por-ingerir-clonazepam-en-san-pedro-el-saucito/",
-        "_added_at": "2026-08-09T14:19:24.519959-07:00"
-      },
-      {
-        "title": "Adulto mayor muere electrocutado durante tormenta en Vícam",
-        "summary": "Persona se refugiaba de lluvia cuando sufrió descarga eléctrica por cortocircuito en transformador cercano.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/muere-hombre-electrocutado-durante-tormenta-en-vicam/262073",
-        "_added_at": "2026-08-09T11:20:55.501762-07:00"
-      },
-      {
-        "title": "Sonorenses reportan mayor venta de alcohol en las calles",
-        "summary": "Ciudadanos expresan preocupación por incremento en comercio de bebidas alcohólicas en espacios públicos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/ven-sonorenses-mas-alcohol-en-las-calles/",
-        "_added_at": "2026-08-09T11:20:55.501762-07:00"
-      },
-      {
-        "title": "Policía rescata bebé de dos meses con emergencia respiratoria",
-        "summary": "Elementos municipales salvaron a recién nacido en situación crítica al norte de Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/09/policia-salva-a-bebe-de-dos-meses-tras-emergencia-respiratoria-al-norte-de-hermosillo/",
-        "_added_at": "2026-08-09T11:20:55.501762-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/09/apuntan-a-posible-movil-pasional-en-hallazgo-de-3-personas-sin-vida-dentro-de-camioneta-de-lujo-en-hermosillo/",
+        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Senadora Valles destaca avances en salud estatal",
-        "summary": "Lorenia Valles subraya inversión en programas de salud y transformación en Sonora.",
+        "title": "Lorenia Valles destaca avances en salud de Sonora",
+        "summary": "Senadora resalta prioridad de Cuarta Transformación en recursos para mejorar salud y calidad de vida estatal.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/valles-destaca-avances-en-salud-y-transformacion-en-sonora/262095",
-        "_added_at": "2026-08-09T17:44:40.237203-07:00"
+        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       },
       {
-        "title": "Durazo anuncia proyectos de CFE por 13 mil millones",
-        "summary": "Gobernador presenta iniciativas de Comisión Federal de Electricidad con inversión de 13 mil millones de pesos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/anuncia-gobernador-durazo-proyectos-de-la-cfe-por-13-mmdp/",
-        "_added_at": "2026-08-09T08:19:00.151432-07:00"
-      },
-      {
-        "title": "Durazo impulsa Hospital Universitario en Etchojoa",
-        "summary": "Proyecto de inversión de 510 millones para construir hospital con urgencias, quirófanos y especialidades.",
+        "title": "Jornada de reforestación en Cerro de la Cementera",
+        "summary": "Ciudadanos plantan especies endémicas impulsados por Sheinbaum y Durazo en iniciativa ambiental.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/impulsa-durazo-hospital-universitario-en-etchojoa/262068",
-        "_added_at": "2026-08-09T08:19:00.151432-07:00"
-      },
-      {
-        "title": "Simpatizantes de Celida López intensifican apoyo político en Sonora",
-        "summary": "Seguidores refuerzan respaldo a proyecto político de Celida López en la entidad.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/simpatizantes-de-celida-lopez-intensifican-respaldo-a-su-proyecto-politico-en-sonora/",
-        "_added_at": "2026-08-09T02:26:43.174123-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/jornada-nacional-de-reforestacion-en-cerro-de-la-cementera/262101",
+        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       }
     ],
     "economia": [
       {
-        "title": "CFE restablece servicio eléctrico en Cajeme",
-        "summary": "Suministro normalizado tras afectaciones por lluvias; continúan reforzamientos.",
+        "title": "CFE restablece suministro en Cajeme tras afectaciones",
+        "summary": "Compañía recupera servicio eléctrico en Cajeme tras daños por lluvias y vientos; continúan reforzamientos.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/cfe-restablece-suministro-electrico-en-cajeme-tras-afectaciones-por-lluvias-y-vientos-continuan-labores-de-reforzamiento/",
-        "_added_at": "2026-08-09T21:20:37.993719-07:00"
+        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       },
       {
-        "title": "Aumentan camiones de transporte por regreso a clases Unison",
-        "summary": "Incrementan a 343 unidades de transporte urbano en Hermosillo para estudiantes.",
+        "title": "Aumentan a 343 camiones de transporte en Hermosillo",
+        "summary": "Servicio de transporte urbano incrementa unidades para atender regreso a clases de estudiantes Unison.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/09/por-regreso-a-clases-de-unison-aumentaran-a-343-los-camiones-del-transporte-urbano-en-hermosillo/",
-        "_added_at": "2026-08-09T21:20:37.993719-07:00"
-      },
-      {
-        "title": "Restablecen energía eléctrica en Cajeme tras lluvias",
-        "summary": "CFE repara infraestructura dañada en Ciudad Obregón. Servicio recuperado casi completamente tras tormentas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/la-cfe-ya-restablecio-la-luz-en-cajeme-esto-dice-durazo/262082",
-        "_added_at": "2026-08-09T14:19:24.519959-07:00"
-      },
-      {
-        "title": "Gobernador anuncia proyectos de CFE por 13 mil mdp",
-        "summary": "Durazo presenta iniciativas energéticas de inversión significativa para infraestructura estatal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/anuncia-gobernador-durazo-proyectos-de-la-cfe-por-13-mmdp/",
-        "_added_at": "2026-08-09T11:20:55.501762-07:00"
-      },
-      {
-        "title": "Ganadería sonorense enfrenta nuevos retos a 90 años",
-        "summary": "Sector ganadero analiza desafíos actuales en su evolución histórica y perspectivas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/enfrenta-ganaderia-sonorense-nuevos-retos-a-90-anos-de-la-ugrs/",
-        "_added_at": "2026-08-09T11:20:55.501762-07:00"
-      },
-      {
-        "title": "Sagarhpa dispersa 360 mil larvas de mosca estéril",
-        "summary": "Iniciativa busca contener avance del gusano barrenador del ganado desde Chihuahua hacia Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sagarhpa-inicia-dispersion-larvas-mosca-esteril-sonora/262067",
-        "_added_at": "2026-08-09T08:19:00.151432-07:00"
-      },
-      {
-        "title": "Invertiirán 510 millones en Hospital Universitario de Etchojoa",
-        "summary": "Proyecto incluye urgencias, quirófanos, especialidades, laboratorio e imagenología con respaldo gubernamental.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/impulsa-durazo-hospital-universitario-en-etchojoa/262068",
-        "_added_at": "2026-08-09T02:26:43.174123-07:00"
-      },
-      {
-        "title": "CFE destina más de 13 mil millones a red eléctrica sonorense",
-        "summary": "Inversión para nuevas subestaciones, líneas de transmisión y modernización ante creciente demanda energética.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cfe-destinara-mas-de-13-mil-mdp-a-sonora/262027",
-        "_added_at": "2026-08-09T02:26:43.174123-07:00"
-      },
-      {
-        "title": "CFE restablece luz a 62% de afectados por tormenta en Cajeme",
-        "summary": "Compañía restaura suministro eléctrico a mayoría de usuarios tras afectaciones por fenómeno meteorológico.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/cfe-restablece-luz-al-62-de-usuarios-afectados-por-tormenta-en-cajeme/",
-        "_added_at": "2026-08-09T02:26:43.174123-07:00"
-      },
-      {
-        "title": "Restauranteros piden transparencia sobre investigaciones de Profeco",
-        "summary": "Comerciantes de Ciudad Obregón solicitan revelación de establecimientos investigados por cobro obligatorio de propinas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/08/restauranteros-de-ciudad-obregon-piden-a-profeco-revelar-que-establecimientos-son-investigados-por-cobro-obligatorio-de-propinas/",
-        "_added_at": "2026-08-09T02:26:43.174123-07:00"
+        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Tres tormentas se acercan a Sonora este fin de semana",
-        "summary": "Protección Civil prevé zonas de tormenta; Hermosillo con bajo potencial lluvia.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/tormentas-en-sonora-llovera-este-domingo-en-hermosillo/262085",
-        "_added_at": "2026-08-09T21:20:37.993719-07:00"
-      },
-      {
-        "title": "Adulto mayor muere por descarga eléctrica en Vícam",
-        "summary": "Persona fallece al resguardarse de lluvia en Vícam; accidente relacionado con tormenta.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/09/adulto-mayor-pierde-la-vida-tras-recibir-descarga-electrica-mientras-se-refugiaba-de-la-lluvia-en-vicam/",
-        "_added_at": "2026-08-09T21:20:37.993719-07:00"
-      },
-      {
-        "title": "Familia pide apoyo para tratamiento de Reynita en Etchojoa",
-        "summary": "Menor requiere inmunoglobulina y estudios genéticos; solicita ayuda económica.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/reynita-enfrenta-tratamiento-complejo-en-etchojoa/262086",
-        "_added_at": "2026-08-09T21:20:37.993719-07:00"
-      },
-      {
         "title": "Más de 50 mil estudiantes regresan a clases en Unison",
-        "summary": "Reanudación de actividades académicas en universidad con importante participación estudiantil.",
+        "summary": "Inicia nuevo semestre en Universidad de Sonora con más de 50 mil estudiantes retornando a actividades académicas.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/regresan-manana-a-clases-mas-de-50-mil-estudiantes-de-la-unison/",
-        "_added_at": "2026-08-09T17:44:40.237203-07:00"
+        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       },
       {
-        "title": "Hermosillo enfrentará semana calurosa con posibles tormentas",
-        "summary": "Pronóstico indica temperaturas altas hasta 42°C y riesgo de precipitaciones durante regreso a clases.",
+        "title": "Hermosillo tendrá semana calurosa con posibles tormentas",
+        "summary": "Pronóstico meteorológico advierte calor intenso y probabilidad de tormentas durante regreso a clases.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/hermosillo-tendra-semana-calurosa-y-con-posibilidad-de-tormentas-durante-regreso-a-clases-de-la-unison/",
-        "_added_at": "2026-08-09T17:44:40.237203-07:00"
+        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       },
       {
-        "title": "Estudiantes esperan hasta 40 minutos por transporte urbano",
-        "summary": "Unison prevé demoras en camiones de transporte durante regreso a actividades académicas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/estudiantes-de-la-unison-podrian-esperar-hasta-40-minutos-por-una-linea-de-transporte-urbano-vigilantes-de-transporte-llama-a-la-poblacion-a-prevenir-y-salir-antes-de-casa/",
-        "_added_at": "2026-08-09T17:44:40.237203-07:00"
-      },
-      {
-        "title": "Lluvias causan afectaciones en Ciudad Obregón",
-        "summary": "Tormentas provocan daños en diversos sectores. Autoridades atienden afectaciones por precipitaciones intensas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/provocan-lluvias-afectaciones-en-distintos-sectores-de-ciudad-obregon/",
-        "_added_at": "2026-08-09T14:19:24.519959-07:00"
-      },
-      {
-        "title": "Tres tormentas se acercan a Sonora este fin de semana",
-        "summary": "Protección Civil prevé tres zonas de tormenta. Hermosillo tendría baja probabilidad de precipitaciones.",
+        "title": "Imputan a sujeto por crueldad animal en Empalme",
+        "summary": "Hombre enfrenta proceso por quemar vivo a cachorro de cinco meses; pericial veterinaria confirma asfixia.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/tormentas-en-sonora-hara-lluvia-este-domingo-en-hermosillo/262085",
-        "_added_at": "2026-08-09T14:19:24.519959-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/imputan-a-sujeto-por-crueldad-animal-en-empalme/262092",
+        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       },
       {
-        "title": "Tormenta causa inundaciones y apagones en Cajeme",
-        "summary": "Lluvias y vientos provocaron inundaciones, caída de árboles, postes y daños eléctricos.",
+        "title": "Reynita enfrenta tratamiento complejo en Etchojoa",
+        "summary": "Menor requiere inmunoglobulina y estudios genéticos; familia solicita apoyo para gastos hospitalarios.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-causan-inundaciones-y-caida-de-postes-en-cajeme/262063",
-        "_added_at": "2026-08-09T11:20:55.501762-07:00"
-      },
-      {
-        "title": "Prevén tráfico pesado por regreso a clases en Hermosillo",
-        "summary": "Autoridades anticipan congestionamiento vehicular por reinicio de actividades escolares.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/preven-trafico-pesado-por-regreso-a-clases/",
-        "_added_at": "2026-08-09T11:20:55.501762-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/reynita-enfrenta-tratamiento-complejo-en-etchojoa/262086",
+        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-09T21:20:37.993719-07:00"
+  "last_updated": "2026-08-10T00:03:48.330849-07:00"
 }
