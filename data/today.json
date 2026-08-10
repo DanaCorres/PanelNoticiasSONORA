@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -73,6 +73,13 @@
     ],
     "sociedad": [
       {
+        "title": "Nuevo semáforo en puente junto a Unison en Hermosillo",
+        "summary": "Infraestructura vial permite cuatro minutos para autos y 30 segundos para peatones.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/cuatro-minutos-para-autos-y-30-segundos-para-peatones-asi-funcionara-nuevo-semaforo-del-puente-junto-a-unison-en-hermosillo/",
+        "_added_at": "2026-08-10T05:38:32.223599-07:00"
+      },
+      {
         "title": "Hombre de 69 años fallece en Caborca",
         "summary": "Cruz Roja confirma defunción por causas naturales de adulto mayor con problemas de salud previos.",
         "source": "Expreso",
@@ -109,5 +116,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-10T03:06:45.629766-07:00"
+  "last_updated": "2026-08-10T05:38:32.223599-07:00"
 }
