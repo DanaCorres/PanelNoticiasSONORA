@@ -1,8 +1,15 @@
 {
   "date": "2026-08-10",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Enfrentamiento en Los Mochis deja detenidos",
+        "summary": "Guardia Nacional enfrenta civiles armados; 8 detenidos y 4 lesionados en Los Mochis.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/09/reportan-enfrentamiento-entre-civiles-armados-y-guardia-nacional-en-los-mochis-8-detenidos-y-4-lesionados/",
+        "_added_at": "2026-08-10T03:06:45.629766-07:00"
+      },
       {
         "title": "Roxana N vinculada a proceso por muerte de Vicentito",
         "summary": "Tribunal confirma vinculación a proceso de Roxana N por muerte de menor tras olvidarlo en automóvil más de 12 horas.",
@@ -66,6 +73,13 @@
     ],
     "sociedad": [
       {
+        "title": "Hombre de 69 años fallece en Caborca",
+        "summary": "Cruz Roja confirma defunción por causas naturales de adulto mayor con problemas de salud previos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-a-adulto-mayor-sin-vida-en-caborca/262100",
+        "_added_at": "2026-08-10T03:06:45.629766-07:00"
+      },
+      {
         "title": "Más de 50 mil estudiantes regresan a clases en Unison",
         "summary": "Inicia nuevo semestre en Universidad de Sonora con más de 50 mil estudiantes retornando a actividades académicas.",
         "source": "El Imparcial",
@@ -95,5 +109,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-10T00:03:48.330849-07:00"
+  "last_updated": "2026-08-10T03:06:45.629766-07:00"
 }
