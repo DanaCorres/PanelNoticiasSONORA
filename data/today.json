@@ -1,8 +1,22 @@
 {
   "date": "2026-08-10",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Homicidios entre principales causas de muerte",
+        "summary": "Homicidios y accidentes figuran entre causas principales de mortalidad masculina en Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/10/homicidios-y-accidentes-figuran-entre-las-principales-causas-de-muerte-de-hombres-en-sonora-enfermedades-cronicas-dominan-entre-mujeres/",
+        "_added_at": "2026-08-10T08:46:23.321031-07:00"
+      },
+      {
+        "title": "Imputan a hombre por crueldad animal en Empalme",
+        "summary": "Sujeto enfrentará cargos por quemar vivo a cachorro de cinco meses en Empalme.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/imputan-a-sujeto-por-crueldad-animal-en-empalme/262092",
+        "_added_at": "2026-08-10T08:46:23.321031-07:00"
+      },
       {
         "title": "Enfrentamiento en Los Mochis deja detenidos",
         "summary": "Guardia Nacional enfrenta civiles armados; 8 detenidos y 4 lesionados en Los Mochis.",
@@ -41,6 +55,13 @@
     ],
     "politica": [
       {
+        "title": "Durazo encabeza reforestación nacional en Hermosillo",
+        "summary": "Gobernador participa en jornada de reforestación en Cerro de la Cementera impulsada por Sheinbaum.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/10/durazo-encabeza-jornada-nacional-de-reforestacion-2026-en-sonora-destaca-recuperacion-del-patrimonio-forestal-y-uso-de-especies-nativas/",
+        "_added_at": "2026-08-10T08:46:23.321031-07:00"
+      },
+      {
         "title": "Lorenia Valles destaca avances en salud de Sonora",
         "summary": "Senadora resalta prioridad de Cuarta Transformación en recursos para mejorar salud y calidad de vida estatal.",
         "source": "Expreso",
@@ -57,6 +78,13 @@
     ],
     "economia": [
       {
+        "title": "Municipio busca recuperar viviendas para venta",
+        "summary": "Ayuntamiento trabaja en programa de recuperación de propiedades para comercialización.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/10/busca-ayuntamiento-recuperar-viviendas-para-ponerlas-en-venta/",
+        "_added_at": "2026-08-10T08:46:23.321031-07:00"
+      },
+      {
         "title": "CFE restablece suministro en Cajeme tras afectaciones",
         "summary": "Compañía recupera servicio eléctrico en Cajeme tras daños por lluvias y vientos; continúan reforzamientos.",
         "source": "El Imparcial",
@@ -72,6 +100,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Regreso a clases causa congestión en Hermosillo",
+        "summary": "Inicio de ciclo escolar en Unison provoca largas filas y congestionamiento vial.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/regreso-a-clases-en-la-unison-provoca-largas-filas-y-congestionamiento-vial-en-hermosillo/",
+        "_added_at": "2026-08-10T08:46:23.321031-07:00"
+      },
+      {
+        "title": "Recuperación de parque La Sauceda enfrenta retos",
+        "summary": "Lluvias ponen a prueba avances en restauración del parque; hay pendientes por atender.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/lluvias-ponen-a-prueba-a-la-sauceda-avanza-recuperacion-del-parque-pero-hay-pendientes-por-atender/",
+        "_added_at": "2026-08-10T08:46:23.321031-07:00"
+      },
       {
         "title": "Nuevo semáforo en puente junto a Unison en Hermosillo",
         "summary": "Infraestructura vial permite cuatro minutos para autos y 30 segundos para peatones.",
@@ -116,5 +158,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-10T05:38:32.223599-07:00"
+  "last_updated": "2026-08-10T08:46:23.321031-07:00"
 }
