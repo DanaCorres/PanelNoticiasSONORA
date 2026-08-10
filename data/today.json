@@ -1,8 +1,22 @@
 {
   "date": "2026-08-10",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre agrede con hacha a su esposa en Hermosillo",
+        "summary": "Sujeto detenido por lanzar hacha contra su pareja en San Pedro El Saucito.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/martin-n-es-arrestado-por-lanzar-un-hacha-a-su-esposa-en-san-pedro-el-saucito/",
+        "_added_at": "2026-08-10T11:38:58.514921-07:00"
+      },
+      {
+        "title": "Tiroteo en iglesia de Los Mochis causa pánico",
+        "summary": "Agresión armada afuera de templo asusta a fieles durante misa matutina.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/agresion-armada-afuera-de-iglesia-provoca-temor-durante-misa-en-los-mochis-video/",
+        "_added_at": "2026-08-10T11:38:58.514921-07:00"
+      },
       {
         "title": "Homicidios entre principales causas de muerte",
         "summary": "Homicidios y accidentes figuran entre causas principales de mortalidad masculina en Sonora.",
@@ -78,6 +92,20 @@
     ],
     "economia": [
       {
+        "title": "Jalapeños mexicanos retirados de mercado estadounidense",
+        "summary": "Brote de salmonela obliga a Taylor Farms a suspender comercialización.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/taylor-farms-retira-jalapenos-mexicanos-en-eeuu-por-brote-de-salmonela/",
+        "_added_at": "2026-08-10T11:38:58.514921-07:00"
+      },
+      {
+        "title": "Boleros con menos trabajo por intenso calor",
+        "summary": "Disminución de clientes por temperaturas extremas afecta ingresos informales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/tienen-boleros-menos-chamba-por-el-caloron/",
+        "_added_at": "2026-08-10T11:38:58.514921-07:00"
+      },
+      {
         "title": "Municipio busca recuperar viviendas para venta",
         "summary": "Ayuntamiento trabaja en programa de recuperación de propiedades para comercialización.",
         "source": "El Imparcial",
@@ -100,6 +128,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Árboles nativos recomendados para arborización hermosillense",
+        "summary": "Mezquite, palo fierro y verde elegidos por bajo consumo hídrico.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/son-arboles-nativos-la-mejor-opcion-para-hermosillo/",
+        "_added_at": "2026-08-10T11:38:58.514921-07:00"
+      },
+      {
+        "title": "Niños limpian y preparan parque en Ciudad Obregón",
+        "summary": "Menores participan en mejoramiento de espacio comunitario para canchas deportivas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/10/ninos-limpian-parque-para-convertirlo-en-canchas-de-futbol-en-la-colonia-santa-fe/",
+        "_added_at": "2026-08-10T11:38:58.514921-07:00"
+      },
       {
         "title": "Regreso a clases causa congestión en Hermosillo",
         "summary": "Inicio de ciclo escolar en Unison provoca largas filas y congestionamiento vial.",
@@ -158,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-10T08:46:23.321031-07:00"
+  "last_updated": "2026-08-10T11:38:58.514921-07:00"
 }
