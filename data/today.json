@@ -1,8 +1,29 @@
 {
   "date": "2026-08-10",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Agresión armada en tienda deja tres muertos",
+        "summary": "Enfrentamiento armado en establecimiento comercial causó tres decesos y dos lesionados en Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/agresion-armada-en-tienda-deja-tres-muertos-y-dos-lesionados/",
+        "_added_at": "2026-08-10T14:29:59.698047-07:00"
+      },
+      {
+        "title": "Futbolista de Etchojoa muere en choque de motocicletas",
+        "summary": "Joven deportista fallece tras colisión entre dos motos en municipio de Etchojoa.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/identifican-victima-de-choque-entre-motocicletas-en-etchojoa/262131",
+        "_added_at": "2026-08-10T14:29:59.698047-07:00"
+      },
+      {
+        "title": "Incendio deja sin hogar a residente en Hermosillo",
+        "summary": "Siniestro en colonia Palo Verde desaloja a familia y requiere apoyo humanitario.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/incendio-deja-sin-hogar-a-rosendo-garcia-en-la-colonia-palo-verde-de-hermosillo-pide-apoyo-para-salir-adelante/",
+        "_added_at": "2026-08-10T14:29:59.698047-07:00"
+      },
       {
         "title": "Hombre agrede con hacha a su esposa en Hermosillo",
         "summary": "Sujeto detenido por lanzar hacha contra su pareja en San Pedro El Saucito.",
@@ -51,23 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/mxl/sanluis/2026/08/09/decomisan-ametralladora-lanzagranadas-y-drogas-durante-operativo-en-san-luis-rio-colorado/",
         "_added_at": "2026-08-10T00:03:48.330849-07:00"
-      },
-      {
-        "title": "Hallan prendas de joven desaparecido en San Luis Río Colorado",
-        "summary": "Búsqueda de desaparecido en SLRC localiza prendas que podrían pertenecerle durante operativos de rastreo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/sanluis/2026/08/09/localizan-prendas-que-podrian-pertenecer-a-joven-desaparecido-durante-busqueda-en-san-luis-rio-colorado/",
-        "_added_at": "2026-08-10T00:03:48.330849-07:00"
-      },
-      {
-        "title": "Tres personas halladas sin vida en Hermosillo",
-        "summary": "Descubren tres cadáveres en camioneta de lujo en Hermosillo; se investiga posible móvil pasional.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/09/apuntan-a-posible-movil-pasional-en-hallazgo-de-3-personas-sin-vida-dentro-de-camioneta-de-lujo-en-hermosillo/",
-        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Lamarque inspecciona daños por lluvias en Cajeme",
+        "summary": "Autoridad municipal realiza recorrido para evaluar afectaciones en Ciudad Obregón.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/10/realiza-javier-lamarque-recorrido-en-ciudad-obregon-para-conocer-afectaciones-por-lluvias/",
+        "_added_at": "2026-08-10T14:29:59.698047-07:00"
+      },
       {
         "title": "Durazo encabeza reforestación nacional en Hermosillo",
         "summary": "Gobernador participa en jornada de reforestación en Cerro de la Cementera impulsada por Sheinbaum.",
@@ -91,6 +105,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Unison inicia semestre con 49 mil 700 alumnos",
+        "summary": "Universidad de Sonora comienza ciclo escolar con aumento en matriculación sin contratiempos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/universidad-de-sonora-inicia-semestre-2026-2-con-49-mil-700-alumnos-arranque-sin-contratiempos/",
+        "_added_at": "2026-08-10T14:29:59.698047-07:00"
+      },
+      {
+        "title": "Hermosillo retira 195 vehículos abandonados en operativo",
+        "summary": "Autoridades limpian calles de la capital removiendo unidades sin propietario identificado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/hermosillo-retira-195-vehiculos-abandonados-de-las-calles-durante-operativo/",
+        "_added_at": "2026-08-10T14:29:59.698047-07:00"
+      },
       {
         "title": "Jalapeños mexicanos retirados de mercado estadounidense",
         "summary": "Brote de salmonela obliga a Taylor Farms a suspender comercialización.",
@@ -128,6 +156,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Hermosillo enfrenta intenso calor a mediados de semana",
+        "summary": "Pronóstico advierte temperaturas hasta 45°C con posibles lluvias por monzón mexicano.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/cima-en-sonora-hermosillo-se-prepara-para-repunte-de-calor/262130",
+        "_added_at": "2026-08-10T14:29:59.698047-07:00"
+      },
+      {
+        "title": "Tráfico en Hermosillo aumenta hasta 40 minutos",
+        "summary": "Expertos recomiendan salida temprana para evitar congestión vial en la capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/sal-temprano-para-evitar-trafico-en-hermosillo-hasta-40-minutos-aumentan-traslados/",
+        "_added_at": "2026-08-10T14:29:59.698047-07:00"
+      },
+      {
+        "title": "Plantarán 13 mil árboles en Cerro de la Cementera",
+        "summary": "Proyecto de reforestación en Hermosillo durará ocho meses con participación ciudadana.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/en-ocho-meses-terminaran-de-plantar-13-mil-arboles-en-cerro-de-la-cementera-en-hermosillo/",
+        "_added_at": "2026-08-10T14:29:59.698047-07:00"
+      },
+      {
+        "title": "Fallece empresario hermosillense Juan González Loaiza",
+        "summary": "Murió a los 87 años destacado hombre de negocios de la capital sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/fallece-el-empresario-hermosillense-juan-gonzalez-loaiza-a-los-87-anos/",
+        "_added_at": "2026-08-10T14:29:59.698047-07:00"
+      },
       {
         "title": "Árboles nativos recomendados para arborización hermosillense",
         "summary": "Mezquite, palo fierro y verde elegidos por bajo consumo hídrico.",
@@ -169,36 +225,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/localizan-a-adulto-mayor-sin-vida-en-caborca/262100",
         "_added_at": "2026-08-10T03:06:45.629766-07:00"
-      },
-      {
-        "title": "Más de 50 mil estudiantes regresan a clases en Unison",
-        "summary": "Inicia nuevo semestre en Universidad de Sonora con más de 50 mil estudiantes retornando a actividades académicas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/regresan-manana-a-clases-mas-de-50-mil-estudiantes-de-la-unison/",
-        "_added_at": "2026-08-10T00:03:48.330849-07:00"
-      },
-      {
-        "title": "Hermosillo tendrá semana calurosa con posibles tormentas",
-        "summary": "Pronóstico meteorológico advierte calor intenso y probabilidad de tormentas durante regreso a clases.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/hermosillo-tendra-semana-calurosa-y-con-posibilidad-de-tormentas-durante-regreso-a-clases-de-la-unison/",
-        "_added_at": "2026-08-10T00:03:48.330849-07:00"
-      },
-      {
-        "title": "Imputan a sujeto por crueldad animal en Empalme",
-        "summary": "Hombre enfrenta proceso por quemar vivo a cachorro de cinco meses; pericial veterinaria confirma asfixia.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/imputan-a-sujeto-por-crueldad-animal-en-empalme/262092",
-        "_added_at": "2026-08-10T00:03:48.330849-07:00"
-      },
-      {
-        "title": "Reynita enfrenta tratamiento complejo en Etchojoa",
-        "summary": "Menor requiere inmunoglobulina y estudios genéticos; familia solicita apoyo para gastos hospitalarios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/reynita-enfrenta-tratamiento-complejo-en-etchojoa/262086",
-        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-10T11:38:58.514921-07:00"
+  "last_updated": "2026-08-10T14:29:59.698047-07:00"
 }
