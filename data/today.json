@@ -1,8 +1,22 @@
 {
   "date": "2026-08-09",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Adulto mayor muere por descarga eléctrica en Vícam",
+        "summary": "Persona adulta mayor falleció al recibir descarga eléctrica mientras se refugiaba de la lluvia en Vícam, Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/09/adulto-mayor-pierde-la-vida-tras-recibir-descarga-electrica-mientras-se-refugiaba-de-la-lluvia-en-vicam/",
+        "_added_at": "2026-08-09T17:44:40.237203-07:00"
+      },
+      {
+        "title": "Imputan crueldad animal por muerte de cachorro en Empalme",
+        "summary": "Sujeto acusado de quemar vivo a cachorro de cinco meses en Empalme; pericia confirma asfixia.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/imputan-a-sujeto-por-crueldad-animal-en-empalme/262092",
+        "_added_at": "2026-08-09T17:44:40.237203-07:00"
+      },
       {
         "title": "Doble homicidio y suicidio investigados en Hermosillo",
         "summary": "Hallazgo de tres personas sin vida en camioneta de lujo. Fiscalía investiga posible móvil pasional en el caso.",
@@ -58,23 +72,16 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/alacranes-encabezan-casos-de-intoxicacion-en-sonora/262057",
         "_added_at": "2026-08-09T02:26:43.174123-07:00"
-      },
-      {
-        "title": "Mujer fallece ahogada en playa de San Carlos",
-        "summary": "Autoridades confirman muerte por ahogamiento en Playa Bonita; acompañantes intentaron rescatarla pero no pudieron.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/mujer-muere-ahogada-en-playa-bonita-en-san-carlos/262049",
-        "_added_at": "2026-08-09T02:26:43.174123-07:00"
-      },
-      {
-        "title": "Zona afectada por fuerte lluvia en Hermosillo requiere precaución",
-        "summary": "Protección Civil advierte sobre cruces y vados peligrosos durante lluvias en la capital sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/no-cruces-vados-ni-arroyos-con-corriente-proteccion-civil-advierte-sobre-zonas-de-alto-riesgo-por-lluvias-en-hermosillo/",
-        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Senadora Valles destaca avances en salud estatal",
+        "summary": "Lorenia Valles subraya inversión en programas de salud y transformación en Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/valles-destaca-avances-en-salud-y-transformacion-en-sonora/262095",
+        "_added_at": "2026-08-09T17:44:40.237203-07:00"
+      },
       {
         "title": "Durazo anuncia proyectos de CFE por 13 mil millones",
         "summary": "Gobernador presenta iniciativas de Comisión Federal de Electricidad con inversión de 13 mil millones de pesos.",
@@ -157,6 +164,27 @@
     ],
     "sociedad": [
       {
+        "title": "Más de 50 mil estudiantes regresan a clases en Unison",
+        "summary": "Reanudación de actividades académicas en universidad con importante participación estudiantil.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/regresan-manana-a-clases-mas-de-50-mil-estudiantes-de-la-unison/",
+        "_added_at": "2026-08-09T17:44:40.237203-07:00"
+      },
+      {
+        "title": "Hermosillo enfrentará semana calurosa con posibles tormentas",
+        "summary": "Pronóstico indica temperaturas altas hasta 42°C y riesgo de precipitaciones durante regreso a clases.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/hermosillo-tendra-semana-calurosa-y-con-posibilidad-de-tormentas-durante-regreso-a-clases-de-la-unison/",
+        "_added_at": "2026-08-09T17:44:40.237203-07:00"
+      },
+      {
+        "title": "Estudiantes esperan hasta 40 minutos por transporte urbano",
+        "summary": "Unison prevé demoras en camiones de transporte durante regreso a actividades académicas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/09/estudiantes-de-la-unison-podrian-esperar-hasta-40-minutos-por-una-linea-de-transporte-urbano-vigilantes-de-transporte-llama-a-la-poblacion-a-prevenir-y-salir-antes-de-casa/",
+        "_added_at": "2026-08-09T17:44:40.237203-07:00"
+      },
+      {
         "title": "Lluvias causan afectaciones en Ciudad Obregón",
         "summary": "Tormentas provocan daños en diversos sectores. Autoridades atienden afectaciones por precipitaciones intensas.",
         "source": "El Imparcial",
@@ -204,29 +232,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/instalan-punto-de-hidratacion-para-proteger-del-calor-en-ciudad-obregon/",
         "_added_at": "2026-08-09T08:19:00.151432-07:00"
-      },
-      {
-        "title": "CFE restablece 62% de servicio tras tormenta en Cajeme",
-        "summary": "Compañía eléctrica restaura la mayoría del suministro de usuarios afectados por tormenta reciente.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/08/cfe-restablece-luz-al-62-de-usuarios-afectados-por-tormenta-en-cajeme/",
-        "_added_at": "2026-08-09T05:22:05.583036-07:00"
-      },
-      {
-        "title": "Durazo se pronuncia tras lluvias e impacto en Cajeme",
-        "summary": "Titular estatal comenta situación generada por fenómeno meteorológico en zona de Obregón.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/se-pronuncia-alfonso-durazo-tras-fuertes-lluvias-y-apagones-en-cajeme/",
-        "_added_at": "2026-08-09T02:26:43.174123-07:00"
-      },
-      {
-        "title": "Hermosillo retira 649 vehículos abandonados de calles",
-        "summary": "Ayuntamiento retiró autos; 456 fueron recogidos por dueños para evitar multas y costos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/08/retiran-649-autos-abandonados-de-calles-de-hermosillo-456-fueron-retirados-por-sus-duenos-para-evitar-multas-y-costos-de-grua/",
-        "_added_at": "2026-08-09T02:26:43.174123-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-09T14:19:24.519959-07:00"
+  "last_updated": "2026-08-09T17:44:40.237203-07:00"
 }
