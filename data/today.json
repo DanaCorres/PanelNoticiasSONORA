@@ -1,267 +1,92 @@
 {
-  "date": "2026-08-10",
-  "run_count": 9,
+  "date": "2026-08-11",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
         "title": "Capturan sospechoso de homicidio en Álamos tras 12 años",
-        "summary": "Autoridades detienen a Arnoldo \"N\" en Baja California por asesinato ocurrido en ejido Cuchujaqui en 2014.",
+        "summary": "Detienen a Arnoldo \"N\" en Baja California por asesinato cometido en Cuchujaqui en 2014.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/11/capturan-en-tecate-a-hombre-buscado-por-un-homicidio-cometido-en-alamos-sonora-hace-12-anos/",
-        "_added_at": "2026-08-10T21:09:23.130499-07:00"
+        "_added_at": "2026-08-11T02:46:56.517739-07:00"
       },
       {
-        "title": "Detienen 153 personas y aseguran droga en Sonora",
-        "summary": "Operativos en la entidad aseguran más de 22 mil dosis de droga durante la semana del 3 al 9 de agosto.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/detienen-a-153-personas-y-aseguran-mas-de-22-mil-dosis-de-droga-en-sonora-en-la-semana-del-3-al-9-de-agosto/",
-        "_added_at": "2026-08-10T21:09:23.130499-07:00"
-      },
-      {
-        "title": "Fiscalía esclarece feminicidio y suicidio en Hermosillo",
-        "summary": "Videos permitieron establecer responsabilidad de Sergio Isaías 'N' en caso de feminicidio. Sujeto se quitó la vida tras el crimen.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/esclarece-fiscalia-caso-de-el-chabelo-feminicida-que-se-quito-la-vida-tras-crimen/",
-        "_added_at": "2026-08-10T17:44:15.181331-07:00"
-      },
-      {
-        "title": "Hombre mata a mujer y acompañante en Hermosillo",
-        "summary": "Sujeto asesinó a mujer y su compañero en camioneta por celos. Había amenazado anteriormente a la víctima con arma.",
+        "title": "Hombre mata a mujer y acompañante por celos en Hermosillo",
+        "summary": "Feminicidio en camioneta de lujo; agresor había amenazado con arma días antes.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/10/por-celos-hombre-asesino-a-mujer-y-su-acompanante-en-camioneta-de-lujo-en-hermosillo-la-habia-amenazado-con-arma-de-fuego-dias-atras-segun-fiscalia/",
-        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+        "_added_at": "2026-08-11T02:46:56.517739-07:00"
       },
       {
-        "title": "Hallan tres cuerpos dentro de camioneta en Hermosillo",
-        "summary": "Fiscalía reveló detalles del hallazgo de triple homicidio dentro de vehículo.",
+        "title": "153 detenidos y 22 mil dosis aseguradas en Sonora",
+        "summary": "Operativo antidrogas en estado; 92 detenidos tenían antecedentes penales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/153-detenidos-y-22-mil-dosis-aseguradas-en-sonora/262177",
+        "_added_at": "2026-08-11T02:46:56.517739-07:00"
+      },
+      {
+        "title": "Hallazgo de tres cuerpos dentro de camioneta en Hermosillo",
+        "summary": "Fiscalía revela detalles de triple muerte en vehículo.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/revelan-detalles-de-triple-muerte-en-hermosillo/262158",
-        "_added_at": "2026-08-10T17:44:15.181331-07:00"
-      },
-      {
-        "title": "Agresión armada en tienda deja tres muertos",
-        "summary": "Enfrentamiento armado en establecimiento comercial causó tres decesos y dos lesionados en Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/agresion-armada-en-tienda-deja-tres-muertos-y-dos-lesionados/",
-        "_added_at": "2026-08-10T14:29:59.698047-07:00"
-      },
-      {
-        "title": "Futbolista de Etchojoa muere en choque de motocicletas",
-        "summary": "Joven deportista fallece tras colisión entre dos motos en municipio de Etchojoa.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/identifican-victima-de-choque-entre-motocicletas-en-etchojoa/262131",
-        "_added_at": "2026-08-10T14:29:59.698047-07:00"
-      },
-      {
-        "title": "Incendio deja sin hogar a residente en Hermosillo",
-        "summary": "Siniestro en colonia Palo Verde desaloja a familia y requiere apoyo humanitario.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/incendio-deja-sin-hogar-a-rosendo-garcia-en-la-colonia-palo-verde-de-hermosillo-pide-apoyo-para-salir-adelante/",
-        "_added_at": "2026-08-10T14:29:59.698047-07:00"
-      },
-      {
-        "title": "Hombre agrede con hacha a su esposa en Hermosillo",
-        "summary": "Sujeto detenido por lanzar hacha contra su pareja en San Pedro El Saucito.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/martin-n-es-arrestado-por-lanzar-un-hacha-a-su-esposa-en-san-pedro-el-saucito/",
-        "_added_at": "2026-08-10T11:38:58.514921-07:00"
-      },
-      {
-        "title": "Tiroteo en iglesia de Los Mochis causa pánico",
-        "summary": "Agresión armada afuera de templo asusta a fieles durante misa matutina.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/agresion-armada-afuera-de-iglesia-provoca-temor-durante-misa-en-los-mochis-video/",
-        "_added_at": "2026-08-10T11:38:58.514921-07:00"
+        "_added_at": "2026-08-11T02:46:56.517739-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Carretera Hermosillo-Kino al 55% de avance",
-        "summary": "Gobernador Durazo promete concluir obra en octubre con infraestructura al 55% de progreso.",
+        "title": "Denuncia ilegal de Daniel Humberto en Hermosillo",
+        "summary": "Familiares cuestionan detención de exrecepcionista; protesta en Poder Judicial.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/carretera-hermosillo-bahia-de-kino-lleva-55-de-avance-promete-durazo-terminarla-en-octubre/",
-        "_added_at": "2026-08-10T21:09:23.130499-07:00"
-      },
-      {
-        "title": "SEC entrega uniformes escolares gratuitos en Hermosillo",
-        "summary": "Educación prepara regreso a clases ciclo 2026-27 con conclusión de distribución de uniformes.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/concluye-entrega-de-uniformes-escolares-gratuitos-en-hermosillo-prepara-sec-regreso-a-clases-ciclo-2026-27/",
-        "_added_at": "2026-08-10T21:09:23.130499-07:00"
-      },
-      {
-        "title": "Lamarque inspecciona daños por lluvias en Cajeme",
-        "summary": "Autoridad municipal realiza recorrido para evaluar afectaciones en Ciudad Obregón.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/10/realiza-javier-lamarque-recorrido-en-ciudad-obregon-para-conocer-afectaciones-por-lluvias/",
-        "_added_at": "2026-08-10T14:29:59.698047-07:00"
-      },
-      {
-        "title": "Durazo encabeza reforestación nacional en Hermosillo",
-        "summary": "Gobernador participa en jornada de reforestación en Cerro de la Cementera impulsada por Sheinbaum.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/10/durazo-encabeza-jornada-nacional-de-reforestacion-2026-en-sonora-destaca-recuperacion-del-patrimonio-forestal-y-uso-de-especies-nativas/",
-        "_added_at": "2026-08-10T08:46:23.321031-07:00"
-      },
-      {
-        "title": "Lorenia Valles destaca avances en salud de Sonora",
-        "summary": "Senadora resalta prioridad de Cuarta Transformación en recursos para mejorar salud y calidad de vida estatal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/valles-destaca-avances-en-salud-y-transformacion-en-sonora/262095",
-        "_added_at": "2026-08-10T00:03:48.330849-07:00"
-      },
-      {
-        "title": "Jornada de reforestación en Cerro de la Cementera",
-        "summary": "Ciudadanos plantan especies endémicas impulsados por Sheinbaum y Durazo en iniciativa ambiental.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/jornada-nacional-de-reforestacion-en-cerro-de-la-cementera/262101",
-        "_added_at": "2026-08-10T00:03:48.330849-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/10/familiares-de-daniel-humberto-exrecepcionista-de-clinica-de-sueros-denuncian-detencion-ilegal-en-hermosillo-protestaran-en-poder-judicial/",
+        "_added_at": "2026-08-11T02:46:56.517739-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Vientos de 85 km/h derriban postes y árboles en Cajeme",
-        "summary": "Tormenta causa daños significativos en Ciudad Obregón con 79 postes y 58 árboles caídos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/10/vientos-de-hasta-85-kmh-derriban-79-postes-y-58-arboles-en-cajeme/",
-        "_added_at": "2026-08-10T23:42:27.262680-07:00"
-      },
-      {
-        "title": "China impone cuotas a nueces pecanas mexicanas",
-        "summary": "Medidas arancelarias afectan exportaciones mexicanas tras investigación antidumping iniciada en 2025.",
+        "title": "China impone cuotas a nuez pecana mexicana",
+        "summary": "Exportadores tienen 10 días para responder ante cuotas compensatorias.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/mexico/2026/08/11/china-impone-cuotas-preliminares-de-hasta-516-a-nuez-pecana-de-mexico-tras-una-investigacion-antidumping-iniciada-en-septiembre-de-2025-y-exportadores-mexicanos-tienen-10-dias-para-responder-antes-de-la-resolucion-definitiva/",
-        "_added_at": "2026-08-10T21:09:23.130499-07:00"
+        "_added_at": "2026-08-11T02:46:56.517739-07:00"
       },
       {
-        "title": "Diez camiones fuera de servicio en Hermosillo",
-        "summary": "Transporte enfrenta desabasto de unidades al inicio del ciclo universitario en la capital.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/al-menos-10-camiones-fuera-de-servicio-en-hermosillo-al-inicio-del-ciclo-escolar-universitario/",
-        "_added_at": "2026-08-10T21:09:23.130499-07:00"
-      },
-      {
-        "title": "Empleo formal en México cae 19 mil 550 puestos",
-        "summary": "IMSS reporta pérdida de empleos formales durante julio en el país.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/empleo-formal-en-mexico-cae-en-julio-se-pierden-19-mil-550-puestos-imss/",
-        "_added_at": "2026-08-10T17:44:15.181331-07:00"
-      },
-      {
-        "title": "Muere empresario hermosillense Juan González Loaiza",
-        "summary": "Falleció a los 87 años fundador de Control de Plagas y Real del Alamito.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/muere-juan-gonzalez-loaiza-empresario-hermosillense-fundador-de-control-de-plagas-y-real-del-alamito-a-los-87-anos/",
-        "_added_at": "2026-08-10T17:44:15.181331-07:00"
-      },
-      {
-        "title": "Unison inicia semestre con 49 mil 700 alumnos",
-        "summary": "Universidad de Sonora comienza ciclo escolar con aumento en matriculación sin contratiempos.",
+        "title": "Unison inicia semestre 2026-2 con casi 50 mil alumnos",
+        "summary": "Universidad de Sonora comenzó sin contratiempos con 49,700 estudiantes.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/universidad-de-sonora-inicia-semestre-2026-2-con-49-mil-700-alumnos-arranque-sin-contratiempos/",
-        "_added_at": "2026-08-10T14:29:59.698047-07:00"
-      },
-      {
-        "title": "Hermosillo retira 195 vehículos abandonados en operativo",
-        "summary": "Autoridades limpian calles de la capital removiendo unidades sin propietario identificado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/hermosillo-retira-195-vehiculos-abandonados-de-las-calles-durante-operativo/",
-        "_added_at": "2026-08-10T14:29:59.698047-07:00"
-      },
-      {
-        "title": "Jalapeños mexicanos retirados de mercado estadounidense",
-        "summary": "Brote de salmonela obliga a Taylor Farms a suspender comercialización.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/taylor-farms-retira-jalapenos-mexicanos-en-eeuu-por-brote-de-salmonela/",
-        "_added_at": "2026-08-10T11:38:58.514921-07:00"
-      },
-      {
-        "title": "Boleros con menos trabajo por intenso calor",
-        "summary": "Disminución de clientes por temperaturas extremas afecta ingresos informales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/tienen-boleros-menos-chamba-por-el-caloron/",
-        "_added_at": "2026-08-10T11:38:58.514921-07:00"
-      },
-      {
-        "title": "Municipio busca recuperar viviendas para venta",
-        "summary": "Ayuntamiento trabaja en programa de recuperación de propiedades para comercialización.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/10/busca-ayuntamiento-recuperar-viviendas-para-ponerlas-en-venta/",
-        "_added_at": "2026-08-10T08:46:23.321031-07:00"
+        "_added_at": "2026-08-11T02:46:56.517739-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Sonora gana 20 medallas en Centroamericanos 2026",
-        "summary": "Atletas sonorenses destacan en competencias regionales con Alejandra Valencia en primer plano.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/sonora-brilla-en-los-centroamericanos-con-20-medallas-alejandra-valencia-vuelve-a-hacer-historia/",
-        "_added_at": "2026-08-10T23:42:27.262680-07:00"
-      },
-      {
-        "title": "Cortan luz en invasión Guayacán de Hermosillo",
-        "summary": "Vecinos se manifiestan tras fin de semana sin servicio eléctrico en asentamiento irregular.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/cortan-suministro-de-luz-en-la-invasion-guayacan/",
-        "_added_at": "2026-08-10T21:09:23.130499-07:00"
-      },
-      {
-        "title": "Vientos dañan infraestructura en Ciudad Obregón",
-        "summary": "Ráfagas de 85 km/h derriban 79 postes y 58 árboles en Cajeme.",
+        "title": "Vientos de 85 km/h causan daños en Ciudad Obregón",
+        "summary": "Derribados 79 postes y 58 árboles en Cajeme por tormenta.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/10/vientos-de-hasta-85-kmh-derriban-79-postes-y-58-arboles-en-cajeme/",
-        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+        "_added_at": "2026-08-11T02:46:56.517739-07:00"
       },
       {
         "title": "Rescatan a dos hombres atrapados por marea en Kino",
-        "summary": "Dos personas fueron rescatadas tras quedar atrapadas por pleamar en isleta de Bahía de Kino.",
+        "summary": "Operativo exitoso en isleta de Bahía de Kino.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/rescatan-a-dos-hombres-atrapados-por-la-marea-alta-en-una-isleta-de-bahia-de-kino/",
-        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+        "_added_at": "2026-08-11T02:46:56.517739-07:00"
       },
       {
-        "title": "Unison inicia semestre con 49 mil 700 estudiantes",
-        "summary": "Universidad de Sonora abre ciclo 2026-2 sin contratiempos y con matrícula completa.",
+        "title": "Camiones fuera de servicio afectan inicio de ciclo escolar",
+        "summary": "Al menos 10 unidades no operan en Hermosillo al comenzar semestre.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/universidad-de-sonora-inicia-semestre-2026-2-con-49-mil-700-alumnos-arranque-sin-contratiempos/",
-        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/al-menos-10-camiones-fuera-de-servicio-en-hermosillo-al-inicio-del-ciclo-escolar-universitario/",
+        "_added_at": "2026-08-11T02:46:56.517739-07:00"
       },
       {
-        "title": "Hermosillo retira 195 vehículos abandonados",
-        "summary": "Operativo municipal remueve automóviles abandonados de calles para mejorar espacios públicos.",
+        "title": "Sonora obtiene 20 medallas en Centroamericanos",
+        "summary": "Delegación estatal destaca con atletas; Valencia revalida triunfos.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/hermosillo-retira-195-vehiculos-abandonados-de-las-calles-durante-operativo/",
-        "_added_at": "2026-08-10T17:44:15.181331-07:00"
-      },
-      {
-        "title": "Hermosillo enfrenta intenso calor a mediados de semana",
-        "summary": "Pronóstico advierte temperaturas hasta 45°C con posibles lluvias por monzón mexicano.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cima-en-sonora-hermosillo-se-prepara-para-repunte-de-calor/262130",
-        "_added_at": "2026-08-10T14:29:59.698047-07:00"
-      },
-      {
-        "title": "Tráfico en Hermosillo aumenta hasta 40 minutos",
-        "summary": "Expertos recomiendan salida temprana para evitar congestión vial en la capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/sal-temprano-para-evitar-trafico-en-hermosillo-hasta-40-minutos-aumentan-traslados/",
-        "_added_at": "2026-08-10T14:29:59.698047-07:00"
-      },
-      {
-        "title": "Plantarán 13 mil árboles en Cerro de la Cementera",
-        "summary": "Proyecto de reforestación en Hermosillo durará ocho meses con participación ciudadana.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/en-ocho-meses-terminaran-de-plantar-13-mil-arboles-en-cerro-de-la-cementera-en-hermosillo/",
-        "_added_at": "2026-08-10T14:29:59.698047-07:00"
-      },
-      {
-        "title": "Fallece empresario hermosillense Juan González Loaiza",
-        "summary": "Murió a los 87 años destacado hombre de negocios de la capital sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/fallece-el-empresario-hermosillense-juan-gonzalez-loaiza-a-los-87-anos/",
-        "_added_at": "2026-08-10T14:29:59.698047-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/10/sonora-brilla-en-los-centroamericanos-con-20-medallas-alejandra-valencia-vuelve-a-hacer-historia/",
+        "_added_at": "2026-08-11T02:46:56.517739-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-10T23:42:27.262680-07:00"
+  "last_updated": "2026-08-11T02:46:56.517739-07:00"
 }
