@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "run_count": 8,
+  "run_count": 9,
   "notes": {
     "seguridad": [
       {
@@ -120,6 +120,13 @@
     ],
     "economia": [
       {
+        "title": "Vientos de 85 km/h derriban postes y árboles en Cajeme",
+        "summary": "Tormenta causa daños significativos en Ciudad Obregón con 79 postes y 58 árboles caídos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/10/vientos-de-hasta-85-kmh-derriban-79-postes-y-58-arboles-en-cajeme/",
+        "_added_at": "2026-08-10T23:42:27.262680-07:00"
+      },
+      {
         "title": "China impone cuotas a nueces pecanas mexicanas",
         "summary": "Medidas arancelarias afectan exportaciones mexicanas tras investigación antidumping iniciada en 2025.",
         "source": "El Imparcial",
@@ -181,16 +188,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/10/busca-ayuntamiento-recuperar-viviendas-para-ponerlas-en-venta/",
         "_added_at": "2026-08-10T08:46:23.321031-07:00"
-      },
-      {
-        "title": "CFE restablece suministro en Cajeme tras afectaciones",
-        "summary": "Compañía recupera servicio eléctrico en Cajeme tras daños por lluvias y vientos; continúan reforzamientos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/cfe-restablece-suministro-electrico-en-cajeme-tras-afectaciones-por-lluvias-y-vientos-continuan-labores-de-reforzamiento/",
-        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora gana 20 medallas en Centroamericanos 2026",
+        "summary": "Atletas sonorenses destacan en competencias regionales con Alejandra Valencia en primer plano.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/sonora-brilla-en-los-centroamericanos-con-20-medallas-alejandra-valencia-vuelve-a-hacer-historia/",
+        "_added_at": "2026-08-10T23:42:27.262680-07:00"
+      },
       {
         "title": "Cortan luz en invasión Guayacán de Hermosillo",
         "summary": "Vecinos se manifiestan tras fin de semana sin servicio eléctrico en asentamiento irregular.",
@@ -253,15 +260,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/fallece-el-empresario-hermosillense-juan-gonzalez-loaiza-a-los-87-anos/",
         "_added_at": "2026-08-10T14:29:59.698047-07:00"
-      },
-      {
-        "title": "Árboles nativos recomendados para arborización hermosillense",
-        "summary": "Mezquite, palo fierro y verde elegidos por bajo consumo hídrico.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/son-arboles-nativos-la-mejor-opcion-para-hermosillo/",
-        "_added_at": "2026-08-10T11:38:58.514921-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-10T21:09:23.130499-07:00"
+  "last_updated": "2026-08-10T23:42:27.262680-07:00"
 }
