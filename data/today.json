@@ -1,8 +1,29 @@
 {
   "date": "2026-08-11",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sonora segundo lugar nacional con 17 muertes por calor",
+        "summary": "Golpes de calor y deshidratación dejaron 17 fallecidos y 296 afectados en el estado durante ola de calor extremo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/11/calor-en-sonora-deja-17-muertes-y-296-personas-afectadas-es-el-segundo-estado-con-mas-defunciones-en-mexico/",
+        "_added_at": "2026-08-11T08:46:10.643198-07:00"
+      },
+      {
+        "title": "Celos motivaron doble homicidio en Hermosillo confirmó Fiscalía",
+        "summary": "Crimen pasional en Hermosillo dejó dos muertos; sujeto actuó por celos contra mujer y su acompañante en vehículo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/fiscalia-descarta-cuarto-implicado-en-doble-homicidio-y-suicidio-de-hermosillo-confirma-movil-de-celotipia/",
+        "_added_at": "2026-08-11T08:46:10.643198-07:00"
+      },
+      {
+        "title": "Hombre muere tras agresión armada al norte de Hermosillo",
+        "summary": "Víctima de disparo fallece en callejón del norte de Hermosillo tras ataque delictivo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/11/muere-hombre-tras-agresion-armada-en-callejon-al-norte-de-hermosillo/",
+        "_added_at": "2026-08-11T08:46:10.643198-07:00"
+      },
       {
         "title": "Operativo antidrogas detiene 153 personas en Sonora",
         "summary": "Aseguran más de 22 mil dosis de droga. 92 detenidos tenían antecedentes penales en operación estatal.",
@@ -41,6 +62,20 @@
     ],
     "politica": [
       {
+        "title": "Durazo supervisa avance en carretera Hermosillo-Bahía de Kino",
+        "summary": "Gobernador Alfonso Durazo inspecciona progreso de ampliación de vía hacia Bahía de Kino.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/aceleran-ampliacion-de-carretera-a-kino/262184",
+        "_added_at": "2026-08-11T08:46:10.643198-07:00"
+      },
+      {
+        "title": "Reforestación verde el bulevar Serna con mil 500 árboles",
+        "summary": "Proyecto ambiental en Hermosillo busca mejorar espacios públicos mediante plantación masiva de árboles.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/11/con-mil-500-arboles-buscan-pintar-de-verde-el-bulevar-serna-en-hermosillo/",
+        "_added_at": "2026-08-11T08:46:10.643198-07:00"
+      },
+      {
         "title": "Denuncia ilegal de Daniel Humberto en Hermosillo",
         "summary": "Familiares cuestionan detención de exrecepcionista; protesta en Poder Judicial.",
         "source": "Proyecto Puente",
@@ -49,6 +84,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Recarpeteo de 21 vialidades en Hermosillo durante 2026",
+        "summary": "Gobierno municipal mejora infraestructura vial en 21 calles para aumentar movilidad y seguridad en la capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/recarpetean-21-vialidades-de-hermosillo-durante-2026-para-mejorar-movilidad-y-seguridad/",
+        "_added_at": "2026-08-11T08:46:10.643198-07:00"
+      },
       {
         "title": "China impone cuotas a nuez pecana mexicana",
         "summary": "Exportadores tienen 10 días para responder ante cuotas compensatorias.",
@@ -65,6 +107,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Hermosillo enfrentará ola de calor de hasta 45 grados",
+        "summary": "Alertas por temperaturas extremas de 45°C en Hermosillo durante nueva onda de calor intenso.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/hermosillo-enfrentara-nueva-ola-de-calor-con-temperaturas-de-hasta-45c-cuando-inicia-y-cuales-seran-las-horas-de-mayor-riesgo-de-exposicion/",
+        "_added_at": "2026-08-11T08:46:10.643198-07:00"
+      },
+      {
+        "title": "Monzón provoca lluvias intensas y calor en Sonora",
+        "summary": "Fenómeno del monzón trae precipitaciones fuertes y temperaturas extremas de hasta 45°C en el estado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/11/monzon-mexicano-provocara-lluvias-intensas-en-sonora-este-martes-11-de-agosto-smn-tambien-alerta-por-calor-de-hasta-45-c-y-fuertes-vientos/",
+        "_added_at": "2026-08-11T08:46:10.643198-07:00"
+      },
       {
         "title": "Unison inicia semestre con 49 mil 700 alumnos",
         "summary": "Universidad de Sonora arranca ciclo 2026-2 sin contratiempos con matrícula completa.",
@@ -109,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-11T05:35:24.427299-07:00"
+  "last_updated": "2026-08-11T08:46:10.643198-07:00"
 }
