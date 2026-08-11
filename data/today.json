@@ -1,8 +1,22 @@
 {
   "date": "2026-08-10",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan sospechoso de homicidio en Álamos tras 12 años",
+        "summary": "Autoridades detienen a Arnoldo \"N\" en Baja California por asesinato ocurrido en ejido Cuchujaqui en 2014.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/11/capturan-en-tecate-a-hombre-buscado-por-un-homicidio-cometido-en-alamos-sonora-hace-12-anos/",
+        "_added_at": "2026-08-10T21:09:23.130499-07:00"
+      },
+      {
+        "title": "Detienen 153 personas y aseguran droga en Sonora",
+        "summary": "Operativos en la entidad aseguran más de 22 mil dosis de droga durante la semana del 3 al 9 de agosto.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/detienen-a-153-personas-y-aseguran-mas-de-22-mil-dosis-de-droga-en-sonora-en-la-semana-del-3-al-9-de-agosto/",
+        "_added_at": "2026-08-10T21:09:23.130499-07:00"
+      },
       {
         "title": "Fiscalía esclarece feminicidio y suicidio en Hermosillo",
         "summary": "Videos permitieron establecer responsabilidad de Sergio Isaías 'N' en caso de feminicidio. Sujeto se quitó la vida tras el crimen.",
@@ -58,23 +72,23 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/10/agresion-armada-afuera-de-iglesia-provoca-temor-durante-misa-en-los-mochis-video/",
         "_added_at": "2026-08-10T11:38:58.514921-07:00"
-      },
-      {
-        "title": "Homicidios entre principales causas de muerte",
-        "summary": "Homicidios y accidentes figuran entre causas principales de mortalidad masculina en Sonora.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/10/homicidios-y-accidentes-figuran-entre-las-principales-causas-de-muerte-de-hombres-en-sonora-enfermedades-cronicas-dominan-entre-mujeres/",
-        "_added_at": "2026-08-10T08:46:23.321031-07:00"
-      },
-      {
-        "title": "Imputan a hombre por crueldad animal en Empalme",
-        "summary": "Sujeto enfrentará cargos por quemar vivo a cachorro de cinco meses en Empalme.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/imputan-a-sujeto-por-crueldad-animal-en-empalme/262092",
-        "_added_at": "2026-08-10T08:46:23.321031-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Carretera Hermosillo-Kino al 55% de avance",
+        "summary": "Gobernador Durazo promete concluir obra en octubre con infraestructura al 55% de progreso.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/carretera-hermosillo-bahia-de-kino-lleva-55-de-avance-promete-durazo-terminarla-en-octubre/",
+        "_added_at": "2026-08-10T21:09:23.130499-07:00"
+      },
+      {
+        "title": "SEC entrega uniformes escolares gratuitos en Hermosillo",
+        "summary": "Educación prepara regreso a clases ciclo 2026-27 con conclusión de distribución de uniformes.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/concluye-entrega-de-uniformes-escolares-gratuitos-en-hermosillo-prepara-sec-regreso-a-clases-ciclo-2026-27/",
+        "_added_at": "2026-08-10T21:09:23.130499-07:00"
+      },
       {
         "title": "Lamarque inspecciona daños por lluvias en Cajeme",
         "summary": "Autoridad municipal realiza recorrido para evaluar afectaciones en Ciudad Obregón.",
@@ -105,6 +119,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "China impone cuotas a nueces pecanas mexicanas",
+        "summary": "Medidas arancelarias afectan exportaciones mexicanas tras investigación antidumping iniciada en 2025.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/11/china-impone-cuotas-preliminares-de-hasta-516-a-nuez-pecana-de-mexico-tras-una-investigacion-antidumping-iniciada-en-septiembre-de-2025-y-exportadores-mexicanos-tienen-10-dias-para-responder-antes-de-la-resolucion-definitiva/",
+        "_added_at": "2026-08-10T21:09:23.130499-07:00"
+      },
+      {
+        "title": "Diez camiones fuera de servicio en Hermosillo",
+        "summary": "Transporte enfrenta desabasto de unidades al inicio del ciclo universitario en la capital.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/al-menos-10-camiones-fuera-de-servicio-en-hermosillo-al-inicio-del-ciclo-escolar-universitario/",
+        "_added_at": "2026-08-10T21:09:23.130499-07:00"
+      },
       {
         "title": "Empleo formal en México cae 19 mil 550 puestos",
         "summary": "IMSS reporta pérdida de empleos formales durante julio en el país.",
@@ -160,16 +188,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/09/cfe-restablece-suministro-electrico-en-cajeme-tras-afectaciones-por-lluvias-y-vientos-continuan-labores-de-reforzamiento/",
         "_added_at": "2026-08-10T00:03:48.330849-07:00"
-      },
-      {
-        "title": "Aumentan a 343 camiones de transporte en Hermosillo",
-        "summary": "Servicio de transporte urbano incrementa unidades para atender regreso a clases de estudiantes Unison.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/09/por-regreso-a-clases-de-unison-aumentaran-a-343-los-camiones-del-transporte-urbano-en-hermosillo/",
-        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Cortan luz en invasión Guayacán de Hermosillo",
+        "summary": "Vecinos se manifiestan tras fin de semana sin servicio eléctrico en asentamiento irregular.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/cortan-suministro-de-luz-en-la-invasion-guayacan/",
+        "_added_at": "2026-08-10T21:09:23.130499-07:00"
+      },
       {
         "title": "Vientos dañan infraestructura en Ciudad Obregón",
         "summary": "Ráfagas de 85 km/h derriban 79 postes y 58 árboles en Cajeme.",
@@ -232,15 +260,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/son-arboles-nativos-la-mejor-opcion-para-hermosillo/",
         "_added_at": "2026-08-10T11:38:58.514921-07:00"
-      },
-      {
-        "title": "Niños limpian y preparan parque en Ciudad Obregón",
-        "summary": "Menores participan en mejoramiento de espacio comunitario para canchas deportivas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/10/ninos-limpian-parque-para-convertirlo-en-canchas-de-futbol-en-la-colonia-santa-fe/",
-        "_added_at": "2026-08-10T11:38:58.514921-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-10T17:44:15.181331-07:00"
+  "last_updated": "2026-08-10T21:09:23.130499-07:00"
 }
