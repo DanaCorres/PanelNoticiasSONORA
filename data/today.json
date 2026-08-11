@@ -1,8 +1,29 @@
 {
   "date": "2026-08-10",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fiscalía esclarece feminicidio y suicidio en Hermosillo",
+        "summary": "Videos permitieron establecer responsabilidad de Sergio Isaías 'N' en caso de feminicidio. Sujeto se quitó la vida tras el crimen.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/esclarece-fiscalia-caso-de-el-chabelo-feminicida-que-se-quito-la-vida-tras-crimen/",
+        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+      },
+      {
+        "title": "Hombre mata a mujer y acompañante en Hermosillo",
+        "summary": "Sujeto asesinó a mujer y su compañero en camioneta por celos. Había amenazado anteriormente a la víctima con arma.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/por-celos-hombre-asesino-a-mujer-y-su-acompanante-en-camioneta-de-lujo-en-hermosillo-la-habia-amenazado-con-arma-de-fuego-dias-atras-segun-fiscalia/",
+        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+      },
+      {
+        "title": "Hallan tres cuerpos dentro de camioneta en Hermosillo",
+        "summary": "Fiscalía reveló detalles del hallazgo de triple homicidio dentro de vehículo.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/revelan-detalles-de-triple-muerte-en-hermosillo/262158",
+        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+      },
       {
         "title": "Agresión armada en tienda deja tres muertos",
         "summary": "Enfrentamiento armado en establecimiento comercial causó tres decesos y dos lesionados en Sonora.",
@@ -51,27 +72,6 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/imputan-a-sujeto-por-crueldad-animal-en-empalme/262092",
         "_added_at": "2026-08-10T08:46:23.321031-07:00"
-      },
-      {
-        "title": "Enfrentamiento en Los Mochis deja detenidos",
-        "summary": "Guardia Nacional enfrenta civiles armados; 8 detenidos y 4 lesionados en Los Mochis.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/09/reportan-enfrentamiento-entre-civiles-armados-y-guardia-nacional-en-los-mochis-8-detenidos-y-4-lesionados/",
-        "_added_at": "2026-08-10T03:06:45.629766-07:00"
-      },
-      {
-        "title": "Roxana N vinculada a proceso por muerte de Vicentito",
-        "summary": "Tribunal confirma vinculación a proceso de Roxana N por muerte de menor tras olvidarlo en automóvil más de 12 horas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/policiaca/2026/08/10/caso-vicentito-tribunal-confirma-vinculacion-a-proceso-de-roxana-n-por-muerte-del-menor-tras-permanecer-olvidado-mas-de-12-horas-en-un-carro/",
-        "_added_at": "2026-08-10T00:03:48.330849-07:00"
-      },
-      {
-        "title": "Decomisan ametralladora y drogas en San Luis Río Colorado",
-        "summary": "Operativo en SLRC recupera ametralladora, lanzagranadas y drogas durante acciones contra delincuencia.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/sanluis/2026/08/09/decomisan-ametralladora-lanzagranadas-y-drogas-durante-operativo-en-san-luis-rio-colorado/",
-        "_added_at": "2026-08-10T00:03:48.330849-07:00"
       }
     ],
     "politica": [
@@ -105,6 +105,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Empleo formal en México cae 19 mil 550 puestos",
+        "summary": "IMSS reporta pérdida de empleos formales durante julio en el país.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/empleo-formal-en-mexico-cae-en-julio-se-pierden-19-mil-550-puestos-imss/",
+        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+      },
+      {
+        "title": "Muere empresario hermosillense Juan González Loaiza",
+        "summary": "Falleció a los 87 años fundador de Control de Plagas y Real del Alamito.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/muere-juan-gonzalez-loaiza-empresario-hermosillense-fundador-de-control-de-plagas-y-real-del-alamito-a-los-87-anos/",
+        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+      },
       {
         "title": "Unison inicia semestre con 49 mil 700 alumnos",
         "summary": "Universidad de Sonora comienza ciclo escolar con aumento en matriculación sin contratiempos.",
@@ -157,6 +171,34 @@
     ],
     "sociedad": [
       {
+        "title": "Vientos dañan infraestructura en Ciudad Obregón",
+        "summary": "Ráfagas de 85 km/h derriban 79 postes y 58 árboles en Cajeme.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/10/vientos-de-hasta-85-kmh-derriban-79-postes-y-58-arboles-en-cajeme/",
+        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+      },
+      {
+        "title": "Rescatan a dos hombres atrapados por marea en Kino",
+        "summary": "Dos personas fueron rescatadas tras quedar atrapadas por pleamar en isleta de Bahía de Kino.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/rescatan-a-dos-hombres-atrapados-por-la-marea-alta-en-una-isleta-de-bahia-de-kino/",
+        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+      },
+      {
+        "title": "Unison inicia semestre con 49 mil 700 estudiantes",
+        "summary": "Universidad de Sonora abre ciclo 2026-2 sin contratiempos y con matrícula completa.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/universidad-de-sonora-inicia-semestre-2026-2-con-49-mil-700-alumnos-arranque-sin-contratiempos/",
+        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+      },
+      {
+        "title": "Hermosillo retira 195 vehículos abandonados",
+        "summary": "Operativo municipal remueve automóviles abandonados de calles para mejorar espacios públicos.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/10/hermosillo-retira-195-vehiculos-abandonados-de-las-calles-durante-operativo/",
+        "_added_at": "2026-08-10T17:44:15.181331-07:00"
+      },
+      {
         "title": "Hermosillo enfrenta intenso calor a mediados de semana",
         "summary": "Pronóstico advierte temperaturas hasta 45°C con posibles lluvias por monzón mexicano.",
         "source": "Expreso",
@@ -197,36 +239,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/10/ninos-limpian-parque-para-convertirlo-en-canchas-de-futbol-en-la-colonia-santa-fe/",
         "_added_at": "2026-08-10T11:38:58.514921-07:00"
-      },
-      {
-        "title": "Regreso a clases causa congestión en Hermosillo",
-        "summary": "Inicio de ciclo escolar en Unison provoca largas filas y congestionamiento vial.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/regreso-a-clases-en-la-unison-provoca-largas-filas-y-congestionamiento-vial-en-hermosillo/",
-        "_added_at": "2026-08-10T08:46:23.321031-07:00"
-      },
-      {
-        "title": "Recuperación de parque La Sauceda enfrenta retos",
-        "summary": "Lluvias ponen a prueba avances en restauración del parque; hay pendientes por atender.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/lluvias-ponen-a-prueba-a-la-sauceda-avanza-recuperacion-del-parque-pero-hay-pendientes-por-atender/",
-        "_added_at": "2026-08-10T08:46:23.321031-07:00"
-      },
-      {
-        "title": "Nuevo semáforo en puente junto a Unison en Hermosillo",
-        "summary": "Infraestructura vial permite cuatro minutos para autos y 30 segundos para peatones.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/cuatro-minutos-para-autos-y-30-segundos-para-peatones-asi-funcionara-nuevo-semaforo-del-puente-junto-a-unison-en-hermosillo/",
-        "_added_at": "2026-08-10T05:38:32.223599-07:00"
-      },
-      {
-        "title": "Hombre de 69 años fallece en Caborca",
-        "summary": "Cruz Roja confirma defunción por causas naturales de adulto mayor con problemas de salud previos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-a-adulto-mayor-sin-vida-en-caborca/262100",
-        "_added_at": "2026-08-10T03:06:45.629766-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-10T14:29:59.698047-07:00"
+  "last_updated": "2026-08-10T17:44:15.181331-07:00"
 }
