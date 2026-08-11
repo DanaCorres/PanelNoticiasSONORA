@@ -1,8 +1,29 @@
 {
   "date": "2026-08-11",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan exagente de AMIC buscado por ataque armado",
+        "summary": "Detuvieron en Cajeme a exmiembro de la AMIC acusado de atacar a un abogado en Hermosillo. Ofrecían recompensa de 500 mil pesos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/policiaca/2026/08/11/capturan-en-cajeme-a-exagente-de-la-amic-buscado-por-ataque-armado-contra-abogado-en-hermosillo-ofrecian-recompensa-de-500-mil-pesos/",
+        "_added_at": "2026-08-11T14:33:16.068795-07:00"
+      },
+      {
+        "title": "Asesinan a mujer en colonia Floresta de Hermosillo",
+        "summary": "Hallaron el cuerpo sin vida de una mujer con herida de bala en la colonia Floresta. Autoridades investigan el homicidio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/policiaca/2026/08/11/asesinan-a-mujer-de-un-balazo-y-localizan-su-cuerpo-en-la-colonia-floresta-de-hermosillo/",
+        "_added_at": "2026-08-11T14:33:16.068795-07:00"
+      },
+      {
+        "title": "Policías evitan suicidio en puente de presa Hermosillo",
+        "summary": "Elementos de seguridad frustraron intento de lanzamiento de un hombre desde puente de presa. Persona fue auxiliada.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/11/policias-evitan-que-hombre-se-arroje-del-puente-de-presa-de-hermosillo/",
+        "_added_at": "2026-08-11T14:33:16.068795-07:00"
+      },
       {
         "title": "Estudiante atropellada en avenida Reforma de Hermosillo",
         "summary": "Conductor de BMW blanco golpea a estudiante de Unison y huye del lugar tras cruzar semáforo en rojo.",
@@ -51,27 +72,6 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/10/detienen-a-153-personas-y-aseguran-mas-de-22-mil-dosis-de-droga-en-sonora-en-la-semana-del-3-al-9-de-agosto/",
         "_added_at": "2026-08-11T05:35:24.427299-07:00"
-      },
-      {
-        "title": "Capturan sospechoso de homicidio en Álamos tras 12 años",
-        "summary": "Detienen a Arnoldo \"N\" en Baja California por asesinato cometido en Cuchujaqui en 2014.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/11/capturan-en-tecate-a-hombre-buscado-por-un-homicidio-cometido-en-alamos-sonora-hace-12-anos/",
-        "_added_at": "2026-08-11T02:46:56.517739-07:00"
-      },
-      {
-        "title": "Hombre mata a mujer y acompañante por celos en Hermosillo",
-        "summary": "Feminicidio en camioneta de lujo; agresor había amenazado con arma días antes.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/por-celos-hombre-asesino-a-mujer-y-su-acompanante-en-camioneta-de-lujo-en-hermosillo-la-habia-amenazado-con-arma-de-fuego-dias-atras-segun-fiscalia/",
-        "_added_at": "2026-08-11T02:46:56.517739-07:00"
-      },
-      {
-        "title": "153 detenidos y 22 mil dosis aseguradas en Sonora",
-        "summary": "Operativo antidrogas en estado; 92 detenidos tenían antecedentes penales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/153-detenidos-y-22-mil-dosis-aseguradas-en-sonora/262177",
-        "_added_at": "2026-08-11T02:46:56.517739-07:00"
       }
     ],
     "politica": [
@@ -105,6 +105,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Oomapasc negocia adeudos de agua visitando domicilios",
+        "summary": "En Cajeme, 20 colonias concentran 51% de deuda hídrica. Oomapasc ofrece convenios a usuarios visitando sus casas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/11/usuarios-de-20-colonias-concentran-el-51-de-la-deuda-de-agua-en-cajeme-oomapasc-inicia-visitas-casa-por-casa-para-ofrecer-convenios/",
+        "_added_at": "2026-08-11T14:33:16.068795-07:00"
+      },
+      {
+        "title": "Turismo rural en sierra de Sonora crece 15%",
+        "summary": "Lluvias de verano impulsan aumento de visitantes a destinos serranos de Sonora en temporada estival.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/turismo-rural-en-sonora-crece-15-en-vacaciones-de-verano/262213",
+        "_added_at": "2026-08-11T14:33:16.068795-07:00"
+      },
       {
         "title": "Carretera Hermosillo-Bahía de Kino avanza 55%",
         "summary": "Obra de ampliación de 500 millones de pesos continúa su construcción supervisada por Durazo.",
@@ -142,6 +156,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Nueva capibara llega al Centro Ecológico de Sonora",
+        "summary": "Centro Ecológico recibe hembra de cuatro meses procedente de Hidalgo. Animal está en cuarentena adaptándose.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/centro-ecologico-de-sonora-recibe-una-nueva-capibara-de-cuatro-meses/",
+        "_added_at": "2026-08-11T14:33:16.068795-07:00"
+      },
+      {
+        "title": "Estudiante atropellada en avenida Reforma de Hermosillo",
+        "summary": "Joven estudiante de Unison fue golpeada por vehículo BMW blanco. Conductor se dio a la fuga del lugar.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/estudiante-de-la-unison-es-atropellada-en-la-avenida-reforma-conductor-de-bmw-blanco-se-dio-a-la-fuga/",
+        "_added_at": "2026-08-11T14:33:16.068795-07:00"
+      },
+      {
+        "title": "Reabren Paseo Río Sonora tras rehabilitar drenaje",
+        "summary": "Reapertura del bulevar tras trabajos de renovación en tubería de drenaje con más de 50 años.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/reabren-circulacion-en-bulevar-paseo-rio-sonora-tras-rehabilitar-tuberia-de-drenaje-con-mas-de-50-anos-de-antiguedad/",
+        "_added_at": "2026-08-11T14:33:16.068795-07:00"
+      },
+      {
+        "title": "Sonora concentra 751 mil jóvenes según Inegi",
+        "summary": "Datos demográficos muestran presencia significativa de población joven en el estado de Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/poblacion-joven-en-sonora-751-mil-habitantes-segun-inegi/262209",
+        "_added_at": "2026-08-11T14:33:16.068795-07:00"
+      },
       {
         "title": "Sonora tendrá lluvias y tormentas este martes",
         "summary": "Monzón mexicano mantiene probabilidad de precipitaciones; Hermosillo llegará a 41 grados.",
@@ -183,36 +225,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/11/ciudadanos-y-estudiantes-rechazan-que-dure-solo-30-segundos-semaforo-peatonal-junto-a-unison-en-hermosillo-piden-aumentar-tiempo/",
         "_added_at": "2026-08-11T05:35:24.427299-07:00"
-      },
-      {
-        "title": "Vientos de 85 km/h causan daños en Ciudad Obregón",
-        "summary": "Derribados 79 postes y 58 árboles en Cajeme por tormenta.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/10/vientos-de-hasta-85-kmh-derriban-79-postes-y-58-arboles-en-cajeme/",
-        "_added_at": "2026-08-11T02:46:56.517739-07:00"
-      },
-      {
-        "title": "Rescatan a dos hombres atrapados por marea en Kino",
-        "summary": "Operativo exitoso en isleta de Bahía de Kino.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/rescatan-a-dos-hombres-atrapados-por-la-marea-alta-en-una-isleta-de-bahia-de-kino/",
-        "_added_at": "2026-08-11T02:46:56.517739-07:00"
-      },
-      {
-        "title": "Camiones fuera de servicio afectan inicio de ciclo escolar",
-        "summary": "Al menos 10 unidades no operan en Hermosillo al comenzar semestre.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/al-menos-10-camiones-fuera-de-servicio-en-hermosillo-al-inicio-del-ciclo-escolar-universitario/",
-        "_added_at": "2026-08-11T02:46:56.517739-07:00"
-      },
-      {
-        "title": "Sonora obtiene 20 medallas en Centroamericanos",
-        "summary": "Delegación estatal destaca con atletas; Valencia revalida triunfos.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/sonora-brilla-en-los-centroamericanos-con-20-medallas-alejandra-valencia-vuelve-a-hacer-historia/",
-        "_added_at": "2026-08-11T02:46:56.517739-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-11T11:42:30.339400-07:00"
+  "last_updated": "2026-08-11T14:33:16.068795-07:00"
 }
