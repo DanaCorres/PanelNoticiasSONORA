@@ -1,8 +1,22 @@
 {
   "date": "2026-08-12",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Dos muertos en ataque armado en El Apache",
+        "summary": "Hombre y mujer fallecen tras agresión con armas en colonia El Apache de Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/mujer-y-hombre-mueren-tras-ataque-armado-en-la-colonia-el-apache-de-hermosillo/",
+        "_added_at": "2026-08-12T11:43:46.697492-07:00"
+      },
+      {
+        "title": "Detienen a dos por homicidio en Hermosillo",
+        "summary": "Capturan a dos individuos relacionados con homicidio en la colonia Revolución.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/detienen-a-dos-hombres-por-posible-relacion-con-homicidio-en-la-colonia-revolucion-de-hermosillo/",
+        "_added_at": "2026-08-12T11:43:46.697492-07:00"
+      },
       {
         "title": "Homicidios caen 74.6% en Sonora durante julio",
         "summary": "Reducción significativa de delitos dolosos en la entidad durante el mes pasado, con mejoras en varios municipios.",
@@ -61,6 +75,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Sonora sin confirmación de nuevos penales federales",
+        "summary": "Gobierno federal construirá cárceles en seis entidades, Sonora no incluida pese a aumento carcelario.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/sonora-sin-confirmacion-sobre-nuevos-penales-ante-aumento-de-poblacion-carcelaria-en-mexico/",
+        "_added_at": "2026-08-12T11:43:46.697492-07:00"
+      },
+      {
+        "title": "Amparo concedido a Gilda Lozoya en caso Agronitrogenados",
+        "summary": "Juzgado otorga amparo a la exfuncionaria contra vinculación a proceso en caso de corrupción.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/12/conceden-amparo-a-gilda-lozoya-contra-vinculacion-a-proceso-por-caso-agronitrogenados/",
+        "_added_at": "2026-08-12T11:43:46.697492-07:00"
+      },
       {
         "title": "Jóvenes como protagonistas de transformación: Valles",
         "summary": "Lorenia Valles destaca importancia de juventudes en cambios políticos. Critica criminalizaciones previas a menores.",
@@ -122,6 +150,34 @@
     ],
     "sociedad": [
       {
+        "title": "Semarnat inicia segunda etapa de remediación del Río Sonora",
+        "summary": "Nuevas acciones para restaurar río afectado por derrame minero hace 12 años.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/semarnat-presenta-en-ures-la-segunda-etapa-de-remediacion-del-rio-sonora-a-12-anos-del-derrame-minero-que-afecto-agua-suelo-y-comunidades/",
+        "_added_at": "2026-08-12T11:43:46.697492-07:00"
+      },
+      {
+        "title": "Cruz Roja inaugura base en Bavispe",
+        "summary": "Nueva instalación en la sierra alta para atender emergencias médicas en comunidades remotas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/cruz-roja-inaugura-base-en-bavispe-para-atender-emergencias-en-la-sierra-alta-de-sonora/",
+        "_added_at": "2026-08-12T11:43:46.697492-07:00"
+      },
+      {
+        "title": "Protección Civil recibe cinco unidades eléctricas",
+        "summary": "Hermosillo fortalece capacidad de inspecciones y atención de emergencias con patrullas modernas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/proteccion-civil-de-hermosillo-recibe-cinco-patrullas-electricas-para-fortalecer-inspecciones-y-atencion-de-emergencias/",
+        "_added_at": "2026-08-12T11:43:46.697492-07:00"
+      },
+      {
+        "title": "Fuga de aguas residuales persiste en colonia Balderrama",
+        "summary": "Problema de infraestructura afecta a vecinos de zona residencial de Hermosillo desde hace un mes.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/12/fuga-de-aguas-residuales-lleva-un-mes-en-la-colonia-balderrama-de-hermosillo/",
+        "_added_at": "2026-08-12T11:43:46.697492-07:00"
+      },
+      {
         "title": "Turismo rural crece 15% en sierra de Sonora por lluvias",
         "summary": "Lluvias veraniegas incrementan flujo de visitantes a destinos serranos de la entidad.",
         "source": "Expreso",
@@ -165,5 +221,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-12T08:46:45.711528-07:00"
+  "last_updated": "2026-08-12T11:43:46.697492-07:00"
 }
