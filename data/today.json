@@ -1,288 +1,113 @@
 {
-  "date": "2026-08-11",
-  "run_count": 7,
+  "date": "2026-08-12",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Hallan cuerpo sin vida en Termoeléctrica de Guaymas",
-        "summary": "Descubren hombre de 36 años muerto en instalaciones abandonadas de la antigua central eléctrica.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/hallan-hombre-sin-vida-en-antigua-termoelectrica-de-guaymas/262198",
-        "_added_at": "2026-08-11T17:52:09.325434-07:00"
-      },
-      {
-        "title": "Circulan mensajes falsos sobre cortes de CFE",
-        "summary": "Alertan por estafas mediante textos fraudulentos que simulan ser notificaciones de la compañía eléctrica.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/falsos-mensajes-de-cfe-en-sonora-alertan-por-fraude/262236",
-        "_added_at": "2026-08-11T17:52:09.325434-07:00"
-      },
-      {
-        "title": "Capturan exagente de AMIC buscado por ataque armado",
-        "summary": "Detuvieron en Cajeme a exmiembro de la AMIC acusado de atacar a un abogado en Hermosillo. Ofrecían recompensa de 500 mil pesos.",
+        "title": "Homicidio en colonia Revolución de Hermosillo",
+        "summary": "Asesinan a un hombre en la colonia Revolución. Autoridades investigan los hechos en la capital sonorense.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/policiaca/2026/08/11/capturan-en-cajeme-a-exagente-de-la-amic-buscado-por-ataque-armado-contra-abogado-en-hermosillo-ofrecian-recompensa-de-500-mil-pesos/",
-        "_added_at": "2026-08-11T14:33:16.068795-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/asesinan-a-hombre-en-la-colonia-revolucion/",
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       },
       {
-        "title": "Asesinan a mujer en colonia Floresta de Hermosillo",
-        "summary": "Hallaron el cuerpo sin vida de una mujer con herida de bala en la colonia Floresta. Autoridades investigan el homicidio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/policiaca/2026/08/11/asesinan-a-mujer-de-un-balazo-y-localizan-su-cuerpo-en-la-colonia-floresta-de-hermosillo/",
-        "_added_at": "2026-08-11T14:33:16.068795-07:00"
-      },
-      {
-        "title": "Policías evitan suicidio en puente de presa Hermosillo",
-        "summary": "Elementos de seguridad frustraron intento de lanzamiento de un hombre desde puente de presa. Persona fue auxiliada.",
+        "title": "Disparo mortal en bulevar Luis Encinas",
+        "summary": "Ejecutan a sujeto a balazos en importante vialidad de Hermosillo. Investigación en curso por homicidio.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/policias-evitan-que-hombre-se-arroje-del-puente-de-presa-de-hermosillo/",
-        "_added_at": "2026-08-11T14:33:16.068795-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/11/asesinan-a-hombre-a-balazos-en-el-bulevar-luis-encinas-de-hermosillo/",
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       },
       {
-        "title": "Estudiante atropellada en avenida Reforma de Hermosillo",
-        "summary": "Conductor de BMW blanco golpea a estudiante de Unison y huye del lugar tras cruzar semáforo en rojo.",
+        "title": "Estudiante atropellada en avenida Reforma",
+        "summary": "Conductora de BMW blanco impacta a alumna de Unison y huye. Víctima en atención médica.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/estudiante-de-la-unison-es-atropellada-en-la-avenida-reforma-conductor-de-bmw-blanco-se-dio-a-la-fuga/",
-        "_added_at": "2026-08-11T11:42:30.339400-07:00"
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       },
       {
-        "title": "Cinco vinculados por riña con arma blanca en bar",
-        "summary": "Procesadas cinco personas por agredir con armas blancas y golpes a un hombre fuera de establecimiento.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/vinculan-a-proceso-a-cinco-personas-por-agredir-con-arma-blanca-y-golpes-a-un-hombre-afuera-de-un-bar-en-hermosillo/",
-        "_added_at": "2026-08-11T11:42:30.339400-07:00"
-      },
-      {
-        "title": "México y EE.UU. refuerzan operativos fronterizos contra tráfico",
-        "summary": "Ambos países intensifican control en frontera contra tráfico de armas y personas.",
+        "title": "Doctor de sueros en mal estado de salud",
+        "summary": "Presunto médico prófugo por clínica de inyecciones requiere atención. Colaborador señalado por facilitarle acceso.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/mexico-y-eeuu-refuerzan-operativos-en-la-frontera-contra-trafico-de-armas-y-personas/",
-        "_added_at": "2026-08-11T11:42:30.339400-07:00"
-      },
-      {
-        "title": "Sonora segundo lugar nacional con 17 muertes por calor",
-        "summary": "Golpes de calor y deshidratación dejaron 17 fallecidos y 296 afectados en el estado durante ola de calor extremo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/11/calor-en-sonora-deja-17-muertes-y-296-personas-afectadas-es-el-segundo-estado-con-mas-defunciones-en-mexico/",
-        "_added_at": "2026-08-11T08:46:10.643198-07:00"
-      },
-      {
-        "title": "Celos motivaron doble homicidio en Hermosillo confirmó Fiscalía",
-        "summary": "Crimen pasional en Hermosillo dejó dos muertos; sujeto actuó por celos contra mujer y su acompañante en vehículo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/fiscalia-descarta-cuarto-implicado-en-doble-homicidio-y-suicidio-de-hermosillo-confirma-movil-de-celotipia/",
-        "_added_at": "2026-08-11T08:46:10.643198-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/11/familiar-de-daniel-humberto-exrecepcionista-de-clinica-de-sueros-vitaminados-lo-senalo-de-ayudar-al-medico-profugo-por-su-delicado-estado-de-salud-fiscalia/",
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Durazo anuncia inversión de 11 mil mdp en Cajeme",
-        "summary": "Gobierno destina recursos millonarios para resolver rezago histórico en infraestructura local.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/destaca-durazo-inversion-de-11-mil-100-mdp-para-atender-rezago-historico-en-cajeme/",
-        "_added_at": "2026-08-11T21:30:55.385110-07:00"
+        "title": "Jóvenes como protagonistas de transformación: Valles",
+        "summary": "Lorenia Valles destaca importancia de juventudes en cambios políticos. Critica criminalizaciones previas a menores.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/juventudes-son-protagonistas-de-la-transformacion-valles/262246",
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       },
       {
-        "title": "Durazo reporta 36 mil viviendas en construcción en Sonora",
-        "summary": "Programa habitacional avanza con más de 36 mil unidades en proceso de edificación.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/avanza-programa-de-vivienda-en-sonora-con-36-mil-954-unidades-en-proceso-alfonso-durazo/",
-        "_added_at": "2026-08-11T21:30:55.385110-07:00"
-      },
-      {
-        "title": "Lamarque propone segundo piso de Transformación",
-        "summary": "Aspirante destaca base social y obras estratégicas de Durazo para continuar proyecto.",
+        "title": "Lamarque impulsa segundo piso de transformación",
+        "summary": "Aspirante político resalta base social y obras de Durazo. Propone continuidad de políticas estatales.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/sonora-hacia-segundo-piso-de-transformacion-lamarque/262245",
-        "_added_at": "2026-08-11T21:30:55.385110-07:00"
-      },
-      {
-        "title": "Daniel Humberto habría ayudado a doctor prófugo",
-        "summary": "Familiar señala que exrecepcionista auxilió al médico de clínica de sueros a recibir atención médica por delicado estado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/familiar-de-daniel-humberto-exrecepcionista-de-clinica-de-sueros-vitaminados-lo-senalo-de-ayudar-al-medico-profugo-por-su-delicado-estado-de-salud-fiscalia/",
-        "_added_at": "2026-08-11T17:52:09.325434-07:00"
-      },
-      {
-        "title": "CFE invertirá 13 mil mdp en Sonora",
-        "summary": "Compañía anuncia inversión para expandir infraestructura eléctrica ante aumento de demanda.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/cfe-anuncia-inversion-de-13-mil-mdp-en-sonora-para-atender-aumento-de-la-demanda-electrica/",
-        "_added_at": "2026-08-11T17:52:09.325434-07:00"
-      },
-      {
-        "title": "México y EU refuerzan operativos fronterizos",
-        "summary": "Ambos países intensifican acciones contra tráfico de armas y trata de personas en la frontera.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/mexico-y-eeuu-refuerzan-operativos-en-la-frontera-contra-trafico-de-armas-y-personas/",
-        "_added_at": "2026-08-11T17:52:09.325434-07:00"
-      },
-      {
-        "title": "Sheinbaum: EE.UU. no envió orden sobre Rocha Moya",
-        "summary": "Presidenta afirma que gobierno estadounidense no ha compartido información sobre detención del exgobernador.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/eeuu-no-ha-enviado-informacion-sobre-orden-de-detencion-contra-rocha-moya-sheinbaum/",
-        "_added_at": "2026-08-11T11:42:30.339400-07:00"
-      },
-      {
-        "title": "Durazo supervisa avance en carretera Hermosillo-Bahía de Kino",
-        "summary": "Gobernador Alfonso Durazo inspecciona progreso de ampliación de vía hacia Bahía de Kino.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/aceleran-ampliacion-de-carretera-a-kino/262184",
-        "_added_at": "2026-08-11T08:46:10.643198-07:00"
-      },
-      {
-        "title": "Reforestación verde el bulevar Serna con mil 500 árboles",
-        "summary": "Proyecto ambiental en Hermosillo busca mejorar espacios públicos mediante plantación masiva de árboles.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/con-mil-500-arboles-buscan-pintar-de-verde-el-bulevar-serna-en-hermosillo/",
-        "_added_at": "2026-08-11T08:46:10.643198-07:00"
-      },
-      {
-        "title": "Denuncia ilegal de Daniel Humberto en Hermosillo",
-        "summary": "Familiares cuestionan detención de exrecepcionista; protesta en Poder Judicial.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/familiares-de-daniel-humberto-exrecepcionista-de-clinica-de-sueros-denuncian-detencion-ilegal-en-hermosillo-protestaran-en-poder-judicial/",
-        "_added_at": "2026-08-11T02:46:56.517739-07:00"
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Ventas caen 80% en Hermosillo por fuga de drenaje",
-        "summary": "Comerciantes de Álvaro Obregón sufren pérdidas severas por colapso de infraestructura sanitaria.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/comerciantes-de-hermosillo-sufren-perdidas-grandes-por-fuga-de-drenaje-ventas-caen-hasta-80/",
-        "_added_at": "2026-08-11T17:52:09.325434-07:00"
-      },
-      {
-        "title": "Sonora alcanza 25.8% de almacenamiento en presas",
-        "summary": "Reservas superan 2 mil millones de metros cúbicos gracias a lluvias recientes del monzón.",
+        "title": "Presas de Sonora alcanzan 25.8% de almacenamiento",
+        "summary": "Lluvia reciente incrementa reservas hídricas a dos mil millones de metros cúbicos. Situación favorable para estado.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/12/las-presas-de-sonora-superan-los-2-mil-millones-de-metros-cubicos-de-agua-gracias-a-lluvias-recientes/",
-        "_added_at": "2026-08-11T17:52:09.325434-07:00"
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       },
       {
-        "title": "Oomapasc negocia adeudos de agua visitando domicilios",
-        "summary": "En Cajeme, 20 colonias concentran 51% de deuda hídrica. Oomapasc ofrece convenios a usuarios visitando sus casas.",
+        "title": "Comercios en crisis por fuga de drenaje",
+        "summary": "Negocios en Álvaro Obregón caen hasta 80% en ventas. Infraestructura defectuosa perjudica a comerciantes.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/11/usuarios-de-20-colonias-concentran-el-51-de-la-deuda-de-agua-en-cajeme-oomapasc-inicia-visitas-casa-por-casa-para-ofrecer-convenios/",
-        "_added_at": "2026-08-11T14:33:16.068795-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/comerciantes-de-hermosillo-sufren-perdidas-grandes-por-fuga-de-drenaje-ventas-caen-hasta-80/",
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       },
       {
-        "title": "Turismo rural en sierra de Sonora crece 15%",
-        "summary": "Lluvias de verano impulsan aumento de visitantes a destinos serranos de Sonora en temporada estival.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/turismo-rural-en-sonora-crece-15-en-vacaciones-de-verano/262213",
-        "_added_at": "2026-08-11T14:33:16.068795-07:00"
-      },
-      {
-        "title": "Carretera Hermosillo-Bahía de Kino avanza 55%",
-        "summary": "Obra de ampliación de 500 millones de pesos continúa su construcción supervisada por Durazo.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/aceleran-ampliacion-de-carretera-a-kino/262184",
-        "_added_at": "2026-08-11T11:42:30.339400-07:00"
-      },
-      {
-        "title": "Hermosillo recarpetea 21 vialidades durante 2026",
-        "summary": "Gobierno mejora infraestructura vial en calles y bulevares de la capital sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/hermosillo-recarpetea-21-vialidades-durante-2026-que-calles-y-bulevares-fueron-intervenidos-por-el-gobierno-de-antonio-astiazaran/",
-        "_added_at": "2026-08-11T11:42:30.339400-07:00"
-      },
-      {
-        "title": "Recarpeteo de 21 vialidades en Hermosillo durante 2026",
-        "summary": "Gobierno municipal mejora infraestructura vial en 21 calles para aumentar movilidad y seguridad en la capital.",
+        "title": "Avanza programa de vivienda con 36 mil unidades",
+        "summary": "Alfonso Durazo reporta avance significativo en construcción de viviendas. Miles de unidades en proceso.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/10/recarpetean-21-vialidades-de-hermosillo-durante-2026-para-mejorar-movilidad-y-seguridad/",
-        "_added_at": "2026-08-11T08:46:10.643198-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/11/avanza-programa-de-vivienda-en-sonora-con-36-mil-954-unidades-en-proceso-alfonso-durazo/",
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       },
       {
-        "title": "China impone cuotas a nuez pecana mexicana",
-        "summary": "Exportadores tienen 10 días para responder ante cuotas compensatorias.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/11/china-impone-cuotas-preliminares-de-hasta-516-a-nuez-pecana-de-mexico-tras-una-investigacion-antidumping-iniciada-en-septiembre-de-2025-y-exportadores-mexicanos-tienen-10-dias-para-responder-antes-de-la-resolucion-definitiva/",
-        "_added_at": "2026-08-11T02:46:56.517739-07:00"
-      },
-      {
-        "title": "Unison inicia semestre 2026-2 con casi 50 mil alumnos",
-        "summary": "Universidad de Sonora comenzó sin contratiempos con 49,700 estudiantes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/10/universidad-de-sonora-inicia-semestre-2026-2-con-49-mil-700-alumnos-arranque-sin-contratiempos/",
-        "_added_at": "2026-08-11T02:46:56.517739-07:00"
+        "title": "Circulan mensajes fraudulentos de CFE",
+        "summary": "Estafadores usan nombre de compañía eléctrica para engañar sonorenses. Alerta por fraude activo.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/falsos-mensajes-de-cfe-en-sonora-alertan-por-fraude/262236",
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Lluvias intensas dejan afectaciones en Ciudad Obregón",
-        "summary": "Fuertes precipitaciones causan daños en infraestructura y viviendas locales.",
+        "title": "Lluvias fuertes afectan a Ciudad Obregón",
+        "summary": "Precipitaciones intensas causan daños en infraestructura. Autoridades atienden emergencias en Cajeme.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/12/fuertes-lluvias-dejan-afectaciones-en-ciudad-obregon/",
-        "_added_at": "2026-08-11T21:30:55.385110-07:00"
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       },
       {
         "title": "Alerta por lluvias en Nogales",
-        "summary": "Autoridades emiten aviso ante inicio de temporada de precipitaciones intensas.",
+        "summary": "Autoridades emiten recomendaciones ante inicio de temporada. Población debe tomar precauciones.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/08/12/emiten-alerta-en-nogales-por-inicio-de-lluvias/",
-        "_added_at": "2026-08-11T21:30:55.385110-07:00"
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       },
       {
-        "title": "Unison refuerza movilidad ante regreso a clases",
-        "summary": "Universidad dispone de casi 3.7 mil cajones de estacionamiento para estudiantes y personal.",
+        "title": "Unison refuerza medidas de movilidad",
+        "summary": "Universidad ampía estacionamientos para retorno a clases. Tres mil 693 cajones disponibles.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/universidad-sonora-mejora-movilidad-en-campus-hermosillo/262227",
-        "_added_at": "2026-08-11T17:52:09.325434-07:00"
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       },
       {
-        "title": "Hermosillo refuerza Protección Civil con vehículos eléctricos",
-        "summary": "Dependencia municipal incorpora cinco unidades nuevas para mejorar respuesta ante emergencias.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/hermosillo-refuerza-a-proteccion-civil-con-cinco-nuevas-unidades-electricas/",
-        "_added_at": "2026-08-11T17:52:09.325434-07:00"
-      },
-      {
-        "title": "Niños de Etchojoa reciben terapias con delfines",
-        "summary": "Programa de intervención terapéutica se realiza en San Carlos con menores de la región.",
+        "title": "Niños etchojenses reciben terapia con delfines",
+        "summary": "Menores de Etchojoa participan en programa terapéutico en San Carlos. Iniciativa beneficiosa para comunidad.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/terapias-con-delfines-para-ninos-de-etchojoa-en-san-carlos/262216",
-        "_added_at": "2026-08-11T17:52:09.325434-07:00"
-      },
-      {
-        "title": "Nueva capibara llega al Centro Ecológico de Sonora",
-        "summary": "Centro Ecológico recibe hembra de cuatro meses procedente de Hidalgo. Animal está en cuarentena adaptándose.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/centro-ecologico-de-sonora-recibe-una-nueva-capibara-de-cuatro-meses/",
-        "_added_at": "2026-08-11T14:33:16.068795-07:00"
-      },
-      {
-        "title": "Estudiante atropellada en avenida Reforma de Hermosillo",
-        "summary": "Joven estudiante de Unison fue golpeada por vehículo BMW blanco. Conductor se dio a la fuga del lugar.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/estudiante-de-la-unison-es-atropellada-en-la-avenida-reforma-conductor-de-bmw-blanco-se-dio-a-la-fuga/",
-        "_added_at": "2026-08-11T14:33:16.068795-07:00"
-      },
-      {
-        "title": "Reabren Paseo Río Sonora tras rehabilitar drenaje",
-        "summary": "Reapertura del bulevar tras trabajos de renovación en tubería de drenaje con más de 50 años.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/reabren-circulacion-en-bulevar-paseo-rio-sonora-tras-rehabilitar-tuberia-de-drenaje-con-mas-de-50-anos-de-antiguedad/",
-        "_added_at": "2026-08-11T14:33:16.068795-07:00"
-      },
-      {
-        "title": "Sonora concentra 751 mil jóvenes según Inegi",
-        "summary": "Datos demográficos muestran presencia significativa de población joven en el estado de Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/poblacion-joven-en-sonora-751-mil-habitantes-segun-inegi/262209",
-        "_added_at": "2026-08-11T14:33:16.068795-07:00"
-      },
-      {
-        "title": "Sonora tendrá lluvias y tormentas este martes",
-        "summary": "Monzón mexicano mantiene probabilidad de precipitaciones; Hermosillo llegará a 41 grados.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/preparate-sonora-tendra-lluvias-y-tormentas-este-martes-hermosillo-llegara-hasta-41c/",
-        "_added_at": "2026-08-11T11:42:30.339400-07:00"
+        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-11T21:30:55.385110-07:00"
+  "last_updated": "2026-08-12T00:03:00.036693-07:00"
 }
