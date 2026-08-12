@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
       {
@@ -75,6 +75,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Durazo anuncia inversión de 11 mil mdp en Cajeme",
+        "summary": "Gobierno destina recursos millonarios para resolver rezago histórico en infraestructura local.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/11/destaca-durazo-inversion-de-11-mil-100-mdp-para-atender-rezago-historico-en-cajeme/",
+        "_added_at": "2026-08-11T21:30:55.385110-07:00"
+      },
+      {
+        "title": "Durazo reporta 36 mil viviendas en construcción en Sonora",
+        "summary": "Programa habitacional avanza con más de 36 mil unidades en proceso de edificación.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/11/avanza-programa-de-vivienda-en-sonora-con-36-mil-954-unidades-en-proceso-alfonso-durazo/",
+        "_added_at": "2026-08-11T21:30:55.385110-07:00"
+      },
+      {
+        "title": "Lamarque propone segundo piso de Transformación",
+        "summary": "Aspirante destaca base social y obras estratégicas de Durazo para continuar proyecto.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-hacia-segundo-piso-de-transformacion-lamarque/262245",
+        "_added_at": "2026-08-11T21:30:55.385110-07:00"
+      },
       {
         "title": "Daniel Humberto habría ayudado a doctor prófugo",
         "summary": "Familiar señala que exrecepcionista auxilió al médico de clínica de sueros a recibir atención médica por delicado estado.",
@@ -192,6 +213,20 @@
     ],
     "sociedad": [
       {
+        "title": "Lluvias intensas dejan afectaciones en Ciudad Obregón",
+        "summary": "Fuertes precipitaciones causan daños en infraestructura y viviendas locales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/12/fuertes-lluvias-dejan-afectaciones-en-ciudad-obregon/",
+        "_added_at": "2026-08-11T21:30:55.385110-07:00"
+      },
+      {
+        "title": "Alerta por lluvias en Nogales",
+        "summary": "Autoridades emiten aviso ante inicio de temporada de precipitaciones intensas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/12/emiten-alerta-en-nogales-por-inicio-de-lluvias/",
+        "_added_at": "2026-08-11T21:30:55.385110-07:00"
+      },
+      {
         "title": "Unison refuerza movilidad ante regreso a clases",
         "summary": "Universidad dispone de casi 3.7 mil cajones de estacionamiento para estudiantes y personal.",
         "source": "Expreso",
@@ -246,22 +281,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/11/preparate-sonora-tendra-lluvias-y-tormentas-este-martes-hermosillo-llegara-hasta-41c/",
         "_added_at": "2026-08-11T11:42:30.339400-07:00"
-      },
-      {
-        "title": "Obras reducen tiempo de respuesta ante lluvias",
-        "summary": "Infraestructura impulsada por Lamarque mejora atención ante afectaciones por precipitaciones.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-recorrio-afectaciones-por-lluvias-intensas/262168",
-        "_added_at": "2026-08-11T11:42:30.339400-07:00"
-      },
-      {
-        "title": "Hermosillo enfrentará ola de calor de hasta 45 grados",
-        "summary": "Alertas por temperaturas extremas de 45°C en Hermosillo durante nueva onda de calor intenso.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/hermosillo-enfrentara-nueva-ola-de-calor-con-temperaturas-de-hasta-45c-cuando-inicia-y-cuales-seran-las-horas-de-mayor-riesgo-de-exposicion/",
-        "_added_at": "2026-08-11T08:46:10.643198-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-11T17:52:09.325434-07:00"
+  "last_updated": "2026-08-11T21:30:55.385110-07:00"
 }
