@@ -1,8 +1,15 @@
 {
   "date": "2026-08-12",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Denuncian retrasos quirúrgicos recurrentes en ISSSTE",
+        "summary": "Familia bloqueó bulevar Morelos por reprogramaciones constantes de cirugía en hospital del ISSSTE.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/11/familia-bloquea-bulevar-morelos-para-denunciar-reprogramacion-constante-de-cirugia-en-el-hospital-del-issste/",
+        "_added_at": "2026-08-12T02:52:19.369135-07:00"
+      },
       {
         "title": "Homicidio en colonia Revolución de Hermosillo",
         "summary": "Asesinan a un hombre en la colonia Revolución. Autoridades investigan los hechos en la capital sonorense.",
@@ -109,5 +116,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-12T00:03:00.036693-07:00"
+  "last_updated": "2026-08-12T02:52:19.369135-07:00"
 }
