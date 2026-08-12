@@ -1,8 +1,15 @@
 {
   "date": "2026-08-12",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sonora enfrenta sobrepoblación en cárceles sin nuevos penales",
+        "summary": "Estado sin confirmación sobre construcción de nuevos penales ante aumento de población carcelaria en México.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/sonora-sin-confirmacion-sobre-nuevos-penales-ante-aumento-de-poblacion-carcelaria-en-mexico/",
+        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+      },
       {
         "title": "Dos muertos en ataque armado en El Apache",
         "summary": "Hombre y mujer fallecen tras agresión con armas en colonia El Apache de Hermosillo.",
@@ -65,16 +72,23 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/estudiante-de-la-unison-es-atropellada-en-la-avenida-reforma-conductor-de-bmw-blanco-se-dio-a-la-fuga/",
         "_added_at": "2026-08-12T00:03:00.036693-07:00"
-      },
-      {
-        "title": "Doctor de sueros en mal estado de salud",
-        "summary": "Presunto médico prófugo por clínica de inyecciones requiere atención. Colaborador señalado por facilitarle acceso.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/familiar-de-daniel-humberto-exrecepcionista-de-clinica-de-sueros-vitaminados-lo-senalo-de-ayudar-al-medico-profugo-por-su-delicado-estado-de-salud-fiscalia/",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Maloro Acosta descarta candidatura, fortalecerá Partido Verde",
+        "summary": "Manuel Ignacio Acosta descarta competir en 2027 y se enfocará en fortalecer alianzas del PVE en Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/manuel-ignacio-maloro-acosta-descarta-candidatura-en-2027-buscara-fortalecer-al-partido-verde-en-sonora/",
+        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+      },
+      {
+        "title": "Aguirre inicia encuentros de rendición de cuentas",
+        "summary": "Gobernador comienza gira de rendición de cuentas de su Segundo Informe en Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/12/las-iniciativas-solo-tienen-sentido-cuando-nacen-de-escuchar-a-la-gente-agustin-rodriguez-inicia-encuentros-de-rendicion-de-cuentas-de-su-segundo-informe/",
+        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+      },
       {
         "title": "Sonora sin confirmación de nuevos penales federales",
         "summary": "Gobierno federal construirá cárceles en seis entidades, Sonora no incluida pese a aumento carcelario.",
@@ -105,6 +119,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Presas de Sonora alcanzan niveles históricos en seis años",
+        "summary": "Conagua reporta aumento significativo en almacenamiento de presas sonorenses, reduciendo riesgo de sequía.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/presas-de-sonora-alcanzan-niveles-no-vistos-en-seis-anos-se-reduce-riesgo-de-sequia-moderada-informo-conagua/",
+        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+      },
+      {
+        "title": "Comercios de Hermosillo caen 30% en ventas veraniegas",
+        "summary": "Negocios hermosillenses reportan importante disminución en ventas durante temporada estival.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/comercios-de-hermosillo-registran-caida-de-hasta-30-en-ventas-durante-el-verano-canaco/",
+        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+      },
+      {
+        "title": "Nuez sonorense en riesgo por nuevos aranceles internacionales",
+        "summary": "Autoridades de Sonora trabajan para proteger a productores de nuez ante posibles medidas arancelarias.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-anticipa-aranceles-protege-sus-productores-de-nuez/262281",
+        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+      },
       {
         "title": "EEUU decide sobre reapertura ganadera en Nogales",
         "summary": "Ganaderos de Sonora esperan autorización estadounidense para exportar por Nogales y reducir costos.",
@@ -150,6 +185,34 @@
     ],
     "sociedad": [
       {
+        "title": "IMSS realiza cirugía de escoliosis en Ciudad Obregón",
+        "summary": "Procedimiento de alta complejidad corrige escoliosis juvenil en paciente de Guaymas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/12/imss-realiza-en-ciudad-obregon-cirugia-de-alta-complejidad-para-corregir-escoliosis-juvenil-a-joven-de-guaymas/",
+        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+      },
+      {
+        "title": "Familia hermosillense crea negocio para terapias de autismo",
+        "summary": "Casa Dimasa ofrece terapias para niño con autismo mediante emprendimiento familiar en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/familia-crea-casa-dimasa-en-hermosillo-para-costear-las-terapias-de-su-hijo-con-autismo/",
+        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+      },
+      {
+        "title": "Sonorense lleva gastronomía regional a Tucson",
+        "summary": "Claudia Vindiola conquista clientes estadounidenses con sazón sonorense en restaurante tucsonense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/claudia-vindiola-lleva-el-sazon-de-sonora-a-tucson-y-conquista-a-clientes-de-eeuu-con-la-frida/",
+        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+      },
+      {
+        "title": "Tormentas esperadas en cuatro municipios de Sonora hoy",
+        "summary": "Monzón favorece lluvias y tormentas en Caborca, Nogales, Imuris y Magdalena.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/monzon-sigue-favoreciendo-a-sonora-con-lluvias-se-esperan-tormentas-en-las-proximas-horas-en-caborca-nogales-imuris-y-magdalena/",
+        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+      },
+      {
         "title": "Semarnat inicia segunda etapa de remediación del Río Sonora",
         "summary": "Nuevas acciones para restaurar río afectado por derrame minero hace 12 años.",
         "source": "El Imparcial",
@@ -190,36 +253,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/falsos-mensajes-de-cfe-en-sonora-alertan-por-fraude/262236",
         "_added_at": "2026-08-12T08:46:45.711528-07:00"
-      },
-      {
-        "title": "Lluvias fuertes afectan a Ciudad Obregón",
-        "summary": "Precipitaciones intensas causan daños en infraestructura. Autoridades atienden emergencias en Cajeme.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/12/fuertes-lluvias-dejan-afectaciones-en-ciudad-obregon/",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
-      },
-      {
-        "title": "Alerta por lluvias en Nogales",
-        "summary": "Autoridades emiten recomendaciones ante inicio de temporada. Población debe tomar precauciones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/12/emiten-alerta-en-nogales-por-inicio-de-lluvias/",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
-      },
-      {
-        "title": "Unison refuerza medidas de movilidad",
-        "summary": "Universidad ampía estacionamientos para retorno a clases. Tres mil 693 cajones disponibles.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/universidad-sonora-mejora-movilidad-en-campus-hermosillo/262227",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
-      },
-      {
-        "title": "Niños etchojenses reciben terapia con delfines",
-        "summary": "Menores de Etchojoa participan en programa terapéutico en San Carlos. Iniciativa beneficiosa para comunidad.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/terapias-con-delfines-para-ninos-de-etchojoa-en-san-carlos/262216",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-12T11:43:46.697492-07:00"
+  "last_updated": "2026-08-12T14:32:25.238676-07:00"
 }
