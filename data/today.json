@@ -1,8 +1,22 @@
 {
   "date": "2026-08-12",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Buscan al doctor prófugo Maximiano",
+        "summary": "Daniel Humberto habría ayudado a doctor de sueros a recibir atención médica. Fiscal investiga caso.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/daniel-humberto-habria-ayudado-al-doctor-maximiano-a-recibir-atencion-medica-amic/",
+        "_added_at": "2026-08-12T05:38:09.482711-07:00"
+      },
+      {
+        "title": "Suicidios y tentativas en Hermosillo",
+        "summary": "Dos muertes y siete intentos por suicidio en alturas durante 2026 en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/12/personas-escalan-a-puntos-altos-para-quitarse-la-vida-van-2-casos-fatales-y-7-intentos-en-hermosillo-durante-2026/",
+        "_added_at": "2026-08-12T05:38:09.482711-07:00"
+      },
       {
         "title": "Denuncian retrasos quirúrgicos recurrentes en ISSSTE",
         "summary": "Familia bloqueó bulevar Morelos por reprogramaciones constantes de cirugía en hospital del ISSSTE.",
@@ -116,5 +130,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-12T02:52:19.369135-07:00"
+  "last_updated": "2026-08-12T05:38:09.482711-07:00"
 }
