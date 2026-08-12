@@ -1,8 +1,15 @@
 {
   "date": "2026-08-12",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Homicidios caen 74.6% en Sonora durante julio",
+        "summary": "Reducción significativa de delitos dolosos en la entidad durante el mes pasado, con mejoras en varios municipios.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/homicidios-dolosos-en-sonora-bajan-746-durante-julio-de-2026-estos-son-los-municipios-con-mayor-reduccion/",
+        "_added_at": "2026-08-12T08:46:45.711528-07:00"
+      },
       {
         "title": "Buscan al doctor prófugo Maximiano",
         "summary": "Daniel Humberto habría ayudado a doctor de sueros a recibir atención médica. Fiscal investiga caso.",
@@ -71,6 +78,20 @@
     ],
     "economia": [
       {
+        "title": "EEUU decide sobre reapertura ganadera en Nogales",
+        "summary": "Ganaderos de Sonora esperan autorización estadounidense para exportar por Nogales y reducir costos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/reapertura-para-exportar-ganado-por-nogales-depende-de-eeuu-productores-enfrentarian-mayores-costos-si-solo-opera-agua-prieta/",
+        "_added_at": "2026-08-12T08:46:45.711528-07:00"
+      },
+      {
+        "title": "Cajeme recibe inversión histórica en vialidades y servicios",
+        "summary": "Se destinan 11 mil 100 millones de pesos para rehabilitar vialidades y mejorar abastecimiento de agua.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/destinan-11-mil-100-mdp-para-transformar-cajeme/262258",
+        "_added_at": "2026-08-12T08:46:45.711528-07:00"
+      },
+      {
         "title": "Presas de Sonora alcanzan 25.8% de almacenamiento",
         "summary": "Lluvia reciente incrementa reservas hídricas a dos mil millones de metros cúbicos. Situación favorable para estado.",
         "source": "El Imparcial",
@@ -101,6 +122,20 @@
     ],
     "sociedad": [
       {
+        "title": "Turismo rural crece 15% en sierra de Sonora por lluvias",
+        "summary": "Lluvias veraniegas incrementan flujo de visitantes a destinos serranos de la entidad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/turismo-rural-en-sonora-crece-15-en-vacaciones-de-verano/262213",
+        "_added_at": "2026-08-12T08:46:45.711528-07:00"
+      },
+      {
+        "title": "Circulan mensajes falsos sobre cortes de CFE en Sonora",
+        "summary": "Autoridades advierten sobre fraude a través de comunicaciones falsas de la compañía eléctrica.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/falsos-mensajes-de-cfe-en-sonora-alertan-por-fraude/262236",
+        "_added_at": "2026-08-12T08:46:45.711528-07:00"
+      },
+      {
         "title": "Lluvias fuertes afectan a Ciudad Obregón",
         "summary": "Precipitaciones intensas causan daños en infraestructura. Autoridades atienden emergencias en Cajeme.",
         "source": "El Imparcial",
@@ -130,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-12T05:38:09.482711-07:00"
+  "last_updated": "2026-08-12T08:46:45.711528-07:00"
 }
