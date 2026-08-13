@@ -1,8 +1,29 @@
 {
   "date": "2026-08-12",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Choque fatal en Hermosillo deja dos muertos",
+        "summary": "Colisión entre vehículos en la Costa de Hermosillo ocasiona dos muertes y tres lesionados. Servicios de emergencia atendieron la escena.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/choque-entre-dos-vehiculos-en-la-costa-deja-dos-muertos-y-tres-lesionados/",
+        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+      },
+      {
+        "title": "Condenan a hombre por contrabando de cartuchos",
+        "summary": "Ministerio Público Federal en Sonora logra condena por ingreso ilegal de municiones de uso militar.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/condenado-hombre-por-ingresar-cartuchos-a-mexico-desde-sonora/262316",
+        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+      },
+      {
+        "title": "Protección Civil inaugura brigada de respuesta rápida",
+        "summary": "Sonora estrena brigada especializada para atender emergencias de forma inmediata en el estado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/12/proteccion-civil-de-sonora-estrena-brigada-para-responder-de-inmediato-ante-emergencias/",
+        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+      },
       {
         "title": "Pareja condenada a 21 años por trata de menores en Nogales",
         "summary": "Gloria Guadalupe y César Telésforo sentenciados por explotación sexual de adolescente de 16 años entre diciembre y enero.",
@@ -51,30 +72,37 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/12/homicidios-dolosos-en-sonora-bajan-746-durante-julio-de-2026-estos-son-los-municipios-con-mayor-reduccion/",
         "_added_at": "2026-08-12T08:46:45.711528-07:00"
-      },
-      {
-        "title": "Buscan al doctor prófugo Maximiano",
-        "summary": "Daniel Humberto habría ayudado a doctor de sueros a recibir atención médica. Fiscal investiga caso.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/daniel-humberto-habria-ayudado-al-doctor-maximiano-a-recibir-atencion-medica-amic/",
-        "_added_at": "2026-08-12T05:38:09.482711-07:00"
-      },
-      {
-        "title": "Suicidios y tentativas en Hermosillo",
-        "summary": "Dos muertes y siete intentos por suicidio en alturas durante 2026 en la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/12/personas-escalan-a-puntos-altos-para-quitarse-la-vida-van-2-casos-fatales-y-7-intentos-en-hermosillo-durante-2026/",
-        "_added_at": "2026-08-12T05:38:09.482711-07:00"
-      },
-      {
-        "title": "Denuncian retrasos quirúrgicos recurrentes en ISSSTE",
-        "summary": "Familia bloqueó bulevar Morelos por reprogramaciones constantes de cirugía en hospital del ISSSTE.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/familia-bloquea-bulevar-morelos-para-denunciar-reprogramacion-constante-de-cirugia-en-el-hospital-del-issste/",
-        "_added_at": "2026-08-12T02:52:19.369135-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Durazo anuncia inicio de remediación del Río Sonora",
+        "summary": "Gobernador anuncia arranque de proyecto de recuperación del Río Sonora con inversión de 654 millones después de 12 años de espera.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/12/tras-12-anos-de-espera-arrancara-con-654-mdp-la-remediacion-del-rio-sonora-durazo/",
+        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+      },
+      {
+        "title": "Astiazarán entrega equipo deportivo en Hermosillo",
+        "summary": "Toño Astiazarán distribuye equipamiento para fomentar deporte en colonias hermosillenses.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/12/entrega-tono-astiazaran-equipo-de-entrenamiento-para-fomentar-practica-del-deporte-en-colonias-de-hermosillo/",
+        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+      },
+      {
+        "title": "Lamarque se reúne con trabajadores sonorenses",
+        "summary": "Javier Lamarque sostiene encuentro con Federación de Trabajadores y anuncia encuesta para coordinación estatal.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-se-reune-con-federacion-de-trabajadores-del-estado/262322",
+        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+      },
+      {
+        "title": "Garantizan regreso a clases con apoyos directos",
+        "summary": "Autoridades educativas de Sonora aseguran inicio de ciclo escolar con apoyo integral a familias.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/regreso-a-clases-sonora-2026-escuelas-y-uniformes-listos/262317",
+        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+      },
       {
         "title": "Santander se deslinda de megaproyectos de gas en Sonora",
         "summary": "Banco Santander se retira de proyectos Saguaro y AMIGO GNL que afectarían costas sonorenses.",
@@ -116,23 +144,16 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/12/conceden-amparo-a-gilda-lozoya-contra-vinculacion-a-proceso-por-caso-agronitrogenados/",
         "_added_at": "2026-08-12T11:43:46.697492-07:00"
-      },
-      {
-        "title": "Jóvenes como protagonistas de transformación: Valles",
-        "summary": "Lorenia Valles destaca importancia de juventudes en cambios políticos. Critica criminalizaciones previas a menores.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/juventudes-son-protagonistas-de-la-transformacion-valles/262246",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
-      },
-      {
-        "title": "Lamarque impulsa segundo piso de transformación",
-        "summary": "Aspirante político resalta base social y obras de Durazo. Propone continuidad de políticas estatales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-hacia-segundo-piso-de-transformacion-lamarque/262245",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Seguridad y tecnología impulsan minería sonorense",
+        "summary": "Sector minero de Sonora prioriza medidas de seguridad e implementación de tecnología en operaciones.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/seguridad-y-tecnologia-marcan-rumbo-de-la-mineria-sonorense/262321",
+        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+      },
       {
         "title": "Remediación del Río Sonora arranca con 654 millones",
         "summary": "Después de 12 años de espera, inicia proyecto de limpieza del Río Sonora con presupuesto de 654 millones de pesos.",
@@ -195,16 +216,23 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/comerciantes-de-hermosillo-sufren-perdidas-grandes-por-fuga-de-drenaje-ventas-caen-hasta-80/",
         "_added_at": "2026-08-12T00:03:00.036693-07:00"
-      },
-      {
-        "title": "Avanza programa de vivienda con 36 mil unidades",
-        "summary": "Alfonso Durazo reporta avance significativo en construcción de viviendas. Miles de unidades en proceso.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/avanza-programa-de-vivienda-en-sonora-con-36-mil-954-unidades-en-proceso-alfonso-durazo/",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Regalarán árboles nativos en Hermosillo",
+        "summary": "Autoridades distribuirán ejemplares de flora nativa este sábado en Hermosillo para reforestación.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/regalaran-arboles-nativos-este-sabado-en-hermosillo/",
+        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+      },
+      {
+        "title": "Alertan sobre riesgos en banca móvil sonorense",
+        "summary": "Especialistas advierten sobre peligros de ingeniería social y phishing dirigidos a cuentas bancarias móviles.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/ingenieria-social-y-phishing-los-peligros-que-acechan-tus-cuentas-bancarias-moviles/",
+        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+      },
       {
         "title": "Bomberos de Navojoa reciben lanchas y cámaras termográficas",
         "summary": "Corporación de bomberos de Navojoa equipada con nuevas lanchas y tecnología termográfica para operativos.",
@@ -260,22 +288,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/12/semarnat-presenta-en-ures-la-segunda-etapa-de-remediacion-del-rio-sonora-a-12-anos-del-derrame-minero-que-afecto-agua-suelo-y-comunidades/",
         "_added_at": "2026-08-12T11:43:46.697492-07:00"
-      },
-      {
-        "title": "Cruz Roja inaugura base en Bavispe",
-        "summary": "Nueva instalación en la sierra alta para atender emergencias médicas en comunidades remotas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/cruz-roja-inaugura-base-en-bavispe-para-atender-emergencias-en-la-sierra-alta-de-sonora/",
-        "_added_at": "2026-08-12T11:43:46.697492-07:00"
-      },
-      {
-        "title": "Protección Civil recibe cinco unidades eléctricas",
-        "summary": "Hermosillo fortalece capacidad de inspecciones y atención de emergencias con patrullas modernas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/proteccion-civil-de-hermosillo-recibe-cinco-patrullas-electricas-para-fortalecer-inspecciones-y-atencion-de-emergencias/",
-        "_added_at": "2026-08-12T11:43:46.697492-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-12T17:53:21.936417-07:00"
+  "last_updated": "2026-08-12T21:43:22.707261-07:00"
 }
