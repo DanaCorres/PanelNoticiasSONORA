@@ -1,8 +1,29 @@
 {
   "date": "2026-08-12",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Pareja condenada a 21 años por trata de menores en Nogales",
+        "summary": "Gloria Guadalupe y César Telésforo sentenciados por explotación sexual de adolescente de 16 años entre diciembre y enero.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/12/sentencian-a-pareja-a-21-anos-de-prision-por-trata-y-corrupcion-de-menores/",
+        "_added_at": "2026-08-12T17:53:21.936417-07:00"
+      },
+      {
+        "title": "Hombre condenado a 5 años por cartuchos ilegales",
+        "summary": "Enrique sentenciado a prisión por introducir cartuchos ilícitos en territorio sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/sentencian-a-5-anos-de-prision-a-enrique-n-por-introducir-cartuchos-ilegales-en-sonora/",
+        "_added_at": "2026-08-12T17:53:21.936417-07:00"
+      },
+      {
+        "title": "Intoxicaciones por alcohol suben 24.7% en Sonora",
+        "summary": "Aumento significativo en casos de intoxicación aguda por bebidas alcohólicas registrado en el estado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/intoxicaciones-agudas-por-alcohol-aumentan-247/262310",
+        "_added_at": "2026-08-12T17:53:21.936417-07:00"
+      },
       {
         "title": "Sonora enfrenta sobrepoblación en cárceles sin nuevos penales",
         "summary": "Estado sin confirmación sobre construcción de nuevos penales ante aumento de población carcelaria en México.",
@@ -51,30 +72,23 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/11/familia-bloquea-bulevar-morelos-para-denunciar-reprogramacion-constante-de-cirugia-en-el-hospital-del-issste/",
         "_added_at": "2026-08-12T02:52:19.369135-07:00"
-      },
-      {
-        "title": "Homicidio en colonia Revolución de Hermosillo",
-        "summary": "Asesinan a un hombre en la colonia Revolución. Autoridades investigan los hechos en la capital sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/asesinan-a-hombre-en-la-colonia-revolucion/",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
-      },
-      {
-        "title": "Disparo mortal en bulevar Luis Encinas",
-        "summary": "Ejecutan a sujeto a balazos en importante vialidad de Hermosillo. Investigación en curso por homicidio.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/11/asesinan-a-hombre-a-balazos-en-el-bulevar-luis-encinas-de-hermosillo/",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
-      },
-      {
-        "title": "Estudiante atropellada en avenida Reforma",
-        "summary": "Conductora de BMW blanco impacta a alumna de Unison y huye. Víctima en atención médica.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/estudiante-de-la-unison-es-atropellada-en-la-avenida-reforma-conductor-de-bmw-blanco-se-dio-a-la-fuga/",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Santander se deslinda de megaproyectos de gas en Sonora",
+        "summary": "Banco Santander se retira de proyectos Saguaro y AMIGO GNL que afectarían costas sonorenses.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/12/banco-santander-se-deslinda-de-saguaro-y-amigo-gnl-los-megaproyectos-de-gas-fosil-que-amenazan-las-costas-de-sonora/",
+        "_added_at": "2026-08-12T17:53:21.936417-07:00"
+      },
+      {
+        "title": "Gobierno prepara estrategia ante posibles aranceles de nuez",
+        "summary": "Autoridades sonorenses analizan escenarios protectores para productores y exportadores ante nuevas medidas arancelarias.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-anticipa-aranceles-protege-sus-productores-de-nuez/262281",
+        "_added_at": "2026-08-12T17:53:21.936417-07:00"
+      },
       {
         "title": "Maloro Acosta descarta candidatura, fortalecerá Partido Verde",
         "summary": "Manuel Ignacio Acosta descarta competir en 2027 y se enfocará en fortalecer alianzas del PVE en Sonora.",
@@ -119,6 +133,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Remediación del Río Sonora arranca con 654 millones",
+        "summary": "Después de 12 años de espera, inicia proyecto de limpieza del Río Sonora con presupuesto de 654 millones de pesos.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/12/tras-12-anos-de-espera-arrancara-con-654-mdp-la-remediacion-del-rio-sonora-durazo/",
+        "_added_at": "2026-08-12T17:53:21.936417-07:00"
+      },
+      {
+        "title": "Canacintra organiza Expo Industrial en Hermosillo",
+        "summary": "Expo Industrial 2026 reunirá empresas de Sonora y Arizona el 4 y 5 de noviembre en Hermosillo.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/expo-industrial-y-de-negocios-sonora-2026-sera-en-hermosillo/262279",
+        "_added_at": "2026-08-12T17:53:21.936417-07:00"
+      },
       {
         "title": "Presas de Sonora alcanzan niveles históricos en seis años",
         "summary": "Conagua reporta aumento significativo en almacenamiento de presas sonorenses, reduciendo riesgo de sequía.",
@@ -174,16 +202,30 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/11/avanza-programa-de-vivienda-en-sonora-con-36-mil-954-unidades-en-proceso-alfonso-durazo/",
         "_added_at": "2026-08-12T00:03:00.036693-07:00"
-      },
-      {
-        "title": "Circulan mensajes fraudulentos de CFE",
-        "summary": "Estafadores usan nombre de compañía eléctrica para engañar sonorenses. Alerta por fraude activo.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/falsos-mensajes-de-cfe-en-sonora-alertan-por-fraude/262236",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Bomberos de Navojoa reciben lanchas y cámaras termográficas",
+        "summary": "Corporación de bomberos de Navojoa equipada con nuevas lanchas y tecnología termográfica para operativos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/equipan-a-bomberos-de-navojoa-con-lanchas-y-camaras/262313",
+        "_added_at": "2026-08-12T17:53:21.936417-07:00"
+      },
+      {
+        "title": "DIF Hermosillo celebra Día del Adulto Mayor con Los Apson",
+        "summary": "Evento gratuito en Hermosillo con actuación musical para celebrar a adultos mayores en festividad especial.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/12/a-bailar-con-los-apson-dif-hermosillo-prepara-evento-gratuito-para-celebrar-el-dia-del-adulto-mayor/",
+        "_added_at": "2026-08-12T17:53:21.936417-07:00"
+      },
+      {
+        "title": "Prevén tormentas y lluvias fuertes en Hermosillo hoy",
+        "summary": "Alertas meteorológicas indican tormentas e intensas precipitaciones para Hermosillo en próximas horas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-y-tormentas-vuelven-a-sonora-y-en-hermosillo/262268",
+        "_added_at": "2026-08-12T17:53:21.936417-07:00"
+      },
       {
         "title": "IMSS realiza cirugía de escoliosis en Ciudad Obregón",
         "summary": "Procedimiento de alta complejidad corrige escoliosis juvenil en paciente de Guaymas.",
@@ -232,29 +274,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/proteccion-civil-de-hermosillo-recibe-cinco-patrullas-electricas-para-fortalecer-inspecciones-y-atencion-de-emergencias/",
         "_added_at": "2026-08-12T11:43:46.697492-07:00"
-      },
-      {
-        "title": "Fuga de aguas residuales persiste en colonia Balderrama",
-        "summary": "Problema de infraestructura afecta a vecinos de zona residencial de Hermosillo desde hace un mes.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/12/fuga-de-aguas-residuales-lleva-un-mes-en-la-colonia-balderrama-de-hermosillo/",
-        "_added_at": "2026-08-12T11:43:46.697492-07:00"
-      },
-      {
-        "title": "Turismo rural crece 15% en sierra de Sonora por lluvias",
-        "summary": "Lluvias veraniegas incrementan flujo de visitantes a destinos serranos de la entidad.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/turismo-rural-en-sonora-crece-15-en-vacaciones-de-verano/262213",
-        "_added_at": "2026-08-12T08:46:45.711528-07:00"
-      },
-      {
-        "title": "Circulan mensajes falsos sobre cortes de CFE en Sonora",
-        "summary": "Autoridades advierten sobre fraude a través de comunicaciones falsas de la compañía eléctrica.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/falsos-mensajes-de-cfe-en-sonora-alertan-por-fraude/262236",
-        "_added_at": "2026-08-12T08:46:45.711528-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-12T14:32:25.238676-07:00"
+  "last_updated": "2026-08-12T17:53:21.936417-07:00"
 }
