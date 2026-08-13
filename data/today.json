@@ -1,8 +1,29 @@
 {
   "date": "2026-08-13",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Dos condenados a 45 años por muerte de recién nacida en Caborca",
+        "summary": "Sentencia a pareja por homicidio de bebé en Caborca. Pena de 45 años de prisión para ambos responsables del crimen.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/sentencian-a-45-anos-de-prision-a-dos-personas-tras-quitarle-la-vida-a-recien-nacida-en-caborca/",
+        "_added_at": "2026-08-13T14:32:47.637248-07:00"
+      },
+      {
+        "title": "Chofer de app muere tras disparo por discusión vial en Hermosillo",
+        "summary": "Trabajador de plataforma de transporte asesinado a balazos tras conflicto vehicular. Investigaciones en curso por el crimen.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/discusion-vial-deja-un-chofer-de-aplicacion-sin-vida-fue-atacado-a-balazos/",
+        "_added_at": "2026-08-13T14:32:47.637248-07:00"
+      },
+      {
+        "title": "Reforzarán estrategias contra violencia familiar en Hermosillo",
+        "summary": "Autoridades anuncian intensificación de programas tras casos fatales. Toño Astiazarán destaca nuevas medidas preventivas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/se-reforzaran-estrategias-contra-la-violencia-familiar-tras-casos-fatales-en-hermosillo-tono-astiazaran/",
+        "_added_at": "2026-08-13T14:32:47.637248-07:00"
+      },
       {
         "title": "Persona lesionada en ataque armado en Hermosillo",
         "summary": "Atacantes en camioneta negra hirieron a una persona en Real del Cobre. Autoridades investigan el incidente.",
@@ -51,30 +72,16 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/12/proteccion-civil-de-sonora-estrena-brigada-para-responder-de-inmediato-ante-emergencias/",
         "_added_at": "2026-08-13T02:52:14.348057-07:00"
-      },
-      {
-        "title": "Choque fatal en Hermosillo cobra dos vidas",
-        "summary": "Colisión entre vehículos en la Costa de Hermosillo dejó dos muertos y tres lesionados. Servicios de emergencia atendieron el incidente.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/choque-entre-dos-vehiculos-en-la-costa-deja-dos-muertos-y-tres-lesionados/",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
-      },
-      {
-        "title": "Pareja sentenciada por trata y corrupción de menores",
-        "summary": "Juez condena a pareja a 21 años de prisión en Nogales por delitos de trata y corrupción de menores.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/12/sentencian-a-pareja-a-21-anos-de-prision-por-trata-y-corrupcion-de-menores/",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
-      },
-      {
-        "title": "Detienen en San Diego a sospechoso de feminicidio",
-        "summary": "Capturan a hombre buscado por tentativa de feminicidio contra recepcionista en Santa Fe, Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/12/detienen-en-san-diego-a-hombre-buscado-por-tentativa-de-feminicidio-contra-recepcionista-en-santa-fe/",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Lilo Durazo representa Sonora en BUCAFEST 2026 Tijuana",
+        "summary": "Gobernadora participa en festival gastronómico y cultural. Promoción de Sonora en evento internacional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/lilo-durazo-representara-a-sonora-en-el-bucafest-2026/",
+        "_added_at": "2026-08-13T14:32:47.637248-07:00"
+      },
       {
         "title": "Sonora sin confirmación sobre nuevos penales",
         "summary": "Estado enfrenta incremento de población carcelaria sin confirmación oficial sobre construcción de nuevas instalaciones penitenciarias.",
@@ -106,6 +113,20 @@
     ],
     "economia": [
       {
+        "title": "Expo Industrial Canacintra reúne 200 empresas en Hermosillo",
+        "summary": "Exposición generará dos mil citas de negocios. Evento importante para sector empresarial sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/expo-industrial-canacintra-2026-reunira-en-hermosillo-a-mas-de-200-empresas-y-tendra-dos-mil-citas-de-negocios/",
+        "_added_at": "2026-08-13T14:32:47.637248-07:00"
+      },
+      {
+        "title": "China evadiría aranceles triangulando exportaciones por México",
+        "summary": "Casa Blanca acusa a China de usar TMEC para reducir aranceles. Investigaciones sobre estrategia comercial irregular.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/08/13/estados-unidos-acusa-a-china-de-triangular-exportaciones-via-mexico-para-reducir-aranceles-en-estados-unidos-y-apunta-al-t-mec/",
+        "_added_at": "2026-08-13T14:32:47.637248-07:00"
+      },
+      {
         "title": "Durazo anuncia remediación del Río Sonora con 654 mdp",
         "summary": "Tras 12 años de espera, inicia proyecto de remediación ambiental de la Cuenca del Río Sonora en septiembre.",
         "source": "Expreso",
@@ -135,6 +156,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Videos exhiben plagas en urgencias del hospital ISSSTE Hermosillo",
+        "summary": "Cucarachas detectadas en área de preparación de medicamentos. Trabajadores denuncian falta de atención a solicitudes fumigación.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/videos-exhiben-cucarachas-y-otras-plagas-en-urgencias-y-areas-de-preparacion-de-medicamentos-del-hospital-del-issste-de-hermosillo-mientras-trabajadores-denuncian-que-autoridades-no-han-atendido-sus-solicitudes-de-fumigacion/",
+        "_added_at": "2026-08-13T14:32:47.637248-07:00"
+      },
+      {
+        "title": "Hermosillo enfrentará calor extremo de 45°C este fin de semana",
+        "summary": "Alerta de temperaturas record para capital sonorense. Condiciones meteorológicas peligrosas por ola de calor.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/hermosillo-enfrentara-calor-extremo-de-hasta-45-c-este-fin-de-semana-meteoalert/",
+        "_added_at": "2026-08-13T14:32:47.637248-07:00"
+      },
+      {
+        "title": "Bomberos de Hermosillo celebran 80 años con inversión de 70 mdp",
+        "summary": "Departamento conmemora octava década de servicio. Astiazarán destaca fortalecimiento con inversión estatal significativa.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/bomberos-de-hermosillo-cumplen-80-anos-de-servicio-tono-astiazaran-destaca-inversion-de-70-mdp-para-fortalecer-el-departamento/",
+        "_added_at": "2026-08-13T14:32:47.637248-07:00"
+      },
       {
         "title": "Alerta por tormenta tropical Hernán en Sonora",
         "summary": "Protección Civil vigila fenómeno mientras monzón genera lluvias y calor hasta 41 grados.",
@@ -183,29 +225,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/13/ingenieria-social-y-phishing-los-peligros-que-acechan-tus-cuentas-bancarias-moviles/",
         "_added_at": "2026-08-13T02:52:14.348057-07:00"
-      },
-      {
-        "title": "IMSS realiza cirugía de escoliosis en Ciudad Obregón",
-        "summary": "Instituto realiza intervención de alta complejidad para corregir escoliosis juvenil en paciente de Guaymas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/12/imss-realiza-en-ciudad-obregon-cirugia-de-alta-complejidad-para-corregir-escoliosis-juvenil-a-joven-de-guaymas/",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
-      },
-      {
-        "title": "Protección Civil de Sonora estrena brigada de emergencias",
-        "summary": "Dependencia estatal implementa nueva brigada para respuesta inmediata ante situaciones de emergencia.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/12/proteccion-civil-de-sonora-estrena-brigada-para-responder-de-inmediato-ante-emergencias/",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
-      },
-      {
-        "title": "Regalarán árboles nativos este sábado en Hermosillo",
-        "summary": "Iniciativa ambiental distribui flora nativa entre ciudadanos hermosillenses.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/regalaran-arboles-nativos-este-sabado-en-hermosillo/",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-13T11:43:46.404265-07:00"
+  "last_updated": "2026-08-13T14:32:47.637248-07:00"
 }
