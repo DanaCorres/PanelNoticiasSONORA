@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -40,6 +40,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Sonora sin confirmación sobre nuevos penales",
+        "summary": "Estado enfrenta incremento de población carcelaria sin confirmación oficial sobre construcción de nuevas instalaciones penitenciarias.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/sonora-sin-confirmacion-sobre-nuevos-penales-ante-aumento-de-poblacion-carcelaria-en-mexico/",
+        "_added_at": "2026-08-13T05:39:03.768030-07:00"
+      },
       {
         "title": "Durazo y Sheinbaum anuncian remediación del Río Sonora",
         "summary": "Gobierno federal anuncia proyecto de 654 millones para remediar contaminación del Río Sonora tras 12 años de espera.",
@@ -94,6 +101,20 @@
     ],
     "sociedad": [
       {
+        "title": "Regalarán árboles nativos este sábado en Hermosillo",
+        "summary": "Vivero Municipal aprovecha lluvias para distribuir gratuitamente árboles nativos en jornada de forestación urbana.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/vivero-municipal-aprovechara-las-lluvias-para-regalar-arboles-nativos-en-hermosillo/",
+        "_added_at": "2026-08-13T05:39:03.768030-07:00"
+      },
+      {
+        "title": "Fuga de aguas negras afecta norponiente de Hermosillo",
+        "summary": "Vecinos denuncian problema de drenaje que contamina calles del sector desde hace más de dos semanas sin solución.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/denuncian-vecinos-fuga-de-aguas-negras-que-afecta-calles-del-norponiente-de-hermosillo-tiene-mas-de-dos-semanas/",
+        "_added_at": "2026-08-13T05:39:03.768030-07:00"
+      },
+      {
         "title": "Alertan sobre fraudes en banca móvil en Sonora",
         "summary": "Autoridades advierten sobre peligros de ingeniería social y phishing en aplicaciones bancarias.",
         "source": "El Imparcial",
@@ -123,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-13T02:52:14.348057-07:00"
+  "last_updated": "2026-08-13T05:39:03.768030-07:00"
 }
