@@ -1,8 +1,29 @@
 {
   "date": "2026-08-13",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Persona lesionada en ataque armado en Hermosillo",
+        "summary": "Atacantes en camioneta negra hirieron a una persona en Real del Cobre. Autoridades investigan el incidente.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/policiaca/2026/08/13/ataque-armado-en-hermosillo-deja-una-persona-lesionada-en-la-colonia-real-del-cobre-agresores-huyeron-en-camioneta-negra/",
+        "_added_at": "2026-08-13T11:43:46.404265-07:00"
+      },
+      {
+        "title": "Tres muertos en choque frontal en Hermosillo",
+        "summary": "Colisión de frente en Carretera 12 Sur causó tres fallecimientos. FGJES investiga las causas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/fgjes-investiga-choque-frontal-en-hermosillo-murieron-tres-personas/",
+        "_added_at": "2026-08-13T11:43:46.404265-07:00"
+      },
+      {
+        "title": "Plagas detectadas en hospital Issste de Hermosillo",
+        "summary": "Videos muestran cucarachas en urgencias y áreas de medicamentos. Personal denuncia falta de fumigación.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/videos-exhiben-cucarachas-y-otras-plagas-en-urgencias-y-areas-de-preparacion-de-medicamentos-del-hospital-del-issste-de-hermosillo-mientras-trabajadores-denuncian-que-autoridades-no-han-atendido-sus-solicitudes-de-fumigacion/",
+        "_added_at": "2026-08-13T11:43:46.404265-07:00"
+      },
       {
         "title": "Hombre pierde pierna tras ser arrollado por tren en Empalme",
         "summary": "Accidente ferroviario en Empalme resultó en amputación de extremidad inferior del afectado.",
@@ -50,13 +71,6 @@
         "summary": "Capturan a hombre buscado por tentativa de feminicidio contra recepcionista en Santa Fe, Sonora.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/12/detienen-en-san-diego-a-hombre-buscado-por-tentativa-de-feminicidio-contra-recepcionista-en-santa-fe/",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
-      },
-      {
-        "title": "Hombre condenado por contrabando de cartuchos",
-        "summary": "Sentencian a individuo por intentar ingresar cartuchos ilegales a México a través de Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/condenado-hombre-por-ingresar-cartuchos-a-mexico-desde-sonora/262316",
         "_added_at": "2026-08-13T00:07:16.127783-07:00"
       }
     ],
@@ -122,6 +136,20 @@
     ],
     "sociedad": [
       {
+        "title": "Alerta por tormenta tropical Hernán en Sonora",
+        "summary": "Protección Civil vigila fenómeno mientras monzón genera lluvias y calor hasta 41 grados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/sonora-vigila-a-la-tormenta-tropical-hernan-en-el-pacifico-mientras-el-monzon-dejara-lluvias-y-calor-de-hasta-41c-en-las-proximas-horas/",
+        "_added_at": "2026-08-13T11:43:46.404265-07:00"
+      },
+      {
+        "title": "Hermosillo recibe equipo deportivo para jóvenes",
+        "summary": "Inversión de 12 millones impulsa actividades recreativas en colonias de la capital sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/colonias-de-hermosillo-reciben-equipo-deportivo-con-inversion-de-12-millones-de-pesos-para-impulsar-actividades-de-ninos-y-jovenes/",
+        "_added_at": "2026-08-13T11:43:46.404265-07:00"
+      },
+      {
         "title": "Semarnat confirma metales tóxicos en Río Sonora a 12 años",
         "summary": "Estudios prueban que arsenio, plomo y otros metales superan límites permitidos en cuenca.",
         "source": "El Imparcial",
@@ -179,5 +207,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-13T08:46:02.691750-07:00"
+  "last_updated": "2026-08-13T11:43:46.404265-07:00"
 }
