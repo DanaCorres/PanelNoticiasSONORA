@@ -1,8 +1,29 @@
 {
   "date": "2026-08-13",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre pierde pierna tras ser arrollado por tren en Empalme",
+        "summary": "Accidente ferroviario en Empalme resultó en amputación de extremidad inferior del afectado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/hombre-es-arrollado-por-tren-en-empalme-y-sufre-amputacion/262349",
+        "_added_at": "2026-08-13T08:46:02.691750-07:00"
+      },
+      {
+        "title": "Agresión armada deja hombre herido en norte de Hermosillo",
+        "summary": "Persona resultó lesionada tras ataque a balazos en zona norte capitalina.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/hombre-resulta-herido-tras-agresion-armada-al-norte-de-hermosillo/",
+        "_added_at": "2026-08-13T08:46:02.691750-07:00"
+      },
+      {
+        "title": "Detienen hombre por agredir a pareja en Hermosillo",
+        "summary": "Captura por violencia doméstica: sujeto agredió verbalmente y físicamente a su compañera.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/detienen-a-hombre-tras-insultar-empujar-y-golpear-en-el-rostro-a-su-pareja-en-hermosillo/",
+        "_added_at": "2026-08-13T08:46:02.691750-07:00"
+      },
       {
         "title": "Protección Civil estrena brigada de respuesta rápida",
         "summary": "Sonora activa nueva brigada de Protección Civil para atender emergencias de forma inmediata.",
@@ -101,6 +122,20 @@
     ],
     "sociedad": [
       {
+        "title": "Semarnat confirma metales tóxicos en Río Sonora a 12 años",
+        "summary": "Estudios prueban que arsenio, plomo y otros metales superan límites permitidos en cuenca.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/semarnat-confirma-contaminacion-por-arsenico-plomo-y-otros-metales-toxicos-en-el-rio-sonora-a-12-anos-del-derrame/",
+        "_added_at": "2026-08-13T08:46:02.691750-07:00"
+      },
+      {
+        "title": "Bazar Escolar en Hermosillo ofrece descuentos hasta 60%",
+        "summary": "Promoción de útiles escolares con reducciones significativas en hermosillo antes del ciclo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/17/bazar-escolar-2026-en-hermosillo-ofrecera-descuentos-de-hasta-60-en-utiles-estas-son-las-fechas-sedes-y-horarios/",
+        "_added_at": "2026-08-13T08:46:02.691750-07:00"
+      },
+      {
         "title": "Regalarán árboles nativos este sábado en Hermosillo",
         "summary": "Vivero Municipal aprovecha lluvias para distribuir gratuitamente árboles nativos en jornada de forestación urbana.",
         "source": "Proyecto Puente",
@@ -144,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-13T05:39:03.768030-07:00"
+  "last_updated": "2026-08-13T08:46:02.691750-07:00"
 }
