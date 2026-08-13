@@ -1,8 +1,15 @@
 {
   "date": "2026-08-13",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Protección Civil estrena brigada de respuesta rápida",
+        "summary": "Sonora activa nueva brigada de Protección Civil para atender emergencias de forma inmediata.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/12/proteccion-civil-de-sonora-estrena-brigada-para-responder-de-inmediato-ante-emergencias/",
+        "_added_at": "2026-08-13T02:52:14.348057-07:00"
+      },
       {
         "title": "Choque fatal en Hermosillo cobra dos vidas",
         "summary": "Colisión entre vehículos en la Costa de Hermosillo dejó dos muertos y tres lesionados. Servicios de emergencia atendieron el incidente.",
@@ -57,6 +64,13 @@
     ],
     "economia": [
       {
+        "title": "Durazo anuncia remediación del Río Sonora con 654 mdp",
+        "summary": "Tras 12 años de espera, inicia proyecto de remediación ambiental de la Cuenca del Río Sonora en septiembre.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/rio-sonora-tendra-remediacion-ambiental-tras-12-anos-de-espera/262334",
+        "_added_at": "2026-08-13T02:52:14.348057-07:00"
+      },
+      {
         "title": "Seguridad y tecnología impulsan minería sonorense",
         "summary": "Sector minero estatal prioriza innovación tecnológica y medidas de seguridad para su desarrollo futuro.",
         "source": "Expreso",
@@ -80,6 +94,13 @@
     ],
     "sociedad": [
       {
+        "title": "Alertan sobre fraudes en banca móvil en Sonora",
+        "summary": "Autoridades advierten sobre peligros de ingeniería social y phishing en aplicaciones bancarias.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/ingenieria-social-y-phishing-los-peligros-que-acechan-tus-cuentas-bancarias-moviles/",
+        "_added_at": "2026-08-13T02:52:14.348057-07:00"
+      },
+      {
         "title": "IMSS realiza cirugía de escoliosis en Ciudad Obregón",
         "summary": "Instituto realiza intervención de alta complejidad para corregir escoliosis juvenil en paciente de Guaymas.",
         "source": "El Imparcial",
@@ -102,5 +123,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-13T00:07:16.127783-07:00"
+  "last_updated": "2026-08-13T02:52:14.348057-07:00"
 }
