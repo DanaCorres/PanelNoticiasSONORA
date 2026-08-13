@@ -1,295 +1,106 @@
 {
-  "date": "2026-08-12",
-  "run_count": 8,
+  "date": "2026-08-13",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Choque fatal en Hermosillo deja dos muertos",
-        "summary": "Colisión entre vehículos en la Costa de Hermosillo ocasiona dos muertes y tres lesionados. Servicios de emergencia atendieron la escena.",
+        "title": "Choque fatal en Hermosillo cobra dos vidas",
+        "summary": "Colisión entre vehículos en la Costa de Hermosillo dejó dos muertos y tres lesionados. Servicios de emergencia atendieron el incidente.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/choque-entre-dos-vehiculos-en-la-costa-deja-dos-muertos-y-tres-lesionados/",
-        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       },
       {
-        "title": "Condenan a hombre por contrabando de cartuchos",
-        "summary": "Ministerio Público Federal en Sonora logra condena por ingreso ilegal de municiones de uso militar.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/condenado-hombre-por-ingresar-cartuchos-a-mexico-desde-sonora/262316",
-        "_added_at": "2026-08-12T21:43:22.707261-07:00"
-      },
-      {
-        "title": "Protección Civil inaugura brigada de respuesta rápida",
-        "summary": "Sonora estrena brigada especializada para atender emergencias de forma inmediata en el estado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/12/proteccion-civil-de-sonora-estrena-brigada-para-responder-de-inmediato-ante-emergencias/",
-        "_added_at": "2026-08-12T21:43:22.707261-07:00"
-      },
-      {
-        "title": "Pareja condenada a 21 años por trata de menores en Nogales",
-        "summary": "Gloria Guadalupe y César Telésforo sentenciados por explotación sexual de adolescente de 16 años entre diciembre y enero.",
+        "title": "Pareja sentenciada por trata y corrupción de menores",
+        "summary": "Juez condena a pareja a 21 años de prisión en Nogales por delitos de trata y corrupción de menores.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/08/12/sentencian-a-pareja-a-21-anos-de-prision-por-trata-y-corrupcion-de-menores/",
-        "_added_at": "2026-08-12T17:53:21.936417-07:00"
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       },
       {
-        "title": "Hombre condenado a 5 años por cartuchos ilegales",
-        "summary": "Enrique sentenciado a prisión por introducir cartuchos ilícitos en territorio sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/sentencian-a-5-anos-de-prision-a-enrique-n-por-introducir-cartuchos-ilegales-en-sonora/",
-        "_added_at": "2026-08-12T17:53:21.936417-07:00"
+        "title": "Detienen en San Diego a sospechoso de feminicidio",
+        "summary": "Capturan a hombre buscado por tentativa de feminicidio contra recepcionista en Santa Fe, Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/12/detienen-en-san-diego-a-hombre-buscado-por-tentativa-de-feminicidio-contra-recepcionista-en-santa-fe/",
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       },
       {
-        "title": "Intoxicaciones por alcohol suben 24.7% en Sonora",
-        "summary": "Aumento significativo en casos de intoxicación aguda por bebidas alcohólicas registrado en el estado.",
+        "title": "Hombre condenado por contrabando de cartuchos",
+        "summary": "Sentencian a individuo por intentar ingresar cartuchos ilegales a México a través de Sonora.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/intoxicaciones-agudas-por-alcohol-aumentan-247/262310",
-        "_added_at": "2026-08-12T17:53:21.936417-07:00"
-      },
-      {
-        "title": "Sonora enfrenta sobrepoblación en cárceles sin nuevos penales",
-        "summary": "Estado sin confirmación sobre construcción de nuevos penales ante aumento de población carcelaria en México.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/sonora-sin-confirmacion-sobre-nuevos-penales-ante-aumento-de-poblacion-carcelaria-en-mexico/",
-        "_added_at": "2026-08-12T14:32:25.238676-07:00"
-      },
-      {
-        "title": "Dos muertos en ataque armado en El Apache",
-        "summary": "Hombre y mujer fallecen tras agresión con armas en colonia El Apache de Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/mujer-y-hombre-mueren-tras-ataque-armado-en-la-colonia-el-apache-de-hermosillo/",
-        "_added_at": "2026-08-12T11:43:46.697492-07:00"
-      },
-      {
-        "title": "Detienen a dos por homicidio en Hermosillo",
-        "summary": "Capturan a dos individuos relacionados con homicidio en la colonia Revolución.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/detienen-a-dos-hombres-por-posible-relacion-con-homicidio-en-la-colonia-revolucion-de-hermosillo/",
-        "_added_at": "2026-08-12T11:43:46.697492-07:00"
-      },
-      {
-        "title": "Homicidios caen 74.6% en Sonora durante julio",
-        "summary": "Reducción significativa de delitos dolosos en la entidad durante el mes pasado, con mejoras en varios municipios.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/homicidios-dolosos-en-sonora-bajan-746-durante-julio-de-2026-estos-son-los-municipios-con-mayor-reduccion/",
-        "_added_at": "2026-08-12T08:46:45.711528-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/condenado-hombre-por-ingresar-cartuchos-a-mexico-desde-sonora/262316",
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Durazo anuncia inicio de remediación del Río Sonora",
-        "summary": "Gobernador anuncia arranque de proyecto de recuperación del Río Sonora con inversión de 654 millones después de 12 años de espera.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/12/tras-12-anos-de-espera-arrancara-con-654-mdp-la-remediacion-del-rio-sonora-durazo/",
-        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+        "title": "Durazo y Sheinbaum anuncian remediación del Río Sonora",
+        "summary": "Gobierno federal anuncia proyecto de 654 millones para remediar contaminación del Río Sonora tras 12 años de espera.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/rio-sonora-tendra-remediacion-ambiental-tras-12-anos-de-espera/262334",
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       },
       {
-        "title": "Astiazarán entrega equipo deportivo en Hermosillo",
-        "summary": "Toño Astiazarán distribuye equipamiento para fomentar deporte en colonias hermosillenses.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/12/entrega-tono-astiazaran-equipo-de-entrenamiento-para-fomentar-practica-del-deporte-en-colonias-de-hermosillo/",
-        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+        "title": "Encuesta legitimará coordinación de Comités: Valles",
+        "summary": "Senadora con licencia Lorenia Valles confía en consulta abierta para definir liderazgo estatal de Morena.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-confia-en-encuesta-para-definir-coordinacion/262332",
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       },
       {
-        "title": "Lamarque se reúne con trabajadores sonorenses",
-        "summary": "Javier Lamarque sostiene encuentro con Federación de Trabajadores y anuncia encuesta para coordinación estatal.",
+        "title": "Lamarque se reúne con Federación de Trabajadores",
+        "summary": "Candidato Javier Lamarque dialoga con trabajadores estatales, promete trabajo digno y próxima encuesta electoral.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-se-reune-con-federacion-de-trabajadores-del-estado/262322",
-        "_added_at": "2026-08-12T21:43:22.707261-07:00"
-      },
-      {
-        "title": "Garantizan regreso a clases con apoyos directos",
-        "summary": "Autoridades educativas de Sonora aseguran inicio de ciclo escolar con apoyo integral a familias.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/regreso-a-clases-sonora-2026-escuelas-y-uniformes-listos/262317",
-        "_added_at": "2026-08-12T21:43:22.707261-07:00"
-      },
-      {
-        "title": "Santander se deslinda de megaproyectos de gas en Sonora",
-        "summary": "Banco Santander se retira de proyectos Saguaro y AMIGO GNL que afectarían costas sonorenses.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/12/banco-santander-se-deslinda-de-saguaro-y-amigo-gnl-los-megaproyectos-de-gas-fosil-que-amenazan-las-costas-de-sonora/",
-        "_added_at": "2026-08-12T17:53:21.936417-07:00"
-      },
-      {
-        "title": "Gobierno prepara estrategia ante posibles aranceles de nuez",
-        "summary": "Autoridades sonorenses analizan escenarios protectores para productores y exportadores ante nuevas medidas arancelarias.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-anticipa-aranceles-protege-sus-productores-de-nuez/262281",
-        "_added_at": "2026-08-12T17:53:21.936417-07:00"
-      },
-      {
-        "title": "Maloro Acosta descarta candidatura, fortalecerá Partido Verde",
-        "summary": "Manuel Ignacio Acosta descarta competir en 2027 y se enfocará en fortalecer alianzas del PVE en Sonora.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/manuel-ignacio-maloro-acosta-descarta-candidatura-en-2027-buscara-fortalecer-al-partido-verde-en-sonora/",
-        "_added_at": "2026-08-12T14:32:25.238676-07:00"
-      },
-      {
-        "title": "Aguirre inicia encuentros de rendición de cuentas",
-        "summary": "Gobernador comienza gira de rendición de cuentas de su Segundo Informe en Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/12/las-iniciativas-solo-tienen-sentido-cuando-nacen-de-escuchar-a-la-gente-agustin-rodriguez-inicia-encuentros-de-rendicion-de-cuentas-de-su-segundo-informe/",
-        "_added_at": "2026-08-12T14:32:25.238676-07:00"
-      },
-      {
-        "title": "Sonora sin confirmación de nuevos penales federales",
-        "summary": "Gobierno federal construirá cárceles en seis entidades, Sonora no incluida pese a aumento carcelario.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/sonora-sin-confirmacion-sobre-nuevos-penales-ante-aumento-de-poblacion-carcelaria-en-mexico/",
-        "_added_at": "2026-08-12T11:43:46.697492-07:00"
-      },
-      {
-        "title": "Amparo concedido a Gilda Lozoya en caso Agronitrogenados",
-        "summary": "Juzgado otorga amparo a la exfuncionaria contra vinculación a proceso en caso de corrupción.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/12/conceden-amparo-a-gilda-lozoya-contra-vinculacion-a-proceso-por-caso-agronitrogenados/",
-        "_added_at": "2026-08-12T11:43:46.697492-07:00"
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       }
     ],
     "economia": [
       {
         "title": "Seguridad y tecnología impulsan minería sonorense",
-        "summary": "Sector minero de Sonora prioriza medidas de seguridad e implementación de tecnología en operaciones.",
+        "summary": "Sector minero estatal prioriza innovación tecnológica y medidas de seguridad para su desarrollo futuro.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/seguridad-y-tecnologia-marcan-rumbo-de-la-mineria-sonorense/262321",
-        "_added_at": "2026-08-12T21:43:22.707261-07:00"
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       },
       {
-        "title": "Remediación del Río Sonora arranca con 654 millones",
-        "summary": "Después de 12 años de espera, inicia proyecto de limpieza del Río Sonora con presupuesto de 654 millones de pesos.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/12/tras-12-anos-de-espera-arrancara-con-654-mdp-la-remediacion-del-rio-sonora-durazo/",
-        "_added_at": "2026-08-12T17:53:21.936417-07:00"
-      },
-      {
-        "title": "Canacintra organiza Expo Industrial en Hermosillo",
-        "summary": "Expo Industrial 2026 reunirá empresas de Sonora y Arizona el 4 y 5 de noviembre en Hermosillo.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/expo-industrial-y-de-negocios-sonora-2026-sera-en-hermosillo/262279",
-        "_added_at": "2026-08-12T17:53:21.936417-07:00"
-      },
-      {
-        "title": "Presas de Sonora alcanzan niveles históricos en seis años",
-        "summary": "Conagua reporta aumento significativo en almacenamiento de presas sonorenses, reduciendo riesgo de sequía.",
+        "title": "Conagua reporta nivel histórico en presas",
+        "summary": "Presas sonorenses alcanzan niveles no vistos en seis años, reduciendo riesgo de sequía moderada.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/12/presas-de-sonora-alcanzan-niveles-no-vistos-en-seis-anos-se-reduce-riesgo-de-sequia-moderada-informo-conagua/",
-        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       },
       {
-        "title": "Comercios de Hermosillo caen 30% en ventas veraniegas",
-        "summary": "Negocios hermosillenses reportan importante disminución en ventas durante temporada estival.",
+        "title": "Alerta sobre riesgos en banca móvil",
+        "summary": "Expertos advierten sobre peligros de ingeniería social y phishing en cuentas bancarias móviles.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/comercios-de-hermosillo-registran-caida-de-hasta-30-en-ventas-durante-el-verano-canaco/",
-        "_added_at": "2026-08-12T14:32:25.238676-07:00"
-      },
-      {
-        "title": "Nuez sonorense en riesgo por nuevos aranceles internacionales",
-        "summary": "Autoridades de Sonora trabajan para proteger a productores de nuez ante posibles medidas arancelarias.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-anticipa-aranceles-protege-sus-productores-de-nuez/262281",
-        "_added_at": "2026-08-12T14:32:25.238676-07:00"
-      },
-      {
-        "title": "EEUU decide sobre reapertura ganadera en Nogales",
-        "summary": "Ganaderos de Sonora esperan autorización estadounidense para exportar por Nogales y reducir costos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/reapertura-para-exportar-ganado-por-nogales-depende-de-eeuu-productores-enfrentarian-mayores-costos-si-solo-opera-agua-prieta/",
-        "_added_at": "2026-08-12T08:46:45.711528-07:00"
-      },
-      {
-        "title": "Cajeme recibe inversión histórica en vialidades y servicios",
-        "summary": "Se destinan 11 mil 100 millones de pesos para rehabilitar vialidades y mejorar abastecimiento de agua.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/destinan-11-mil-100-mdp-para-transformar-cajeme/262258",
-        "_added_at": "2026-08-12T08:46:45.711528-07:00"
-      },
-      {
-        "title": "Presas de Sonora alcanzan 25.8% de almacenamiento",
-        "summary": "Lluvia reciente incrementa reservas hídricas a dos mil millones de metros cúbicos. Situación favorable para estado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/las-presas-de-sonora-superan-los-2-mil-millones-de-metros-cubicos-de-agua-gracias-a-lluvias-recientes/",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
-      },
-      {
-        "title": "Comercios en crisis por fuga de drenaje",
-        "summary": "Negocios en Álvaro Obregón caen hasta 80% en ventas. Infraestructura defectuosa perjudica a comerciantes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/11/comerciantes-de-hermosillo-sufren-perdidas-grandes-por-fuga-de-drenaje-ventas-caen-hasta-80/",
-        "_added_at": "2026-08-12T00:03:00.036693-07:00"
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/ingenieria-social-y-phishing-los-peligros-que-acechan-tus-cuentas-bancarias-moviles/",
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Regalarán árboles nativos en Hermosillo",
-        "summary": "Autoridades distribuirán ejemplares de flora nativa este sábado en Hermosillo para reforestación.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/regalaran-arboles-nativos-este-sabado-en-hermosillo/",
-        "_added_at": "2026-08-12T21:43:22.707261-07:00"
-      },
-      {
-        "title": "Alertan sobre riesgos en banca móvil sonorense",
-        "summary": "Especialistas advierten sobre peligros de ingeniería social y phishing dirigidos a cuentas bancarias móviles.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/ingenieria-social-y-phishing-los-peligros-que-acechan-tus-cuentas-bancarias-moviles/",
-        "_added_at": "2026-08-12T21:43:22.707261-07:00"
-      },
-      {
-        "title": "Bomberos de Navojoa reciben lanchas y cámaras termográficas",
-        "summary": "Corporación de bomberos de Navojoa equipada con nuevas lanchas y tecnología termográfica para operativos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/equipan-a-bomberos-de-navojoa-con-lanchas-y-camaras/262313",
-        "_added_at": "2026-08-12T17:53:21.936417-07:00"
-      },
-      {
-        "title": "DIF Hermosillo celebra Día del Adulto Mayor con Los Apson",
-        "summary": "Evento gratuito en Hermosillo con actuación musical para celebrar a adultos mayores en festividad especial.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/12/a-bailar-con-los-apson-dif-hermosillo-prepara-evento-gratuito-para-celebrar-el-dia-del-adulto-mayor/",
-        "_added_at": "2026-08-12T17:53:21.936417-07:00"
-      },
-      {
-        "title": "Prevén tormentas y lluvias fuertes en Hermosillo hoy",
-        "summary": "Alertas meteorológicas indican tormentas e intensas precipitaciones para Hermosillo en próximas horas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-y-tormentas-vuelven-a-sonora-y-en-hermosillo/262268",
-        "_added_at": "2026-08-12T17:53:21.936417-07:00"
-      },
-      {
         "title": "IMSS realiza cirugía de escoliosis en Ciudad Obregón",
-        "summary": "Procedimiento de alta complejidad corrige escoliosis juvenil en paciente de Guaymas.",
+        "summary": "Instituto realiza intervención de alta complejidad para corregir escoliosis juvenil en paciente de Guaymas.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/12/imss-realiza-en-ciudad-obregon-cirugia-de-alta-complejidad-para-corregir-escoliosis-juvenil-a-joven-de-guaymas/",
-        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       },
       {
-        "title": "Familia hermosillense crea negocio para terapias de autismo",
-        "summary": "Casa Dimasa ofrece terapias para niño con autismo mediante emprendimiento familiar en Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/12/familia-crea-casa-dimasa-en-hermosillo-para-costear-las-terapias-de-su-hijo-con-autismo/",
-        "_added_at": "2026-08-12T14:32:25.238676-07:00"
+        "title": "Protección Civil de Sonora estrena brigada de emergencias",
+        "summary": "Dependencia estatal implementa nueva brigada para respuesta inmediata ante situaciones de emergencia.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/12/proteccion-civil-de-sonora-estrena-brigada-para-responder-de-inmediato-ante-emergencias/",
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       },
       {
-        "title": "Sonorense lleva gastronomía regional a Tucson",
-        "summary": "Claudia Vindiola conquista clientes estadounidenses con sazón sonorense en restaurante tucsonense.",
+        "title": "Regalarán árboles nativos este sábado en Hermosillo",
+        "summary": "Iniciativa ambiental distribui flora nativa entre ciudadanos hermosillenses.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/claudia-vindiola-lleva-el-sazon-de-sonora-a-tucson-y-conquista-a-clientes-de-eeuu-con-la-frida/",
-        "_added_at": "2026-08-12T14:32:25.238676-07:00"
-      },
-      {
-        "title": "Tormentas esperadas en cuatro municipios de Sonora hoy",
-        "summary": "Monzón favorece lluvias y tormentas en Caborca, Nogales, Imuris y Magdalena.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/monzon-sigue-favoreciendo-a-sonora-con-lluvias-se-esperan-tormentas-en-las-proximas-horas-en-caborca-nogales-imuris-y-magdalena/",
-        "_added_at": "2026-08-12T14:32:25.238676-07:00"
-      },
-      {
-        "title": "Semarnat inicia segunda etapa de remediación del Río Sonora",
-        "summary": "Nuevas acciones para restaurar río afectado por derrame minero hace 12 años.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/semarnat-presenta-en-ures-la-segunda-etapa-de-remediacion-del-rio-sonora-a-12-anos-del-derrame-minero-que-afecto-agua-suelo-y-comunidades/",
-        "_added_at": "2026-08-12T11:43:46.697492-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/regalaran-arboles-nativos-este-sabado-en-hermosillo/",
+        "_added_at": "2026-08-13T00:07:16.127783-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-12T21:43:22.707261-07:00"
+  "last_updated": "2026-08-13T00:07:16.127783-07:00"
 }
