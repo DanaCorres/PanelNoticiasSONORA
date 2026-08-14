@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
       {
@@ -62,6 +62,13 @@
     ],
     "politica": [
       {
+        "title": "Sheinbaum regresa a Sonora en nueva gira nacional",
+        "summary": "Presidenta realizará su sexta visita al estado como parte de recorrido por la república.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/sheinbaum-volvera-a-sonora-por-sexta-ocasion-en-su-nueva-gira-por-toda-la-republica/",
+        "_added_at": "2026-08-14T14:13:15.988717-07:00"
+      },
+      {
         "title": "Cancelación visas politizada acusa coordinador seguridad",
         "summary": "Gobierno mexicano señala injerencia de Estados Unidos en retiro de visas diplomáticas.",
         "source": "El Imparcial",
@@ -98,6 +105,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Sonora duplica meta de vivienda para el bienestar",
+        "summary": "Estado amplía programa federal de viviendas con nueva meta.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/sonora-duplica-su-meta-de-viviendas-y-se-coloca-a-la-vanguardia-del-programa-de-vivienda-para-el-bienestar/",
+        "_added_at": "2026-08-14T14:13:15.988717-07:00"
+      },
+      {
+        "title": "Útiles y luz consumen hasta 30% del sueldo sonorense",
+        "summary": "Familias enfrentan presión económica por regreso a clases y recibos de servicios.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/regreso-a-clases-y-recibo-de-luz-consumen-hasta-30-del-sueldo-de-familias-sonorenses-durante-el-verano/",
+        "_added_at": "2026-08-14T14:13:15.988717-07:00"
+      },
       {
         "title": "Volcadura de pipa con ácido sulfúrico cierra carretera en Caborca",
         "summary": "Accidente vial provoca cierre de paso en zona de tránsito importante.",
@@ -143,6 +164,34 @@
     ],
     "sociedad": [
       {
+        "title": "Estudiantes Unison denuncian lineamientos injustos para emprendimientos",
+        "summary": "Alumnos rechazan nuevos requisitos que obstaculizan su actividad empresarial en campus.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/alumnos-de-la-unison-denuncian-lineamientos-injustos-para-emprendimientos/",
+        "_added_at": "2026-08-14T14:13:15.988717-07:00"
+      },
+      {
+        "title": "Entregan becas a universitarios de Cajeme y Navojoa",
+        "summary": "Cerca de 13 mil becas distribuidas para transporte, inscripción y materiales escolares.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/14/entregan-cerca-de-13-mil-becas-a-universitarios-de-cajeme-y-navojoa-para-transporte-inscripcion-y-materiales-escolares/",
+        "_added_at": "2026-08-14T14:13:15.988717-07:00"
+      },
+      {
+        "title": "Siete sonorenses reciben becas para maestrías en extranjero",
+        "summary": "Jóvenes del estado acceden a becas de hasta 40 mil dólares para estudios internacionales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/siete-jovenes-sonorenses-reciben-becas-de-hasta-40-mil-dolares-para-estudiar-maestrias-en-universidades-del-extranjero/",
+        "_added_at": "2026-08-14T14:13:15.988717-07:00"
+      },
+      {
+        "title": "Falla en acueducto causa variaciones de agua en Hermosillo",
+        "summary": "Problema en Acueducto Independencia afectará servicio viernes en varias colonias.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/variaciones-en-el-servicio-de-agua-afectaran-este-viernes-a-colonias-de-hermosillo-tras-falla-en-el-acueducto-independencia/",
+        "_added_at": "2026-08-14T14:13:15.988717-07:00"
+      },
+      {
         "title": "Entrega de uniformes escolares gratuitos en Cajeme inicia",
         "summary": "Calendario por apellido para distribución de uniformes del 17 al 22 de agosto.",
         "source": "El Imparcial",
@@ -183,36 +232,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/programa-sonora-atiende-llega-a-ures-con-servicios-gratuitos/262393",
         "_added_at": "2026-08-14T02:49:05.849614-07:00"
-      },
-      {
-        "title": "Hermosillo tendrá dos nuevas estaciones de Bomberos",
-        "summary": "Ampliación de infraestructura para reducir tiempos de respuesta en emergencias.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/hermosillo-tendra-dos-nuevas-estaciones-de-bomberos-en-2027-para-reducir-tiempos-de-respuesta/",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
-      },
-      {
-        "title": "Hermosillo abre convocatoria para capacitar 500 jóvenes",
-        "summary": "Programa de ciencia, innovación y tecnología dirigido a población juvenil local.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/hermosillo-abre-convocatoria-para-capacitar-a-500-jovenes-en-ciencia-innovacion-y-tecnologia/",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
-      },
-      {
-        "title": "Jóvenes hermosillenses crean La Sala HMO",
-        "summary": "Nuevo espacio impulsa y promociona a músicos y artistas locales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/jovenes-hermosillenses-crean-la-sala-hmo-un-espacio-que-impulsa-a-musicos-locales/",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
-      },
-      {
-        "title": "El Marcos cierra después de casi cuatro décadas",
-        "summary": "Emblemático establecimiento hermosillense cesa operaciones tras larga trayectoria.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/el-marcos-cierra-sus-puertas-en-hermosillo-tras-casi-cuatro-decadas-de-historia/",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-14T11:37:19.756106-07:00"
+  "last_updated": "2026-08-14T14:13:15.988717-07:00"
 }
