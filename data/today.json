@@ -1,8 +1,22 @@
 {
   "date": "2026-08-14",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Pareja condenada a 45 años por homicidio de bebé en Caborca",
+        "summary": "Sentencia dictada por la muerte de recién nacida abandonada en el municipio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/policiaca/2026/08/14/bebe-recien-nacida-fue-privada-de-la-vida-y-abandonada-en-caborca-sentencian-a-una-pareja-a-45-anos-de-prision-por-homicidio-infantil/",
+        "_added_at": "2026-08-14T11:37:19.756106-07:00"
+      },
+      {
+        "title": "Detienen a dos con réplica de fusil en Hermosillo",
+        "summary": "Operativo en Villa del Real capturó a dos hombres con arma réplica y droga.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/policiaca/2026/08/14/detienen-a-dos-hombres-con-replica-de-fusil-y-envoltorios-de-presunta-droga-en-villa-del-real-de-hermosillo/",
+        "_added_at": "2026-08-14T11:37:19.756106-07:00"
+      },
       {
         "title": "Sonora entre top 10 estados por armas aseguradas",
         "summary": "Estado concentró 564 armas, 141 granadas y 42 mil cartuchos en 2025 según datos del Inegi.",
@@ -85,6 +99,13 @@
     ],
     "economia": [
       {
+        "title": "Volcadura de pipa con ácido sulfúrico cierra carretera en Caborca",
+        "summary": "Accidente vial provoca cierre de paso en zona de tránsito importante.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/vuelca-pipa-y-derrama-acido-sulfurico-en-carretera-de-caborca/262408",
+        "_added_at": "2026-08-14T11:37:19.756106-07:00"
+      },
+      {
         "title": "Sonora atrae inversiones por 32.5 mil millones",
         "summary": "Cartera de 83 proyectos puede generar 65 mil empleos en la entidad.",
         "source": "Expreso",
@@ -121,6 +142,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Entrega de uniformes escolares gratuitos en Cajeme inicia",
+        "summary": "Calendario por apellido para distribución de uniformes del 17 al 22 de agosto.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/14/uniformes-escolares-gratuitos-en-cajeme-calendario-de-entrega-por-apellido-del-17-al-22-de-agosto/",
+        "_added_at": "2026-08-14T11:37:19.756106-07:00"
+      },
+      {
+        "title": "Centro de Neurodesarrollo en construcción en Hermosillo",
+        "summary": "Nuevo centro buscará mejorar hasta 50% la eficiencia de servicios de atención.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/arranca-construccion-de-nuevo-centro-de-neurodesarrollo-en-hermosillo-busca-mejorar-hasta-50-la-eficiencia-de-servicios/",
+        "_added_at": "2026-08-14T11:37:19.756106-07:00"
+      },
       {
         "title": "Conanp capacita sector turístico Álamos",
         "summary": "Ofrecen capacitación gratuita sobre áreas naturales protegidas en municipio.",
@@ -179,5 +214,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-14T08:39:25.520511-07:00"
+  "last_updated": "2026-08-14T11:37:19.756106-07:00"
 }
