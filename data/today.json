@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -57,6 +57,13 @@
     ],
     "economia": [
       {
+        "title": "Hermosillo capacitará 500 jóvenes en ciencia e innovación",
+        "summary": "Municipio abre convocatoria para formación en tecnología y desarrollo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/hermosillo-abre-convocatoria-para-capacitar-a-500-jovenes-en-ciencia-innovacion-y-tecnologia/",
+        "_added_at": "2026-08-14T02:49:05.849614-07:00"
+      },
+      {
         "title": "Plan México abre oportunidades para empresas sonorenses",
         "summary": "Puerto de Guaymas y ubicación estratégica posicionan estado para comercio internacional.",
         "source": "Expreso",
@@ -72,6 +79,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Gobernador Durazo lleva Sonora Atiende a Ures",
+        "summary": "Programa ofrece servicios gratuitos a familias de la región.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/programa-sonora-atiende-llega-a-ures-con-servicios-gratuitos/262393",
+        "_added_at": "2026-08-14T02:49:05.849614-07:00"
+      },
       {
         "title": "Hermosillo tendrá dos nuevas estaciones de Bomberos",
         "summary": "Ampliación de infraestructura para reducir tiempos de respuesta en emergencias.",
@@ -102,5 +116,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-14T00:03:36.398806-07:00"
+  "last_updated": "2026-08-14T02:49:05.849614-07:00"
 }
