@@ -1,281 +1,106 @@
 {
-  "date": "2026-08-13",
-  "run_count": 8,
+  "date": "2026-08-14",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Derrame de ácido sulfúrico en carretera de Caborca",
-        "summary": "Volcadura de pipa provoca cierre carretero por derrames de químico peligroso.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/accidente-provoca-derrame-de-2-mil-litros-de-acido-sulfurico-en-carretera-de-caborca/",
-        "_added_at": "2026-08-13T21:40:37.318120-07:00"
-      },
-      {
-        "title": "Decomisan 2.6 toneladas de metanfetamina en carretera sonorense",
-        "summary": "Transportista detenido en ruta Puerto Peñasco-Sonoyta tras hallazgo de droga oculta en alimento para ganado.",
+        "title": "Transportista vinculado por llevar 2.6 toneladas de metanfetamina",
+        "summary": "Detienen a conductor que transportaba droga oculta en alimento para ganado en carretera Puerto Peñasco-Sonoyta.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/13/vinculan-a-proceso-a-david-n-transportista-que-llevaba-mas-de-2600-kilos-de-metanfetamina-ocultos-en-alimento-para-ganado-en-la-carretera-puerto-penasco-sonoyta/",
-        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       },
       {
-        "title": "Incautan 18 kilos de cocaína en garita de Nogales",
-        "summary": "Agentes detectaron paquetes de cocaína en sistema de ventilación de horno; una persona fue detenida.",
+        "title": "Decomisan 18 kilos de cocaína en garita de Nogales",
+        "summary": "Autoridades encuentran droga oculta en horno durante inspección en punto fronterizo.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/08/13/incautan-18-kilos-de-cocaina-en-garita-de-nogales/",
-        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       },
       {
         "title": "Persecución en Nogales termina con tres detenidos",
-        "summary": "Tres sujetos capturados tras persecución en vehículo BMW con reporte de robo en Tucson.",
+        "summary": "Capturan a tres individuos en BMW con reporte de robo proveniente de Tucson.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/08/13/persecucion-en-nogales-termina-con-tres-detenidos-en-un-bmw-con-reporte-de-robo-en-tucson/",
-        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       },
       {
-        "title": "Condenan a pareja a 45 años por homicidio en Caborca",
-        "summary": "Sentencia por muerte de recién nacida; imponen multas superiores a 325 mil pesos a cada responsable.",
+        "title": "Pipa de ácido sulfúrico se vuelca en carretera de Caborca",
+        "summary": "Accidente provoca derrame de dos mil litros en vía principal, cierre temporal de carretera.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/condenan-a-pareja-por-homicidio-de-bebe-en-caborca/262372",
-        "_added_at": "2026-08-13T17:52:44.923539-07:00"
-      },
-      {
-        "title": "Dos condenados a 45 años por muerte de recién nacida en Caborca",
-        "summary": "Sentencia a pareja por homicidio de bebé en Caborca. Pena de 45 años de prisión para ambos responsables del crimen.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/sentencian-a-45-anos-de-prision-a-dos-personas-tras-quitarle-la-vida-a-recien-nacida-en-caborca/",
-        "_added_at": "2026-08-13T14:32:47.637248-07:00"
-      },
-      {
-        "title": "Chofer de app muere tras disparo por discusión vial en Hermosillo",
-        "summary": "Trabajador de plataforma de transporte asesinado a balazos tras conflicto vehicular. Investigaciones en curso por el crimen.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/discusion-vial-deja-un-chofer-de-aplicacion-sin-vida-fue-atacado-a-balazos/",
-        "_added_at": "2026-08-13T14:32:47.637248-07:00"
-      },
-      {
-        "title": "Reforzarán estrategias contra violencia familiar en Hermosillo",
-        "summary": "Autoridades anuncian intensificación de programas tras casos fatales. Toño Astiazarán destaca nuevas medidas preventivas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/se-reforzaran-estrategias-contra-la-violencia-familiar-tras-casos-fatales-en-hermosillo-tono-astiazaran/",
-        "_added_at": "2026-08-13T14:32:47.637248-07:00"
-      },
-      {
-        "title": "Persona lesionada en ataque armado en Hermosillo",
-        "summary": "Atacantes en camioneta negra hirieron a una persona en Real del Cobre. Autoridades investigan el incidente.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/policiaca/2026/08/13/ataque-armado-en-hermosillo-deja-una-persona-lesionada-en-la-colonia-real-del-cobre-agresores-huyeron-en-camioneta-negra/",
-        "_added_at": "2026-08-13T11:43:46.404265-07:00"
-      },
-      {
-        "title": "Tres muertos en choque frontal en Hermosillo",
-        "summary": "Colisión de frente en Carretera 12 Sur causó tres fallecimientos. FGJES investiga las causas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/fgjes-investiga-choque-frontal-en-hermosillo-murieron-tres-personas/",
-        "_added_at": "2026-08-13T11:43:46.404265-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/vuelca-pipa-y-derrama-acido-sulfurico-en-carretera-de-caborca/262408",
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Lamarque completa capacitación para Comités de Defensa",
-        "summary": "Dirigente de Morena acredita curso de 30 horas en formación política partidista.",
+        "title": "Lamarque completa capacitación política de Morena",
+        "summary": "Diputado acredita curso de 30 horas requisito para coordinar Comités de Defensa.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-recibe-constancia-de-curso-mandar-obedeciedo/262404",
-        "_added_at": "2026-08-13T21:40:37.318120-07:00"
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       },
       {
-        "title": "Plan México abre oportunidades económicas para Sonora",
-        "summary": "Gobernadora destaca ubicación estratégica del estado y puerto de Guaymas.",
+        "title": "Durazo lleva servicios de Sonora Atiende a Ures",
+        "summary": "Gobernador acerca programas de atención gratuita a familias de región.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-es-prioridad-para-el-plan-mexico-lorenia-valles/262407",
-        "_added_at": "2026-08-13T21:40:37.318120-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/programa-sonora-atiende-lleva-a-ures-con-servicios-gratuitos/262393",
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       },
       {
-        "title": "Programa Sonora Atiende llega a municipios con servicios gratuitos",
-        "summary": "Gobernador Durazo expande iniciativa de atención a familias en Ures.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/programa-sonora-atiende-llega-a-ures-con-servicios-gratuitos/262393",
-        "_added_at": "2026-08-13T21:40:37.318120-07:00"
-      },
-      {
-        "title": "Ricardo Monreal considera reelegirse como diputado en 2027",
-        "summary": "Político abre puerta a reelección para próximas elecciones legislativas estatales.",
+        "title": "Diputado propone esterilizar a mujeres en situación de calle",
+        "summary": "Propuesta genera rechazo de defensores de derechos humanos por considerarla inaceptable.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/ricardo-monreal-abre-la-puerta-a-reelegirse-como-diputado-en-2027/",
-        "_added_at": "2026-08-13T17:52:44.923539-07:00"
-      },
-      {
-        "title": "Javier Lamarque afirma ser coordinador de Morena",
-        "summary": "Aspirante recorre municipios sonorenses promoviendo unidad interna del movimiento.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sere-el-coordinador-afirma-lamarque/262370",
-        "_added_at": "2026-08-13T17:52:44.923539-07:00"
-      },
-      {
-        "title": "Lilo Durazo representa Sonora en BUCAFEST 2026 Tijuana",
-        "summary": "Gobernadora participa en festival gastronómico y cultural. Promoción de Sonora en evento internacional.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/lilo-durazo-representara-a-sonora-en-el-bucafest-2026/",
-        "_added_at": "2026-08-13T14:32:47.637248-07:00"
-      },
-      {
-        "title": "Sonora sin confirmación sobre nuevos penales",
-        "summary": "Estado enfrenta incremento de población carcelaria sin confirmación oficial sobre construcción de nuevas instalaciones penitenciarias.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/sonora-sin-confirmacion-sobre-nuevos-penales-ante-aumento-de-poblacion-carcelaria-en-mexico/",
-        "_added_at": "2026-08-13T05:39:03.768030-07:00"
-      },
-      {
-        "title": "Durazo y Sheinbaum anuncian remediación del Río Sonora",
-        "summary": "Gobierno federal anuncia proyecto de 654 millones para remediar contaminación del Río Sonora tras 12 años de espera.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/rio-sonora-tendra-remediacion-ambiental-tras-12-anos-de-espera/262334",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
-      },
-      {
-        "title": "Encuesta legitimará coordinación de Comités: Valles",
-        "summary": "Senadora con licencia Lorenia Valles confía en consulta abierta para definir liderazgo estatal de Morena.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-confia-en-encuesta-para-definir-coordinacion/262332",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
-      },
-      {
-        "title": "Lamarque se reúne con Federación de Trabajadores",
-        "summary": "Candidato Javier Lamarque dialoga con trabajadores estatales, promete trabajo digno y próxima encuesta electoral.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-se-reune-con-federacion-de-trabajadores-del-estado/262322",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/13/diputado-propone-esterilizar-a-mujeres-en-situacion-de-calle-defensores-de-derechos-humanos-lo-califican-de-inaceptable/",
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Hermosillo tendrá dos nuevas estaciones de Bomberos en 2027",
-        "summary": "Inversión para reducir tiempos de respuesta en la capital sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/hermosillo-tendra-dos-nuevas-estaciones-de-bomberos-en-2027-para-reducir-tiempos-de-respuesta/",
-        "_added_at": "2026-08-13T21:40:37.318120-07:00"
+        "title": "Plan México abre oportunidades para empresas sonorenses",
+        "summary": "Puerto de Guaymas y ubicación estratégica posicionan estado para comercio internacional.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-es-prioridad-para-el-plan-mexico-lorenia-valles/262407",
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       },
       {
-        "title": "CRT anuncia fecha límite para registrar líneas con terminación 0",
-        "summary": "Registro obligatorio de teléfonos para evitar suspensión de servicios.",
+        "title": "CRT anuncia plazo para registrar líneas con terminación cero",
+        "summary": "Registro obligatorio de números telefónicos para evitar suspensión de servicio.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/terminacion-0-fecha-limite-para-registrar-linea-telefonica/262401",
-        "_added_at": "2026-08-13T21:40:37.318120-07:00"
-      },
-      {
-        "title": "Expo Industrial Canacintra reúne 200 empresas en Hermosillo",
-        "summary": "Exposición generará dos mil citas de negocios. Evento importante para sector empresarial sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/expo-industrial-canacintra-2026-reunira-en-hermosillo-a-mas-de-200-empresas-y-tendra-dos-mil-citas-de-negocios/",
-        "_added_at": "2026-08-13T14:32:47.637248-07:00"
-      },
-      {
-        "title": "China evadiría aranceles triangulando exportaciones por México",
-        "summary": "Casa Blanca acusa a China de usar TMEC para reducir aranceles. Investigaciones sobre estrategia comercial irregular.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/08/13/estados-unidos-acusa-a-china-de-triangular-exportaciones-via-mexico-para-reducir-aranceles-en-estados-unidos-y-apunta-al-t-mec/",
-        "_added_at": "2026-08-13T14:32:47.637248-07:00"
-      },
-      {
-        "title": "Durazo anuncia remediación del Río Sonora con 654 mdp",
-        "summary": "Tras 12 años de espera, inicia proyecto de remediación ambiental de la Cuenca del Río Sonora en septiembre.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/rio-sonora-tendra-remediacion-ambiental-tras-12-anos-de-espera/262334",
-        "_added_at": "2026-08-13T02:52:14.348057-07:00"
-      },
-      {
-        "title": "Seguridad y tecnología impulsan minería sonorense",
-        "summary": "Sector minero estatal prioriza innovación tecnológica y medidas de seguridad para su desarrollo futuro.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/seguridad-y-tecnologia-marcan-rumbo-de-la-mineria-sonorense/262321",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
-      },
-      {
-        "title": "Conagua reporta nivel histórico en presas",
-        "summary": "Presas sonorenses alcanzan niveles no vistos en seis años, reduciendo riesgo de sequía moderada.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/12/presas-de-sonora-alcanzan-niveles-no-vistos-en-seis-anos-se-reduce-riesgo-de-sequia-moderada-informo-conagua/",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
-      },
-      {
-        "title": "Alerta sobre riesgos en banca móvil",
-        "summary": "Expertos advierten sobre peligros de ingeniería social y phishing en cuentas bancarias móviles.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/ingenieria-social-y-phishing-los-peligros-que-acechan-tus-cuentas-bancarias-moviles/",
-        "_added_at": "2026-08-13T00:07:16.127783-07:00"
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Niños de La Colorada viven jornada minera en Hermosillo",
-        "summary": "Actividad educativa combina minerales, ciencia y solidaridad en la capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/entre-minerales-ciencia-y-solidaridad-ninos-de-la-colorada-viven-jornada-minera-en-hermosillo/",
-        "_added_at": "2026-08-13T21:40:37.318120-07:00"
-      },
-      {
-        "title": "Hermosillo tendrá dos nuevas estaciones de bomberos",
-        "summary": "Nuevas instalaciones inaugurarán en 2027 para reducir tiempos de respuesta.",
+        "title": "Hermosillo tendrá dos nuevas estaciones de Bomberos",
+        "summary": "Ampliación de infraestructura para reducir tiempos de respuesta en emergencias.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/hermosillo-tendra-dos-nuevas-estaciones-de-bomberos-en-2027-para-reducir-tiempos-de-respuesta/",
-        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       },
       {
-        "title": "Refuerzan estrategias contra violencia familiar en Hermosillo",
-        "summary": "Autoridades anuncian nuevas medidas tras casos fatales de violencia doméstica.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/se-reforzaran-estrategias-contra-la-violencia-familiar-tras-casos-fatales-en-hermosillo-tono-astiazaran/",
-        "_added_at": "2026-08-13T17:52:44.923539-07:00"
-      },
-      {
-        "title": "Hermosillo abre convocatoria para 500 jóvenes en tecnología",
-        "summary": "Capacitación en ciencia, innovación y tecnología para población juvenil.",
+        "title": "Hermosillo abre convocatoria para capacitar 500 jóvenes",
+        "summary": "Programa de ciencia, innovación y tecnología dirigido a población juvenil local.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/13/hermosillo-abre-convocatoria-para-capacitar-a-500-jovenes-en-ciencia-innovacion-y-tecnologia/",
-        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       },
       {
-        "title": "Descubren acequia antigua en escuela de Guaymas",
-        "summary": "Hallazgo de canal subterráneo durante excavaciones en institución educativa centenaria.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/hallan-antigua-acequia-subterranea-en-escuela-de-guaymas/262369",
-        "_added_at": "2026-08-13T17:52:44.923539-07:00"
-      },
-      {
-        "title": "Videos exhiben plagas en urgencias del hospital ISSSTE Hermosillo",
-        "summary": "Cucarachas detectadas en área de preparación de medicamentos. Trabajadores denuncian falta de atención a solicitudes fumigación.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/videos-exhiben-cucarachas-y-otras-plagas-en-urgencias-y-areas-de-preparacion-de-medicamentos-del-hospital-del-issste-de-hermosillo-mientras-trabajadores-denuncian-que-autoridades-no-han-atendido-sus-solicitudes-de-fumigacion/",
-        "_added_at": "2026-08-13T14:32:47.637248-07:00"
-      },
-      {
-        "title": "Hermosillo enfrentará calor extremo de 45°C este fin de semana",
-        "summary": "Alerta de temperaturas record para capital sonorense. Condiciones meteorológicas peligrosas por ola de calor.",
+        "title": "Jóvenes hermosillenses crean La Sala HMO",
+        "summary": "Nuevo espacio impulsa y promociona a músicos y artistas locales.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/hermosillo-enfrentara-calor-extremo-de-hasta-45-c-este-fin-de-semana-meteoalert/",
-        "_added_at": "2026-08-13T14:32:47.637248-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/13/jovenes-hermosillenses-crean-la-sala-hmo-un-espacio-que-impulsa-a-musicos-locales/",
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       },
       {
-        "title": "Bomberos de Hermosillo celebran 80 años con inversión de 70 mdp",
-        "summary": "Departamento conmemora octava década de servicio. Astiazarán destaca fortalecimiento con inversión estatal significativa.",
+        "title": "El Marcos cierra después de casi cuatro décadas",
+        "summary": "Emblemático establecimiento hermosillense cesa operaciones tras larga trayectoria.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/bomberos-de-hermosillo-cumplen-80-anos-de-servicio-tono-astiazaran-destaca-inversion-de-70-mdp-para-fortalecer-el-departamento/",
-        "_added_at": "2026-08-13T14:32:47.637248-07:00"
-      },
-      {
-        "title": "Alerta por tormenta tropical Hernán en Sonora",
-        "summary": "Protección Civil vigila fenómeno mientras monzón genera lluvias y calor hasta 41 grados.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/sonora-vigila-a-la-tormenta-tropical-hernan-en-el-pacifico-mientras-el-monzon-dejara-lluvias-y-calor-de-hasta-41c-en-las-proximas-horas/",
-        "_added_at": "2026-08-13T11:43:46.404265-07:00"
-      },
-      {
-        "title": "Hermosillo recibe equipo deportivo para jóvenes",
-        "summary": "Inversión de 12 millones impulsa actividades recreativas en colonias de la capital sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/colonias-de-hermosillo-reciben-equipo-deportivo-con-inversion-de-12-millones-de-pesos-para-impulsar-actividades-de-ninos-y-jovenes/",
-        "_added_at": "2026-08-13T11:43:46.404265-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/13/el-marcos-cierra-sus-puertas-en-hermosillo-tras-casi-cuatro-decadas-de-historia/",
+        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-13T21:40:37.318120-07:00"
+  "last_updated": "2026-08-14T00:03:36.398806-07:00"
 }
