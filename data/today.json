@@ -1,8 +1,36 @@
 {
   "date": "2026-08-13",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Decomisan 2.6 toneladas de metanfetamina en carretera sonorense",
+        "summary": "Transportista detenido en ruta Puerto Peñasco-Sonoyta tras hallazgo de droga oculta en alimento para ganado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/vinculan-a-proceso-a-david-n-transportista-que-llevaba-mas-de-2600-kilos-de-metanfetamina-ocultos-en-alimento-para-ganado-en-la-carretera-puerto-penasco-sonoyta/",
+        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+      },
+      {
+        "title": "Incautan 18 kilos de cocaína en garita de Nogales",
+        "summary": "Agentes detectaron paquetes de cocaína en sistema de ventilación de horno; una persona fue detenida.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/13/incautan-18-kilos-de-cocaina-en-garita-de-nogales/",
+        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+      },
+      {
+        "title": "Persecución en Nogales termina con tres detenidos",
+        "summary": "Tres sujetos capturados tras persecución en vehículo BMW con reporte de robo en Tucson.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/13/persecucion-en-nogales-termina-con-tres-detenidos-en-un-bmw-con-reporte-de-robo-en-tucson/",
+        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+      },
+      {
+        "title": "Condenan a pareja a 45 años por homicidio en Caborca",
+        "summary": "Sentencia por muerte de recién nacida; imponen multas superiores a 325 mil pesos a cada responsable.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/condenan-a-pareja-por-homicidio-de-bebe-en-caborca/262372",
+        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+      },
       {
         "title": "Dos condenados a 45 años por muerte de recién nacida en Caborca",
         "summary": "Sentencia a pareja por homicidio de bebé en Caborca. Pena de 45 años de prisión para ambos responsables del crimen.",
@@ -44,37 +72,23 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/videos-exhiben-cucarachas-y-otras-plagas-en-urgencias-y-areas-de-preparacion-de-medicamentos-del-hospital-del-issste-de-hermosillo-mientras-trabajadores-denuncian-que-autoridades-no-han-atendido-sus-solicitudes-de-fumigacion/",
         "_added_at": "2026-08-13T11:43:46.404265-07:00"
-      },
-      {
-        "title": "Hombre pierde pierna tras ser arrollado por tren en Empalme",
-        "summary": "Accidente ferroviario en Empalme resultó en amputación de extremidad inferior del afectado.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/hombre-es-arrollado-por-tren-en-empalme-y-sufre-amputacion/262349",
-        "_added_at": "2026-08-13T08:46:02.691750-07:00"
-      },
-      {
-        "title": "Agresión armada deja hombre herido en norte de Hermosillo",
-        "summary": "Persona resultó lesionada tras ataque a balazos en zona norte capitalina.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/hombre-resulta-herido-tras-agresion-armada-al-norte-de-hermosillo/",
-        "_added_at": "2026-08-13T08:46:02.691750-07:00"
-      },
-      {
-        "title": "Detienen hombre por agredir a pareja en Hermosillo",
-        "summary": "Captura por violencia doméstica: sujeto agredió verbalmente y físicamente a su compañera.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/detienen-a-hombre-tras-insultar-empujar-y-golpear-en-el-rostro-a-su-pareja-en-hermosillo/",
-        "_added_at": "2026-08-13T08:46:02.691750-07:00"
-      },
-      {
-        "title": "Protección Civil estrena brigada de respuesta rápida",
-        "summary": "Sonora activa nueva brigada de Protección Civil para atender emergencias de forma inmediata.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/12/proteccion-civil-de-sonora-estrena-brigada-para-responder-de-inmediato-ante-emergencias/",
-        "_added_at": "2026-08-13T02:52:14.348057-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Ricardo Monreal considera reelegirse como diputado en 2027",
+        "summary": "Político abre puerta a reelección para próximas elecciones legislativas estatales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/ricardo-monreal-abre-la-puerta-a-reelegirse-como-diputado-en-2027/",
+        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+      },
+      {
+        "title": "Javier Lamarque afirma ser coordinador de Morena",
+        "summary": "Aspirante recorre municipios sonorenses promoviendo unidad interna del movimiento.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sere-el-coordinador-afirma-lamarque/262370",
+        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+      },
       {
         "title": "Lilo Durazo representa Sonora en BUCAFEST 2026 Tijuana",
         "summary": "Gobernadora participa en festival gastronómico y cultural. Promoción de Sonora en evento internacional.",
@@ -157,6 +171,34 @@
     ],
     "sociedad": [
       {
+        "title": "Hermosillo tendrá dos nuevas estaciones de bomberos",
+        "summary": "Nuevas instalaciones inaugurarán en 2027 para reducir tiempos de respuesta.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/hermosillo-tendra-dos-nuevas-estaciones-de-bomberos-en-2027-para-reducir-tiempos-de-respuesta/",
+        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+      },
+      {
+        "title": "Refuerzan estrategias contra violencia familiar en Hermosillo",
+        "summary": "Autoridades anuncian nuevas medidas tras casos fatales de violencia doméstica.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/se-reforzaran-estrategias-contra-la-violencia-familiar-tras-casos-fatales-en-hermosillo-tono-astiazaran/",
+        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+      },
+      {
+        "title": "Hermosillo abre convocatoria para 500 jóvenes en tecnología",
+        "summary": "Capacitación en ciencia, innovación y tecnología para población juvenil.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/13/hermosillo-abre-convocatoria-para-capacitar-a-500-jovenes-en-ciencia-innovacion-y-tecnologia/",
+        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+      },
+      {
+        "title": "Descubren acequia antigua en escuela de Guaymas",
+        "summary": "Hallazgo de canal subterráneo durante excavaciones en institución educativa centenaria.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/hallan-antigua-acequia-subterranea-en-escuela-de-guaymas/262369",
+        "_added_at": "2026-08-13T17:52:44.923539-07:00"
+      },
+      {
         "title": "Videos exhiben plagas en urgencias del hospital ISSSTE Hermosillo",
         "summary": "Cucarachas detectadas en área de preparación de medicamentos. Trabajadores denuncian falta de atención a solicitudes fumigación.",
         "source": "El Imparcial",
@@ -197,36 +239,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/13/semarnat-confirma-contaminacion-por-arsenico-plomo-y-otros-metales-toxicos-en-el-rio-sonora-a-12-anos-del-derrame/",
         "_added_at": "2026-08-13T08:46:02.691750-07:00"
-      },
-      {
-        "title": "Bazar Escolar en Hermosillo ofrece descuentos hasta 60%",
-        "summary": "Promoción de útiles escolares con reducciones significativas en hermosillo antes del ciclo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/07/17/bazar-escolar-2026-en-hermosillo-ofrecera-descuentos-de-hasta-60-en-utiles-estas-son-las-fechas-sedes-y-horarios/",
-        "_added_at": "2026-08-13T08:46:02.691750-07:00"
-      },
-      {
-        "title": "Regalarán árboles nativos este sábado en Hermosillo",
-        "summary": "Vivero Municipal aprovecha lluvias para distribuir gratuitamente árboles nativos en jornada de forestación urbana.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/vivero-municipal-aprovechara-las-lluvias-para-regalar-arboles-nativos-en-hermosillo/",
-        "_added_at": "2026-08-13T05:39:03.768030-07:00"
-      },
-      {
-        "title": "Fuga de aguas negras afecta norponiente de Hermosillo",
-        "summary": "Vecinos denuncian problema de drenaje que contamina calles del sector desde hace más de dos semanas sin solución.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/denuncian-vecinos-fuga-de-aguas-negras-que-afecta-calles-del-norponiente-de-hermosillo-tiene-mas-de-dos-semanas/",
-        "_added_at": "2026-08-13T05:39:03.768030-07:00"
-      },
-      {
-        "title": "Alertan sobre fraudes en banca móvil en Sonora",
-        "summary": "Autoridades advierten sobre peligros de ingeniería social y phishing en aplicaciones bancarias.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/ingenieria-social-y-phishing-los-peligros-que-acechan-tus-cuentas-bancarias-moviles/",
-        "_added_at": "2026-08-13T02:52:14.348057-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-13T14:32:47.637248-07:00"
+  "last_updated": "2026-08-13T17:52:44.923539-07:00"
 }
