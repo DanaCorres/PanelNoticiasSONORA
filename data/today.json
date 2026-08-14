@@ -1,8 +1,22 @@
 {
   "date": "2026-08-14",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sonora entre top 10 estados por armas aseguradas",
+        "summary": "Estado concentró 564 armas, 141 granadas y 42 mil cartuchos en 2025 según datos del Inegi.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/sonora-entra-al-top-10-nacional-por-armas-aseguradas-decomisos-aumentaron-724-en-mexico/",
+        "_added_at": "2026-08-14T08:39:25.520511-07:00"
+      },
+      {
+        "title": "Seis accidentes dejan tres muertos en Hermosillo",
+        "summary": "En 48 horas registraron tres fallecidos y seis lesionados por falta de educación vial.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/seis-accidentes-en-48-horas-dejan-tres-muertos-y-seis-lesionados-en-hermosillo-especialista-alerta-por-falta-de-educacion-vial/",
+        "_added_at": "2026-08-14T08:39:25.520511-07:00"
+      },
       {
         "title": "Transportista vinculado por llevar 2.6 toneladas de metanfetamina",
         "summary": "Detienen a conductor que transportaba droga oculta en alimento para ganado en carretera Puerto Peñasco-Sonoyta.",
@@ -34,6 +48,13 @@
     ],
     "politica": [
       {
+        "title": "Cancelación visas politizada acusa coordinador seguridad",
+        "summary": "Gobierno mexicano señala injerencia de Estados Unidos en retiro de visas diplomáticas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/14/sheinbaum-acusa-injerencia-politica-de-eeuu-tras-cancelacion-de-visa-a-andres-manuel-lopez-beltran-y-pide-pruebas/",
+        "_added_at": "2026-08-14T08:39:25.520511-07:00"
+      },
+      {
         "title": "Durazo lleva servicios Sonora Atiende a Ures",
         "summary": "Gobernador acerca soluciones y atención a familias de Ures y región.",
         "source": "Expreso",
@@ -64,6 +85,20 @@
     ],
     "economia": [
       {
+        "title": "Sonora atrae inversiones por 32.5 mil millones",
+        "summary": "Cartera de 83 proyectos puede generar 65 mil empleos en la entidad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-atrae-inversiones-por-32-mil-500-millones-de-dolares/262426",
+        "_added_at": "2026-08-14T08:39:25.520511-07:00"
+      },
+      {
+        "title": "Dólar sube frente al peso mexicano",
+        "summary": "Tipo de cambio avanza mientras moneda nacional se debilita en mercados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/08/14/precio-del-dolar-avanza-mientras-el-peso-mexicano-tambalea-asi-cotiza-el-tipo-de-cambio-este-viernes-14-de-agosto/",
+        "_added_at": "2026-08-14T08:39:25.520511-07:00"
+      },
+      {
         "title": "Hermosillo capacitará 500 jóvenes en ciencia e innovación",
         "summary": "Municipio abre convocatoria para formación en tecnología y desarrollo.",
         "source": "Proyecto Puente",
@@ -86,6 +121,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Conanp capacita sector turístico Álamos",
+        "summary": "Ofrecen capacitación gratuita sobre áreas naturales protegidas en municipio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/conanp-ofrecera-capacitacion-gratuita-al-sector-turistico-de-alamos-sobre-areas-naturales-protegidas/",
+        "_added_at": "2026-08-14T08:39:25.520511-07:00"
+      },
+      {
+        "title": "Monzón mexicano trae lluvias y calor extremo",
+        "summary": "Fenómeno climático generará precipitaciones y temperaturas hasta 45 grados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/14/monzon-mexicano-traera-lluvias-muy-fuertes-este-viernes-14-de-agosto-el-calor-alcanzara-45-c-en-varios-estados/",
+        "_added_at": "2026-08-14T08:39:25.520511-07:00"
+      },
       {
         "title": "Seis accidentes dejan tres muertos en Hermosillo",
         "summary": "Crisis vial en 48 horas alerta sobre falta educación vial en capital.",
@@ -130,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-14T05:34:36.495513-07:00"
+  "last_updated": "2026-08-14T08:39:25.520511-07:00"
 }
