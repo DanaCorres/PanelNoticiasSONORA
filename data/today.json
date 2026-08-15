@@ -1,8 +1,15 @@
 {
   "date": "2026-08-15",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Profepa investiga derrame de ácido sulfúrico en Caborca",
+        "summary": "Autoridad ambiental abre procedimiento tras derrame de aproximadamente 2 mil litros en carretera Caborca-Y Griega.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/profepa-investiga-derrame-de-acido-sulfurico-en-caborca/262485",
+        "_added_at": "2026-08-15T05:12:44.857268-07:00"
+      },
       {
         "title": "Detienen a cuatro personas con droga en Hermosillo",
         "summary": "Operativo al norte de Hermosillo resultó en captura de cuatro individuos con sustancias ilícitas tras cateo domiciliario.",
@@ -26,6 +33,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Gobernadores de la 4T rechazan injerencia extranjera en visa de López Beltrán",
+        "summary": "Autoridades estatales se solidarizan tras cancelación de visa estadounidense al hijo de AMLO.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/cierran-filas-durazo-y-gobernadores-de-la-4t-tras-revocacion-de-visa-del-hijo-de-amlo-rechazan-injerencia-extranjera/",
+        "_added_at": "2026-08-15T05:12:44.857268-07:00"
+      },
+      {
+        "title": "Lamarque destaca necesidades tras recorrer 72 municipios de Sonora",
+        "summary": "Candidato subraya prioridades en agua, caminos, transporte y actividades productivas estatales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/recorrer-sonora-permite-conocer-sus-necesidades-lamarque/262463",
+        "_added_at": "2026-08-15T05:12:44.857268-07:00"
+      },
       {
         "title": "Lamarque recorre municipios sonorenses escuchando necesidades",
         "summary": "Candidato destaca importancia de recorrer los 72 municipios para conocer demandas de agua, caminos y servicios.",
@@ -59,6 +80,20 @@
     ],
     "sociedad": [
       {
+        "title": "Víctima de araña violinista busca apoyo para tratamientos médicos urgentes",
+        "summary": "José Manuel requiere ayuda financiera para costear atención médica en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/jose-manuel-victima-de-arana-violinista-busca-ayuda-para-costear-tratamientos-medicos-urgentes/",
+        "_added_at": "2026-08-15T05:12:44.857268-07:00"
+      },
+      {
+        "title": "Cruz Roja auxilia familia deportada en condiciones de extrema vulnerabilidad",
+        "summary": "Organización humanitaria atiende a familia deportada que vivía en precariedad en Pitiquito.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/cruz-roja-auxilia-a-familia-deportada-que-vivia-en-extrema-vulnerabilidad-en-pitiquito/",
+        "_added_at": "2026-08-15T05:12:44.857268-07:00"
+      },
+      {
         "title": "Rutalikazo 2026 congrega cientos de participantes en Sonora",
         "summary": "Evento de ciclismo recorre paisajes de Sonora y Chihuahua con vigilancia de cuerpos de emergencia.",
         "source": "El Imparcial",
@@ -88,5 +123,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-15T02:13:46.613318-07:00"
+  "last_updated": "2026-08-15T05:12:44.857268-07:00"
 }
