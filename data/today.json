@@ -1,8 +1,15 @@
 {
   "date": "2026-08-15",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Calor extremo causa 22 muertes en Sonora este año",
+        "summary": "Sonora concentra 58% de decesos por temperaturas altas en México. Además, 350 personas atendidas por afectaciones; SMN pronostica máximas de 45°C.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/15/sonora-y-baja-california-concentran-el-58-de-las-muertes-por-calor-en-mexico-22-ocurrieron-en-territorio-sonorense/",
+        "_added_at": "2026-08-15T08:08:42.824457-07:00"
+      },
       {
         "title": "Profepa investiga derrame de ácido sulfúrico en Caborca",
         "summary": "Autoridad ambiental abre procedimiento tras derrame de aproximadamente 2 mil litros en carretera Caborca-Y Griega.",
@@ -64,6 +71,27 @@
     ],
     "economia": [
       {
+        "title": "Manufactura avanzada crece 2.1% anual en Sonora",
+        "summary": "Sector industrial genera más empleos y oportunidades para familias sonorenses.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/15/crecimiento-industrial-abre-mas-empleos-y-oportunidades-para-las-familias-de-sonora-durazo/",
+        "_added_at": "2026-08-15T08:08:42.824457-07:00"
+      },
+      {
+        "title": "Actividad industrial sonorense crece 2.4% en abril 2026",
+        "summary": "Imaief del Inegi reporta expansión anual en sector industrial de Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/crece-24-actividad-industrial-de-sonora/262484",
+        "_added_at": "2026-08-15T08:08:42.824457-07:00"
+      },
+      {
+        "title": "Útiles y electricidad consumen 30% del sueldo sonorense",
+        "summary": "Regreso a clases y recibos de luz impactan gravemente presupuestos familiares durante verano.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/regreso-a-clases-y-recibo-de-luz-consumen-hasta-30-del-sueldo-de-familias-sonorenses-durante-el-verano/",
+        "_added_at": "2026-08-15T08:08:42.824457-07:00"
+      },
+      {
         "title": "Unison establece nuevas reglas para vendedores en campus",
         "summary": "Universidad de Sonora limita comercio con 64 espacios para emprendedores y nuevos requisitos regulatorios.",
         "source": "Expreso",
@@ -79,6 +107,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Regalarán árboles nativos este sábado en Hermosillo",
+        "summary": "Distribución de flora nativa para iniciativas de reforestación en capital sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/regalaran-arboles-nativos-este-sabado-en-hermosillo/",
+        "_added_at": "2026-08-15T08:08:42.824457-07:00"
+      },
+      {
+        "title": "Valles destaca nuevo hospital en Ures y regeneración del río",
+        "summary": "Infraestructura sanitaria y remediación ambiental del Río Sonora atienden demandas regionales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-acciones-para-remediar-el-rio-sonora/262464",
+        "_added_at": "2026-08-15T08:08:42.824457-07:00"
+      },
       {
         "title": "Víctima de araña violinista busca apoyo para tratamientos médicos urgentes",
         "summary": "José Manuel requiere ayuda financiera para costear atención médica en Hermosillo.",
@@ -123,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-15T05:12:44.857268-07:00"
+  "last_updated": "2026-08-15T08:08:42.824457-07:00"
 }
