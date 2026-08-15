@@ -1,8 +1,29 @@
 {
   "date": "2026-08-14",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Agresión armada mata a joven y bebé en Sonora",
+        "summary": "Tiroteo fatal deja dos víctimas: una mujer de 18 años y su bebé en estado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/agresion-armada-deja-sin-vida-a-una-joven-de-18-anos-y-su-bebe/",
+        "_added_at": "2026-08-14T17:29:40.193983-07:00"
+      },
+      {
+        "title": "Detienen hombre por golpear a su esposa en Hermosillo",
+        "summary": "Arrestado por violencia doméstica contra su pareja en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/detienen-a-hombre-por-golpear-a-su-esposa-en-hermosillo/",
+        "_added_at": "2026-08-14T17:29:40.193983-07:00"
+      },
+      {
+        "title": "Familias de víctimas de sueros exigen resultados en investigación",
+        "summary": "Afectados por sueros vitaminados en Hermosillo demandan avances en caso.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/exigen-familiares-de-victimas-de-sueros-vitaminados-en-hermosillo-resultados-en-la-investigacion-del-caso/",
+        "_added_at": "2026-08-14T17:29:40.193983-07:00"
+      },
       {
         "title": "Pareja condenada a 45 años por homicidio de bebé en Caborca",
         "summary": "Sentencia dictada por la muerte de recién nacida abandonada en el municipio.",
@@ -51,16 +72,16 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/nogales/2026/08/13/persecucion-en-nogales-termina-con-tres-detenidos-en-un-bmw-con-reporte-de-robo-en-tucson/",
         "_added_at": "2026-08-14T00:03:36.398806-07:00"
-      },
-      {
-        "title": "Pipa de ácido sulfúrico se vuelca en carretera de Caborca",
-        "summary": "Accidente provoca derrame de dos mil litros en vía principal, cierre temporal de carretera.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/vuelca-pipa-y-derrama-acido-sulfurico-en-carretera-de-caborca/262408",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Revocación de visa a Andy López genera polémica diplomática",
+        "summary": "Funcionario estadounidense comenta decisión migratoria con tuit provocador.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/estas-disfrutando-el-show-amaras-la-siguiente-parte-el-tuit-de-christopher-landau-tras-revocacion-de-visa-de-andy-lopez-beltran/",
+        "_added_at": "2026-08-14T17:29:40.193983-07:00"
+      },
       {
         "title": "Sheinbaum regresa a Sonora en nueva gira nacional",
         "summary": "Presidenta realizará su sexta visita al estado como parte de recorrido por la república.",
@@ -164,6 +185,20 @@
     ],
     "sociedad": [
       {
+        "title": "Unison abre 32 espacios para emprendedores con nuevos lineamientos",
+        "summary": "Universidad permite venta en campus con requisitos de seguridad y orden.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/instalan-puestos-para-estudiantes-emprendedores-en-unison-de-hermosillo-habra-32-espacios-por-turno/",
+        "_added_at": "2026-08-14T17:29:40.193983-07:00"
+      },
+      {
+        "title": "Cruz Roja auxilia familia deportada en Pitiquito",
+        "summary": "Grupo repatriado recibe asistencia tras vivir en extrema vulnerabilidad.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/cruz-roja-auxilia-a-familia-deportada-que-vivia-en-extrema-vulnerabilidad-en-pitiquito/",
+        "_added_at": "2026-08-14T17:29:40.193983-07:00"
+      },
+      {
         "title": "Estudiantes Unison denuncian lineamientos injustos para emprendimientos",
         "summary": "Alumnos rechazan nuevos requisitos que obstaculizan su actividad empresarial en campus.",
         "source": "El Imparcial",
@@ -218,22 +253,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/mexico/2026/08/14/monzon-mexicano-traera-lluvias-muy-fuertes-este-viernes-14-de-agosto-el-calor-alcanzara-45-c-en-varios-estados/",
         "_added_at": "2026-08-14T08:39:25.520511-07:00"
-      },
-      {
-        "title": "Seis accidentes dejan tres muertos en Hermosillo",
-        "summary": "Crisis vial en 48 horas alerta sobre falta educación vial en capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/seis-accidentes-en-48-horas-dejan-tres-muertos-y-seis-lesionados-en-hermosillo-especialista-alerta-por-falta-de-educacion-vial/",
-        "_added_at": "2026-08-14T05:34:36.495513-07:00"
-      },
-      {
-        "title": "Gobernador Durazo lleva Sonora Atiende a Ures",
-        "summary": "Programa ofrece servicios gratuitos a familias de la región.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/programa-sonora-atiende-llega-a-ures-con-servicios-gratuitos/262393",
-        "_added_at": "2026-08-14T02:49:05.849614-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-14T14:13:15.988717-07:00"
+  "last_updated": "2026-08-14T17:29:40.193983-07:00"
 }
