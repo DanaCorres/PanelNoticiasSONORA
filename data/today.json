@@ -1,295 +1,92 @@
 {
-  "date": "2026-08-14",
-  "run_count": 9,
+  "date": "2026-08-15",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Familias exigen captura de médico en caso de muertes",
-        "summary": "Familiares de víctimas protestan por falta de avances en investigación y reclamam localización del doctor Jesús Maximiano.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/familias-protestan-por-falta-de-avances-en-caso-de-muertes-por-aplicacion-de-sueros/",
-        "_added_at": "2026-08-14T20:27:54.438382-07:00"
-      },
-      {
-        "title": "Detienen a cuatro con drogas en cateo al norte de Hermosillo",
-        "summary": "Operativo policial en zona norte de la capital incauta estupefacientes y detiene a cuatro sospechosos.",
+        "title": "Detienen a cuatro personas con droga en Hermosillo",
+        "summary": "Operativo al norte de Hermosillo resultó en captura de cuatro individuos con sustancias ilícitas tras cateo domiciliario.",
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/14/detienen-a-cuatro-personas-con-droga-tras-cateo-al-norte-de-hermosillo/",
-        "_added_at": "2026-08-14T20:27:54.438382-07:00"
+        "_added_at": "2026-08-15T02:13:46.613318-07:00"
       },
       {
-        "title": "Alerta sobre perros semi domiciliados que atacan",
-        "summary": "Unepa advierte del peligro de caninos en condición semi domiciliaria que generan agresiones en Hermosillo.",
+        "title": "Familias exigen avances en caso de muertes por sueros",
+        "summary": "Protestas en Hermosillo por falta de progreso en investigación de muertes relacionadas con aplicación de sueros contaminados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/familias-protestan-por-falta-de-avances-en-caso-de-muertes-por-aplicacion-de-sueros/",
+        "_added_at": "2026-08-15T02:13:46.613318-07:00"
+      },
+      {
+        "title": "Alerta por perros semi domiciliados en Hermosillo",
+        "summary": "Unepa advierte sobre animales que generan agresiones y daños a la comunidad en la capital sonorense.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/unepa-alerta-sobre-perros-semi-domiciliados-en-hermosillo-que-generan-agresiones-y-danos-a-la-comunidad/",
-        "_added_at": "2026-08-14T20:27:54.438382-07:00"
-      },
-      {
-        "title": "Agresión armada mata a joven y bebé en Sonora",
-        "summary": "Tiroteo fatal deja dos víctimas: una mujer de 18 años y su bebé en estado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/agresion-armada-deja-sin-vida-a-una-joven-de-18-anos-y-su-bebe/",
-        "_added_at": "2026-08-14T17:29:40.193983-07:00"
-      },
-      {
-        "title": "Detienen hombre por golpear a su esposa en Hermosillo",
-        "summary": "Arrestado por violencia doméstica contra su pareja en la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/detienen-a-hombre-por-golpear-a-su-esposa-en-hermosillo/",
-        "_added_at": "2026-08-14T17:29:40.193983-07:00"
-      },
-      {
-        "title": "Familias de víctimas de sueros exigen resultados en investigación",
-        "summary": "Afectados por sueros vitaminados en Hermosillo demandan avances en caso.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/exigen-familiares-de-victimas-de-sueros-vitaminados-en-hermosillo-resultados-en-la-investigacion-del-caso/",
-        "_added_at": "2026-08-14T17:29:40.193983-07:00"
-      },
-      {
-        "title": "Pareja condenada a 45 años por homicidio de bebé en Caborca",
-        "summary": "Sentencia dictada por la muerte de recién nacida abandonada en el municipio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/policiaca/2026/08/14/bebe-recien-nacida-fue-privada-de-la-vida-y-abandonada-en-caborca-sentencian-a-una-pareja-a-45-anos-de-prision-por-homicidio-infantil/",
-        "_added_at": "2026-08-14T11:37:19.756106-07:00"
-      },
-      {
-        "title": "Detienen a dos con réplica de fusil en Hermosillo",
-        "summary": "Operativo en Villa del Real capturó a dos hombres con arma réplica y droga.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/policiaca/2026/08/14/detienen-a-dos-hombres-con-replica-de-fusil-y-envoltorios-de-presunta-droga-en-villa-del-real-de-hermosillo/",
-        "_added_at": "2026-08-14T11:37:19.756106-07:00"
-      },
-      {
-        "title": "Sonora entre top 10 estados por armas aseguradas",
-        "summary": "Estado concentró 564 armas, 141 granadas y 42 mil cartuchos en 2025 según datos del Inegi.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/sonora-entra-al-top-10-nacional-por-armas-aseguradas-decomisos-aumentaron-724-en-mexico/",
-        "_added_at": "2026-08-14T08:39:25.520511-07:00"
-      },
-      {
-        "title": "Seis accidentes dejan tres muertos en Hermosillo",
-        "summary": "En 48 horas registraron tres fallecidos y seis lesionados por falta de educación vial.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/seis-accidentes-en-48-horas-dejan-tres-muertos-y-seis-lesionados-en-hermosillo-especialista-alerta-por-falta-de-educacion-vial/",
-        "_added_at": "2026-08-14T08:39:25.520511-07:00"
+        "_added_at": "2026-08-15T02:13:46.613318-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Valles resalta avances para comunidades del Río Sonora",
-        "summary": "Nuevo hospital en Ures y regeneración del río representan respuestas a demandas regionales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-acciones-para-remediar-el-rio-sonora/262464",
-        "_added_at": "2026-08-14T23:16:31.086772-07:00"
-      },
-      {
-        "title": "Durazo y gobernadores de 4T rechazan injerencia extranjera",
-        "summary": "Funcionarios de Sonora cierran filas tras revocación de visa del hijo de AMLO, cuestionan intervención estadounidense.",
+        "title": "Lamarque recorre municipios sonorenses escuchando necesidades",
+        "summary": "Candidato destaca importancia de recorrer los 72 municipios para conocer demandas de agua, caminos y servicios.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/cierran-filas-durazo-y-gobernadores-de-la-4t-tras-revocacion-de-visa-del-hijo-de-amlo-rechazan-injerencia-extranjera/",
-        "_added_at": "2026-08-14T20:27:54.438382-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/14/destaca-javier-lamarque-importancia-de-recorrer-sonora-y-escuchar-a-sus-comunidades/",
+        "_added_at": "2026-08-15T02:13:46.613318-07:00"
       },
       {
-        "title": "Lamarque destaca importancia de recorrer Sonora",
-        "summary": "Candidato ha visitado 72 municipios identificando necesidades de agua, caminos, transporte y servicios productivos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/recorrer-sonora-permite-conocer-sus-necesidades-lamarque/262463",
-        "_added_at": "2026-08-14T20:27:54.438382-07:00"
-      },
-      {
-        "title": "Consulta cierra sobre derechos de pueblos indígenas",
-        "summary": "Sonora concluye proceso participativo con guarijíos aportando propuestas para nueva ley de derechos indígenas.",
+        "title": "Sonora concluye consulta sobre derechos indígenas y afromexicanos",
+        "summary": "Pueblos guarijíos presentan propuestas en Álamos para nueva ley de derechos indígenas tras asambleas regionales.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/guarijios-aportan-propuestas-para-nueva-ley-de-derechos-indigenas/262465",
-        "_added_at": "2026-08-14T20:27:54.438382-07:00"
-      },
-      {
-        "title": "Revocación de visa a Andy López genera polémica diplomática",
-        "summary": "Funcionario estadounidense comenta decisión migratoria con tuit provocador.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/estas-disfrutando-el-show-amaras-la-siguiente-parte-el-tuit-de-christopher-landau-tras-revocacion-de-visa-de-andy-lopez-beltran/",
-        "_added_at": "2026-08-14T17:29:40.193983-07:00"
-      },
-      {
-        "title": "Sheinbaum regresa a Sonora en nueva gira nacional",
-        "summary": "Presidenta realizará su sexta visita al estado como parte de recorrido por la república.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/sheinbaum-volvera-a-sonora-por-sexta-ocasion-en-su-nueva-gira-por-toda-la-republica/",
-        "_added_at": "2026-08-14T14:13:15.988717-07:00"
-      },
-      {
-        "title": "Cancelación visas politizada acusa coordinador seguridad",
-        "summary": "Gobierno mexicano señala injerencia de Estados Unidos en retiro de visas diplomáticas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/14/sheinbaum-acusa-injerencia-politica-de-eeuu-tras-cancelacion-de-visa-a-andres-manuel-lopez-beltran-y-pide-pruebas/",
-        "_added_at": "2026-08-14T08:39:25.520511-07:00"
-      },
-      {
-        "title": "Durazo lleva servicios Sonora Atiende a Ures",
-        "summary": "Gobernador acerca soluciones y atención a familias de Ures y región.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/programa-sonora-atiende-llega-a-ures-con-servicios-gratuitos/262393",
-        "_added_at": "2026-08-14T05:34:36.495513-07:00"
-      },
-      {
-        "title": "Lamarque completa capacitación política de Morena",
-        "summary": "Diputado acredita curso de 30 horas requisito para coordinar Comités de Defensa.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-recibe-constancia-de-curso-mandar-obedeciedo/262404",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
-      },
-      {
-        "title": "Durazo lleva servicios de Sonora Atiende a Ures",
-        "summary": "Gobernador acerca programas de atención gratuita a familias de región.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/programa-sonora-atiende-lleva-a-ures-con-servicios-gratuitos/262393",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
+        "_added_at": "2026-08-15T02:13:46.613318-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Siete sonorenses reciben becas para estudios en el extranjero",
-        "summary": "Jóvenes obtienen financiamiento de hasta 40 mil dólares para maestrías internacionales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/siete-jovenes-sonorenses-reciben-becas-de-hasta-40-mil-dolares-para-estudiar-maestrias-en-universidades-del-extranjero/",
-        "_added_at": "2026-08-14T23:16:31.086772-07:00"
-      },
-      {
-        "title": "Unison endurece restricciones para vendedores en campus",
-        "summary": "Universidad establece nuevos lineamientos comerciales con 64 espacios disponibles y requisitos.",
+        "title": "Unison establece nuevas reglas para vendedores en campus",
+        "summary": "Universidad de Sonora limita comercio con 64 espacios para emprendedores y nuevos requisitos regulatorios.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/unison-limita-venta-en-campus-para-estudiantes-emprendedores/262444",
-        "_added_at": "2026-08-14T23:16:31.086772-07:00"
+        "_added_at": "2026-08-15T02:13:46.613318-07:00"
       },
       {
-        "title": "Sonora crece 2.4% en sector manufacturero",
-        "summary": "Estado consolida posición en manufactura con crecimiento anual, destaca Durazo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/sonora-consolida-su-posicion-manufacturera-con-crecimiento-de-2-4-durazo/",
-        "_added_at": "2026-08-14T20:27:54.438382-07:00"
-      },
-      {
-        "title": "Peso mexicano rompe barrera de 17 pesos por dólar",
-        "summary": "Tipo de cambio alcanza nuevo nivel registrando depreciación de la moneda nacional.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/precio-del-dolar-hoy-14-de-agosto-peso-mexicano-rompe-la-barrera-de-los-17-pesos/",
-        "_added_at": "2026-08-14T20:27:54.438382-07:00"
-      },
-      {
-        "title": "Sonora duplica meta de vivienda para el bienestar",
-        "summary": "Estado amplía programa federal de viviendas con nueva meta.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/sonora-duplica-su-meta-de-viviendas-y-se-coloca-a-la-vanguardia-del-programa-de-vivienda-para-el-bienestar/",
-        "_added_at": "2026-08-14T14:13:15.988717-07:00"
-      },
-      {
-        "title": "Útiles y luz consumen hasta 30% del sueldo sonorense",
-        "summary": "Familias enfrentan presión económica por regreso a clases y recibos de servicios.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/regreso-a-clases-y-recibo-de-luz-consumen-hasta-30-del-sueldo-de-familias-sonorenses-durante-el-verano/",
-        "_added_at": "2026-08-14T14:13:15.988717-07:00"
-      },
-      {
-        "title": "Volcadura de pipa con ácido sulfúrico cierra carretera en Caborca",
-        "summary": "Accidente vial provoca cierre de paso en zona de tránsito importante.",
+        "title": "Valles destaca hospital en Ures y regeneración del río Sonora",
+        "summary": "Autoridades señalan avances en infraestructura y remediación ambiental para atender demandas de la región.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/vuelca-pipa-y-derrama-acido-sulfurico-en-carretera-de-caborca/262408",
-        "_added_at": "2026-08-14T11:37:19.756106-07:00"
-      },
-      {
-        "title": "Sonora atrae inversiones por 32.5 mil millones",
-        "summary": "Cartera de 83 proyectos puede generar 65 mil empleos en la entidad.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-atrae-inversiones-por-32-mil-500-millones-de-dolares/262426",
-        "_added_at": "2026-08-14T08:39:25.520511-07:00"
-      },
-      {
-        "title": "Dólar sube frente al peso mexicano",
-        "summary": "Tipo de cambio avanza mientras moneda nacional se debilita en mercados.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/08/14/precio-del-dolar-avanza-mientras-el-peso-mexicano-tambalea-asi-cotiza-el-tipo-de-cambio-este-viernes-14-de-agosto/",
-        "_added_at": "2026-08-14T08:39:25.520511-07:00"
-      },
-      {
-        "title": "Hermosillo capacitará 500 jóvenes en ciencia e innovación",
-        "summary": "Municipio abre convocatoria para formación en tecnología y desarrollo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/hermosillo-abre-convocatoria-para-capacitar-a-500-jovenes-en-ciencia-innovacion-y-tecnologia/",
-        "_added_at": "2026-08-14T02:49:05.849614-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-acciones-para-remediar-el-rio-sonora/262464",
+        "_added_at": "2026-08-15T02:13:46.613318-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Sonora sin casos de diarrea explosiva, alerta Salud",
-        "summary": "Autoridades sanitarias confirman ausencia de contagios y refuerzan medidas preventivas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/sonora-no-registra-casos-de-diarrea-explosiva-salud-pide-mantener-medidas-de-higiene/",
-        "_added_at": "2026-08-14T23:16:31.086772-07:00"
-      },
-      {
-        "title": "Hermosillo alcanzará 46°C este fin de semana",
-        "summary": "Meteorología pronostica altas temperaturas con lluvias aisladas y baja probabilidad en capital.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/clima-en-sonora-hoy-14-de-agosto-hermosillo-alcanza-46c/262436",
-        "_added_at": "2026-08-14T23:16:31.086772-07:00"
-      },
-      {
-        "title": "Víctima de araña busca ayuda para tratamientos médicos",
-        "summary": "José Manuel requiere fondos para costear atención médica tras mordedura de araña violinista.",
+        "title": "Rutalikazo 2026 congrega cientos de participantes en Sonora",
+        "summary": "Evento de ciclismo recorre paisajes de Sonora y Chihuahua con vigilancia de cuerpos de emergencia.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/jose-manuel-victima-de-arana-violinista-busca-ayuda-para-costear-tratamientos-medicos-urgentes/",
-        "_added_at": "2026-08-14T20:27:54.438382-07:00"
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/cientos-de-participantes-salen-al-rutalikazo-2026-para-recorrer-los-paisajes-y-caminos-de-sonora-y-chihuahua-con-vigilancia-de-cuerpos-de-emergencia/",
+        "_added_at": "2026-08-15T02:13:46.613318-07:00"
       },
       {
-        "title": "Unison abre 32 espacios para emprendedores con nuevos lineamientos",
-        "summary": "Universidad permite venta en campus con requisitos de seguridad y orden.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/instalan-puestos-para-estudiantes-emprendedores-en-unison-de-hermosillo-habra-32-espacios-por-turno/",
-        "_added_at": "2026-08-14T17:29:40.193983-07:00"
-      },
-      {
-        "title": "Cruz Roja auxilia familia deportada en Pitiquito",
-        "summary": "Grupo repatriado recibe asistencia tras vivir en extrema vulnerabilidad.",
+        "title": "Cenador Infantil Emmanuel busca donativos en Hermosillo",
+        "summary": "Institución requiere apoyo para alimentar a niños y adultos mayores en situación vulnerable.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/cruz-roja-auxilia-a-familia-deportada-que-vivia-en-extrema-vulnerabilidad-en-pitiquito/",
-        "_added_at": "2026-08-14T17:29:40.193983-07:00"
-      },
-      {
-        "title": "Estudiantes Unison denuncian lineamientos injustos para emprendimientos",
-        "summary": "Alumnos rechazan nuevos requisitos que obstaculizan su actividad empresarial en campus.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/alumnos-de-la-unison-denuncian-lineamientos-injustos-para-emprendimientos/",
-        "_added_at": "2026-08-14T14:13:15.988717-07:00"
-      },
-      {
-        "title": "Entregan becas a universitarios de Cajeme y Navojoa",
-        "summary": "Cerca de 13 mil becas distribuidas para transporte, inscripción y materiales escolares.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/14/entregan-cerca-de-13-mil-becas-a-universitarios-de-cajeme-y-navojoa-para-transporte-inscripcion-y-materiales-escolares/",
-        "_added_at": "2026-08-14T14:13:15.988717-07:00"
-      },
-      {
-        "title": "Siete sonorenses reciben becas para maestrías en extranjero",
-        "summary": "Jóvenes del estado acceden a becas de hasta 40 mil dólares para estudios internacionales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/siete-jovenes-sonorenses-reciben-becas-de-hasta-40-mil-dolares-para-estudiar-maestrias-en-universidades-del-extranjero/",
-        "_added_at": "2026-08-14T14:13:15.988717-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/cenador-infantil-emmanuel-requiere-donativos-para-alimentar-a-ninos-y-adultos-mayores-en-hermosillo/",
+        "_added_at": "2026-08-15T02:13:46.613318-07:00"
       },
       {
         "title": "Falla en acueducto causa variaciones de agua en Hermosillo",
-        "summary": "Problema en Acueducto Independencia afectará servicio viernes en varias colonias.",
+        "summary": "Problema en Acueducto Independencia afectará servicio a colonias este viernes.",
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/variaciones-en-el-servicio-de-agua-afectaran-este-viernes-a-colonias-de-hermosillo-tras-falla-en-el-acueducto-independencia/",
-        "_added_at": "2026-08-14T14:13:15.988717-07:00"
+        "_added_at": "2026-08-15T02:13:46.613318-07:00"
       },
       {
-        "title": "Entrega de uniformes escolares gratuitos en Cajeme inicia",
-        "summary": "Calendario por apellido para distribución de uniformes del 17 al 22 de agosto.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/14/uniformes-escolares-gratuitos-en-cajeme-calendario-de-entrega-por-apellido-del-17-al-22-de-agosto/",
-        "_added_at": "2026-08-14T11:37:19.756106-07:00"
+        "title": "Sonora mantiene vigilancia ante diarrea explosiva reportada",
+        "summary": "Salud estatal descarta casos en el estado y refuerza medidas preventivas de higiene.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/sonora-no-registra-casos-de-diarrea-explosiva-salud-pide-mantener-medidas-de-higiene/",
+        "_added_at": "2026-08-15T02:13:46.613318-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-14T23:16:31.086772-07:00"
+  "last_updated": "2026-08-15T02:13:46.613318-07:00"
 }
