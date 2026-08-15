@@ -1,8 +1,29 @@
 {
   "date": "2026-08-14",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Familias exigen captura de médico en caso de muertes",
+        "summary": "Familiares de víctimas protestan por falta de avances en investigación y reclamam localización del doctor Jesús Maximiano.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/familias-protestan-por-falta-de-avances-en-caso-de-muertes-por-aplicacion-de-sueros/",
+        "_added_at": "2026-08-14T20:27:54.438382-07:00"
+      },
+      {
+        "title": "Detienen a cuatro con drogas en cateo al norte de Hermosillo",
+        "summary": "Operativo policial en zona norte de la capital incauta estupefacientes y detiene a cuatro sospechosos.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/detienen-a-cuatro-personas-con-droga-tras-cateo-al-norte-de-hermosillo/",
+        "_added_at": "2026-08-14T20:27:54.438382-07:00"
+      },
+      {
+        "title": "Alerta sobre perros semi domiciliados que atacan",
+        "summary": "Unepa advierte del peligro de caninos en condición semi domiciliaria que generan agresiones en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/unepa-alerta-sobre-perros-semi-domiciliados-en-hermosillo-que-generan-agresiones-y-danos-a-la-comunidad/",
+        "_added_at": "2026-08-14T20:27:54.438382-07:00"
+      },
       {
         "title": "Agresión armada mata a joven y bebé en Sonora",
         "summary": "Tiroteo fatal deja dos víctimas: una mujer de 18 años y su bebé en estado.",
@@ -51,30 +72,30 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/14/seis-accidentes-en-48-horas-dejan-tres-muertos-y-seis-lesionados-en-hermosillo-especialista-alerta-por-falta-de-educacion-vial/",
         "_added_at": "2026-08-14T08:39:25.520511-07:00"
-      },
-      {
-        "title": "Transportista vinculado por llevar 2.6 toneladas de metanfetamina",
-        "summary": "Detienen a conductor que transportaba droga oculta en alimento para ganado en carretera Puerto Peñasco-Sonoyta.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/13/vinculan-a-proceso-a-david-n-transportista-que-llevaba-mas-de-2600-kilos-de-metanfetamina-ocultos-en-alimento-para-ganado-en-la-carretera-puerto-penasco-sonoyta/",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
-      },
-      {
-        "title": "Decomisan 18 kilos de cocaína en garita de Nogales",
-        "summary": "Autoridades encuentran droga oculta en horno durante inspección en punto fronterizo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/13/incautan-18-kilos-de-cocaina-en-garita-de-nogales/",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
-      },
-      {
-        "title": "Persecución en Nogales termina con tres detenidos",
-        "summary": "Capturan a tres individuos en BMW con reporte de robo proveniente de Tucson.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/13/persecucion-en-nogales-termina-con-tres-detenidos-en-un-bmw-con-reporte-de-robo-en-tucson/",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Durazo y gobernadores de 4T rechazan injerencia extranjera",
+        "summary": "Funcionarios de Sonora cierran filas tras revocación de visa del hijo de AMLO, cuestionan intervención estadounidense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/cierran-filas-durazo-y-gobernadores-de-la-4t-tras-revocacion-de-visa-del-hijo-de-amlo-rechazan-injerencia-extranjera/",
+        "_added_at": "2026-08-14T20:27:54.438382-07:00"
+      },
+      {
+        "title": "Lamarque destaca importancia de recorrer Sonora",
+        "summary": "Candidato ha visitado 72 municipios identificando necesidades de agua, caminos, transporte y servicios productivos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/recorrer-sonora-permite-conocer-sus-necesidades-lamarque/262463",
+        "_added_at": "2026-08-14T20:27:54.438382-07:00"
+      },
+      {
+        "title": "Consulta cierra sobre derechos de pueblos indígenas",
+        "summary": "Sonora concluye proceso participativo con guarijíos aportando propuestas para nueva ley de derechos indígenas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/guarijios-aportan-propuestas-para-nueva-ley-de-derechos-indigenas/262465",
+        "_added_at": "2026-08-14T20:27:54.438382-07:00"
+      },
       {
         "title": "Revocación de visa a Andy López genera polémica diplomática",
         "summary": "Funcionario estadounidense comenta decisión migratoria con tuit provocador.",
@@ -126,6 +147,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Sonora crece 2.4% en sector manufacturero",
+        "summary": "Estado consolida posición en manufactura con crecimiento anual, destaca Durazo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/sonora-consolida-su-posicion-manufacturera-con-crecimiento-de-2-4-durazo/",
+        "_added_at": "2026-08-14T20:27:54.438382-07:00"
+      },
+      {
+        "title": "Peso mexicano rompe barrera de 17 pesos por dólar",
+        "summary": "Tipo de cambio alcanza nuevo nivel registrando depreciación de la moneda nacional.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/precio-del-dolar-hoy-14-de-agosto-peso-mexicano-rompe-la-barrera-de-los-17-pesos/",
+        "_added_at": "2026-08-14T20:27:54.438382-07:00"
+      },
       {
         "title": "Sonora duplica meta de vivienda para el bienestar",
         "summary": "Estado amplía programa federal de viviendas con nueva meta.",
@@ -184,6 +219,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Víctima de araña busca ayuda para tratamientos médicos",
+        "summary": "José Manuel requiere fondos para costear atención médica tras mordedura de araña violinista.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/jose-manuel-victima-de-arana-violinista-busca-ayuda-para-costear-tratamientos-medicos-urgentes/",
+        "_added_at": "2026-08-14T20:27:54.438382-07:00"
+      },
       {
         "title": "Unison abre 32 espacios para emprendedores con nuevos lineamientos",
         "summary": "Universidad permite venta en campus con requisitos de seguridad y orden.",
@@ -246,15 +288,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/14/conanp-ofrecera-capacitacion-gratuita-al-sector-turistico-de-alamos-sobre-areas-naturales-protegidas/",
         "_added_at": "2026-08-14T08:39:25.520511-07:00"
-      },
-      {
-        "title": "Monzón mexicano trae lluvias y calor extremo",
-        "summary": "Fenómeno climático generará precipitaciones y temperaturas hasta 45 grados.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/14/monzon-mexicano-traera-lluvias-muy-fuertes-este-viernes-14-de-agosto-el-calor-alcanzara-45-c-en-varios-estados/",
-        "_added_at": "2026-08-14T08:39:25.520511-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-14T17:29:40.193983-07:00"
+  "last_updated": "2026-08-14T20:27:54.438382-07:00"
 }
