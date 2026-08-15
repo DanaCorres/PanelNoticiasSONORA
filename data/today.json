@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "run_count": 8,
+  "run_count": 9,
   "notes": {
     "seguridad": [
       {
@@ -76,6 +76,13 @@
     ],
     "politica": [
       {
+        "title": "Valles resalta avances para comunidades del Río Sonora",
+        "summary": "Nuevo hospital en Ures y regeneración del río representan respuestas a demandas regionales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-acciones-para-remediar-el-rio-sonora/262464",
+        "_added_at": "2026-08-14T23:16:31.086772-07:00"
+      },
+      {
         "title": "Durazo y gobernadores de 4T rechazan injerencia extranjera",
         "summary": "Funcionarios de Sonora cierran filas tras revocación de visa del hijo de AMLO, cuestionan intervención estadounidense.",
         "source": "Proyecto Puente",
@@ -137,16 +144,23 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/programa-sonora-atiende-lleva-a-ures-con-servicios-gratuitos/262393",
         "_added_at": "2026-08-14T00:03:36.398806-07:00"
-      },
-      {
-        "title": "Diputado propone esterilizar a mujeres en situación de calle",
-        "summary": "Propuesta genera rechazo de defensores de derechos humanos por considerarla inaceptable.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/13/diputado-propone-esterilizar-a-mujeres-en-situacion-de-calle-defensores-de-derechos-humanos-lo-califican-de-inaceptable/",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Siete sonorenses reciben becas para estudios en el extranjero",
+        "summary": "Jóvenes obtienen financiamiento de hasta 40 mil dólares para maestrías internacionales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/siete-jovenes-sonorenses-reciben-becas-de-hasta-40-mil-dolares-para-estudiar-maestrias-en-universidades-del-extranjero/",
+        "_added_at": "2026-08-14T23:16:31.086772-07:00"
+      },
+      {
+        "title": "Unison endurece restricciones para vendedores en campus",
+        "summary": "Universidad establece nuevos lineamientos comerciales con 64 espacios disponibles y requisitos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/unison-limita-venta-en-campus-para-estudiantes-emprendedores/262444",
+        "_added_at": "2026-08-14T23:16:31.086772-07:00"
+      },
       {
         "title": "Sonora crece 2.4% en sector manufacturero",
         "summary": "Estado consolida posición en manufactura con crecimiento anual, destaca Durazo.",
@@ -202,23 +216,23 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/13/hermosillo-abre-convocatoria-para-capacitar-a-500-jovenes-en-ciencia-innovacion-y-tecnologia/",
         "_added_at": "2026-08-14T02:49:05.849614-07:00"
-      },
-      {
-        "title": "Plan México abre oportunidades para empresas sonorenses",
-        "summary": "Puerto de Guaymas y ubicación estratégica posicionan estado para comercio internacional.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-es-prioridad-para-el-plan-mexico-lorenia-valles/262407",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
-      },
-      {
-        "title": "CRT anuncia plazo para registrar líneas con terminación cero",
-        "summary": "Registro obligatorio de números telefónicos para evitar suspensión de servicio.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/terminacion-0-fecha-limite-para-registrar-linea-telefonica/262401",
-        "_added_at": "2026-08-14T00:03:36.398806-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora sin casos de diarrea explosiva, alerta Salud",
+        "summary": "Autoridades sanitarias confirman ausencia de contagios y refuerzan medidas preventivas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/14/sonora-no-registra-casos-de-diarrea-explosiva-salud-pide-mantener-medidas-de-higiene/",
+        "_added_at": "2026-08-14T23:16:31.086772-07:00"
+      },
+      {
+        "title": "Hermosillo alcanzará 46°C este fin de semana",
+        "summary": "Meteorología pronostica altas temperaturas con lluvias aisladas y baja probabilidad en capital.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/clima-en-sonora-hoy-14-de-agosto-hermosillo-alcanza-46c/262436",
+        "_added_at": "2026-08-14T23:16:31.086772-07:00"
+      },
       {
         "title": "Víctima de araña busca ayuda para tratamientos médicos",
         "summary": "José Manuel requiere fondos para costear atención médica tras mordedura de araña violinista.",
@@ -274,22 +288,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/14/uniformes-escolares-gratuitos-en-cajeme-calendario-de-entrega-por-apellido-del-17-al-22-de-agosto/",
         "_added_at": "2026-08-14T11:37:19.756106-07:00"
-      },
-      {
-        "title": "Centro de Neurodesarrollo en construcción en Hermosillo",
-        "summary": "Nuevo centro buscará mejorar hasta 50% la eficiencia de servicios de atención.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/arranca-construccion-de-nuevo-centro-de-neurodesarrollo-en-hermosillo-busca-mejorar-hasta-50-la-eficiencia-de-servicios/",
-        "_added_at": "2026-08-14T11:37:19.756106-07:00"
-      },
-      {
-        "title": "Conanp capacita sector turístico Álamos",
-        "summary": "Ofrecen capacitación gratuita sobre áreas naturales protegidas en municipio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/conanp-ofrecera-capacitacion-gratuita-al-sector-turistico-de-alamos-sobre-areas-naturales-protegidas/",
-        "_added_at": "2026-08-14T08:39:25.520511-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-14T20:27:54.438382-07:00"
+  "last_updated": "2026-08-14T23:16:31.086772-07:00"
 }
