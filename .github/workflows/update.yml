@@ -2,7 +2,7 @@ name: Actualizar panel de noticias
 
 on:
   schedule:
-    # Cada 3 horas, en UTC.
+    # 3 veces al día: 9am, 3pm y 7:30pm hora Sonora/Baja California (UTC-7)
     - cron: "0 16,22 * * *"
     - cron: "30 2 * * *"
   workflow_dispatch: {}  # permite correrlo manualmente desde la pestaña Actions
