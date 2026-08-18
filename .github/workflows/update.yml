@@ -3,7 +3,8 @@ name: Actualizar panel de noticias
 on:
   schedule:
     # Cada 3 horas, en UTC.
-        - cron: "0 4,16,22 * * *"
+    - cron: "0 16,22 * * *"
+    - cron: "30 2 * * *"
   workflow_dispatch: {}  # permite correrlo manualmente desde la pestaña Actions
 
 permissions:
