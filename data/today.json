@@ -1,99 +1,85 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "118 detenidos en operativos de seguridad en Hermosillo",
-        "summary": "Durante una semana se realizaron operativos en Hermosillo que resultaron en 118 detenciones por actividades delictivas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/17/durante-una-semana-118-detenidos-en-operativos-de-seguridad-en-hermosillo/",
-        "_added_at": "2026-08-17T21:29:29.902340-07:00"
+        "title": "Motociclista armado detenido en Hermosillo con crystal",
+        "summary": "Sujeto amenazó a policías con pistola en zona norte de Hermosillo; fue capturado con drogas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/18/motociclista-amenaza-con-pistola-a-policias-al-norte-de-hermosillo-lo-detienen-con-crystal/",
+        "_added_at": "2026-08-18T09:23:41.219879-07:00"
       },
       {
-        "title": "Condenan a tres por armas y drogas en Guaymas",
-        "summary": "Tres personas recibieron 15 años de prisión tras operativo conjunto en Guaymas que aseguró armas y metanfetamina.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/condenan-a-tres-detenidos-con-armas-y-drogas-en-guaymas/262626",
-        "_added_at": "2026-08-17T21:29:29.902340-07:00"
-      },
-      {
-        "title": "Detienen a tres en operativo de Nogales",
-        "summary": "Operativo de seguridad en Nogales resultó en tres detenciones y aseguramiento de marihuana.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/17/detienen-a-3-durante-operativo-de-seguridad-en-nogales-y-aseguran-bolsa-con-mariguana/",
-        "_added_at": "2026-08-17T21:29:29.902340-07:00"
-      },
-      {
-        "title": "Vandalizan imagen religiosa en iglesia de Hermosillo",
-        "summary": "Vandalismo afectó estatua de Cristo en iglesia de Fátima; parroquia refuerza medidas de seguridad.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/17/vandalizan-imagen-del-cristo-en-la-iglesia-de-fatima-parroquia-implementa-medidas-de-seguridad/",
-        "_added_at": "2026-08-17T21:29:29.902340-07:00"
+        "title": "Bomba molotov quema motocicleta en Hermosillo",
+        "summary": "Artefacto explosivo causó daños a vehículo en sector norte de la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/18/bomba-molotov-provoca-danos-a-motocicleta-al-norte-de-hermosillo/",
+        "_added_at": "2026-08-18T09:23:41.219879-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Celida López suma apoyo en comunidades rurales de Sonora",
-        "summary": "Celida López acumula respaldo en zonas rurales sonorenses en campaña interna de Morena.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/17/celida-lopez-suma-respaldo-en-comunidades-rurales-de-sonora-rumbo-al-proceso-interno-de-morena/",
-        "_added_at": "2026-08-17T21:29:29.902340-07:00"
+        "title": "Sheinbaum acusa a EEUU de golpeteo político con visas",
+        "summary": "Presidenta cuestiona revocación de visas a políticos mexicanos sin justificación clara.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/18/sheinbaum-acusa-a-eeuu-de-usar-revocacion-de-visas-como-golpeteo-politico-contra-el-gobierno-de-mexico/",
+        "_added_at": "2026-08-18T09:23:41.219879-07:00"
       },
       {
-        "title": "Javier Lamarque busca fortalecer organización en Sonora",
-        "summary": "Lamarque convoca a unidad del movimiento durante asamblea digital tras recorridos por Sonora.",
+        "title": "Javier Lamarque reafirma su posición en Sonora",
+        "summary": "Lamarque destaca respuesta en recorridos y convoca a fortalecer unidad del movimiento.",
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/vamos-2-a-1-busquemos-el-3-a-1-lamarque/262630",
-        "_added_at": "2026-08-17T21:29:29.902340-07:00"
+        "_added_at": "2026-08-18T09:23:41.219879-07:00"
+      },
+      {
+        "title": "Lorenia Valles resalta rol del PT en continuidad 4T",
+        "summary": "Dirigente subraya importancia del Partido del Trabajo en el movimiento transformador.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/valles-reconoce-respaldo-del-pt-a-la-cuarta-transformacion/262636",
+        "_added_at": "2026-08-18T09:23:41.219879-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Gasto mensual de 4 mil pesos en transporte y lonche escolar",
-        "summary": "Familias sonorenses gastan aproximadamente 4 mil pesos mensuales en transporte y alimentos para estudiantes.",
+        "title": "Dólar repunta frente al peso mexicano",
+        "summary": "Tipo de cambio muestra recuperación tras período de fortaleza del peso.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/08/17/transporte-y-lonche-los-gastos-del-regreso-a-clases-que-se-prolongan-durante-todo-el-ciclo-escolar-y-suman-4-mil-pesos-al-mes-por-familia/",
-        "_added_at": "2026-08-17T21:29:29.902340-07:00"
-      },
-      {
-        "title": "Inicia entrega de uniformes escolares en Cajeme",
-        "summary": "Cajeme distribuye 5 mil uniformes escolares durante primer día de entregas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/17/inicia-entrega-de-uniformes-escolares-en-cajeme-entregan-5-mil-durante-el-primer-dia/",
-        "_added_at": "2026-08-17T21:29:29.902340-07:00"
+        "url": "https://www.elimparcial.com/dinero/2026/08/18/precio-del-dolar-sube-y-frena-levemente-la-racha-del-peso-mexicano-asi-cotiza-el-tipo-de-cambio-este-martes-18-de-agosto/",
+        "_added_at": "2026-08-18T09:23:41.219879-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Incendio destruye palapa de mariscos en carretera a Bahía",
-        "summary": "Fuego consumió establecimiento de venta de mariscos en kilómetro 14 de carretera Hermosillo-Bahía de Kino.",
+        "title": "Lluvias causan daños en Sonora; CFE restituye servicios",
+        "summary": "Tormentas e intensos vientos dejan afectaciones; empresa avanza en restauración eléctrica.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/17/incendio-consume-palapa-de-mariscos-en-carretera-hermosillo-bahia-de-kino-bomberos-evitan-que-el-fuego-se-propague/",
-        "_added_at": "2026-08-17T21:29:29.902340-07:00"
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/18/lluvias-y-fuertes-vientos-dejan-danos-en-sonora-cfe-avanza-en-restablecer-la-electricidad-en-los-municipios-afectados/",
+        "_added_at": "2026-08-18T09:23:41.219879-07:00"
       },
       {
-        "title": "Muere niña de dos años por inmersión en San Carlos",
-        "summary": "Fallecimiento de menor por asfixia en San Carlos; autoridades investigan circunstancias.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/muere-nina-por-asfixia-por-inmersion-en-san-carlos/262621",
-        "_added_at": "2026-08-17T21:29:29.902340-07:00"
-      },
-      {
-        "title": "Familia solicita apoyo para cirugía de menor de tres años",
-        "summary": "Padres piden ayuda para intervención quirúrgica de Allison, niña de tres años.",
+        "title": "Continúan lluvias en Sonora con calor extremo de 45°C",
+        "summary": "Precipitaciones aisladas mientras temperatura sigue superando límites peligrosos.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/17/allison-necesita-cirugia-para-poder-evacuar-por-si-misma-familia-pide-apoyo/",
-        "_added_at": "2026-08-17T21:29:29.902340-07:00"
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/18/lluvias-continuaran-en-varias-zonas-de-sonora-durante-los-proximos-dias-mientras-el-calor-seguira-superando-los-45-grados/",
+        "_added_at": "2026-08-18T09:23:41.219879-07:00"
       },
       {
-        "title": "Entregan 500 kits escolares en colonia Altares Hermosillo",
-        "summary": "Antonio Astiazarán distribuye paquetes escolares a estudiantes de colonia Altares.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/astiazaran-entrega-kits-escolares-en-altares/262624",
-        "_added_at": "2026-08-17T21:29:29.902340-07:00"
+        "title": "Invierten 10 millones en Centro de Usos Múltiples de Hermosillo",
+        "summary": "Renovación de CUM beneficiará entrenamiento de atletas sonorenses.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/18/invierten-10-millones-de-pesos-en-el-cum-para-mejorar-el-entrenamiento-de-atletas-sonorenses/",
+        "_added_at": "2026-08-18T09:23:41.219879-07:00"
+      },
+      {
+        "title": "Distribuyen 500 kits escolares en Hermosillo previo a clases",
+        "summary": "Autoridades entregan materiales educativos a niños de colonia Altares.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/17/entregan-500-kits-escolares-a-ninas-y-ninos-de-hermosillo-previo-al-regreso-a-clases/",
+        "_added_at": "2026-08-18T09:23:41.219879-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-17T21:29:29.902340-07:00"
+  "last_updated": "2026-08-18T09:23:41.219879-07:00"
 }
