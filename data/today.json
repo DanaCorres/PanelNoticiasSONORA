@@ -1,8 +1,36 @@
 {
   "date": "2026-08-18",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a proceso a homicida en Cajeme",
+        "summary": "Hombre procesado por matar a pareja embarazada; atacó con arma blanca el 25 de junio en Valle Verde.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-sujeto-por-muerte-de-pareja-en-cajeme/262681",
+        "_added_at": "2026-08-18T15:21:16.955389-07:00"
+      },
+      {
+        "title": "Orden de aprehensión contra \"El Florero\" en Puerto Peñasco",
+        "summary": "AMIC ejecuta nueva orden contra sujeto por agresiones a adolescente; videos virales evidencian delito.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/ejecuta-amic-nueva-orden-de-aprehension-contra-el-florero/262693",
+        "_added_at": "2026-08-18T15:21:16.955389-07:00"
+      },
+      {
+        "title": "Policía balea a hombre con cuchillo en Hermosillo",
+        "summary": "Elemento hiere a sujeto que intentó atacar con cuchillo fuera de supermercado al poniente.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/18/policia-hiere-a-hombre-que-presuntamente-intento-atacarlo-con-un-cuchillo-afuera-de-supermercado-al-poniente-de-hermosillo/",
+        "_added_at": "2026-08-18T15:21:16.955389-07:00"
+      },
+      {
+        "title": "Choque frontal mata a cuatro, uno menor de edad",
+        "summary": "Accidente fatal deja cuatro muertos incluido menor y dos heridos en vía sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/18/choque-frontal-deja-cuatro-muertos-entre-ellos-un-menor-hay-dos-heridos/",
+        "_added_at": "2026-08-18T15:21:16.955389-07:00"
+      },
       {
         "title": "Motociclista armado detenido en Hermosillo con crystal",
         "summary": "Sujeto amenazó a policías con pistola en zona norte de Hermosillo; fue capturado con drogas.",
@@ -19,6 +47,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Durazo afirma recuperación de ranchos en Caborca",
+        "summary": "Gobernador declara que ha recuperado ranchos tomados por crimen organizado en municipio.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/18/hemos-recuperado-todos-los-ranchos-que-estaban-tomados-por-el-crimen-organizado-en-caborca-afirma-alfonso-durazo/",
+        "_added_at": "2026-08-18T15:21:16.955389-07:00"
+      },
+      {
+        "title": "Juez permite construcción de muro en Tohono O'odham",
+        "summary": "Sentencia judicial autoriza barrera de 100 km; nación indígena analiza medidas legales contra proyecto.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/18/juez-permite-construir-muro-fronterizo-en-tierras-tohono-oodham-entre-arizona-y-sonora-la-nacion-indigena-analiza-como-detenerlo/",
+        "_added_at": "2026-08-18T15:21:16.955389-07:00"
+      },
+      {
+        "title": "Rodríguez lleva rendición de cuentas a colonias hermosillenses",
+        "summary": "Funcionario municipal presenta informes en barrios de Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/18/agustin-rodriguez-lleva-su-rendicion-de-cuentas-a-las-colonias-de-hermosillo/",
+        "_added_at": "2026-08-18T15:21:16.955389-07:00"
+      },
       {
         "title": "Sheinbaum acusa a EEUU de golpeteo político con visas",
         "summary": "Presidenta cuestiona revocación de visas a políticos mexicanos sin justificación clara.",
@@ -52,6 +101,34 @@
     ],
     "sociedad": [
       {
+        "title": "Aumentan ahogamientos en Cajeme; van once en 2026",
+        "summary": "Muertes por ahogamiento crecen en municipio durante el año.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/18/aumentan-muertes-por-ahogamiento-en-cajeme-van-11-este-ano/",
+        "_added_at": "2026-08-18T15:21:16.955389-07:00"
+      },
+      {
+        "title": "Tormentas con vientos de 93 km/h dañan Cajeme",
+        "summary": "Protección Civil reporta árboles caídos y daños por lluvia y rachas fuertes.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/18/lluvias-y-vientos-de-hasta-93-km-h-dejan-arboles-caidos-y-danos-en-cajeme-proteccion-civil/",
+        "_added_at": "2026-08-18T15:21:16.955389-07:00"
+      },
+      {
+        "title": "Detienen a niñera tras muerte de bebé en San Carlos",
+        "summary": "Menor ahogada en alberca; autoridades aprehenden a cuidadora responsable.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/detienen-ninera-tras-muerte-de-bebe-ahogada-en-san-carlos/262656",
+        "_added_at": "2026-08-18T15:21:16.955389-07:00"
+      },
+      {
+        "title": "Seis accidentes con materiales peligrosos en Sonora",
+        "summary": "Estado registra incidentes con sustancias peligrosas durante 2026.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/van-seis-accidentes-con-materiales-peligrosos-en-sonora-2026/262679",
+        "_added_at": "2026-08-18T15:21:16.955389-07:00"
+      },
+      {
         "title": "Lluvias causan daños en Sonora; CFE restituye servicios",
         "summary": "Tormentas e intensos vientos dejan afectaciones; empresa avanza en restauración eléctrica.",
         "source": "El Imparcial",
@@ -81,5 +158,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-18T09:23:41.219879-07:00"
+  "last_updated": "2026-08-18T15:21:16.955389-07:00"
 }
