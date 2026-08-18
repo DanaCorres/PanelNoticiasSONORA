@@ -1,169 +1,99 @@
 {
-  "date": "2026-08-15",
-  "run_count": 3,
+  "date": "2026-08-17",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Calor extremo causa 22 muertes en Sonora este año",
-        "summary": "Sonora concentra 58% de decesos por temperaturas altas en México. Además, 350 personas atendidas por afectaciones; SMN pronostica máximas de 45°C.",
+        "title": "118 detenidos en operativos de seguridad en Hermosillo",
+        "summary": "Durante una semana se realizaron operativos en Hermosillo que resultaron en 118 detenciones por actividades delictivas.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/15/sonora-y-baja-california-concentran-el-58-de-las-muertes-por-calor-en-mexico-22-ocurrieron-en-territorio-sonorense/",
-        "_added_at": "2026-08-15T08:08:42.824457-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/17/durante-una-semana-118-detenidos-en-operativos-de-seguridad-en-hermosillo/",
+        "_added_at": "2026-08-17T21:29:29.902340-07:00"
       },
       {
-        "title": "Profepa investiga derrame de ácido sulfúrico en Caborca",
-        "summary": "Autoridad ambiental abre procedimiento tras derrame de aproximadamente 2 mil litros en carretera Caborca-Y Griega.",
+        "title": "Condenan a tres por armas y drogas en Guaymas",
+        "summary": "Tres personas recibieron 15 años de prisión tras operativo conjunto en Guaymas que aseguró armas y metanfetamina.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/profepa-investiga-derrame-de-acido-sulfurico-en-caborca/262485",
-        "_added_at": "2026-08-15T05:12:44.857268-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/condenan-a-tres-detenidos-con-armas-y-drogas-en-guaymas/262626",
+        "_added_at": "2026-08-17T21:29:29.902340-07:00"
       },
       {
-        "title": "Detienen a cuatro personas con droga en Hermosillo",
-        "summary": "Operativo al norte de Hermosillo resultó en captura de cuatro individuos con sustancias ilícitas tras cateo domiciliario.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/detienen-a-cuatro-personas-con-droga-tras-cateo-al-norte-de-hermosillo/",
-        "_added_at": "2026-08-15T02:13:46.613318-07:00"
-      },
-      {
-        "title": "Familias exigen avances en caso de muertes por sueros",
-        "summary": "Protestas en Hermosillo por falta de progreso en investigación de muertes relacionadas con aplicación de sueros contaminados.",
+        "title": "Detienen a tres en operativo de Nogales",
+        "summary": "Operativo de seguridad en Nogales resultó en tres detenciones y aseguramiento de marihuana.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/familias-protestan-por-falta-de-avances-en-caso-de-muertes-por-aplicacion-de-sueros/",
-        "_added_at": "2026-08-15T02:13:46.613318-07:00"
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/17/detienen-a-3-durante-operativo-de-seguridad-en-nogales-y-aseguran-bolsa-con-mariguana/",
+        "_added_at": "2026-08-17T21:29:29.902340-07:00"
       },
       {
-        "title": "Alerta por perros semi domiciliados en Hermosillo",
-        "summary": "Unepa advierte sobre animales que generan agresiones y daños a la comunidad en la capital sonorense.",
+        "title": "Vandalizan imagen religiosa en iglesia de Hermosillo",
+        "summary": "Vandalismo afectó estatua de Cristo en iglesia de Fátima; parroquia refuerza medidas de seguridad.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/unepa-alerta-sobre-perros-semi-domiciliados-en-hermosillo-que-generan-agresiones-y-danos-a-la-comunidad/",
-        "_added_at": "2026-08-15T02:13:46.613318-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/17/vandalizan-imagen-del-cristo-en-la-iglesia-de-fatima-parroquia-implementa-medidas-de-seguridad/",
+        "_added_at": "2026-08-17T21:29:29.902340-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Gobernadores de la 4T rechazan injerencia extranjera en visa de López Beltrán",
-        "summary": "Autoridades estatales se solidarizan tras cancelación de visa estadounidense al hijo de AMLO.",
+        "title": "Celida López suma apoyo en comunidades rurales de Sonora",
+        "summary": "Celida López acumula respaldo en zonas rurales sonorenses en campaña interna de Morena.",
         "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/cierran-filas-durazo-y-gobernadores-de-la-4t-tras-revocacion-de-visa-del-hijo-de-amlo-rechazan-injerencia-extranjera/",
-        "_added_at": "2026-08-15T05:12:44.857268-07:00"
+        "url": "https://proyectopuente.com.mx/2026/08/17/celida-lopez-suma-respaldo-en-comunidades-rurales-de-sonora-rumbo-al-proceso-interno-de-morena/",
+        "_added_at": "2026-08-17T21:29:29.902340-07:00"
       },
       {
-        "title": "Lamarque destaca necesidades tras recorrer 72 municipios de Sonora",
-        "summary": "Candidato subraya prioridades en agua, caminos, transporte y actividades productivas estatales.",
+        "title": "Javier Lamarque busca fortalecer organización en Sonora",
+        "summary": "Lamarque convoca a unidad del movimiento durante asamblea digital tras recorridos por Sonora.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/recorrer-sonora-permite-conocer-sus-necesidades-lamarque/262463",
-        "_added_at": "2026-08-15T05:12:44.857268-07:00"
-      },
-      {
-        "title": "Lamarque recorre municipios sonorenses escuchando necesidades",
-        "summary": "Candidato destaca importancia de recorrer los 72 municipios para conocer demandas de agua, caminos y servicios.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/destaca-javier-lamarque-importancia-de-recorrer-sonora-y-escuchar-a-sus-comunidades/",
-        "_added_at": "2026-08-15T02:13:46.613318-07:00"
-      },
-      {
-        "title": "Sonora concluye consulta sobre derechos indígenas y afromexicanos",
-        "summary": "Pueblos guarijíos presentan propuestas en Álamos para nueva ley de derechos indígenas tras asambleas regionales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/guarijios-aportan-propuestas-para-nueva-ley-de-derechos-indigenas/262465",
-        "_added_at": "2026-08-15T02:13:46.613318-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/vamos-2-a-1-busquemos-el-3-a-1-lamarque/262630",
+        "_added_at": "2026-08-17T21:29:29.902340-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Manufactura avanzada crece 2.1% anual en Sonora",
-        "summary": "Sector industrial genera más empleos y oportunidades para familias sonorenses.",
+        "title": "Gasto mensual de 4 mil pesos en transporte y lonche escolar",
+        "summary": "Familias sonorenses gastan aproximadamente 4 mil pesos mensuales en transporte y alimentos para estudiantes.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/15/crecimiento-industrial-abre-mas-empleos-y-oportunidades-para-las-familias-de-sonora-durazo/",
-        "_added_at": "2026-08-15T08:08:42.824457-07:00"
+        "url": "https://www.elimparcial.com/dinero/2026/08/17/transporte-y-lonche-los-gastos-del-regreso-a-clases-que-se-prolongan-durante-todo-el-ciclo-escolar-y-suman-4-mil-pesos-al-mes-por-familia/",
+        "_added_at": "2026-08-17T21:29:29.902340-07:00"
       },
       {
-        "title": "Actividad industrial sonorense crece 2.4% en abril 2026",
-        "summary": "Imaief del Inegi reporta expansión anual en sector industrial de Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/crece-24-actividad-industrial-de-sonora/262484",
-        "_added_at": "2026-08-15T08:08:42.824457-07:00"
-      },
-      {
-        "title": "Útiles y electricidad consumen 30% del sueldo sonorense",
-        "summary": "Regreso a clases y recibos de luz impactan gravemente presupuestos familiares durante verano.",
+        "title": "Inicia entrega de uniformes escolares en Cajeme",
+        "summary": "Cajeme distribuye 5 mil uniformes escolares durante primer día de entregas.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/regreso-a-clases-y-recibo-de-luz-consumen-hasta-30-del-sueldo-de-familias-sonorenses-durante-el-verano/",
-        "_added_at": "2026-08-15T08:08:42.824457-07:00"
-      },
-      {
-        "title": "Unison establece nuevas reglas para vendedores en campus",
-        "summary": "Universidad de Sonora limita comercio con 64 espacios para emprendedores y nuevos requisitos regulatorios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/unison-limita-venta-en-campus-para-estudiantes-emprendedores/262444",
-        "_added_at": "2026-08-15T02:13:46.613318-07:00"
-      },
-      {
-        "title": "Valles destaca hospital en Ures y regeneración del río Sonora",
-        "summary": "Autoridades señalan avances en infraestructura y remediación ambiental para atender demandas de la región.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-acciones-para-remediar-el-rio-sonora/262464",
-        "_added_at": "2026-08-15T02:13:46.613318-07:00"
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/17/inicia-entrega-de-uniformes-escolares-en-cajeme-entregan-5-mil-durante-el-primer-dia/",
+        "_added_at": "2026-08-17T21:29:29.902340-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Regalarán árboles nativos este sábado en Hermosillo",
-        "summary": "Distribución de flora nativa para iniciativas de reforestación en capital sonorense.",
+        "title": "Incendio destruye palapa de mariscos en carretera a Bahía",
+        "summary": "Fuego consumió establecimiento de venta de mariscos en kilómetro 14 de carretera Hermosillo-Bahía de Kino.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/13/regalaran-arboles-nativos-este-sabado-en-hermosillo/",
-        "_added_at": "2026-08-15T08:08:42.824457-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/17/incendio-consume-palapa-de-mariscos-en-carretera-hermosillo-bahia-de-kino-bomberos-evitan-que-el-fuego-se-propague/",
+        "_added_at": "2026-08-17T21:29:29.902340-07:00"
       },
       {
-        "title": "Valles destaca nuevo hospital en Ures y regeneración del río",
-        "summary": "Infraestructura sanitaria y remediación ambiental del Río Sonora atienden demandas regionales.",
+        "title": "Muere niña de dos años por inmersión en San Carlos",
+        "summary": "Fallecimiento de menor por asfixia en San Carlos; autoridades investigan circunstancias.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-acciones-para-remediar-el-rio-sonora/262464",
-        "_added_at": "2026-08-15T08:08:42.824457-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/muere-nina-por-asfixia-por-inmersion-en-san-carlos/262621",
+        "_added_at": "2026-08-17T21:29:29.902340-07:00"
       },
       {
-        "title": "Víctima de araña violinista busca apoyo para tratamientos médicos urgentes",
-        "summary": "José Manuel requiere ayuda financiera para costear atención médica en Hermosillo.",
+        "title": "Familia solicita apoyo para cirugía de menor de tres años",
+        "summary": "Padres piden ayuda para intervención quirúrgica de Allison, niña de tres años.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/jose-manuel-victima-de-arana-violinista-busca-ayuda-para-costear-tratamientos-medicos-urgentes/",
-        "_added_at": "2026-08-15T05:12:44.857268-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/17/allison-necesita-cirugia-para-poder-evacuar-por-si-misma-familia-pide-apoyo/",
+        "_added_at": "2026-08-17T21:29:29.902340-07:00"
       },
       {
-        "title": "Cruz Roja auxilia familia deportada en condiciones de extrema vulnerabilidad",
-        "summary": "Organización humanitaria atiende a familia deportada que vivía en precariedad en Pitiquito.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/cruz-roja-auxilia-a-familia-deportada-que-vivia-en-extrema-vulnerabilidad-en-pitiquito/",
-        "_added_at": "2026-08-15T05:12:44.857268-07:00"
-      },
-      {
-        "title": "Rutalikazo 2026 congrega cientos de participantes en Sonora",
-        "summary": "Evento de ciclismo recorre paisajes de Sonora y Chihuahua con vigilancia de cuerpos de emergencia.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/14/cientos-de-participantes-salen-al-rutalikazo-2026-para-recorrer-los-paisajes-y-caminos-de-sonora-y-chihuahua-con-vigilancia-de-cuerpos-de-emergencia/",
-        "_added_at": "2026-08-15T02:13:46.613318-07:00"
-      },
-      {
-        "title": "Cenador Infantil Emmanuel busca donativos en Hermosillo",
-        "summary": "Institución requiere apoyo para alimentar a niños y adultos mayores en situación vulnerable.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/cenador-infantil-emmanuel-requiere-donativos-para-alimentar-a-ninos-y-adultos-mayores-en-hermosillo/",
-        "_added_at": "2026-08-15T02:13:46.613318-07:00"
-      },
-      {
-        "title": "Falla en acueducto causa variaciones de agua en Hermosillo",
-        "summary": "Problema en Acueducto Independencia afectará servicio a colonias este viernes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/14/variaciones-en-el-servicio-de-agua-afectaran-este-viernes-a-colonias-de-hermosillo-tras-falla-en-el-acueducto-independencia/",
-        "_added_at": "2026-08-15T02:13:46.613318-07:00"
-      },
-      {
-        "title": "Sonora mantiene vigilancia ante diarrea explosiva reportada",
-        "summary": "Salud estatal descarta casos en el estado y refuerza medidas preventivas de higiene.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/14/sonora-no-registra-casos-de-diarrea-explosiva-salud-pide-mantener-medidas-de-higiene/",
-        "_added_at": "2026-08-15T02:13:46.613318-07:00"
+        "title": "Entregan 500 kits escolares en colonia Altares Hermosillo",
+        "summary": "Antonio Astiazarán distribuye paquetes escolares a estudiantes de colonia Altares.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/astiazaran-entrega-kits-escolares-en-altares/262624",
+        "_added_at": "2026-08-17T21:29:29.902340-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-15T08:08:42.824457-07:00"
+  "last_updated": "2026-08-17T21:29:29.902340-07:00"
 }
