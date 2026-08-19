@@ -1,8 +1,22 @@
 {
   "date": "2026-08-19",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Decomisan 34 kilos de cocaína en autobús en Nogales",
+        "summary": "Autoridades estadounidenses aseguran más de 34 kilos de cocaína en transporte comercial en la frontera de Nogales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/decomisan-mas-de-34-kilos-de-cocaina-en-autobus-en-nogales/262754",
+        "_added_at": "2026-08-19T15:22:14.313356-07:00"
+      },
+      {
+        "title": "Gobernador destaca reducción de homicidios en Caborca",
+        "summary": "Durazo reporta baja de violencia en Caborca e inversión de mil millones de pesos para reactivar actividades.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/recuperan-200-ranchos-y-dos-minas-en-caborca/262723",
+        "_added_at": "2026-08-19T15:22:14.313356-07:00"
+      },
       {
         "title": "Gobernador destaca reducción de homicidios en Caborca",
         "summary": "Durazo señala baja de crímenes en Caborca, manteniéndose como zona con menor incidencia delictiva en Sonora.",
@@ -34,6 +48,13 @@
     ],
     "politica": [
       {
+        "title": "Morena define coordinador de 4T en Sonora próximamente",
+        "summary": "Partido Morena en Sonora realizará encuesta para elegir coordinador de Cuarta Transformación en primera semana de septiembre.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/morena-sonora-encuesta-para-definir-coordinador-sera-pronto/262747",
+        "_added_at": "2026-08-19T15:22:14.313356-07:00"
+      },
+      {
         "title": "Lamarque llama a fortalecer unidad en Morena",
         "summary": "Dirigente hace llamado a mantener cohesión dentro del movimiento político en Sonora.",
         "source": "Expreso",
@@ -42,6 +63,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Apagones causan caída de 25% en ventas del Centro",
+        "summary": "Fallas en transformadores durante temporada de calor generan pérdidas significativas para comerciantes en zona céntrica.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/19/apagones-y-fallas-en-transformadores-golpean-al-centro/",
+        "_added_at": "2026-08-19T15:22:14.313356-07:00"
+      },
+      {
+        "title": "Lluvias y apagones reducen ventas comerciales hasta 15%",
+        "summary": "Comercios reportan disminución de ingresos debido a condiciones climáticas e interrupciones eléctricas en Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/19/bajan-hasta-15-ventas-en-comercios-por-lluvias-y-apagones/",
+        "_added_at": "2026-08-19T15:22:14.313356-07:00"
+      },
       {
         "title": "Caborca recibe inversión de mil millones tras recuperar ranchos",
         "summary": "Reactivación agrícola y ganadera en Caborca atrae inversión de capital tras recuperación de tierras.",
@@ -73,6 +108,34 @@
     ],
     "sociedad": [
       {
+        "title": "Sonora suma más de mil casos de dengue",
+        "summary": "Estado concentra 74% de contagios de dengue en México, registrando 1,020 casos confirmados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/19/sonora-supera-los-mil-casos-de-dengue-y-concentra-74-de-contagios-en-mexico/",
+        "_added_at": "2026-08-19T15:22:14.313356-07:00"
+      },
+      {
+        "title": "Evacúan 60 personas de centro de salud en Hermosillo",
+        "summary": "Centro de Salud desaloja personal por derrame de ácido muriático que afecta instalaciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/19/evacuan-a-60-personas-de-centro-de-salud-en-hermosillo-tras-derrame-de-acido-muriatico/",
+        "_added_at": "2026-08-19T15:22:14.313356-07:00"
+      },
+      {
+        "title": "Joven con discapacidad auditiva se ahoga en Nogales",
+        "summary": "Fallece usuario de alberca municipal; víctima contaba con limitaciones auditivas y del habla.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/nogales-muere-joven-ahogado-en-alberca-de-unidad-deportiva/262738",
+        "_added_at": "2026-08-19T15:22:14.313356-07:00"
+      },
+      {
+        "title": "Lluvia genera seis socavones en Ciudad Obregón",
+        "summary": "Precipitaciones dejan afectaciones en infraestructura vial y terrestre en municipio de Cajeme.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/19/dejan-lluvias-seis-socavones-en-ciudad-obregon/",
+        "_added_at": "2026-08-19T15:22:14.313356-07:00"
+      },
+      {
         "title": "Amenaza \"Súper-Niño\" a campos agrícolas de Sonora",
         "summary": "Fenómeno climático pone en riesgo actividades agrícolas en el estado.",
         "source": "El Imparcial",
@@ -102,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-19T09:29:26.480381-07:00"
+  "last_updated": "2026-08-19T15:22:14.313356-07:00"
 }
