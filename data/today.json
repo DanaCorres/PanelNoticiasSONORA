@@ -1,8 +1,22 @@
 {
   "date": "2026-08-18",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Nueva orden contra 'El Florero' por agresiones en Puerto Peñasco",
+        "summary": "Autoridades ejecutan orden de aprehensión contra presunto agresor de adolescente tras videos virales que evidencian ataques.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/18/una-adolescente-de-17-anos-fue-agredida-en-puerto-penasco-y-el-video-viral-permitio-que-la-fiscalia-de-sonora-obtuviera-una-nueva-orden-de-aprehension-contra-su-agresor-conocido-como-el-florero/",
+        "_added_at": "2026-08-18T20:25:53.264378-07:00"
+      },
+      {
+        "title": "Tres detenidos con droga en Agua Prieta; uno por tentativa de feminicidio",
+        "summary": "Operativo en Agua Prieta resulta en tres detenciones, decomiso de metanfetamina y captura de imputado por feminicidio en grado tentativa.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/caen-tres-jovenes-con-droga-en-agua-prieta/262696",
+        "_added_at": "2026-08-18T20:25:53.264378-07:00"
+      },
       {
         "title": "Vinculan a proceso a homicida en Cajeme",
         "summary": "Hombre procesado por matar a pareja embarazada; atacó con arma blanca el 25 de junio en Valle Verde.",
@@ -48,6 +62,20 @@
     ],
     "politica": [
       {
+        "title": "Lamarque llama a fortalecer unidad en Morena Sonora",
+        "summary": "Dirigente estatal exhorta al partido a sumar capacidades y reforzar cohesión interna en la entidad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-hace-llamado-a-la-unidad-en-morena/262701",
+        "_added_at": "2026-08-18T20:25:53.264378-07:00"
+      },
+      {
+        "title": "SomosMx pide transparencia en financiamiento de morenistas 2027",
+        "summary": "Organización solicita al INE esclarecer origen de recursos utilizados por Andy López y otros políticos en promociones electorales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/18/somosmx-pide-al-ine-transparentar-el-origen-de-recursos-usados-por-andy-lopez-y-otros-morenistas-en-sus-promociones-rumbo-al-2027/",
+        "_added_at": "2026-08-18T20:25:53.264378-07:00"
+      },
+      {
         "title": "Durazo afirma recuperación de ranchos en Caborca",
         "summary": "Gobernador declara que ha recuperado ranchos tomados por crimen organizado en municipio.",
         "source": "Proyecto Puente",
@@ -92,6 +120,27 @@
     ],
     "economia": [
       {
+        "title": "Sonora epicentro de desarrollo económico con políticas industriales nuevas",
+        "summary": "Funcionaria destaca que entidad impulsa sostenibilidad y fortalece MIPyME lideradas por jóvenes y emprendedurismo local.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-desarrollo-economico-en-sonora/262702",
+        "_added_at": "2026-08-18T20:25:53.264378-07:00"
+      },
+      {
+        "title": "CFE realiza tres mil trabajos mantenimiento en Sierra Alta",
+        "summary": "Empresa eléctrica ejecuta labor de mantenimiento para mejorar suministro de energía en ocho municipios sonorenses.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/18/cfe-realiza-mas-de-3-mil-trabajos-de-mantenimiento-en-la-sierra-alta-de-sonora-para-mejorar-el-suministro-electrico-en-ocho-municipios/",
+        "_added_at": "2026-08-18T20:25:53.264378-07:00"
+      },
+      {
+        "title": "Hermosillo tiene finanzas sanas pero enfrenta red agua antigua",
+        "summary": "Alcaldesa reconoce solidez económica pero advierte sobre infraestructura hídrica de más de 40 años de antigüedad.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/18/hermosillo-presume-finanzas-sanas-pero-enfrenta-una-red-de-agua-de-mas-de-40-anos-flor-ayala-ante-coparmex/",
+        "_added_at": "2026-08-18T20:25:53.264378-07:00"
+      },
+      {
         "title": "Dólar repunta frente al peso mexicano",
         "summary": "Tipo de cambio muestra recuperación tras período de fortaleza del peso.",
         "source": "El Imparcial",
@@ -100,6 +149,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Tormenta avanza al centro de Sonora con lluvia fuerte",
+        "summary": "Sistema meteorológico se forma en sierra y podría extenderse durante la noche hacia Hermosillo y varios municipios.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/18/tormenta-avanzaria-durante-las-proximas-horas-de-la-sierra-al-centro-de-sonora-con-lluvias-fuertes-rayos-y-rachas-de-viento/",
+        "_added_at": "2026-08-18T20:25:53.264378-07:00"
+      },
+      {
+        "title": "Convocan a jornada de arborización en Hermosillo el 23 agosto",
+        "summary": "Iniciativa ciudadana busca plantar árboles nativos para mitigar calor extremo en la capital sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/18/unete-a-la-arborizacion-en-hermosillo-hermoverde-busca-mitigar-el-calor-con-arboles-nativos/",
+        "_added_at": "2026-08-18T20:25:53.264378-07:00"
+      },
+      {
+        "title": "Advierten posible cierre de 31 guarderías del IMSS en Sonora",
+        "summary": "Alertan sobre posible clausura de instalaciones afiliadas al seguro social que atienden a familias derechohabientes.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/18/advierten-posible-cierre-de-31-guarderias-afiliadas-al-imss-en-sonora/",
+        "_added_at": "2026-08-18T20:25:53.264378-07:00"
+      },
+      {
+        "title": "Caborca reduce homicidios; suma mil millones en obras cinco años",
+        "summary": "Municipio reporta disminución en criminalidad y avances significativos en inversión de infraestructura local.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/18/caborca-reduce-homicidios-y-suma-casi-mil-millones-de-pesos-en-obras-durante-cinco-anos-durazo/",
+        "_added_at": "2026-08-18T20:25:53.264378-07:00"
+      },
       {
         "title": "Aumentan ahogamientos en Cajeme; van once en 2026",
         "summary": "Muertes por ahogamiento crecen en municipio durante el año.",
@@ -141,22 +218,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/18/lluvias-continuaran-en-varias-zonas-de-sonora-durante-los-proximos-dias-mientras-el-calor-seguira-superando-los-45-grados/",
         "_added_at": "2026-08-18T09:23:41.219879-07:00"
-      },
-      {
-        "title": "Invierten 10 millones en Centro de Usos Múltiples de Hermosillo",
-        "summary": "Renovación de CUM beneficiará entrenamiento de atletas sonorenses.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/18/invierten-10-millones-de-pesos-en-el-cum-para-mejorar-el-entrenamiento-de-atletas-sonorenses/",
-        "_added_at": "2026-08-18T09:23:41.219879-07:00"
-      },
-      {
-        "title": "Distribuyen 500 kits escolares en Hermosillo previo a clases",
-        "summary": "Autoridades entregan materiales educativos a niños de colonia Altares.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/17/entregan-500-kits-escolares-a-ninas-y-ninos-de-hermosillo-previo-al-regreso-a-clases/",
-        "_added_at": "2026-08-18T09:23:41.219879-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-18T15:21:16.955389-07:00"
+  "last_updated": "2026-08-18T20:25:53.264378-07:00"
 }
