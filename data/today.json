@@ -1,8 +1,29 @@
 {
   "date": "2026-08-20",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a proceso a dos por homicidio en Hermosillo",
+        "summary": "Dos hombres fueron vinculados a proceso por homicidio en una taquería de Hermosillo durante agresión armada.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/20/vinculan-a-proceso-a-dos-hombres-por-quitarle-la-vida-a-hombre-en-agresion-armada-en-taqueria-de-hermosillo/",
+        "_added_at": "2026-08-20T15:25:14.641892-07:00"
+      },
+      {
+        "title": "Detienen a hombre por homicidio de menor en Cajeme",
+        "summary": "Capturan a sujeto acusado de quitarle la vida a un menor en agresiónarmada en municipio de Cajeme.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/20/detienen-a-hombre-por-quitarle-la-vida-en-agresion-armada-a-menor-en-cajeme/",
+        "_added_at": "2026-08-20T15:25:14.641892-07:00"
+      },
+      {
+        "title": "Detienen por violencia doméstica e intento de daño en Hermosillo",
+        "summary": "Hombre detenido por insultos a cónyuge y destrucción de propiedad en vivienda de Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/20/detienen-a-hombre-por-insultar-a-su-esposa-y-causar-destrozos-en-su-casa-en-hermosillo/",
+        "_added_at": "2026-08-20T15:25:14.641892-07:00"
+      },
       {
         "title": "Hallan cadáver con signos violencia en Hermosillo",
         "summary": "Encontraron hombre sin vida con evidencia de violencia al norponiente de la capital sonorense.",
@@ -19,6 +40,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "PAN propone legislar derecho de réplica contra Mañanera",
+        "summary": "Diputado del PAN anuncia iniciativa legislativa para crear derecho de réplica respecto contenido difamatorio.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/20/en-la-mananera-se-difama-pan-va-a-legislar-para-que-haya-derecho-de-replica-elias-lixa/",
+        "_added_at": "2026-08-20T15:25:14.641892-07:00"
+      },
       {
         "title": "PAN propone inversión millonaria para nuevo hospital ISSSTE",
         "summary": "Partido plantea 2 mil 300 millones de pesos en presupuesto ante cierre del ISSSTE en Hermosillo.",
@@ -42,6 +70,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Gusano barrenador preocupa a ganaderos del Valle del Yaqui",
+        "summary": "Detección de plaga en Álamos genera alertas; productores extreman precauciones en manejo ganadero.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/20/preocupa-a-ganaderos-del-valley-del-yaqui-avance-del-gusano-barrenador/",
+        "_added_at": "2026-08-20T15:25:14.641892-07:00"
+      },
+      {
+        "title": "Exportación de ganado se mantiene pese a gusano barrenador",
+        "summary": "Unión Ganadera asegura continuidad de envíos para 24 de agosto a pesar de caso confirmado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sigue-exportacion-de-ganado-de-sono-pese-a-gusano-barrenador/262818",
+        "_added_at": "2026-08-20T15:25:14.641892-07:00"
+      },
       {
         "title": "Frontera abrirá para ganado mexicano el 24 de agosto",
         "summary": "Reapertura se confirma pese a caso de gusano barrenador detectado en Álamos, Sonora.",
@@ -95,5 +137,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-20T14:25:30.178754-07:00"
+  "last_updated": "2026-08-20T15:25:14.641892-07:00"
 }
