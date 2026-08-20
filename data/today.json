@@ -1,8 +1,29 @@
 {
   "date": "2026-08-19",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Primer caso de gusano barrenador detectado en Sonora",
+        "summary": "Gobierno activa protocolos sanitarios tras hallar gusano barrenador en ganado de Álamos. Durazo pide a ganaderos vigilancia preventiva.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/19/tras-detectar-gusano-barrenador-en-ganado-de-alamos-gobierno-de-sonora-activa-protocolos-sanitarios-y-libera-360-mil-moscas-esteriles-es-el-primer-caso-registrado-en-la-entidad/",
+        "_added_at": "2026-08-19T20:25:20.266946-07:00"
+      },
+      {
+        "title": "Vinculan a sujeto por portación ilegal de armas en Guaymas",
+        "summary": "Operativo conjunto aseguró tres armas y dictó prisión preventiva tras detención en Belem, Guaymas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-proceso-a-sujeto-por-portacion-armas-en-guaymas/262782",
+        "_added_at": "2026-08-19T20:25:20.266946-07:00"
+      },
+      {
+        "title": "Policía actúa en defensa propia durante ataque en Hermosillo",
+        "summary": "Comisario respalda a agente que disparó contra atacante con cuchillo en acto de autodefensa.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/19/comisario-respalda-a-policia-que-disparo-en-defensa-propia-durante-ataque-con-cuchillo/",
+        "_added_at": "2026-08-19T20:25:20.266946-07:00"
+      },
       {
         "title": "Decomisan 34 kilos de cocaína en autobús en Nogales",
         "summary": "Autoridades estadounidenses aseguran más de 34 kilos de cocaína en transporte comercial en la frontera de Nogales.",
@@ -48,6 +69,27 @@
     ],
     "politica": [
       {
+        "title": "Lamarque realiza gira de trabajo en Hermosillo",
+        "summary": "Javier Lamarque enfatiza experiencia de gobierno y fortalecimiento organizativo de Morena en municipios sonorenses.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-mantiene-gira-trabajo-en-hermosillo/262784",
+        "_added_at": "2026-08-19T20:25:20.266946-07:00"
+      },
+      {
+        "title": "Lorenia Valles lidera asambleas de Morena en Sonora",
+        "summary": "Senadora con licencia conduce recorridos para fortalecer Cuarta Transformación en entidad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/valles-confia-en-proceso-interno-de-morena-en-sonora/262775",
+        "_added_at": "2026-08-19T20:25:20.266946-07:00"
+      },
+      {
+        "title": "Gobierno lleva Sonora Atiende a comunidades rurales",
+        "summary": "Programa estatal llega a Sahuaripa atendiendo necesidades de familias sonorenses de manera cercana.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/gobierno-sonora-impulsa-programa-sonora-atiende-en-sahuaripa/262779",
+        "_added_at": "2026-08-19T20:25:20.266946-07:00"
+      },
+      {
         "title": "Morena define coordinador de 4T en Sonora próximamente",
         "summary": "Partido Morena en Sonora realizará encuesta para elegir coordinador de Cuarta Transformación en primera semana de septiembre.",
         "source": "Expreso",
@@ -63,6 +105,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Más de 500 familias reciben cancelación gratuita de hipotecas",
+        "summary": "Hermosillo: familias beneficiadas con condonación de créditos hipotecarios del Infonavit.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/19/mas-de-500-familias-de-hermosillo-reciben-gratis-la-cancelacion-de-sus-hipotecas-del-infonavit/",
+        "_added_at": "2026-08-19T20:25:20.266946-07:00"
+      },
+      {
+        "title": "CNA espera continuidad de reapertura fronteriza para ganadería",
+        "summary": "Sector ganadero mexicano espera que EE.UU. mantenga apertura de importaciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/19/espera-cna-que-estados-unidos-continue-con-reapertura-de-la-frontera-a-importacion-de-ganado-mexicano/",
+        "_added_at": "2026-08-19T20:25:20.266946-07:00"
+      },
       {
         "title": "Apagones causan caída de 25% en ventas del Centro",
         "summary": "Fallas en transformadores durante temporada de calor generan pérdidas significativas para comerciantes en zona céntrica.",
@@ -107,6 +163,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Joven se ahoga en alberca municipal de Nogales",
+        "summary": "Fallecimiento registrado en instalaciones acuáticas municipales de Nogales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/08/19/fallece-joven-ahogado-en-alberca-municipal-de-nogales/",
+        "_added_at": "2026-08-19T20:25:20.266946-07:00"
+      },
+      {
+        "title": "Colegio Campogrande organiza colecta de útiles escolares",
+        "summary": "Alumnos hermosillenses reúnen útiles para apoyar a niños de Miguel Alemán.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/19/para-apoyar-a-ninos-de-miguel-aleman-alumnos-del-colegio-campogrande-de-hermosillo-organizan-colecta-de-utiles-escolares/",
+        "_added_at": "2026-08-19T20:25:20.266946-07:00"
+      },
+      {
+        "title": "Ayuntamiento pide revisar anuncios por vientos fuertes",
+        "summary": "Hermosillo solicita inspección preventiva de anuncios espectaculares ante riesgo climático.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/19/ayuntamiento-de-hermosillo-pide-revisar-anuncios-espectaculares-ante-fuertes-vientos/",
+        "_added_at": "2026-08-19T20:25:20.266946-07:00"
+      },
       {
         "title": "Sonora suma más de mil casos de dengue",
         "summary": "Estado concentra 74% de contagios de dengue en México, registrando 1,020 casos confirmados.",
@@ -155,15 +232,8 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/19/entregan-41-camaras-corporales-a-policias-para-fortalecer-la-seguridad-y-la-confianza-ciudadana-en-cananea/",
         "_added_at": "2026-08-19T09:29:26.480381-07:00"
-      },
-      {
-        "title": "Diseñadora sonorense presenta colección en Nueva York",
-        "summary": "Pamela Cañedo recauda fondos para representar a Sonora en Semana de la Moda neoyorquina.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/pamela-canedo-representara-a-sonora-en-la-semana-de-la-moda/262706",
-        "_added_at": "2026-08-19T09:29:26.480381-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-19T15:22:14.313356-07:00"
+  "last_updated": "2026-08-19T20:25:20.266946-07:00"
 }
