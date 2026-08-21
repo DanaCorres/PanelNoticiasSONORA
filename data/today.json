@@ -1,8 +1,36 @@
 {
   "date": "2026-08-20",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Senasica refuerza contención del gusano barrenador",
+        "summary": "Autoridades despliegan brigadas en Álamos para controlar plaga detectada en Sonora mediante rastreo y liberación de mosca estéril.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/20/refuerza-senasica-estrategia-de-contencion-en-sonora-tras-deteccion-de-caso-de-gusano-barrenador/",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
+      {
+        "title": "Detienen a integrantes de banda delictiva en Puerto Madero",
+        "summary": "Capturan cuatro presuntos miembros de Los Mayitos durante operativo en la región.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/20/detienen-a-cuatro-presuntos-integrantes-de-los-mayitos-en-puerto-madero/",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
+      {
+        "title": "Asesinan a llantero en Ciudad Obregón",
+        "summary": "Reportan homicidio de trabajador en colonia Libertad del municipio.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/policiaca/asesinan-a-llantero-en-la-colonia-libertad/141869",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
+      {
+        "title": "Detienen pareja con arma en Nogales",
+        "summary": "Capturan a dos personas portando pistola 9mm y cartuchos durante patrullaje en colonia Kennedy.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/20/detienen-pareja-arma-9-mm-durante-patrullaje-colonia-kennedy.html",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
       {
         "title": "Vinculan a proceso a dos por homicidio en Hermosillo",
         "summary": "Dos hombres fueron vinculados a proceso por homicidio en una taquería de Hermosillo durante agresión armada.",
@@ -41,6 +69,27 @@
     ],
     "politica": [
       {
+        "title": "Lorenia Valles como posible candidata Morena 2027",
+        "summary": "Movimiento Morena posiciona a Valles para contienda electoral en Sonora hacia próximas elecciones.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/morena-mueve-sus-fichas-rumbo-a-2027-en-sonora-seria-lorenia-valles-la-elegida/",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
+      {
+        "title": "Partidos destinan 236 mdp para liderazgo femenino",
+        "summary": "Inversión de recursos en impulso de participación política de mujeres en Sonora.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/partidos-destinaran-236-mdp-impulsar-liderazgo-politico-mujeres-n899961",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
+      {
+        "title": "Lamarque destaca logros de Cuarta Transformación",
+        "summary": "Funcionario resalta recuperación de ingresos y reducción de pobreza en Villa de Seris.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-destaca-logros-de-la-cuarta-transformacion/262856",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
+      {
         "title": "PAN propone legislar derecho de réplica contra Mañanera",
         "summary": "Diputado del PAN anuncia iniciativa legislativa para crear derecho de réplica respecto contenido difamatorio.",
         "source": "Proyecto Puente",
@@ -70,6 +119,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Nogales posicionado como centro industrial estratégico",
+        "summary": "Destacan importancia de Nogales en integración industrial de Mega Región Arizona-Sonora.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/20/destacan-nogales-punto-estrategico-industria-mega-region-arizonasonora.html",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
+      {
+        "title": "Sonora atrae inversión con visita de Embajada Indonesia",
+        "summary": "Gobernador Durazo abre oportunidades comerciales y de inversión con delegación indonesia.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-atrae-oportunidad-de-inversion-para-sonora-con-visita-de-embajada-de-indonesia/",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
+      {
+        "title": "Gobierno y Canacope impulsan desarrollo de Hermosillo",
+        "summary": "Administración municipal y empresarios unen esfuerzos para fortalecer economía local.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/gobierno-municipal-y-canacope-unen-esfuerzos-para-impulsar-el-desarrollo-de-hermosillo/",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
       {
         "title": "Gusano barrenador preocupa a ganaderos del Valle del Yaqui",
         "summary": "Detección de plaga en Álamos genera alertas; productores extreman precauciones en manejo ganadero.",
@@ -108,6 +178,34 @@
     ],
     "sociedad": [
       {
+        "title": "Más de 40 mil estudiantes afectados por paro de preparatorias",
+        "summary": "Huelga en educación media superior impacta a decenas de miles de jóvenes en Sonora.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/mas-de-40-mil-estudiantes-de-sonora-podrian-verse-afectados-por-paro-de-preparatorias-31666358",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
+      {
+        "title": "Cancelan hipotecas a 500 familias sonorenses",
+        "summary": "Durazo y Sheinbaum garantizan certeza patrimonial mediante eliminación de deudas hipotecarias.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/garantizan-durazo-y-sheinbaum-seguridad-y-certeza-patrimonial-a-mas-de-500-familias-con-cancelaciones-de-hipotecas/",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
+      {
+        "title": "Refuerzan operativo vial por regreso a clases",
+        "summary": "Autoridades implementan medidas de seguridad vial en Hermosillo ante inicio del ciclo escolar.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/refuerzan-operativo-vial-por-regreso-a-clases-en-hermosillo-31653691",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
+      {
+        "title": "Astiazarán apoya familias con casas sustentables",
+        "summary": "Programa de vivienda ecológica beneficia a familias sonorenses con construcciones sustentables.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/apoya-tono-astiazaran-a-familias-con-casas-sustentables/",
+        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+      },
+      {
         "title": "Mil denuncias por incumplimiento de obligaciones familiares",
         "summary": "Sonora registró más de mil 100 casos en primer semestre 2026, reporta Fundación Nueva Generación.",
         "source": "Expreso",
@@ -137,5 +235,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-20T15:25:14.641892-07:00"
+  "last_updated": "2026-08-20T20:30:09.924697-07:00"
 }
