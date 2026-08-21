@@ -1,8 +1,29 @@
 {
   "date": "2026-08-21",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Nogales encabeza narcotúneles a nivel nacional",
+        "summary": "Nogales registra primer lugar en narcotúneles nacionales; utilizan menores para cruzarlos.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/21/nogales-primer-lugar-nacional-en-narcotuneles-usan-ninos-para-cruzarlos-por-sonora/",
+        "_added_at": "2026-08-21T15:22:44.971134-07:00"
+      },
+      {
+        "title": "Incendio destruye iglesia y centro catequesis",
+        "summary": "Incendio consume iglesia y centro de catecismo en Hermosillo.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/hermosillo/incendio-acaba-con-iglesia-y-centro-de-catecismo-en-hermosillo/141948",
+        "_added_at": "2026-08-21T15:22:44.971134-07:00"
+      },
+      {
+        "title": "Red huachicolera vincula puertos sonorenses",
+        "summary": "Sonora identificada en red de huachicol de Farías Laguna, deportado de Argentina.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/21/sonora-entre-los-puertos-vinculados-a-red-huachicolera-de-farias-laguna-expulsado-de-argentina-a-mexico/",
+        "_added_at": "2026-08-21T15:22:44.971134-07:00"
+      },
       {
         "title": "Vinculan a proceso a sujeto armado en comunidad yaqui",
         "summary": "Detienen a individuo con armamento en territorio yaqui y lo vinculan a proceso judicial.",
@@ -20,6 +41,20 @@
     ],
     "politica": [
       {
+        "title": "Julia Huerta continúa diálogos en Nogales",
+        "summary": "Candidata Julia Huerta mantiene recorridos y diálogos con familias en Nogales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/21/julia-huerta-mantiene-recorridos-territoriales-dialogo-familias-nogales.html",
+        "_added_at": "2026-08-21T15:22:44.971134-07:00"
+      },
+      {
+        "title": "Durazo instala Comité Local de Cruceros",
+        "summary": "Gobernador Durazo fortalece Guaymas y San Carlos como destino turístico mediante comité.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/instala-gobernador-durazo-comite-local-de-cruceros-para-fortalecer-a-guaymas-y-san-carlos-como-destino-turistico/",
+        "_added_at": "2026-08-21T15:22:44.971134-07:00"
+      },
+      {
         "title": "Ganaderos de Sonora exigen apertura de Nogales para exportar",
         "summary": "Productores reclaman reapertura de cuarentenaria en Nogales para exportación ganado a EE.UU.",
         "source": "El Imparcial",
@@ -35,6 +70,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "SAT insta regularización de adeudos fiscales",
+        "summary": "Contribuyentes sonorenses convocados a regularizar deudas fiscales ante SAT.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/sat-llama-contribuyentes-sonora-regularizar-adeudos-fiscales-n900057",
+        "_added_at": "2026-08-21T15:22:44.971134-07:00"
+      },
+      {
+        "title": "Operativo gusano barrenador dura dos meses",
+        "summary": "Tras primer caso en Sonora, operativo con moscas estériles erradicará foco en Álamos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/21/tras-el-primer-caso-de-gusano-barrenador-en-sonora-mantendran-durante-al-menos-dos-meses-un-operativo-con-moscas-esteriles-para-erradicar-el-foco-en-alamos-mientras-continua-la-movilizacion-de-ganado/",
+        "_added_at": "2026-08-21T15:22:44.971134-07:00"
+      },
+      {
+        "title": "Frontera mantiene firme reapertura a ganado",
+        "summary": "Continúa avance en reapertura de frontera para exportación ganadera sonorense.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/sigue-firme-reapertura-de-frontera-a-ganado-sonorense/",
+        "_added_at": "2026-08-21T15:22:44.971134-07:00"
+      },
       {
         "title": "Sonora busca ampliar comercio e inversiones con Indonesia",
         "summary": "Gobernador Durazo encabeza misión para fortalecer cooperación en sectores estratégicos energéticos.",
@@ -66,6 +122,34 @@
     ],
     "sociedad": [
       {
+        "title": "Hermosillo alcanzará 47°C con sensación térmica",
+        "summary": "Clima extremadamente caluroso en Hermosillo; alerta por temperaturas peligrosas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/clima-en-sonora-hoy-hermosillo-llegara-a-47c/262889",
+        "_added_at": "2026-08-21T15:22:44.971134-07:00"
+      },
+      {
+        "title": "Suben a 22 muertes asociadas al calor",
+        "summary": "Sonora registra 22 decesos relacionados con altas temperaturas en 2026.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/suma-sonora-22-decesos-asociados-al-calor-en-2026/262881",
+        "_added_at": "2026-08-21T15:22:44.971134-07:00"
+      },
+      {
+        "title": "Avanzan reparaciones de fuga de aguas negras",
+        "summary": "Trabajan en reparación de fuga de aguas negras en colonia Sahuaro.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/avanzan-trabajos-reparar-fuga-aguas-negras-colonia-sahuaro-n900055",
+        "_added_at": "2026-08-21T15:22:44.971134-07:00"
+      },
+      {
+        "title": "Toman CFE en Villa Juárez por apagones",
+        "summary": "Ciudadanos toman instalaciones de CFE protestando por cortes de energía continuos.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/21/estamos-hart0s-de-apagones-toman-la-cfe-en-villa-juarez/",
+        "_added_at": "2026-08-21T15:22:44.971134-07:00"
+      },
+      {
         "title": "Instalan Comité Local de Cruceros en Guaymas y San Carlos",
         "summary": "Crean estructura para fortalecer destino turístico de cruceros en puertos sonorenses.",
         "source": "Radio Sonora",
@@ -81,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-21T09:31:50.234592-07:00"
+  "last_updated": "2026-08-21T15:22:44.971134-07:00"
 }
