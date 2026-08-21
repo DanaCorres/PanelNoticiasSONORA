@@ -1,239 +1,85 @@
 {
-  "date": "2026-08-20",
-  "run_count": 3,
+  "date": "2026-08-21",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Senasica refuerza contención del gusano barrenador",
-        "summary": "Autoridades despliegan brigadas en Álamos para controlar plaga detectada en Sonora mediante rastreo y liberación de mosca estéril.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/20/refuerza-senasica-estrategia-de-contencion-en-sonora-tras-deteccion-de-caso-de-gusano-barrenador/",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
-      },
-      {
-        "title": "Detienen a integrantes de banda delictiva en Puerto Madero",
-        "summary": "Capturan cuatro presuntos miembros de Los Mayitos durante operativo en la región.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/08/20/detienen-a-cuatro-presuntos-integrantes-de-los-mayitos-en-puerto-madero/",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
-      },
-      {
-        "title": "Asesinan a llantero en Ciudad Obregón",
-        "summary": "Reportan homicidio de trabajador en colonia Libertad del municipio.",
+        "title": "Vinculan a proceso a sujeto armado en comunidad yaqui",
+        "summary": "Detienen a individuo con armamento en territorio yaqui y lo vinculan a proceso judicial.",
         "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/policiaca/asesinan-a-llantero-en-la-colonia-libertad/141869",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+        "url": "https://diariodelyaqui.mx/policiaca/vinculan-a-proceso-a-sujeto-detenido-con-armamento-en-comunidad-yaqui/141872",
+        "_added_at": "2026-08-21T09:31:50.234592-07:00"
       },
       {
-        "title": "Detienen pareja con arma en Nogales",
-        "summary": "Capturan a dos personas portando pistola 9mm y cartuchos durante patrullaje en colonia Kennedy.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/20/detienen-pareja-arma-9-mm-durante-patrullaje-colonia-kennedy.html",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
-      },
-      {
-        "title": "Vinculan a proceso a dos por homicidio en Hermosillo",
-        "summary": "Dos hombres fueron vinculados a proceso por homicidio en una taquería de Hermosillo durante agresión armada.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/20/vinculan-a-proceso-a-dos-hombres-por-quitarle-la-vida-a-hombre-en-agresion-armada-en-taqueria-de-hermosillo/",
-        "_added_at": "2026-08-20T15:25:14.641892-07:00"
-      },
-      {
-        "title": "Detienen a hombre por homicidio de menor en Cajeme",
-        "summary": "Capturan a sujeto acusado de quitarle la vida a un menor en agresiónarmada en municipio de Cajeme.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/20/detienen-a-hombre-por-quitarle-la-vida-en-agresion-armada-a-menor-en-cajeme/",
-        "_added_at": "2026-08-20T15:25:14.641892-07:00"
-      },
-      {
-        "title": "Detienen por violencia doméstica e intento de daño en Hermosillo",
-        "summary": "Hombre detenido por insultos a cónyuge y destrucción de propiedad en vivienda de Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/20/detienen-a-hombre-por-insultar-a-su-esposa-y-causar-destrozos-en-su-casa-en-hermosillo/",
-        "_added_at": "2026-08-20T15:25:14.641892-07:00"
-      },
-      {
-        "title": "Hallan cadáver con signos violencia en Hermosillo",
-        "summary": "Encontraron hombre sin vida con evidencia de violencia al norponiente de la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/20/hallan-hombre-sin-vida-y-con-signos-de-violencia-al-norponiente-de-hermosillo/",
-        "_added_at": "2026-08-20T14:25:30.178754-07:00"
-      },
-      {
-        "title": "Demandan cámaras corporales para policías de Sonora",
-        "summary": "Comisión pide que todos agentes de corporaciones cuenten con equipos de video para mayor transparencia.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/20/todos-los-policias-y-agentes-de-corporaciones-de-sonora-deben-contar-con-camaras-corporales-ccsp/",
-        "_added_at": "2026-08-20T14:25:30.178754-07:00"
+        "title": "Sonora suma 22 muertes por calor extremo en 2026",
+        "summary": "Estado registra 350 eventos relacionados con calor, incluyendo 22 decesos y 260 casos deshidratación.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/suma-sonora-22-decesos-asociados-al-calor-en-2026/262881",
+        "_added_at": "2026-08-21T09:31:50.234592-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Lorenia Valles como posible candidata Morena 2027",
-        "summary": "Movimiento Morena posiciona a Valles para contienda electoral en Sonora hacia próximas elecciones.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/08/morena-mueve-sus-fichas-rumbo-a-2027-en-sonora-seria-lorenia-valles-la-elegida/",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
-      },
-      {
-        "title": "Partidos destinan 236 mdp para liderazgo femenino",
-        "summary": "Inversión de recursos en impulso de participación política de mujeres en Sonora.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/partidos-destinaran-236-mdp-impulsar-liderazgo-politico-mujeres-n899961",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
-      },
-      {
-        "title": "Lamarque destaca logros de Cuarta Transformación",
-        "summary": "Funcionario resalta recuperación de ingresos y reducción de pobreza en Villa de Seris.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-destaca-logros-de-la-cuarta-transformacion/262856",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
-      },
-      {
-        "title": "PAN propone legislar derecho de réplica contra Mañanera",
-        "summary": "Diputado del PAN anuncia iniciativa legislativa para crear derecho de réplica respecto contenido difamatorio.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/20/en-la-mananera-se-difama-pan-va-a-legislar-para-que-haya-derecho-de-replica-elias-lixa/",
-        "_added_at": "2026-08-20T15:25:14.641892-07:00"
-      },
-      {
-        "title": "PAN propone inversión millonaria para nuevo hospital ISSSTE",
-        "summary": "Partido plantea 2 mil 300 millones de pesos en presupuesto ante cierre del ISSSTE en Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/20/ante-abandono-de-issste-hermosillo-pan-propondra-2-mil-300-mdp-en-presupuesto-para-nuevo-hospital/",
-        "_added_at": "2026-08-20T14:25:30.178754-07:00"
-      },
-      {
-        "title": "Tohono O'odham defiende tierras ancestrales ante muro",
-        "summary": "Comunidad indígena resiste construcción de barrera fronteriza en territorio históricamente suyo.",
+        "title": "Ganaderos de Sonora exigen apertura de Nogales para exportar",
+        "summary": "Productores reclaman reapertura de cuarentenaria en Nogales para exportación ganado a EE.UU.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/08/20/tras-el-fallo-que-permite-construir-un-muro-fronterizo-entre-sonora-y-arizona-los-tohono-oodham-defienden-su-territorio-ancestral-clave-para-su-identidad-y-sustento-durante-generaciones/",
-        "_added_at": "2026-08-20T14:25:30.178754-07:00"
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/21/a-dias-de-reanudarse-la-exportacion-de-ganado-a-eeuu-por-agua-prieta-productores-de-sonora-exigen-abrir-tambien-la-cuarentenaria-de-nogales/",
+        "_added_at": "2026-08-21T09:31:50.234592-07:00"
       },
       {
-        "title": "Lamarque promociona trayectoria en gira por Hermosillo",
-        "summary": "Candidato enfatiza experiencia y resultados de gobierno durante recorridos en municipios sonorenses.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-mantiene-gira-trabajo-en-hermosillo/262784",
-        "_added_at": "2026-08-20T14:25:30.178754-07:00"
+        "title": "40 mil estudiantes de preparatoria en vilo por paro nacional",
+        "summary": "Alumnos de bachillerato en Sonora enfrentan incertidumbre ante posible paro educativo nacional.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/mas-de-40-mil-alumnos-de-preparatoria-en-sonora-en-vilo-por-posible-paro-nacional/",
+        "_added_at": "2026-08-21T09:31:50.234592-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Nogales posicionado como centro industrial estratégico",
-        "summary": "Destacan importancia de Nogales en integración industrial de Mega Región Arizona-Sonora.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/20/destacan-nogales-punto-estrategico-industria-mega-region-arizonasonora.html",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
-      },
-      {
-        "title": "Sonora atrae inversión con visita de Embajada Indonesia",
-        "summary": "Gobernador Durazo abre oportunidades comerciales y de inversión con delegación indonesia.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/gobernador-durazo-atrae-oportunidad-de-inversion-para-sonora-con-visita-de-embajada-de-indonesia/",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
-      },
-      {
-        "title": "Gobierno y Canacope impulsan desarrollo de Hermosillo",
-        "summary": "Administración municipal y empresarios unen esfuerzos para fortalecer economía local.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/gobierno-municipal-y-canacope-unen-esfuerzos-para-impulsar-el-desarrollo-de-hermosillo/",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
-      },
-      {
-        "title": "Gusano barrenador preocupa a ganaderos del Valle del Yaqui",
-        "summary": "Detección de plaga en Álamos genera alertas; productores extreman precauciones en manejo ganadero.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/08/20/preocupa-a-ganaderos-del-valley-del-yaqui-avance-del-gusano-barrenador/",
-        "_added_at": "2026-08-20T15:25:14.641892-07:00"
-      },
-      {
-        "title": "Exportación de ganado se mantiene pese a gusano barrenador",
-        "summary": "Unión Ganadera asegura continuidad de envíos para 24 de agosto a pesar de caso confirmado.",
+        "title": "Sonora busca ampliar comercio e inversiones con Indonesia",
+        "summary": "Gobernador Durazo encabeza misión para fortalecer cooperación en sectores estratégicos energéticos.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sigue-exportacion-de-ganado-de-sono-pese-a-gusano-barrenador/262818",
-        "_added_at": "2026-08-20T15:25:14.641892-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-fortalece-vinculos-comerciales-con-indonesia/262880",
+        "_added_at": "2026-08-21T09:31:50.234592-07:00"
       },
       {
-        "title": "Frontera abrirá para ganado mexicano el 24 de agosto",
-        "summary": "Reapertura se confirma pese a caso de gusano barrenador detectado en Álamos, Sonora.",
+        "title": "Jóvenes emprendedores operan mayoría de micronegocios sonorenses",
+        "summary": "Canacintra señala que juventud lidera operación microempresarial en estado.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/jovenes-emprendedores-operan-la-mayoria-de-los-micronegocios-en-sonora-senala-canacintra-31669125",
+        "_added_at": "2026-08-21T09:31:50.234592-07:00"
+      },
+      {
+        "title": "Hermosillense crea Fiska para facilitar trámites fiscales",
+        "summary": "José Salido funda empresa que simplifica gestión fiscal para emprendedores sonorenses.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/21/jose-salido-crea-fiska-empresa-de-hermosillo-que-facilita-tramites-fiscales-a-emprendedores/",
+        "_added_at": "2026-08-21T09:31:50.234592-07:00"
+      },
+      {
+        "title": "La Campiña agrega 314 lotes de vivienda sustentable en Hermosillo",
+        "summary": "Inicia tercera etapa con lotes diseñados para ahorro energético y hídrico.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/20/reapertura-de-frontera-al-ganado-mexicano-se-mantiene-para-el-24-de-agosto-pese-al-caso-confirmado-de-gusano-barrenador-en-sonora/",
-        "_added_at": "2026-08-20T14:25:30.178754-07:00"
-      },
-      {
-        "title": "500 familias reciben cancelación gratuita de hipotecas",
-        "summary": "Gobierno e Infonavit entregan créditos saldados en Hermosillo como medida de vivienda.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/mas-de-500-familias-reciben-cancelacion-gratuita-de-hipoteca/262806",
-        "_added_at": "2026-08-20T14:25:30.178754-07:00"
-      },
-      {
-        "title": "Apagones por fallas en transformadores en Hermosillo",
-        "summary": "Ocho fallos causaron cortes de energía prolongados en el centro durante ola de calor.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/20/ocho-fallas-en-transformadores-dejan-apagones-de-varias-horas-en-el-centro-de-hermosillo-durante-la-temporada-de-calor/",
-        "_added_at": "2026-08-20T14:25:30.178754-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/21/la-campina-inicia-tercera-etapa-con-314-lotes-en-hermosillo-asi-seran-las-viviendas-con-aislamiento-y-ahorro-de-agua-y-luz/",
+        "_added_at": "2026-08-21T09:31:50.234592-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Más de 40 mil estudiantes afectados por paro de preparatorias",
-        "summary": "Huelga en educación media superior impacta a decenas de miles de jóvenes en Sonora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/mas-de-40-mil-estudiantes-de-sonora-podrian-verse-afectados-por-paro-de-preparatorias-31666358",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
+        "title": "Instalan Comité Local de Cruceros en Guaymas y San Carlos",
+        "summary": "Crean estructura para fortalecer destino turístico de cruceros en puertos sonorenses.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/instalan-comite-local-de-cruceros-para-fortalecer-a-guaymas-y-san-carlos-como-destino-turistico/",
+        "_added_at": "2026-08-21T09:31:50.234592-07:00"
       },
       {
-        "title": "Cancelan hipotecas a 500 familias sonorenses",
-        "summary": "Durazo y Sheinbaum garantizan certeza patrimonial mediante eliminación de deudas hipotecarias.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/garantizan-durazo-y-sheinbaum-seguridad-y-certeza-patrimonial-a-mas-de-500-familias-con-cancelaciones-de-hipotecas/",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
-      },
-      {
-        "title": "Refuerzan operativo vial por regreso a clases",
-        "summary": "Autoridades implementan medidas de seguridad vial en Hermosillo ante inicio del ciclo escolar.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/refuerzan-operativo-vial-por-regreso-a-clases-en-hermosillo-31653691",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
-      },
-      {
-        "title": "Astiazarán apoya familias con casas sustentables",
-        "summary": "Programa de vivienda ecológica beneficia a familias sonorenses con construcciones sustentables.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/apoya-tono-astiazaran-a-familias-con-casas-sustentables/",
-        "_added_at": "2026-08-20T20:30:09.924697-07:00"
-      },
-      {
-        "title": "Mil denuncias por incumplimiento de obligaciones familiares",
-        "summary": "Sonora registró más de mil 100 casos en primer semestre 2026, reporta Fundación Nueva Generación.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cifra-de-incumplimiento-de-obligaciones-familiares-en-sonora/262817",
-        "_added_at": "2026-08-20T14:25:30.178754-07:00"
-      },
-      {
-        "title": "Escuelas de Sonora listas para regreso a clases",
-        "summary": "SEC reporta planteles preparados pese a filtraciones y caída de árboles atendidas previamente.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/regreso-a-clases-en-sonora-escuelas-estan-listas/262807",
-        "_added_at": "2026-08-20T14:25:30.178754-07:00"
-      },
-      {
-        "title": "Sensación térmica supera 50 grados en Hermosillo",
-        "summary": "Humedad extrema incrementa casos de deshidratación y golpes de calor en la capital.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/20/humedad-eleva-la-sensacion-termica-arriba-de-50-c-en-hermosillo-salud-advierte-mas-casos-de-deshidratacion-y-golpes-de-calor/",
-        "_added_at": "2026-08-20T14:25:30.178754-07:00"
-      },
-      {
-        "title": "Tormentas avanzan por noroeste de Sonora",
-        "summary": "Se esperan lluvias, granizo y fuertes vientos en varios municipios en próximas horas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/20/tormentas-avanzan-por-el-noroeste-de-sonora-y-dejaran-lluvias-en-varios-municipios-durante-las-proximas-horas-se-espera-granizo-y-fuertes-rachas-de-viento/",
-        "_added_at": "2026-08-20T14:25:30.178754-07:00"
+        "title": "Cobach Obregón 1 celebra 50 años formando juventud cajemense",
+        "summary": "Institución educativa prepara aniversario formando a estudiantes de Ciudad Obregón.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/cobach-obregon-1-prepara-50-aniversario-formando-a-la-juventud-de-cajeme/141952",
+        "_added_at": "2026-08-21T09:31:50.234592-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-20T20:30:09.924697-07:00"
+  "last_updated": "2026-08-21T09:31:50.234592-07:00"
 }
