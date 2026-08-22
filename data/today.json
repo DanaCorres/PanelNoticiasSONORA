@@ -1,8 +1,22 @@
 {
   "date": "2026-08-21",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a hombre por violencia familiar en Hermosillo",
+        "summary": "Capturan a individuo acusado de violencia intrafamiliar y privación ilegal de libertad en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/21/detienen-a-hombre-por-violencia-familiar-y-privacion-ilegal-de-la-libertad-en-hermosillo/",
+        "_added_at": "2026-08-21T20:21:52.753943-07:00"
+      },
+      {
+        "title": "Evacúan centro de salud por derrame químico",
+        "summary": "Desalojo preventivo en Centro de Salud Zapata tras escape de ácido muriático.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/evacuan-centro-de-salud-de-la-zapata-por-derrame-de-acido-muriatico-31651001",
+        "_added_at": "2026-08-21T20:21:52.753943-07:00"
+      },
       {
         "title": "Nogales encabeza narcotúneles a nivel nacional",
         "summary": "Nogales registra primer lugar en narcotúneles nacionales; utilizan menores para cruzarlos.",
@@ -41,6 +55,27 @@
     ],
     "politica": [
       {
+        "title": "Durazo refuerza alianza comercial con Taiwán",
+        "summary": "Gobernador fortalece vínculos con isla asiática para impulsar competitividad región Sonora-Arizona.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/21/sonora-y-taiwan-estrechan-vinculos-para-preparar-talento-que-demanda-la-industria-durazo/",
+        "_added_at": "2026-08-21T20:21:52.753943-07:00"
+      },
+      {
+        "title": "Congreso aprueba reformas en alimentación y protección",
+        "summary": "Legislatura estatal avala iniciativas en materia de alimentos, cultura y seguridad ciudadana.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/congreso-de-sonora-avala-leyes-y-reformas-penales/262919",
+        "_added_at": "2026-08-21T20:21:52.753943-07:00"
+      },
+      {
+        "title": "Lamarque dialoga con vecinos en Lomas de Madrid",
+        "summary": "Funcionario sostiene encuentro comunitario enfatizando cercanía y comunicación en colonias.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-asamblea-informativa-en-lomas-de-madrid/262921",
+        "_added_at": "2026-08-21T20:21:52.753943-07:00"
+      },
+      {
         "title": "Julia Huerta continúa diálogos en Nogales",
         "summary": "Candidata Julia Huerta mantiene recorridos y diálogos con familias en Nogales.",
         "source": "El Diario de Sonora",
@@ -70,6 +105,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Sonora recauda 40 millones en regularización fiscal",
+        "summary": "Programa de rectificación tributaria genera ingresos significativos con participación de 200+ contribuyentes.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/21/sonora-recauda-40-mdp-con-programa-de-regularizacion-fiscal-2026/",
+        "_added_at": "2026-08-21T20:21:52.753943-07:00"
+      },
+      {
+        "title": "SAT ofrece descuentos hasta 100% en multas",
+        "summary": "Autoridad fiscal invita a deudores de Nogales y región a aprovechar programa de condonación.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/08/21/ofrece-sat-hasta-100-descuento-multas-recargos-programa-regularizacion.html",
+        "_added_at": "2026-08-21T20:21:52.753943-07:00"
+      },
+      {
+        "title": "Feria de soluciones Infonavit en San Luis",
+        "summary": "Evento sabatino ofrece opciones de pago y reestructuración de créditos hipotecarios.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/realizaran-este-sabado-feria-de-soluciones-de-pago-de-infonavit-en-san-luis-rio-colorado-31677362",
+        "_added_at": "2026-08-21T20:21:52.753943-07:00"
+      },
       {
         "title": "SAT insta regularización de adeudos fiscales",
         "summary": "Contribuyentes sonorenses convocados a regularizar deudas fiscales ante SAT.",
@@ -122,6 +178,34 @@
     ],
     "sociedad": [
       {
+        "title": "Hermosillo alcanza récord histórico de 47.5 grados",
+        "summary": "Capital estatal registra temperatura extrema empatando máxima histórica para fecha.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/hermosillo-alcanza-475-grados-empata-record-historico-temperatura-n900132",
+        "_added_at": "2026-08-21T20:21:52.753943-07:00"
+      },
+      {
+        "title": "Alertan por calor extremo y tormentas vespertinas",
+        "summary": "Autoridades piden precaución ante temperaturas peligrosas y eventos climáticos esperados.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/alertan-ante-altas-temperaturas-y-tormentas-vespertinas/",
+        "_added_at": "2026-08-21T20:21:52.753943-07:00"
+      },
+      {
+        "title": "Sonora reporta avances en alfabetización primaria",
+        "summary": "Estado documenta progreso en competencias lectoras de estudiantes de educación básica.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/sonora-reporta-avances-alfabetizacion-estudiantes-primaria-n900136",
+        "_added_at": "2026-08-21T20:21:52.753943-07:00"
+      },
+      {
+        "title": "Joven sordo resulta ileso tras impacto de tren",
+        "summary": "Persona con discapacidad auditiva escapa sin lesiones de colisión vehicular en Navojoa.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/tren-embiste-auto-de-joven-sordo-en-navojoa/262917",
+        "_added_at": "2026-08-21T20:21:52.753943-07:00"
+      },
+      {
         "title": "Hermosillo alcanzará 47°C con sensación térmica",
         "summary": "Clima extremadamente caluroso en Hermosillo; alerta por temperaturas peligrosas.",
         "source": "Expreso",
@@ -165,5 +249,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-21T15:22:44.971134-07:00"
+  "last_updated": "2026-08-21T20:21:52.753943-07:00"
 }
