@@ -1,8 +1,29 @@
 {
   "date": "2026-08-22",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Robo de químicos en Nogales genera alerta sanitaria",
+        "summary": "OOMAPAS denuncia sustracción de productos químicos en Arroyo Los Nogales, alertando sobre riesgos potenciales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/22/alerta-oomapas-riesgo-robo-productos-quimicos-utilizados-arroyo-nogales.html",
+        "_added_at": "2026-08-22T15:20:05.793555-07:00"
+      },
+      {
+        "title": "Dictan prisión preventiva por huachicol fiscal",
+        "summary": "Fernando Farías enfrenta prisión preventiva oficiosa acusado de huachicol fiscal en Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/22/dictan-prision-preventiva-oficiosa-a-fernando-farias-acusado-de-huachicol-fiscal/",
+        "_added_at": "2026-08-22T15:20:05.793555-07:00"
+      },
+      {
+        "title": "Vehículo huye tras derribar postes CFE",
+        "summary": "Auto derriba dos postes de la CFE en Hermosillo y se da a la fuga, cerrando vía al oriente.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/22/vehiculo-derriba-dos-postes-de-la-cfe-y-huye-del-lugar-cierran-calle-al-oriente-de-hermosillo/",
+        "_added_at": "2026-08-22T15:20:05.793555-07:00"
+      },
       {
         "title": "Detienen a hombre por agredir a su madre en Hermosillo",
         "summary": "Individuo fue arrestado tras amenazar y agredir físicamente a su progenitora en la capital sonorense.",
@@ -20,6 +41,20 @@
     ],
     "politica": [
       {
+        "title": "Durazo fortalece alianza con Arizona para inversiones",
+        "summary": "Gobernador consolida relaciones binacionales con Arizona buscando atraer inversión y empleo a Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/22/durazo-fortalece-alianza-con-arizona-para-atraer-inversiones-y-generar-mas-empleos-en-sonora/",
+        "_added_at": "2026-08-22T15:20:05.793555-07:00"
+      },
+      {
+        "title": "Gobernador consolida arrecife artificial único en Latinoamérica",
+        "summary": "Durazo avanza en proyecto de arrecife artificial destacado a nivel continental.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-consolida-arrecife-artificial-unico-en-latinoamerica/",
+        "_added_at": "2026-08-22T15:20:05.793555-07:00"
+      },
+      {
         "title": "Enrique Inzunza anuncia regreso al Senado",
         "summary": "Político sonorense comunica su reincorporación al Senado tras enfrentar acusaciones de vínculos criminales.",
         "source": "Proyecto Puente",
@@ -35,6 +70,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Sonora impulsa talento joven con estancia en Taiwán",
+        "summary": "Tercera generación de estudiantes sonorenses partirá a Taiwán por diez meses de formación especializada.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/talento-sonorense-rumbo-a-taiwan-para-fortalecer-su-formacion/262938",
+        "_added_at": "2026-08-22T15:20:05.793555-07:00"
+      },
       {
         "title": "México reanuda venta de ganado a EEUU con limitaciones",
         "summary": "Reactivación de exportaciones ganaderas hacia Estados Unidos con nuevas restricciones sanitarias implementadas.",
@@ -59,6 +101,34 @@
     ],
     "sociedad": [
       {
+        "title": "Retiran 350 árboles por vientos y lluvias en Hermosillo",
+        "summary": "Fuertes precipitaciones y vientos causan caída de cientos de árboles en la capital sonorense.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/retiran-mas-350-arboles-fuertes-vientos-lluvias-hermosillo-n900183",
+        "_added_at": "2026-08-22T15:20:05.793555-07:00"
+      },
+      {
+        "title": "Sonora Atiende ofrece servicios gratuitos en comunidades",
+        "summary": "Programa brinda atención ciudadana gratuita en Hermosillo, Mazatán y El Tazajal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/22/sonora-atiende-ofrece-servicios-gratuitos-a-ciudadanos-en-hermosillo/",
+        "_added_at": "2026-08-22T15:20:05.793555-07:00"
+      },
+      {
+        "title": "Concluyen talleres de verano de arte en Nogales",
+        "summary": "Más de 200 nogalenses finalizan cursos de verano de arte y oficios en IMFOCULTA.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/08/22/mas-200-nogalenses-culminan-talleres-verano-arte-oficios.html",
+        "_added_at": "2026-08-22T15:20:05.793555-07:00"
+      },
+      {
+        "title": "Bombero de Hermosillo celebra 30 años de servicio",
+        "summary": "Guadalupe Cabanillas recibe reconocimiento como Bombero del Año tras tres décadas sirviendo.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/22/guadalupe-cabanillas-bombero-del-ano-celebra-30-anos-de-servicio-en-hermosillo/",
+        "_added_at": "2026-08-22T15:20:05.793555-07:00"
+      },
+      {
         "title": "Sonora impulsa talento joven con estancia en Taiwán",
         "summary": "Tercera generación de estudiantes sonorenses partirá el 29 de agosto para formación de 10 meses.",
         "source": "Expreso",
@@ -81,5 +151,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-22T09:21:26.671684-07:00"
+  "last_updated": "2026-08-22T15:20:05.793555-07:00"
 }
