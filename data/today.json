@@ -1,8 +1,22 @@
 {
   "date": "2026-08-22",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vuelo Volaris realiza aterrizaje de emergencia en Hermosillo",
+        "summary": "Aeronave de Volaris tuvo que aterrizar de emergencia en el aeropuerto de Hermosillo por problemas técnicos durante el vuelo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/22/vuelo-de-volaris-aterriza-de-emergencia-en-hermosillo/",
+        "_added_at": "2026-08-22T20:30:05.379561-07:00"
+      },
+      {
+        "title": "Dictan prisión preventiva a Fernando Farías Laguna",
+        "summary": "Sujeto enfrenta cargos por huachicol fiscal y queda bajo orden de prisión preventiva por autoridades competentes.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/policiaca/dictan-prision-preventiva-fernando-farias-laguna-huachicol-fiscal-n900197",
+        "_added_at": "2026-08-22T20:30:05.379561-07:00"
+      },
       {
         "title": "Robo de químicos en Nogales genera alerta sanitaria",
         "summary": "OOMAPAS denuncia sustracción de productos químicos en Arroyo Los Nogales, alertando sobre riesgos potenciales.",
@@ -41,6 +55,27 @@
     ],
     "politica": [
       {
+        "title": "Gobernador Durazo fortalece relaciones comerciales con Arizona",
+        "summary": "Mandatario sonorense busca consolidar inversiones y empleos mediante cooperación binacional con estado norteamericano.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-estrecha-lazos-binacionales-con-arizona-para-consolidar-inversiones-y-empleos/",
+        "_added_at": "2026-08-22T20:30:05.379561-07:00"
+      },
+      {
+        "title": "Lamarque destaca apoyo de Morena a familias de Cajeme",
+        "summary": "Líder político subraya cercanía de coalición gobernante con ciudadanía mediante programas de pensiones y becas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-destaca-cercania-de-morena-y-aliados-con-familias/262975",
+        "_added_at": "2026-08-22T20:30:05.379561-07:00"
+      },
+      {
+        "title": "Morena suspende visita de dirigencia en plena definición estatal",
+        "summary": "Partido detiene gira nacional a Sonora mientras continúan negociaciones internas sobre representación.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/morena-frena-visita-de-su-dirigencia-a-sonora-en-plena-definicion-de-representante/",
+        "_added_at": "2026-08-22T20:30:05.379561-07:00"
+      },
+      {
         "title": "Durazo fortalece alianza con Arizona para inversiones",
         "summary": "Gobernador consolida relaciones binacionales con Arizona buscando atraer inversión y empleo a Sonora.",
         "source": "Proyecto Puente",
@@ -71,6 +106,27 @@
     ],
     "economia": [
       {
+        "title": "Ventas inmobiliarias caen 20% en San Luis Río Colorado",
+        "summary": "Crisis golpea sector vivienda por desempleo generalizado y escasez de oportunidades laborales regionales.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/alcanza-crisis-a-sector-inmobiliario-bajan-20-venta-de-casas-por-escasez-de-empleo-en-san-luis-rc-31383575",
+        "_added_at": "2026-08-22T20:30:05.379561-07:00"
+      },
+      {
+        "title": "Sanluisinos regulariza créditos en feria Infonavit",
+        "summary": "Habitantes de San Luis participan en evento de soluciones de pago para actualizar sus hipotecas.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/sanluisinos-aprovechan-feria-de-soluciones-de-pago-del-infonavit-para-regularizar-creditos-31697814",
+        "_added_at": "2026-08-22T20:30:05.379561-07:00"
+      },
+      {
+        "title": "Sindicato de empaque conmemora 65 años de lucha laboral",
+        "summary": "Organización sindical en Sonora marca aniversario de gestión por derechos de trabajadores del sector.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sindicato-de-trabajadores-de-empaque-celebra-65-anos/262973",
+        "_added_at": "2026-08-22T20:30:05.379561-07:00"
+      },
+      {
         "title": "Sonora impulsa talento joven con estancia en Taiwán",
         "summary": "Tercera generación de estudiantes sonorenses partirá a Taiwán por diez meses de formación especializada.",
         "source": "Expreso",
@@ -100,6 +156,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Guadalupe Cabanillas recibe reconocimiento como Bombero del Año",
+        "summary": "Miembro de corporación de Hermosillo es honrado por su desempeño y entrega en labores de rescate.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/guadalupe-cabanillas-nombrado-bombero-hermosillo-ano-2026-n900206",
+        "_added_at": "2026-08-22T20:30:05.379561-07:00"
+      },
       {
         "title": "Retiran 350 árboles por vientos y lluvias en Hermosillo",
         "summary": "Fuertes precipitaciones y vientos causan caída de cientos de árboles en la capital sonorense.",
@@ -151,5 +214,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-22T15:20:05.793555-07:00"
+  "last_updated": "2026-08-22T20:30:05.379561-07:00"
 }
