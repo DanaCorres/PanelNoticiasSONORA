@@ -1,8 +1,36 @@
 {
   "date": "2026-08-23",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Buscadoras localizan fosa con restos en Sonoyta",
+        "summary": "Hallazgo de fosa con restos óseos y más de 50 casquillos en Sonoyta por grupo de buscadoras.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/buscadoras-hallan-fosa-con-restos-oseos-y-mas-de-50-casquillos-en-sonoyta/",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
+      {
+        "title": "Madre denuncia irregularidades en caso de menor fallecida",
+        "summary": "Progenitora rompe silencio y señala presuntas irregularidades en investigación de muerte en San Carlos.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/madre-de-menor-fallecida-en-san-carlos-rompe-el-silencio-y-denuncia-presuntas-irregularidades-en-el-caso/142090",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
+      {
+        "title": "Fuertes vientos dejan más de 100 reportes de daños",
+        "summary": "Vientos provocan caída de árboles, cables y postes en Cajeme y sur de Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/23/fuertes-vientos-provocan-mas-de-100-reportes-de-arboles-cables-y-postes-caidos-en-cajeme-y-sur-de-sonora/",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
+      {
+        "title": "Aprehenden presuntos narcomenudistas en Hermosillo",
+        "summary": "Dos presuntos traficantes de droga sometidos en operativo de seguridad local.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/someten-a-dos-presuntos-tiradores-de-droga/",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
       {
         "title": "Dos sujetos condenados a 28 años por homicidio",
         "summary": "FGJES logra condena de dos individuos por homicidio cometido en Hermosillo tras investigaciones.",
@@ -32,8 +60,51 @@
         "_added_at": "2026-08-23T09:22:45.593200-07:00"
       }
     ],
-    "politica": [],
+    "politica": [
+      {
+        "title": "Colosio Riojas visita Sonora en actividades de Movimiento Ciudadano",
+        "summary": "Senador llega a Hermosillo y San Carlos para participar en eventos de MC, mencionado como posible aspirante.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/23/luis-donaldo-colosio-riojas-llega-a-sonora-2/",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
+      {
+        "title": "Congreso aprueba nueva licencia temporal de Rocha Moya",
+        "summary": "Gobernador de Sinaloa obtiene aprobación de licencia temporal por Congreso estatal.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/congreso-aprueba-nueva-licencia-rocha-moya-n900226",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
+      {
+        "title": "Animalistas protestan contra ley de bienestar animal",
+        "summary": "Manifestación frente al Congreso de Sonora en contra de propuesta legislativa sobre bienestar animal.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/animalistas-protestan-frente-al-congreso-de-sonora-contra-la-ley-general-de-bienestar-animal-31709329",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      }
+    ],
     "economia": [
+      {
+        "title": "Turismo rural crece 15% durante vacaciones en Sonora",
+        "summary": "Sector turístico rural registra incremento significativo durante período vacacional estival.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/23/turismo-rural-registra-crecimiento-de-15-durante-vacaciones-en-sonora/",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
+      {
+        "title": "Fortalecen alianza Sonora-Arizona para inversiones",
+        "summary": "Estados firma acuerdos de cooperación para atraer inversión extranjera y generación de empleo.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/fortalecen-alianza-sonora-arizona-para-atraer-inversiones-y-generar-empleos/",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
+      {
+        "title": "SAT amplía servicios a más municipios sonorenses",
+        "summary": "Servicio de Administración Tributaria expande cobertura en municipios del estado.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/sat-lleva-sus-servicios-mas-municipios-sonora-n900219",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
       {
         "title": "Sonora y Arizona amplían oportunidades de inversión",
         "summary": "Misión binacional analiza capacidades industriales para fortalecer talento y cadenas productivas.",
@@ -50,6 +121,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Salud prepara nuevas campañas de vacunación en Sonora",
+        "summary": "Secretaría de Salud organiza jornadas de vacunación contra VPH para estudiantes y jóvenes.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/preparan-nuevas-campanas-de-vacunacion-en-sonora/263002",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
+      {
+        "title": "Festival Juvenil Navojoa reúne talento y emprendimiento",
+        "summary": "Evento incluye shows de talentos, autos clásicos, torneos y 30 stands de emprendedores locales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/realizan-con-exito-festival-juvenil-navojoa/263000",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
+      {
+        "title": "Protección Civil alerta sobre temporada de ciclones",
+        "summary": "Organismo recomienda prepararse para incremento de tormentas tropicales en septiembre.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/proteccion-civil-recomienda-prepararse-ante-temporada-de-ciclones-en-septiembre/",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
+      {
+        "title": "ISEA mantiene atención anual para personas en rezago educativo",
+        "summary": "Instituto ofrece programas permanentes de educación para adultos rezagados.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/23/isea-mantiene-todo-el-ano-atencion-para-personas-en-rezago-educativo/",
+        "_added_at": "2026-08-23T15:19:41.760428-07:00"
+      },
       {
         "title": "Dengue suma mil 54 casos en Sonora",
         "summary": "Salud continúa acciones contra dengue fumigando más de 93 mil hectáreas.",
@@ -80,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-23T09:22:45.593200-07:00"
+  "last_updated": "2026-08-23T15:19:41.760428-07:00"
 }
