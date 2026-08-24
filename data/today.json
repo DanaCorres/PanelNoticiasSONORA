@@ -1,8 +1,29 @@
 {
   "date": "2026-08-23",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Niñera procesada por muerte de menor en San Carlos",
+        "summary": "Avanza proceso legal contra niñera por homicidio culposo tras fallecimiento de menor en San Carlos con medidas cautelares.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/avanza-proceso-para-ninera-tras-muerte-de-menor-en-san-carlos/263017",
+        "_added_at": "2026-08-23T20:31:48.592982-07:00"
+      },
+      {
+        "title": "Detienen a dos hombres y localizan menores con Alerta Amber",
+        "summary": "Autoridades capturan a dos sujetos y localizan a dos menores con Alerta Amber en Hermosillo.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/23/det1enen-a-dos-hombres-y-localizan-a-dos-m3nores-con-alerta-amber-en-hermosillo/",
+        "_added_at": "2026-08-23T20:31:48.592982-07:00"
+      },
+      {
+        "title": "Enfrentamiento en colonia Olivares de Hermosillo",
+        "summary": "Se registra fuerte encuentro armado en la colonia Olivares con participación de grupos rivales.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/protagonizan-fuerte-encontronazo-en-la-colonia-olivares-3/",
+        "_added_at": "2026-08-23T20:31:48.592982-07:00"
+      },
       {
         "title": "Buscadoras localizan fosa con restos en Sonoyta",
         "summary": "Hallazgo de fosa con restos óseos y más de 50 casquillos en Sonoyta por grupo de buscadoras.",
@@ -51,16 +72,23 @@
         "source": "Proyecto Puente",
         "url": "https://proyectopuente.com.mx/2026/08/23/detienen-a-hombre-por-amenazar-con-un-machete-a-su-vecina-en-hermosillo/",
         "_added_at": "2026-08-23T09:22:45.593200-07:00"
-      },
-      {
-        "title": "Sonora sin unidad de investigación en Seguridad Pública",
-        "summary": "Inegi reporta que Sonora está entre siete entidades sin unidad especializada en esta área.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-entre-las-siete-entidades-sin-unidad-de-investigacion-en-seguridad-publica-inegi-31700340",
-        "_added_at": "2026-08-23T09:22:45.593200-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Colosio Riojas llega a Sonora con respaldo de Movimiento Ciudadano",
+        "summary": "Dirigente nacional de MC participa en plenaria en Sonora con presencia de plana mayor del partido.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/23/entre-gritos-de-gobernador-plana-mayor-de-mc-respalda-a-colosio-en-plenaria-en-sonora/",
+        "_added_at": "2026-08-23T20:31:48.592982-07:00"
+      },
+      {
+        "title": "MC confirma acercamiento con López Caballero para Hermosillo",
+        "summary": "Máynez confirma negociaciones de Movimiento Ciudadano con López Caballero de cara a elecciones 2027.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/23/maynez-confirma-acercamiento-de-mc-con-lopez-caballero-por-hermosillo-rumbo-a-2027/",
+        "_added_at": "2026-08-23T20:31:48.592982-07:00"
+      },
       {
         "title": "Colosio Riojas visita Sonora en actividades de Movimiento Ciudadano",
         "summary": "Senador llega a Hermosillo y San Carlos para participar en eventos de MC, mencionado como posible aspirante.",
@@ -84,6 +112,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Reabre frontera para exportación de ganado desde Sonora",
+        "summary": "Estados Unidos reabre frontera para exportación de ganado iniciando operaciones en Sonora este lunes.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/23/reabriran-este-lunes-frontera-de-eeuu-para-exportacion-de-ganado-iniciara-en-sonora/",
+        "_added_at": "2026-08-23T20:31:48.592982-07:00"
+      },
+      {
+        "title": "IMSS invierte en infraestructura hospitalaria en Sonora",
+        "summary": "IMSS fortalece atención médica con obras de hospital de zona en San Luis Río Colorado.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/destaca-imss-construccion-de-hospital-de-zona-en-slrc-ante-constructores-de-bc-31710047",
+        "_added_at": "2026-08-23T20:31:48.592982-07:00"
+      },
+      {
+        "title": "Invierten 17.2 millones en centro reproductor marino en Kino",
+        "summary": "Se destinan recursos para construcción de centro reproductor de especies marinas en Bahía de Kino.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/invierten-17-2-mdp-en-centro-reproductor-de-especies-marinas-en-bahia-de-kino/",
+        "_added_at": "2026-08-23T20:31:48.592982-07:00"
+      },
       {
         "title": "Turismo rural crece 15% durante vacaciones en Sonora",
         "summary": "Sector turístico rural registra incremento significativo durante período vacacional estival.",
@@ -121,6 +170,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Vientos de 90 km/h afectan a Guaymas con daños reportados",
+        "summary": "Protección Civil atiende afectaciones en Guaymas tras vientos superiores a 90 kilómetros por hora.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/vientos-de-mas-de-90-km-h-dejan-afectaciones-en-guaymas-proteccion-civil-mantiene-operativo-31716829",
+        "_added_at": "2026-08-23T20:31:48.592982-07:00"
+      },
+      {
+        "title": "Sonora enfrentará extremo calor y eventos climáticos esta semana",
+        "summary": "Se esperan temperaturas hasta 47 grados, lluvias y vientos fuertes en el estado durante días.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-tendra-calor-de-hasta-47-grados-lluvias-y-fuertes-vientos-esta-semana-31623298",
+        "_added_at": "2026-08-23T20:31:48.592982-07:00"
+      },
+      {
+        "title": "H Bus amplía cobertura de transporte para estudiantes universitarios",
+        "summary": "Sistema de transporte abre más lugares disponibles para acceso de estudiantes universitarios.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/h-bus-abre-mas-lugares-universitarios-n900253",
+        "_added_at": "2026-08-23T20:31:48.592982-07:00"
+      },
+      {
+        "title": "Sonora refuerza combate a rickettsia con campañas de fumigación",
+        "summary": "Autoridades intensifican operativos de fumigación para controlar propagación de enfermedad de rickettsia.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/salud/sonora-refuerza-combate-rickettsia-fumigaciones-n900247",
+        "_added_at": "2026-08-23T20:31:48.592982-07:00"
+      },
       {
         "title": "Salud prepara nuevas campañas de vacunación en Sonora",
         "summary": "Secretaría de Salud organiza jornadas de vacunación contra VPH para estudiantes y jóvenes.",
@@ -162,22 +239,8 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/son/sonora/2026/08/23/sale-sonora-de-la-sequia-extrema-solo-6-municipios-siguen-afectados/",
         "_added_at": "2026-08-23T09:22:45.593200-07:00"
-      },
-      {
-        "title": "Carrera Vaquera 2026 reúne a 3,500 hermosillenses",
-        "summary": "Evento cultural congrega a miles de participantes en la capital del estado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/23/carrera-vaquera-2026-reune-a-3-mil-500-hermosillenses/",
-        "_added_at": "2026-08-23T09:22:45.593200-07:00"
-      },
-      {
-        "title": "Inicia IAES adecuación del Laboratorio de Peces Marinos",
-        "summary": "Primera etapa de modernización del CREMES para mejorar infraestructura.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/inicia-iaes-primera-etapa-de-adecuacion-del-laboratorio-de-peces-marinos-del-cremes/",
-        "_added_at": "2026-08-23T09:22:45.593200-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-23T15:19:41.760428-07:00"
+  "last_updated": "2026-08-23T20:31:48.592982-07:00"
 }
