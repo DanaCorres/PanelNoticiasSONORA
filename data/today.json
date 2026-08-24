@@ -1,8 +1,36 @@
 {
   "date": "2026-08-24",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Investigan homicidio de mujer en Cajeme",
+        "summary": "Fiscalía abre investigación por muerte de mujer en Ciudad Obregón.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/fiscalia-de-sonora-investiga-homicidio-de-mujer-en-cajeme/263084",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
+      {
+        "title": "Muere mujer en ataque armado en Valle Verde",
+        "summary": "Reportan muerte de mujer víctima de disparo en zona residencial de Hermosillo.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/policiaca/muere-mujer-en-ataque-armado-en-la-valle-verde/142157",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
+      {
+        "title": "Ante la justicia por desaparición de seis personas",
+        "summary": "Caso de seis desaparecidos llega a proceso judicial en Sonora.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/ante-la-justicia-por-la-desaparicion-de-6-personas/",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
+      {
+        "title": "Rescatan dos menores en cateo en Pueblitos",
+        "summary": "Autoridades rescatan a dos niños durante operativo en colonia de Hermosillo.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/rescatan-a-dos-menores-en-cateo-en-la-colonia-pueblitos/",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
       {
         "title": "Gusano barrenador amenaza exportaciones ganaderas de Sonora",
         "summary": "Autoridades advierten sobre posibles nuevos casos de gusano barrenador que podrían afectar las exportaciones de ganado a Estados Unidos.",
@@ -19,6 +47,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Detienen paro de Cecytes tras acuerdos con SEP",
+        "summary": "Negociaciones logran cancelar huelga prevista para estudiantes de tecnológicos.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/24/detienen-paro-del-cecytes-previsto-para-el-31-de-agosto-tras-acuerdos-con-sep/",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
+      {
+        "title": "Angélica Burgos impulsa red de apoyo en Nogales",
+        "summary": "Autoridad fortalece programas sociales para familias vulnerables en frontera.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/24/angelica-burgos-impulsa-red-apoyo-familias-nogales.html",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
       {
         "title": "Sheinbaum cuestiona regreso de Rocha como gobernador de Sinaloa",
         "summary": "Presidenta señala que le pareció imprudente el retorno de Rocha Moya a la gubernatura de Sinaloa.",
@@ -42,6 +84,34 @@
       }
     ],
     "economia": [
+      {
+        "title": "Reapertura ganadera abre mercado estadounidense a Sonora",
+        "summary": "Sonora exportará 760 reses tras levantamiento de cierre de 22 meses a EE.UU.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/24/reapertura-ganadera-de-eeuu-abre-salida-al-rezago-de-reses-en-sonora-tras-perdidas-de-350-millones-de-dolares-y-ventas-hasta-40-mas-bajas-en-mexico/",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
+      {
+        "title": "Apagones golpean a Hermosillo; industria prevé grandes pérdidas",
+        "summary": "Cortes de energía ocasionan pérdidas superiores a 15 millones de pesos en capital.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/apagones-golpean-a-hermosillo-industria-preve-perdidas-por-mas-de-15-millones-de-pesos/",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
+      {
+        "title": "Llegan grúas al puerto de Guaymas en septiembre",
+        "summary": "Infraestructura portuaria se fortalece con equipo nuevo para manejo de contenedores.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/llegan-en-septiembre-al-puerto-dos-gruas-para-manejo-de-contenedores/",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
+      {
+        "title": "Sonora invierte 4.5 millones para combatir gusano barrenador",
+        "summary": "Estado destina recursos contra plagas agrícolas en territorio sonorense.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-destina-mas-de-4-5-millones-de-pesos-para-combatir-el-gusano-barrenador-31721877",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
       {
         "title": "Sonora reactiva exportación de ganado a Estados Unidos por Agua Prieta",
         "summary": "Se reanudan envíos ganaderos tras más de un año de cierre con protocolos sanitarios reforzados.",
@@ -73,6 +143,34 @@
     ],
     "sociedad": [
       {
+        "title": "Confirman segundo caso de gusano barrenador en Yécora",
+        "summary": "Plaiga agrícola detectada nuevamente en sierra de Sonora; segunda confirmación.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/gusano-barrenador-en-sonora-confirman-segundo-caso-en-yecora-31723893",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
+      {
+        "title": "Enfermeros suplentes del ISSSTE mantienen paro por salarios",
+        "summary": "Personal de salud protesta por falta de pago en dependencia estatal.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/enfermeros-suplentes-issste-mantienen-paro-falta-pago-n900300",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
+      {
+        "title": "Cecyte Nogales recibe autobús para estudiantes",
+        "summary": "Escuela de nivel medio superior beneficia a 600 estudiantes con transporte nuevo.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/24/entregan-transporte-escolar-cecyte-nogales-ii-beneficio-600-estudiantes.html",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
+      {
+        "title": "Carbón Fest reúne familias y donaciones para DIF Nogales",
+        "summary": "Evento solidario en frontera genera fondos para dependencia asistencial.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/24/carbon-fest-reune-familias-nogalenses-cientos-donaciones-dif.html",
+        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+      },
+      {
         "title": "Pronóstico de lluvias fuertes para el sur de Sonora hoy",
         "summary": "Autoridades meteorológicas alertan sobre precipitaciones intensas esperadas en región sur estatal.",
         "source": "Diario del Yaqui",
@@ -81,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-24T09:35:12.495000-07:00"
+  "last_updated": "2026-08-24T15:23:49.594812-07:00"
 }
