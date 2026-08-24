@@ -1,784 +1,424 @@
 {
-  "generated_at": "2026-08-24T03:31:48.019511+00:00",
+  "generated_at": "2026-08-24T16:35:11.769487+00:00",
   "items": [
     {
       "source": "El Imparcial",
-      "title": "Sinaloa elegirá gobernador interino tras salida de Rocha",
-      "url": "https://www.elimparcial.com/mexico/2026/08/23/tras-la-segunda-licencia-de-ruben-rocha-moya-el-congreso-de-sinaloa-definira-este-lunes-quien-asumira-la-gubernatura-de-forma-interina-durante-los-proximos-dias/",
+      "title": "Sonora reactiva envíos de ganado con sanidad reforzada",
+      "url": "https://www.elimparcial.com/mexico/2026/08/24/ante-primer-envio-de-ganado-por-agua-prieta-alfonso-durazo-anuncia-sanidad-reforzada-y-sader-mantendra-trazabilidad-desde-el-nacimiento-para-sostener-exportaciones-a-eeuu/",
       "published": ""
     },
     {
       "source": "Expreso",
-      "title": "Avanza procesa contra niñera tras la muerte de una menor en San Carlos",
-      "url": "https://www.expreso.com.mx/noticias/sonora/avanza-proceso-para-ninera-tras-muerte-de-menor-en-san-carlos/263017",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "Madre de menor fallecida en San Carlos rompe el silencio y denuncia presuntas irregularidades en el caso",
-      "url": "https://diariodelyaqui.mx/sonora/madre-de-menor-fallecida-en-san-carlos-rompe-el-silencio-y-denuncia-presuntas-irregularidades-en-el-caso/142090",
+      "title": "Listo Sonora para reanudar exportación de ganado por Agua Prieta",
+      "url": "https://www.expreso.com.mx/noticias/sonora/reactivan-hoy-exportacion-de-ganado-a-estados-unidos/263035",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
-      "title": "Vientos de más de 90 km/h dejan afectaciones en Guaymas; Protección Civil mantiene operativo",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/vientos-de-mas-de-90-km-h-dejan-afectaciones-en-guaymas-proteccion-civil-mantiene-operativo-31716829",
-      "published": ""
-    },
-    {
-      "source": "Tribuna de San Luis",
-      "title": "IMSS fortalece atención médica con obras en Sonora y Baja California",
-      "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/destaca-imss-construccion-de-hospital-de-zona-en-slrc-ante-constructores-de-bc-31710047",
-      "published": ""
-    },
-    {
-      "source": "Uniradio Sonora",
-      "title": "H Bus abre más lugares para universitarios",
-      "url": "https://www.uniradiosonora.com/sociedad/h-bus-abre-mas-lugares-universitarios-n900253",
-      "published": ""
-    },
-    {
-      "source": "Radar Sonora",
-      "title": "Recorre Karla Córdova comunidades del valle tras lluvias y fuertes vientos",
-      "url": "https://www.radarsonora.com/recorre-karla-cordova-comunidades-del-valle-tras-lluvias-y-fuertes-vientos/",
+      "title": "Sonora reabre la frontera para exportar ganado a EU tras más de un año de cierre",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-reabre-la-frontera-para-exportar-ganado-a-eu-tras-mas-de-un-ano-de-cierre-31719983",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Reafirma Toño Astiazarán apoyo a deportistas mediante Fondo Deportivo con el que ha otorgado 4.3 mdp",
-      "url": "https://entornoinformativo.com.mx/reafirma-tono-astiazaran-apoyo-a-deportistas-mediante-fondo-deportivo-con-el-que-ha-otorgado-4-3-mdp/",
+      "title": "“¡Fuera Rocha!”; protestan en Palacio de Gobierno de Sinaloa",
+      "url": "https://entornoinformativo.com.mx/fuera-rocha-protestan-en-palacio-de-gobierno-de-sinaloa/",
       "published": ""
     },
     {
       "source": "Sonora Presente",
-      "title": "Colosio Riojas aterriza en Sonora y agita el tablero: participará en encuentros clave de MC",
-      "url": "https://sonorapresente.com/2026/08/colosio-riojas-aterriza-en-sonora-y-agita-el-tablero-participara-en-encuentros-clave-de-mc/",
+      "title": "Colosio Riojas responde con insultos a rumores sobre su origen sonorense",
+      "url": "https://sonorapresente.com/2026/08/colosio-riojas-responde-con-insultos-a-rumores-sobre-su-origen-sonorense/",
       "published": ""
     },
     {
       "source": "Medios OBSON",
-      "title": "México celebra el Día Nacional del Cocodrilo con tres especies en su territorio",
-      "url": "https://mediosobson.com/2026/08/23/mexico-celebra-el-dia-nacional-del-cocodrilo-con-tres-especies-en-su-territorio/",
+      "title": "Adorna el ‘Divo de Juárez’ los cachitos de la Lotería Nacional",
+      "url": "https://mediosobson.com/2026/08/24/adorna-el-divo-de-juarez-los-cachitos-de-la-loteria-nacional/",
       "published": ""
     },
     {
       "source": "El Imparcial",
-      "title": "El Congreso de Sinaloa elegirá este lunes al gobernador interino que asumirá el cargo tras la segunda licencia de Rubén Rocha Moya.",
-      "url": "https://www.elimparcial.com/mexico/2026/08/23/tras-la-segunda-licencia-de-ruben-rocha-moya-el-congreso-de-sinaloa-definira-este-lunes-quien-asumira-la-gubernatura-de-forma-interina-durante-los-proximos-dias/",
+      "title": "El nuevo esquema incluirá inspecciones hasta la entrega de las reses a autoridades estadounidenses, barridos en centros ganaderos y dispersión de moscas estériles en Sonora y Chihuahua.",
+      "url": "https://www.elimparcial.com/mexico/2026/08/24/ante-primer-envio-de-ganado-por-agua-prieta-alfonso-durazo-anuncia-sanidad-reforzada-y-sader-mantendra-trazabilidad-desde-el-nacimiento-para-sostener-exportaciones-a-eeuu/",
       "published": ""
     },
     {
       "source": "Proyecto Puente",
-      "title": "ReabrirÃ¡n este lunes frontera de EEUU para exportaciÃ³n de ganado; iniciarÃ¡ en Sonora",
-      "url": "https://proyectopuente.com.mx/2026/08/23/reabriran-este-lunes-frontera-de-eeuu-para-exportacion-de-ganado-iniciara-en-sonora/",
+      "title": "Sheinbaum descarta desapariciÃ³n de poderes en Sinaloa tras nueva licencia de Rocha Moya",
+      "url": "https://proyectopuente.com.mx/2026/08/24/sheinbaum-descarta-desaparicion-de-poderes-en-sinaloa-tras-nueva-licencia-de-rocha-moya/",
       "published": ""
     },
     {
       "source": "Expreso",
-      "title": "El proceso legal contra Diana Alejandra por homicidio culposo sigue en curso con medidas cautelares en libertad.",
-      "url": "https://www.expreso.com.mx/noticias/sonora/avanza-proceso-para-ninera-tras-muerte-de-menor-en-san-carlos/263017",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "¿Quién era Carlos Alberto? Localizan sus restos en una fosa clandestina",
-      "url": "https://diariodelyaqui.mx/nacional/quien-era-carlos-alberto-localizan-sus-restos-en-una-fosa-clandestina/142101",
+      "title": "El Gobernador de Sonora destacó que las condiciones operativas están listas para retomar las exportaciones ganaderas por Agua Prieta.",
+      "url": "https://www.expreso.com.mx/noticias/sonora/reactivan-hoy-exportacion-de-ganado-a-estados-unidos/263035",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
-      "title": "Sonora tendrá calor de hasta 47 grados, lluvias y fuertes vientos esta semana",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-tendra-calor-de-hasta-47-grados-lluvias-y-fuertes-vientos-esta-semana-31623298",
-      "published": ""
-    },
-    {
-      "source": "Tribuna de San Luis",
-      "title": "Llama IMSS a estudiantes a tramitar en línea su número de Seguro Social",
-      "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/llama-imss-a-estudiantes-a-tramitar-en-linea-su-numero-de-seguro-social-31497754",
+      "title": "Gusano barrenador en Sonora: ganaderos temen impacto en exportación de ganado a EU",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/gusano-barrenador-en-sonora-ganaderos-temen-impacto-en-exportacion-de-ganado-a-eu-31676637",
       "published": ""
     },
     {
       "source": "Uniradio Sonora",
-      "title": "Habrá Jornadas de Salud en ejidos San Luis y Carrillo Marcor",
-      "url": "https://www.uniradiosonora.com/salud/habra-jornadas-salud-ejidos-san-luis-carrillo-marcor-n900251",
+      "title": "Sheinbaum fija requisitos para quien sustituya a Rocha Moya",
+      "url": "https://www.uniradiosonora.com/gobierno/sheinbaum-fija-requisitos-quien-sustituya-rocha-moya-n900266",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Invierten 17.2 mdp en Centro Reproductor de Especies Marinas En Bahía de Kino",
-      "url": "https://entornoinformativo.com.mx/invierten-17-2-mdp-en-centro-reproductor-de-especies-marinas-en-bahia-de-kino/",
-      "published": ""
-    },
-    {
-      "source": "Sonora Presente",
-      "title": "Buscadoras hallan fosa con restos óseos y más de 50 casquillos en Sonoyta",
-      "url": "https://sonorapresente.com/2026/08/buscadoras-hallan-fosa-con-restos-oseos-y-mas-de-50-casquillos-en-sonoyta/",
+      "title": "Ataque durante velorio en Colima deja dos muertos",
+      "url": "https://entornoinformativo.com.mx/ataque-durante-velorio-en-colima-deja-dos-muertos/",
       "published": ""
     },
     {
       "source": "Medios OBSON",
-      "title": "Tren México-Querétaro alcanzará hasta 200 km/h y conectará cuatro entidades",
-      "url": "https://mediosobson.com/2026/08/23/tren-mexico-queretaro-alcanzara-hasta-200-km-h-y-conectara-cuatro-entidades/",
+      "title": "Congreso de Sinaloa aplaza sesión para definir quién sustituirá a Rocha Moya",
+      "url": "https://mediosobson.com/2026/08/24/congreso-de-sinaloa-aplaza-sesion-para-definir-quien-sustituira-a-rocha-moya/",
       "published": ""
     },
     {
       "source": "El Imparcial",
-      "title": "Colosio Riojas llega a Sonora; participará en eventos de MC",
-      "url": "https://www.elimparcial.com/son/sonora/2026/08/23/luis-donaldo-colosio-riojas-llega-a-sonora-2/",
+      "title": "Sheinbaum: “No me parecía pertinente” el regreso de Rocha",
+      "url": "https://www.elimparcial.com/mexico/2026/08/24/sheinbaum-cuestiona-reincorporacion-de-rocha-moya-a-la-gubernatura-de-sinaloa-y-confirma-que-congreso-estatal-definira-al-gobernador-interino-tras-nueva-licencia/",
       "published": ""
     },
     {
       "source": "Proyecto Puente",
-      "title": "MÃ¡ynez confirma acercamiento de MC con LÃ³pez Caballero por Hermosillo rumbo a 2027",
-      "url": "https://proyectopuente.com.mx/2026/08/23/maynez-confirma-acercamiento-de-mc-con-lopez-caballero-por-hermosillo-rumbo-a-2027/",
+      "title": "Sheinbaum arremete contra Rocha por regresar a gubernatura de Sinaloa: “Me pareciÃ³ imprudente, Â¿quÃ© necesidad?”",
+      "url": "https://proyectopuente.com.mx/2026/08/24/sheinbaum-arremete-contra-rocha-por-regresar-a-gubernatura-de-sinaloa-me-parecio-imprudente-que-necesidad/",
       "published": ""
     },
     {
       "source": "Expreso",
-      "title": "Rinden homenaje póstumo a Emilio Herrera Anaya, pionero de la acuacultura",
-      "url": "https://www.expreso.com.mx/noticias/sonora/homenaje-a-emilio-herrera-anaya-en-parque-acuicola-el-siari/263012",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "¿Lloverá en Sonora hoy? Estas ciudades podrían tener precipitaciones este domingo 23 de agosto",
-      "url": "https://diariodelyaqui.mx/sonora/llovera-en-sonora-hoy-estas-ciudades-podrian-tener-precipitaciones-este-domingo-23-de-agosto/142086",
+      "title": "Lorenia Valles celebra reapertura de exportaciones ganaderas",
+      "url": "https://www.expreso.com.mx/noticias/sonora/reapertura-ganadera-es-buena-noticia-para-sonora-valles/263022",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
-      "title": "Lluvias dejan sin luz a municipios de Sonora; CFE trabaja para restablecer el servicio",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/lluvias-dejan-sin-luz-a-municipios-de-sonora-cfe-trabaja-para-restablecer-el-servicio-31629177",
-      "published": ""
-    },
-    {
-      "source": "Tribuna de San Luis",
-      "title": "Celebra delegación del IMSS 75 años con infraestructura histórica e innovación médica",
-      "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/celebra-delegacion-del-imss-75-anos-con-infraestructura-historica-e-innovacion-medica-31558282",
+      "title": "Podrían detectarse más casos de gusano barrenador en Sonora: Sagarhpa",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/podrian-detectarse-mas-casos-de-gusano-barrenador-en-sonora-sagarhpa-31665934",
       "published": ""
     },
     {
       "source": "Uniradio Sonora",
-      "title": "Autoridades atienden afectaciones en Guaymas",
-      "url": "https://www.uniradiosonora.com/sociedad/autoridades-atienden-afectaciones-guaymas-n900249",
+      "title": "Rocha Moya deja nuevamente el cargo y buscan gobernador interino",
+      "url": "https://www.uniradiosonora.com/gobierno/rocha-moya-deja-nuevamente-cargo-buscan-gobernador-interino-n900261",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Regresarán a clases 25 mil estudiantes de Cecyte mañana lunes",
-      "url": "https://entornoinformativo.com.mx/regresaran-a-clases-25-mil-estudiantes-de-cecyte-manana-lunes/",
-      "published": ""
-    },
-    {
-      "source": "Medios OBSON",
-      "title": "Det1enen a dos hombres y localizan a dos m3nores con Alerta Amber en Hermosillo",
-      "url": "https://mediosobson.com/2026/08/23/det1enen-a-dos-hombres-y-localizan-a-dos-m3nores-con-alerta-amber-en-hermosillo/",
+      "title": "Congreso de Sinaloa pospone elección de gobernador interino",
+      "url": "https://entornoinformativo.com.mx/congreso-de-sinaloa-pospone-eleccion-de-gobernador-interino/",
       "published": ""
     },
     {
       "source": "El Imparcial",
-      "title": "Policías auxilian a hombre con dolor rumbo al hospital",
-      "url": "https://www.elimparcial.com/son/sonora/2026/08/23/policias-abren-paso-a-automovilista-que-llevaba-urgentemente-a-su-esposo-al-hospital/",
+      "title": "Sheinbaum espera más reaperturas para el ganado mexicano",
+      "url": "https://www.elimparcial.com/mexico/2026/08/24/espera-sheinbaum-que-poco-a-poco-se-reabra-la-frontera-de-eeuu-al-ganado-mexicano-por-otros-estados/",
       "published": ""
     },
     {
       "source": "Proyecto Puente",
-      "title": "Alito estalla contra Rocha Moya: lo acusa de evadir la justicia y lanza advertencia",
-      "url": "https://proyectopuente.com.mx/2026/08/23/alito-estalla-contra-rocha-moya-lo-acusa-de-evadir-la-justicia-y-lanza-advertencia/",
+      "title": "Durazo anuncia reapertura de la frontera de EEUU al ganado mexicano desde Agua Prieta",
+      "url": "https://proyectopuente.com.mx/2026/08/24/durazo-anuncia-reapertura-de-la-frontera-de-eeuu-al-ganado-mexicano-desde-agua-prieta/",
       "published": ""
     },
     {
       "source": "Expreso",
-      "title": "La ceremonia fue encabezada por el profesor Miguel Ángel Castro Cosío, dirigente nacional de la Unión General Obrero, Campesina y Popular (UGOCP).",
-      "url": "https://www.expreso.com.mx/noticias/sonora/homenaje-a-emilio-herrera-anaya-en-parque-acuicola-el-siari/263012",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "Horóscopos de Mhoni Vidente de hoy 23 de agosto: Descubre qué deparan los astros para este fin de semana",
-      "url": "https://diariodelyaqui.mx/viral/horoscopos-de-mhoni-vidente-de-hoy-23-de-agosto-descubre-que-deparan-los-astros-para-este-fin-de-semana/142085",
-      "published": ""
-    },
-    {
-      "source": "El Sol de Hermosillo",
-      "title": "Hermosillo mantendrá temperaturas superiores a los 40 °C esta semana ¿se esperan lluvias?",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hermosillo-mantendra-temperaturas-superiores-a-los-40-c-esta-semana-se-esperan-lluvias-31711558",
+      "title": "Lorenia Valles destacó la coordinación entre productores y autoridades para cumplir los protocolos sanitarios exigidos por Estados Unidos.",
+      "url": "https://www.expreso.com.mx/noticias/sonora/reapertura-ganadera-es-buena-noticia-para-sonora-valles/263022",
       "published": ""
     },
     {
       "source": "Radio Sonora",
-      "title": "Abrirán la frontera con México para el cruce ganado a Estados Unidos",
-      "url": "https://www.radiosonora.com.mx/abriran-la-frontera-con-mexico-para-el-cruce-ganado-a-estados-unidos/",
+      "title": "Presidenta Sheinbaum celebra reanudación de exportaciones ganaderas de Sonora a Estados Unidos",
+      "url": "https://www.radiosonora.com.mx/presidenta-sheinbaum-celebra-reanudacion-de-exportaciones-ganaderas-de-sonora-a-estados-unidos/",
       "published": ""
     },
     {
       "source": "Uniradio Sonora",
-      "title": "Sonora refuerza combate a rickettsia con fumigaciones",
-      "url": "https://www.uniradiosonora.com/salud/sonora-refuerza-combate-rickettsia-fumigaciones-n900247",
+      "title": "Sheinbaum retoma mañanera tras ausentarse por gripe",
+      "url": "https://www.uniradiosonora.com/gobierno/sheinbaum-retoma-mananera-tras-ausentarse-gripe-n900258",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Protagonizan fuerte “encontronazo” en la colonia Olivares",
-      "url": "https://entornoinformativo.com.mx/protagonizan-fuerte-encontronazo-en-la-colonia-olivares-3/",
-      "published": ""
-    },
-    {
-      "source": "Medios OBSON",
-      "title": "Senasica asegura que el gusano barrenador está controlado pese a nuevos casos",
-      "url": "https://mediosobson.com/2026/08/23/senasica-asegura-que-el-gusano-barrenador-esta-controlado-pese-a-nuevos-casos/",
+      "title": "Sheinbaum descarta desaparición de poderes en Sinaloa",
+      "url": "https://entornoinformativo.com.mx/sheinbaum-descarta-desaparicion-de-poderes-en-sinaloa/",
       "published": ""
     },
     {
       "source": "El Imparcial",
-      "title": "Afirma Canadá estar en 'guerra' con EEUU",
-      "url": "https://www.elimparcial.com/dinero/2026/08/23/cuando-te-atacan-estas-en-guerra-canada-endurece-su-choque-con-eeuu-y-trump-responde-a-mark-carney-que-quiere-los-beneficios-de-ser-un-estado-sin-serlo/",
+      "title": "Inflación sube a 3.26% en México y estos son los productos que más presionaron el bolsillo en agosto",
+      "url": "https://www.elimparcial.com/dinero/2026/08/24/inflacion-sube-a-326-en-mexico-y-estos-son-los-productos-que-mas-presionaron-el-bolsillo-en-agosto/",
       "published": ""
     },
     {
       "source": "Proyecto Puente",
-      "title": "Entre gritos de “gobernador”, plana mayor de MC respalda a Colosio en plenaria en Sonora",
-      "url": "https://proyectopuente.com.mx/2026/08/23/entre-gritos-de-gobernador-plana-mayor-de-mc-respalda-a-colosio-en-plenaria-en-sonora/",
-      "published": ""
-    },
-    {
-      "source": "Expreso",
-      "title": "Vuelca tráiler en carretera Magdalena-Santa Ana; chofer gravemente herido",
-      "url": "https://www.expreso.com.mx/noticias/sonora/vuelca-trailer-en-tramo-magdalena-santa-ana-un-herido/263004",
+      "title": "“No me parecÃ­a pertinente” que Rocha Moya regresara como gobernador de Sinaloa, dice Sheinbaum",
+      "url": "https://proyectopuente.com.mx/2026/08/24/no-me-parecia-pertinente-que-rocha-moya-regresara-como-gobernador-de-sinaloa-dice-sheinbaum/",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Vuelo de Volaris aterriza de emergencia en Hermosillo por una situación médica",
-      "url": "https://diariodelyaqui.mx/hermosillo/vuelo-de-volaris-aterriza-de-emergencia-en-hermosillo-por-una-situacion-medica/142091",
+      "title": "VIDEO | Mujer denuncia presunta agresión en Domino´s Sendero, Ciudad Obregón",
+      "url": "https://diariodelyaqui.mx/ciudadobregon/video--mujer-denuncia-presunta-agresion-en-dominos-sendero-ciudad-obregon/142151",
       "published": ""
     },
     {
       "source": "El Sol de Hermosillo",
-      "title": "Los riesgos que enfrentan los riñones por el exceso de sal y la dieta ultraprocesada",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldemexico/ciencia-y-salud/los-riesgos-que-enfrentan-los-rinones-por-el-exceso-de-sal-y-la-dieta-ultraprocesada-31699922",
+      "title": "¡Fue histórico! ESTO realizó una cobertura sin igual para el Mundial 2026",
+      "url": "https://www.elsoldehermosillo.com.mx/esto/mundial-2026/esto-realiza-una-cobertura-con-despliegue-historico-para-el-mundial-2026-31713689",
       "published": ""
     },
     {
       "source": "Radio Sonora",
-      "title": "Protección Civil recomienda prepararse ante temporada de ciclones en septiembre",
-      "url": "https://www.radiosonora.com.mx/proteccion-civil-recomienda-prepararse-ante-temporada-de-ciclones-en-septiembre/",
+      "title": "El Congreso de Sinaloa definirá gubernatura interina tras licencia de Rocha Moya: Sheinbaum",
+      "url": "https://www.radiosonora.com.mx/el-congreso-de-sinaloa-definira-gubernatura-interina-tras-licencia-de-rocha-moya-sheinbaum/",
+      "published": ""
+    },
+    {
+      "source": "El Diario de Sonora",
+      "title": "“La reapertura de la frontera es una buena noticia para Sonora”: Lorenia Valles",
+      "url": "https://eldiariodesonora.com.mx/sonora/2026/08/24/reapertura-frontera-es-buena-noticia-sonora-lorenia-valles.html",
       "published": ""
     },
     {
       "source": "Tribuna de San Luis",
-      "title": "Los riesgos que enfrentan los riñones por el exceso de sal y la dieta ultraprocesada",
-      "url": "https://www.tribunadesanluis.com.mx/elsoldemexico/ciencia-y-salud/los-riesgos-que-enfrentan-los-rinones-por-el-exceso-de-sal-y-la-dieta-ultraprocesada-31699922",
+      "title": "¡Fue histórico! ESTO realizó una cobertura sin igual para el Mundial 2026",
+      "url": "https://www.tribunadesanluis.com.mx/esto/mundial-2026/esto-realiza-una-cobertura-con-despliegue-historico-para-el-mundial-2026-31713689",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Haaland Se Despide De Su Melena Y Sorprende A Todos",
+      "url": "https://entornoinformativo.com.mx/haaland-se-despide-de-su-melena-y-sorprende-a-todos/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Dólar hoy: así cotiza este lunes 24 de agosto",
+      "url": "https://www.elimparcial.com/mexico/2026/08/24/peso-mexicano-mantiene-fuerza-frente-al-dolar-asi-cotiza-este-lunes-24-de-agosto/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "Sheinbaum: \"Cierre de frontera, también afectó la economía de Estados Unidos\"",
+      "url": "https://diariodelyaqui.mx/agricola/sheinbaum-cierre-de-frontera-tambien-afecto-la-economia-de-estados-unidos/142153",
+      "published": ""
+    },
+    {
+      "source": "El Sol de Hermosillo",
+      "title": "Se declara listo sector ganadero para reabrir exportación a Estados Unidos este lunes",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/se-declara-listo-sector-ganadero-para-reabrir-exportacion-a-estados-unidos-este-lunes-31713844",
+      "published": ""
+    },
+    {
+      "source": "El Diario de Sonora",
+      "title": "Listo Sonora para reabrir exportación de ganado este 24 de agosto: Durazo",
+      "url": "https://eldiariodesonora.com.mx/sonora/2026/08/24/listo-sonora-reabrir-exportacion-ganado-este-24-agosto-durazo.html",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Congreso de Sinaloa adelanta sesión para elegir gobernador interino",
+      "url": "https://entornoinformativo.com.mx/congreso-de-sinaloa-adelanta-sesion-para-elegir-gobernador-interino/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Horóscopos de hoy, lunes 24 de agosto de 2026: descubre qué tienen preparado los astros y el tarot para tu signo",
+      "url": "https://www.elimparcial.com/espectaculos/2026/08/24/horoscopos-de-hoy-lunes-24-de-agosto-de-2026-descubre-que-tienen-preparado-los-astros-y-el-tarot-para-tu-signo/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "Clima en Sonora hoy, 24 de agosto: Pronostican lluvias fuertes para el sur del estado",
+      "url": "https://diariodelyaqui.mx/sonora/clima-en-sonora-hoy-24-de-agosto-pronostican-lluvias-fuertes-para-el-sur-del-estado/142152",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Asesinan a dirigente de MC en Tlapehuala, Guerrero",
+      "url": "https://entornoinformativo.com.mx/asesinan-a-dirigente-de-mc-en-tlapehuala-guerrero/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Casa de los Famosos México’",
+      "url": "https://www.elimparcial.com/tags/casa-de-los-famosos-mexico/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "Santoral de hoy, 24 de agosto: San Bartolomé, patrono de carniceros y zapateros",
+      "url": "https://diariodelyaqui.mx/viral/santoral-de-hoy-24-de-agosto-san-bartolome-patrono-de-carniceros-y-zapateros/142150",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Isaac Del Toro Rompe Barrera De 115 Años En Alemania",
+      "url": "https://entornoinformativo.com.mx/isaac-del-toro-rompe-barrera-de-115-anos-en-alemania/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "¿Cómo votar por el mueble de La Casa de los Famosos México?",
+      "url": "https://www.elimparcial.com/espectaculos/2026/08/24/como-votar-por-el-mueble-de-la-casa-de-los-famosos-mexico-aqui-puedes-elegirlo/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "Choque entre camioneta y trÃ¡iler deja daÃ±os materiales al norte de Hermosillo",
+      "url": "https://proyectopuente.com.mx/2026/08/24/choque-entre-camioneta-y-trailer-deja-danos-materiales-al-norte-de-hermosillo/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "\"No estoy de acuerdo con lo que hizo\": Sheinbaum critica breve regreso de Rocha Moya al gobierno de Sinaloa",
+      "url": "https://diariodelyaqui.mx/nacional/no-estoy-de-acuerdo-con-lo-que-hizo-sheinbaum-critica-breve-regreso-de-rocha-moya-al-gobierno-de-sinaloa/142149",
+      "published": ""
+    },
+    {
+      "source": "Nuevo Día",
+      "title": "Lorenia Valles celebra reapertura de frontera para exportación de ganado",
+      "url": "https://www.nuevodia.mx/sonora/2026/08/24/lorenia-valles-celebra-reapertura-frontera-exportacion-ganado.html",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Congreso de Sinaloa otorga licencia indefinida a Rocha Moya",
+      "url": "https://entornoinformativo.com.mx/congreso-de-sinaloa-otorga-licencia-indefinida-a-rocha-moya/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "Detienen a hombre por insultar a cajera de una farmacia en Hermosillo",
+      "url": "https://proyectopuente.com.mx/2026/08/24/detienen-a-hombre-por-insultar-a-cajera-de-una-farmacia-en-hermosillo/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "Horóscopos de Mhoni Vidente de hoy 24 de agosto: ¿Qué dicen los astros sobre el amor y el trabajo?",
+      "url": "https://diariodelyaqui.mx/viral/horoscopos-de-mhoni-vidente-de-hoy-24-de-agosto-que-dicen-los-astros-sobre-el-amor-y-el-trabajo/142145",
+      "published": ""
+    },
+    {
+      "source": "El Sol de Hermosillo",
+      "title": "Cateo en Hermosillo permite localizar a dos menores con Alerta Amber desde febrero",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/cateo-en-hermosillo-permite-localizar-a-dos-menores-con-alerta-amber-desde-febrero-31713871",
+      "published": ""
+    },
+    {
+      "source": "Nuevo Día",
+      "title": "Supervisa Durazo preparación de Sonora ante reaper...",
+      "url": "https://www.nuevodia.mx/sonora/2026/08/24/supervisa-durazo-preparacion-sonora-reapertura-exportacion-ganado.html",
+      "published": ""
+    },
+    {
+      "source": "Tribuna de San Luis",
+      "title": "Sader lanza incentivo para comercialización de trigo panificable en ciclo 2025-2026",
+      "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/sader-lanza-incentivo-para-comercializacion-de-trigo-panificable-en-ciclo-2025-2026-31708298",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Alejandro Kirk Extiende A 12 Juegos Su Racha Con Hit",
+      "url": "https://entornoinformativo.com.mx/alejandro-kirk-extiende-a-12-juegos-su-racha-con-hit/",
+      "published": ""
+    },
+    {
+      "source": "El Sol de Hermosillo",
+      "title": "Congreso de Sonora aprueba pago de 2 millones de pesos para estancias de Covafam",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/congreso-de-sonora-aprueba-pago-de-2-millones-de-pesos-para-estancias-de-covafam-31714136",
+      "published": ""
+    },
+    {
+      "source": "Tribuna de San Luis",
+      "title": "Cobach SLRC mantiene su liderazgo en demanda estudiantil",
+      "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/cobach-slrc-mantiene-su-liderazgo-en-demanda-estudiantil-31710840",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Habilitan sitio del H Bus para horarios Intermedios",
+      "url": "https://entornoinformativo.com.mx/habilitan-sitio-del-h-bus-para-horarios-intermedios/",
+      "published": ""
+    },
+    {
+      "source": "El Sol de Hermosillo",
+      "title": "Movimiento Ciudadano se prepara rumbo a 2027 y Colosio aparece como pieza clave en Sonora",
+      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/movimiento-ciudadano-se-prepara-rumbo-a-2027-y-colosio-aparece-como-pieza-clave-en-sonora-31713606",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Aumentan ventas previo al regreso a clases en el Centro de Hermosillo",
+      "url": "https://entornoinformativo.com.mx/aumentan-ventas-previo-al-regreso-a-clases-en-el-centro-de-hermosillo/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "Dos fuertes sismos sacuden Costa Rica durante la madrugada de este lunes; registran más de 30 réplicas",
+      "url": "https://diariodelyaqui.mx/internacional/dos-fuertes-sismos-sacuden-costa-rica-durante-la-madrugada-de-este-lunes-registran-mas-de-30-replicas/142147",
+      "published": ""
+    },
+    {
+      "source": "Tribuna de San Luis",
+      "title": "Familiares buscan a Nataly Magdaleno, desaparecida desde la madrugada del viernes",
+      "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/familiares-buscan-a-nataly-magdaleno-desaparecida-desde-la-madrugada-del-viernes-31710740",
       "published": ""
     },
     {
       "source": "Uniradio Sonora",
-      "title": "¡Más de 3 mil 500 corredores ponen ritmo a Carrera Vaquera!",
-      "url": "https://www.uniradiosonora.com/sociedad/mas-3-mil-500-corredores-ponen-ritmo-carrera-vaquera-n900245",
-      "published": ""
-    },
-    {
-      "source": "Radar Sonora",
-      "title": "Protección Civil Estatal y Ayuntamiento trabajan en retiro de árboles caídos",
-      "url": "https://www.radarsonora.com/proteccion-civil-estatal-y-ayuntamiento-trabajan-en-retiro-de-arboles-caidos/",
+      "title": "A prisión por homicidio en Ciudad Obregón",
+      "url": "https://www.uniradiosonora.com/policiaca/a-prision-homicidio-ciudad-obregon-n898056",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Aprehenden a agresor de progenitora en la colonia Villa del Palmar",
-      "url": "https://entornoinformativo.com.mx/aprehenden-a-agresor-de-progenitora-en-la-colonia-villa-del-palmar/",
-      "published": ""
-    },
-    {
-      "source": "Medios OBSON",
-      "title": "Fundación CES cierra agosto con 149 esterilizaciones de perros y gatos",
-      "url": "https://mediosobson.com/2026/08/23/fundacion-ces-cierra-agosto-con-149-esterilizaciones-de-perros-y-gatos/",
+      "title": "Anuncia Ayuntamiento de Hermosillo jornada de esterilización gratuita",
+      "url": "https://entornoinformativo.com.mx/anuncia-ayuntamiento-de-hermosillo-jornada-de-esterilizacion-gratuita/",
       "published": ""
     },
     {
       "source": "El Imparcial",
-      "title": "Joven resulta lesionado tras caer en una alberca en Sonora",
-      "url": "https://www.elimparcial.com/son/sonora/2026/08/23/lesionado-por-caida-en-una-alberca-fue-auxiliado-por-policias-municipales/",
-      "published": ""
-    },
-    {
-      "source": "Expreso",
-      "title": "Elementos de auxilio realizaron maniobras intensas para liberar al conductor y trasladarlo a un hospital cercano para atención médica especializada.",
-      "url": "https://www.expreso.com.mx/noticias/sonora/vuelca-trailer-en-tramo-magdalena-santa-ana-un-herido/263004",
+      "title": "La Casa de los Famosos México",
+      "url": "https://www.elimparcial.com/tags/la-casa-de-los-famosos-mxico/",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Piden más camiones en Navojoa ante el regreso a clases",
-      "url": "https://diariodelyaqui.mx/sonora/piden-mas-camiones-en-navojoa-ante-el-regreso-a-clases/142121",
-      "published": ""
-    },
-    {
-      "source": "El Sol de Hermosillo",
-      "title": "Salud Sonora fumiga tres mil 937 viviendas para prevenir la rickettsia",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/salud-sonora-fumiga-tres-mil-937-viviendas-para-prevenir-la-rickettsia-31715430",
-      "published": ""
-    },
-    {
-      "source": "Radio Sonora",
-      "title": "Fortalecen alianza Sonora-Arizona para atraer inversiones y generar empleos",
-      "url": "https://www.radiosonora.com.mx/fortalecen-alianza-sonora-arizona-para-atraer-inversiones-y-generar-empleos/",
-      "published": ""
-    },
-    {
-      "source": "Tribuna de San Luis",
-      "title": "¡Llegó la cosecha del dátil!: un reto en el campo, un deleite al paladar",
-      "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/llego-la-cosecha-del-datil-un-reto-en-el-campo-un-deleite-al-paladar-31713627",
+      "title": "ICE detiene a mexicano acusado de atropellar a cuatro peatones y escapar en Nashville; dos estaban en silla de ruedas",
+      "url": "https://diariodelyaqui.mx/internacional/ice-detiene-a-mexicano-acusado-de-atropellar-a-cuatro-peatones-y-escapar-en-nashville-dos-estaban-en-silla-de-ruedas/142127",
       "published": ""
     },
     {
       "source": "Uniradio Sonora",
-      "title": "¡Esterilización gratis para perros y gatos en Hermosillo!",
-      "url": "https://www.uniradiosonora.com/sociedad/esterilizacion-gratis-perros-gatos-hermosillo-n900240",
-      "published": ""
-    },
-    {
-      "source": "Radar Sonora",
-      "title": "Ayuntamiento atiende afectaciones por fuertes vientos y lluvias",
-      "url": "https://www.radarsonora.com/ayuntamiento-atiende-afectaciones-por-fuertes-vientos-y-lluvias/",
+      "title": "Refuerzan combate a rickettsia en Cajeme",
+      "url": "https://www.uniradiosonora.com/salud/refuerzan-combate-rickettsia-cajeme-n896974",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Localizan una motocicleta robada en la colonia Urbi Villa del Prado",
-      "url": "https://entornoinformativo.com.mx/localizan-una-motocicleta-robada-en-la-colonia-urbi-villa-del-prado/",
-      "published": ""
-    },
-    {
-      "source": "Medios OBSON",
-      "title": "Tormenta deja daños menores en Cajeme",
-      "url": "https://mediosobson.com/2026/08/23/tormenta-deja-danos-menores-en-cajeme/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "¿Puede el guamúchil limpiar el aire de Hermosillo?",
-      "url": "https://www.elimparcial.com/son/hermosillo/2026/08/23/puede-el-guamuchil-limpiar-el-aire-de-hermosillo/",
-      "published": ""
-    },
-    {
-      "source": "Proyecto Puente",
-      "title": "Pata de Perro y ciudadanos protestan en Hermosillo contra nueva âLey Matanzaâ",
-      "url": "https://proyectopuente.com.mx/2026/08/23/pata-de-perro-y-ciudadanos-protestan-en-hermosillo-contra-nueva-ley-matanza/",
-      "published": ""
-    },
-    {
-      "source": "Expreso",
-      "title": "Secretaría de Salud Sonora prepara campañas de vacunación",
-      "url": "https://www.expreso.com.mx/noticias/sonora/preparan-nuevas-campanas-de-vacunacion-en-sonora/263002",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "Lluvias dan respiro a ganaderos de Navojoa y dejan atrás años de sequía",
-      "url": "https://diariodelyaqui.mx/sonora/lluvias-dan-respiro-a-ganaderos-de-navojoa-y-dejan-atras-anos-de-sequia/142120",
-      "published": ""
-    },
-    {
-      "source": "El Sol de Hermosillo",
-      "title": "Sonora se mantiene en el top nacional por casos de rickettsiosis durante 2026",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-se-mantiene-en-el-top-nacional-por-casos-de-rickettsiosis-durante-2026-31513158",
-      "published": ""
-    },
-    {
-      "source": "Radio Sonora",
-      "title": "Inicia IAES primera etapa de adecuación del Laboratorio de Peces Marinos del CREMES",
-      "url": "https://www.radiosonora.com.mx/inicia-iaes-primera-etapa-de-adecuacion-del-laboratorio-de-peces-marinos-del-cremes/",
-      "published": ""
-    },
-    {
-      "source": "Tribuna de San Luis",
-      "title": "Universidad Estatal de Sonora invita a productores de dátil a capacitación sobre cosecha y postcosecha",
-      "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/universidad-estatal-de-sonora-invita-a-productores-de-datil-a-capacitacion-sobre-cosecha-y-postcosecha-31578426",
+      "title": "Llega hoy jornada de salud a ejidos San Luis y Carrillo Marcor",
+      "url": "https://entornoinformativo.com.mx/llega-hoy-jornada-de-salud-a-ejidos-san-luis-y-carrillo-marcor/",
       "published": ""
     },
     {
       "source": "Uniradio Sonora",
-      "title": "De los aplausos a los abucheos; noche amarga para Gilberto Mora",
-      "url": "https://www.uniradiosonora.com/deportes/de-aplausos-abucheos-noche-amarga-gilberto-mora-n900243",
+      "title": "Jóvenes de Navojoa, ¡a buscar empleo!",
+      "url": "https://www.uniradiosonora.com/sociedad/jovenes-navojoa-a-buscar-empleo-n899508",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Someten a dos presuntos “tiradores” de droga",
-      "url": "https://entornoinformativo.com.mx/someten-a-dos-presuntos-tiradores-de-droga/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "Catean inmueble por maltrato animal",
-      "url": "https://www.elimparcial.com/son/sonora/2026/08/23/catean-inmueble-por-maltrato-animal/",
-      "published": ""
-    },
-    {
-      "source": "Proyecto Puente",
-      "title": "PolicÃ­as auxilian a hombre reciÃ©n operado tras sufrir fuerte dolor abdominal en Hermosillo",
-      "url": "https://proyectopuente.com.mx/2026/08/23/policias-auxilian-a-hombre-recien-operado-tras-sufrir-fuerte-dolor-abdominal-en-hermosillo/",
-      "published": ""
-    },
-    {
-      "source": "Expreso",
-      "title": "Las acciones de vacunación contemplan estudiantes de quinto grado y jóvenes no escolarizados para ampliar cobertura contra el VPH.",
-      "url": "https://www.expreso.com.mx/noticias/sonora/preparan-nuevas-campanas-de-vacunacion-en-sonora/263002",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "Álamos activa transporte escolar gratuito para 400 estudiantes",
-      "url": "https://diariodelyaqui.mx/sonora/alamos-activa-transporte-escolar-gratuito-para-400-estudiantes/142119",
-      "published": ""
-    },
-    {
-      "source": "El Sol de Hermosillo",
-      "title": "Rescatan a 18 perros durante operativo por presunto maltrato animal en Sonoyta",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/rescatan-a-18-perros-durante-operativo-por-presunto-maltrato-animal-en-sonoyta-31592761",
-      "published": ""
-    },
-    {
-      "source": "Radio Sonora",
-      "title": "Investigaciones de la FGJES logran condena de 28 años a dos sujetos por homicidio en Hermosillo",
-      "url": "https://www.radiosonora.com.mx/investigaciones-de-la-fgjes-logran-condena-de-28-anos-a-dos-sujetos-por-homicidio-en-hermosillo/",
-      "published": ""
-    },
-    {
-      "source": "Uniradio Sonora",
-      "title": "Harfuch pone freno a agentes extranjeros en México",
-      "url": "https://www.uniradiosonora.com/gobierno/harfuch-pone-freno-agentes-extranjeros-mexico-n900238",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Suma Sonora mil 54 casos de dengue",
-      "url": "https://entornoinformativo.com.mx/suma-sonora-mil-54-casos-de-dengue/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "Policías llevan al HIES a niño de 4 años tras convulsión",
-      "url": "https://www.elimparcial.com/son/hermosillo/2026/08/23/policias-trasladan-a-menor-a-hospital/",
-      "published": ""
-    },
-    {
-      "source": "Proyecto Puente",
-      "title": "Empresarios y ciudadanos exigen cambio de fondo en Sinaloa: piden salida definitiva de Rocha Moya",
-      "url": "https://proyectopuente.com.mx/2026/08/23/empresarios-y-ciudadanos-exigen-cambio-de-fondo-en-sinaloa-piden-salida-definitiva-de-rocha-moya/",
-      "published": ""
-    },
-    {
-      "source": "Expreso",
-      "title": "Festival Juvenil Navojoa reúne talento, emprendimiento y entretenimiento",
-      "url": "https://www.expreso.com.mx/noticias/sonora/realizan-con-exito-festival-juvenil-navojoa/263000",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "Sonora reanudará este lunes exportación de ganado a Estados Unidos",
-      "url": "https://diariodelyaqui.mx/sonora/sonora-reanudara-este-lunes-exportacion-de-ganado-a-estados-unidos/142114",
-      "published": ""
-    },
-    {
-      "source": "El Sol de Hermosillo",
-      "title": "Animalistas protestan frente al Congreso de Sonora contra la Ley General de Bienestar Animal",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/animalistas-protestan-frente-al-congreso-de-sonora-contra-la-ley-general-de-bienestar-animal-31709329",
-      "published": ""
-    },
-    {
-      "source": "Tribuna de San Luis",
-      "title": "Comienzan productores con la cosecha del dátil en San Luis Río Colorado",
-      "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/comienzan-productores-con-la-cosecha-del-datil-en-san-luis-rio-colorado-31594618",
-      "published": ""
-    },
-    {
-      "source": "Uniradio Sonora",
-      "title": "Muere Quévin Castro a los 25 años, en pleno partido",
-      "url": "https://www.uniradiosonora.com/deportes/muere-quevin-castro-25-anos-pleno-partido-n900235",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Gobierno de Hermosillo reconoce labor y entrega de Bomberos",
-      "url": "https://entornoinformativo.com.mx/gobierno-de-hermosillo-reconoce-labor-y-entrega-de-bomberos/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "Sentencian a 70 años a tres sujetos por secuestro exprés",
-      "url": "https://www.elimparcial.com/mexico/2026/08/23/jose-luis-dorado-rosas-carlos-antonio-rodriguez-ovalle-y-manuel-martinez-hermenegildo-interceptaron-a-un-trailero-armado-para-robar-un-tractocamion-con-productos-de-limpieza-valuados-en-500-mil-pesos-pero-el-gps-permitio-localizar-la-unidad-y-ahora-los-tres-pasaran-70-anos-en-prision/",
-      "published": ""
-    },
-    {
-      "source": "Proyecto Puente",
-      "title": "Congreso de Sinaloa adelanta sesiÃ³n para definir la gubernatura interina",
-      "url": "https://proyectopuente.com.mx/2026/08/23/congreso-de-sinaloa-adelanta-sesion-para-definir-la-gubernatura-interina/",
-      "published": ""
-    },
-    {
-      "source": "Expreso",
-      "title": "El evento incluyó un show de talentos, una muestra de autos clásicos y un torneo de Smash Bros, además de 30 stands de emprendedores locales.",
-      "url": "https://www.expreso.com.mx/noticias/sonora/realizan-con-exito-festival-juvenil-navojoa/263000",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "Error médico deja paralizada a mujer de 72 años tras recibir medicamento equivocado antes de una cirugía",
-      "url": "https://diariodelyaqui.mx/internacional/error-medico-deja-paralizada-a-mujer-de-72-anos-tras-recibir-medicamento-equivocado-antes-de-una-cirugia/142115",
-      "published": ""
-    },
-    {
-      "source": "El Sol de Hermosillo",
-      "title": "Los herederos de La Cristiada: siete memorias",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldemexico/mexico/los-herederos-de-la-cristiada-siete-memorias-31589915",
-      "published": ""
-    },
-    {
-      "source": "Radio Sonora",
-      "title": "Mantiene Salud Sonora acciones contra el dengue con más de 93 mil hectáreas fumigadas",
-      "url": "https://www.radiosonora.com.mx/mantiene-salud-sonora-acciones-contra-el-dengue-con-mas-de-93-mil-hectareas-fumigadas/",
-      "published": ""
-    },
-    {
-      "source": "Tribuna de San Luis",
-      "title": "Los herederos de La Cristiada: siete memorias",
-      "url": "https://www.tribunadesanluis.com.mx/elsoldemexico/mexico/los-herederos-de-la-cristiada-siete-memorias-31589915",
-      "published": ""
-    },
-    {
-      "source": "Uniradio Sonora",
-      "title": "Nawat Itsaragrisil busca orden de arresto contra Fátima Bosch",
-      "url": "https://www.uniradiosonora.com/fama/nawat-itsaragrisil-busca-orden-arresto-fatima-bosch-n900232",
-      "published": ""
-    },
-    {
-      "source": "Radar Sonora",
-      "title": "Cateo permite detener a dos personas y localizar a dos menores...",
-      "url": "https://www.radarsonora.com/cateo-permite-detener-a-dos-personas-y-localizar-a-dos-menores-con-alerta-amber/",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Pide Rocha Moya nueva licencia en Sinaloa",
-      "url": "https://entornoinformativo.com.mx/pide-rocha-moya-nueva-licencia-en-sinaloa/",
-      "published": ""
-    },
-    {
-      "source": "Medios OBSON",
-      "title": "Oposición rechaza nueva licencia del gobernador de Sinaloa",
-      "url": "https://mediosobson.com/2026/08/23/oposicion-rechaza-nueva-licencia-del-gobernador-de-sinaloa/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "Olinia vs. Nissan Sakura: dos formas de movilidad",
-      "url": "https://www.elimparcial.com/tecnologia/2026/08/23/mientras-mexico-desarrolla-el-olinia-con-un-enfoque-urbano-y-de-accesibilidad-japon-convirtio-al-sakura-en-una-alternativa-electrica-compacta-capaz-de-cubrir-un-rango-mas-amplio-de-necesidades-de-movilidad/",
-      "published": ""
-    },
-    {
-      "source": "Proyecto Puente",
-      "title": "Asesinan a dirigente de MC en Guerrero; partido exige investigaciÃ³n con perspectiva de gÃ©nero",
-      "url": "https://proyectopuente.com.mx/2026/08/23/asesinan-a-dirigente-de-mc-en-guerrero-partido-exige-investigacion-con-perspectiva-de-genero/",
-      "published": ""
-    },
-    {
-      "source": "Expreso",
-      "title": "Fuertes vientos golpean el sur de Sonora; reportan daños menores",
-      "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-y-fuertes-vientos-dejan-afectaciones-en-sonora/262989",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "Tiroteo en estacionamiento de centro comercial deja un joven muerto en California; buscan a dos sospechosos",
-      "url": "https://diariodelyaqui.mx/internacional/tiroteo-en-estacionamiento-de-centro-comercial-deja-un-joven-muerto-en-california-buscan-a-dos-sospechosos/142112",
-      "published": ""
-    },
-    {
-      "source": "El Sol de Hermosillo",
-      "title": "Agradécele a tu mocosa: con 5 años, Minna salvó a su papá de ser ejecutado por asistir a una misa clandestina",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldemexico/mexico/agradecele-a-tu-mocosa-con-5-anos-minna-salvo-a-su-papa-de-ser-ejecutado-por-asistir-a-una-misa-clandestina-31613763",
-      "published": ""
-    },
-    {
-      "source": "Tribuna de San Luis",
-      "title": "Agradécele a tu mocosa: con 5 años, Minna salvó a su papá de ser ejecutado por asistir a una misa clandestina",
-      "url": "https://www.tribunadesanluis.com.mx/elsoldemexico/mexico/agradecele-a-tu-mocosa-con-5-anos-minna-salvo-a-su-papa-de-ser-ejecutado-por-asistir-a-una-misa-clandestina-31613763",
-      "published": ""
-    },
-    {
-      "source": "Radar Sonora",
-      "title": "Roba 2 mil pesos y un pastel en el ‘Suspiro’, estará...",
-      "url": "https://www.radarsonora.com/roba-2-mil-pesos-y-un-pastel-en-el-suspiro-estara-preso-10-anos/",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Abandonan mal herido a hombre “levantado” en la colonia Bellavista",
-      "url": "https://entornoinformativo.com.mx/abandonan-mal-herido-a-hombre-levantado-en-la-colonia-bellavista/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "Isaac Paredes llega a 17 jonrones en la temporada",
-      "url": "https://www.elimparcial.com/deporte/2026/08/23/el-sonorense-isaac-paredes-bateo-jonron-y-produjo-tres-carreras-pero-el-pitcheo-de-astros-se-derrumbo-al-permitir-un-rally-de-seis-anotaciones-de-athletics-en-una-sola-entrada/",
-      "published": ""
-    },
-    {
-      "source": "Proyecto Puente",
-      "title": "Â¿PAN podrÃ­a desaparecer en Coahuila? Pierde registro tras obtener solo 2.29% de los votos en elecciones estatales",
-      "url": "https://proyectopuente.com.mx/2026/08/23/pan-podria-desaparecer-en-coahuila-pierde-registro-tras-obtener-solo-2-29-de-los-votos-en-elecciones-estatales/",
-      "published": ""
-    },
-    {
-      "source": "Expreso",
-      "title": "Lluvias y rachas de hasta 95 km/h provocaron caída de árboles, postes y cables en Cajeme, Guaymas y Empalme, informó Protección Civil Sonora.",
-      "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-y-fuertes-vientos-dejan-afectaciones-en-sonora/262989",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "Cajemenses dejan de ingresar autos al agua en paseos; abren el Chículi",
-      "url": "https://diariodelyaqui.mx/ciudadobregon/cajemenses-dejan-de-ingresar-autos-al-agua-en-paseos-abren-el-chiculi-/142098",
-      "published": ""
-    },
-    {
-      "source": "El Sol de Hermosillo",
-      "title": "El general que terminó en Mercado Libre: la foto que regresó a su familia casi 100 años después de la guerra cristera",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldemexico/mexico/el-general-que-termino-en-mercado-libre-la-foto-que-regreso-a-su-familia-casi-100-anos-despues-de-la-guerra-cristera-31591007",
-      "published": ""
-    },
-    {
-      "source": "Tribuna de San Luis",
-      "title": "El general que terminó en Mercado Libre: la foto que regresó a su familia casi 100 años después de la guerra cristera",
-      "url": "https://www.tribunadesanluis.com.mx/elsoldemexico/mexico/el-general-que-termino-en-mercado-libre-la-foto-que-regreso-a-su-familia-casi-100-anos-despues-de-la-guerra-cristera-31591007",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Gobierno de Hermosillo continúa operativo de hidratación por calor",
-      "url": "https://entornoinformativo.com.mx/gobierno-de-hermosillo-continua-operativo-de-hidratacion-por-calor/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "Gildardo Real pone a Hermosillo en el centro de su proyecto",
-      "url": "https://www.elimparcial.com/son/sonora/2026/08/23/gildardo-real-pone-a-hermosillo-en-el-centro-de-su-proyecto/",
-      "published": ""
-    },
-    {
-      "source": "Proyecto Puente",
-      "title": "Conductor queda prensado tras volcar trÃ¡iler en carretera Magdalena-Santa Ana",
-      "url": "https://proyectopuente.com.mx/2026/08/23/conductor-queda-prensado-tras-volcar-trailer-en-carretera-magdalena-santa-ana/",
-      "published": ""
-    },
-    {
-      "source": "Expreso",
-      "title": "Sonora y Arizona fortalecen colaboración para desarrollo industrial y empleo",
-      "url": "https://www.expreso.com.mx/noticias/sonora/potencian-alianza-sonora-arizona/262986",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "Atienden daños por fuertes vientos y lluvias en Cajeme",
-      "url": "https://diariodelyaqui.mx/ciudadobregon/atienden-danos-por-fuertes-vientos-y-lluvias-en-cajeme/142096",
-      "published": ""
-    },
-    {
-      "source": "El Sol de Hermosillo",
-      "title": "Ser niño en la Cristiada significó aprender a esconderse, incluso detrás de un ropero: la historia de Cuco",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldemexico/mexico/el-escondite-31598786",
-      "published": ""
-    },
-    {
-      "source": "Tribuna de San Luis",
-      "title": "Ser niño en la Cristiada significó aprender a esconderse, incluso detrás de un ropero: la historia de Cuco",
-      "url": "https://www.tribunadesanluis.com.mx/elsoldemexico/mexico/el-escondite-31598786",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Dirección de Atención a la Mujer imparte taller “Reconstruyendo y Resignificando mi Vida”",
-      "url": "https://entornoinformativo.com.mx/direccion-de-atencion-a-la-mujer-imparte-taller-reconstruyendo-y-resignificando-mi-vida/",
-      "published": ""
-    },
-    {
-      "source": "Medios OBSON",
-      "title": "Encuentran a hombre sin v1da en interior de un domicilio",
-      "url": "https://mediosobson.com/2026/08/23/encuentran-a-hombre-sin-v1da-en-interior-de-un-domicilio/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial",
-      "title": "Lluvias y vientos dejan daños menores en Sonora",
-      "url": "https://www.elimparcial.com/son/sonora/2026/08/23/proteccion-civil-reporta-afectaciones-menores-por-lluvias-en-sonora/",
-      "published": ""
-    },
-    {
-      "source": "Expreso",
-      "title": "La misión binacional analizó capacidades industriales y oportunidades para fortalecer talento y cadenas productivas.",
-      "url": "https://www.expreso.com.mx/noticias/sonora/potencian-alianza-sonora-arizona/262986",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "Se preparan docentes con Consejo Técnico",
-      "url": "https://diariodelyaqui.mx/ciudadobregon/se-preparan-docentes-con-consejo-tecnico/142093",
-      "published": ""
-    },
-    {
-      "source": "El Sol de Hermosillo",
-      "title": "Diles que morí para dejarles la fe: las cartas con las que Carlos conoció a su abuelo, el cristero",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldemexico/mexico/diles-que-mori-para-dejarles-la-fe-las-cartas-con-las-que-carlos-conocio-a-su-abuelo-el-cristero-31610165",
-      "published": ""
-    },
-    {
-      "source": "Tribuna de San Luis",
-      "title": "Diles que morí para dejarles la fe: las cartas con las que Carlos conoció a su abuelo, el cristero",
-      "url": "https://www.tribunadesanluis.com.mx/elsoldemexico/mexico/diles-que-mori-para-dejarles-la-fe-las-cartas-con-las-que-carlos-conocio-a-su-abuelo-el-cristero-31610165",
-      "published": ""
-    },
-    {
-      "source": "Radar Sonora",
-      "title": "Sonora reactiva exportación de ganado a EU",
-      "url": "https://www.radarsonora.com/sonora-reactiva-exportacion-de-ganado-a-eu/",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "DIF Hermosillo anuncia cursos de verano para aprender, jugar y cuidarse",
-      "url": "https://entornoinformativo.com.mx/dif-hermosillo-anuncia-cursos-de-verano-para-aprender-jugar-y-cuidarse/",
-      "published": ""
-    },
-    {
-      "source": "Diario del Yaqui",
-      "title": "DEA acusa colaboración de funcionarios mexicanos con cárteles de la droga",
-      "url": "https://diariodelyaqui.mx/internacional/dea-acusa-colaboracion-de-funcionarios-mexicanos-con-carteles-de-la-droga/142110",
-      "published": ""
-    },
-    {
-      "source": "El Sol de Hermosillo",
-      "title": "El muchacho que ensilló por última vez el caballo del general del Ejército Cristero",
-      "url": "https://www.elsoldehermosillo.com.mx/elsoldemexico/mexico/el-muchacho-que-ensillo-por-ultima-vez-el-caballo-del-general-del-ejercito-cristero-31612271",
-      "published": ""
-    },
-    {
-      "source": "Tribuna de San Luis",
-      "title": "El muchacho que ensilló por última vez el caballo del general del Ejército Cristero",
-      "url": "https://www.tribunadesanluis.com.mx/elsoldemexico/mexico/el-muchacho-que-ensillo-por-ultima-vez-el-caballo-del-general-del-ejercito-cristero-31612271",
-      "published": ""
-    },
-    {
-      "source": "Radar Sonora",
-      "title": "Invitan a Jornadas de Salud en ejidos San Luis y Carrillo...",
-      "url": "https://www.radarsonora.com/invita-gobierno-de-hermosillo-a-jornadas-de-salud-en-ejidos-san-luis-y-carrillo-marcor/",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Resulta lesionado motociclista en el Puente Douglas",
-      "url": "https://entornoinformativo.com.mx/resulta-lesionado-motociclista-en-el-puente-douglas/",
+      "title": "Rescatan a dos menores en cateo en la colonia Pueblitos",
+      "url": "https://entornoinformativo.com.mx/rescatan-a-dos-menores-en-cateo-en-la-colonia-pueblitos/",
       "published": ""
     }
   ]
