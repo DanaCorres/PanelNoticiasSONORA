@@ -1,232 +1,106 @@
 {
-  "date": "2026-08-24",
-  "run_count": 3,
+  "date": "2026-08-25",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Investigan homicidio de mujer en Cajeme",
-        "summary": "Fiscalía abre investigación por muerte de mujer en Ciudad Obregón.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/fiscalia-de-sonora-investiga-homicidio-de-mujer-en-cajeme/263084",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+        "title": "Joven detenido por amenazar matar perro en Hermosillo",
+        "summary": "Autoridades detuvieron a un individuo que amenazó con matar a su mascota con tijeras en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/25/detienen-joven-por-amenazar-con-matar-a-su-perro-con-unas-tijeras-en-hermosillo/",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       },
       {
-        "title": "Muere mujer en ataque armado en Valle Verde",
-        "summary": "Reportan muerte de mujer víctima de disparo en zona residencial de Hermosillo.",
+        "title": "Estados Unidos alerta en Mexicali por amenaza desconocida",
+        "summary": "EU suspende vuelos y actividades en Mexicali tras emitir alerta por posible amenaza sin especificar detalles.",
         "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/policiaca/muere-mujer-en-ataque-armado-en-la-valle-verde/142157",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+        "url": "https://diariodelyaqui.mx/nacional/estados-unidos-lanza-alerta-en-mexicali-suspende-actividades-y-vuelos-por-posible-amenaza/142222",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       },
       {
-        "title": "Ante la justicia por desaparición de seis personas",
-        "summary": "Caso de seis desaparecidos llega a proceso judicial en Sonora.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/ante-la-justicia-por-la-desaparicion-de-6-personas/",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
-      },
-      {
-        "title": "Rescatan dos menores en cateo en Pueblitos",
-        "summary": "Autoridades rescatan a dos niños durante operativo en colonia de Hermosillo.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/rescatan-a-dos-menores-en-cateo-en-la-colonia-pueblitos/",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
-      },
-      {
-        "title": "Gusano barrenador amenaza exportaciones ganaderas de Sonora",
-        "summary": "Autoridades advierten sobre posibles nuevos casos de gusano barrenador que podrían afectar las exportaciones de ganado a Estados Unidos.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/gusano-barrenador-en-sonora-ganaderos-temen-impacto-en-exportacion-de-ganado-a-eu-31676637",
-        "_added_at": "2026-08-24T09:35:12.495000-07:00"
-      },
-      {
-        "title": "Mujer denuncia agresión en local comercial de Ciudad Obregón",
-        "summary": "Se reporta presunta agresión de una mujer en establecimiento Domino's del Sendero en Ciudad Obregón.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/video--mujer-denuncia-presunta-agresion-en-dominos-sendero-ciudad-obregon/142151",
-        "_added_at": "2026-08-24T09:35:12.495000-07:00"
+        "title": "Marina refuerza seguridad en Mexicali tras alerta estadounidense",
+        "summary": "Autoridades navales incrementan vigilancia en la frontera mexicana por recomendación de Estados Unidos.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/25/marina-del-pilar-refuerza-seguridad-en-mexicali-tras-alerta-de-eeuu/",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Lamarque destaca igualdad en proceso interno de Morena",
-        "summary": "Dirigente político subraya equidad en procedimientos partidistas de la organización.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-resalta-igualdad-en-proceso-interno-de-morena/263109",
-        "_added_at": "2026-08-24T20:26:41.281931-07:00"
-      },
-      {
-        "title": "Detienen paro de Cecytes tras acuerdos con SEP",
-        "summary": "Negociaciones logran cancelar huelga prevista para estudiantes de tecnológicos.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/08/24/detienen-paro-del-cecytes-previsto-para-el-31-de-agosto-tras-acuerdos-con-sep/",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
-      },
-      {
-        "title": "Angélica Burgos impulsa red de apoyo en Nogales",
-        "summary": "Autoridad fortalece programas sociales para familias vulnerables en frontera.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/24/angelica-burgos-impulsa-red-apoyo-familias-nogales.html",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
-      },
-      {
-        "title": "Sheinbaum cuestiona regreso de Rocha como gobernador de Sinaloa",
-        "summary": "Presidenta señala que le pareció imprudente el retorno de Rocha Moya a la gubernatura de Sinaloa.",
+        "title": "Colosio ve a Movimiento Ciudadano con fuerza para ganar Sonora",
+        "summary": "Líder político descarta sumarse a Morena y considera a MC con condiciones para triunfo electoral sin alianzas.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/24/sheinbaum-cuestiona-reincorporacion-de-rocha-moya-a-la-gubernatura-de-sinaloa-y-confirma-que-congreso-estatal-definira-al-gobernador-interino-tras-nueva-licencia/",
-        "_added_at": "2026-08-24T09:35:12.495000-07:00"
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/25/luis-donaldo-colosio-descarta-sumarse-a-morena-y-ve-a-mc-con-condiciones-para-ganar-en-sonora-sin-alianzas/",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       },
       {
-        "title": "Congreso de Sinaloa define sucesor interino tras nueva licencia de Rocha",
-        "summary": "Legislatura estatal elegirá gobernador interino tras que Rocha Moya vuelva a pedir licencia.",
+        "title": "Sheinbaum: Rocha e Insunza deben decidir su futuro político",
+        "summary": "Presidenta presiona a políticos sonorenses a tomar decisiones sobre su permanencia en cargos públicos.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/congreso-de-sinaloa-pospone-eleccion-de-gobernador-interino/",
-        "_added_at": "2026-08-24T09:35:12.495000-07:00"
+        "url": "https://entornoinformativo.com.mx/sheinbaum-rocha-e-insunza-deben-decidir-su-futuro/",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       },
       {
-        "title": "Colosio Riojas responde a cuestionamientos sobre su origen sonorense",
-        "summary": "Funcionario se pronuncia ante rumores relacionados con su procedencia del estado de Sonora.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/08/colosio-riojas-responde-con-insultos-a-rumores-sobre-su-origen-sonorense/",
-        "_added_at": "2026-08-24T09:35:12.495000-07:00"
+        "title": "Sheinbaum plantea prohibir doble nacionalidad a gobernadores",
+        "summary": "Presidenta propone reforma para impedir que presidentes y gobernadores tengan doble nacionalidad en México.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/nacional/sheinbaum-plantea-prohibir-doble-nacionalidad-a-presidentes-y-gobernadores-en-mexico/142219",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Sonora reanuda exportación ganadera tras 22 meses",
-        "summary": "Se autoriza cruce de 760 reses a EU después de cierre prolongado de frontera.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/08/sonora-rompe-cerco-ganadero-760-reses-cruzaran-a-eu-tras-22-meses-de-cierres/",
-        "_added_at": "2026-08-24T20:26:41.281931-07:00"
-      },
-      {
-        "title": "Durazo lidera alianza con productores para fortalecer campo",
-        "summary": "Gobernador coordina estrategia para transformación y desarrollo agrícola estatal.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/gobernador-durazo-encabeza-alianza-con-productores-para-transformar-y-fortalecer-el-campo-de-sonora/",
-        "_added_at": "2026-08-24T20:26:41.281931-07:00"
-      },
-      {
-        "title": "Reapertura ganadera abre mercado estadounidense a Sonora",
-        "summary": "Sonora exportará 760 reses tras levantamiento de cierre de 22 meses a EE.UU.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/24/reapertura-ganadera-de-eeuu-abre-salida-al-rezago-de-reses-en-sonora-tras-perdidas-de-350-millones-de-dolares-y-ventas-hasta-40-mas-bajas-en-mexico/",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
-      },
-      {
-        "title": "Apagones golpean a Hermosillo; industria prevé grandes pérdidas",
-        "summary": "Cortes de energía ocasionan pérdidas superiores a 15 millones de pesos en capital.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/08/apagones-golpean-a-hermosillo-industria-preve-perdidas-por-mas-de-15-millones-de-pesos/",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
-      },
-      {
-        "title": "Llegan grúas al puerto de Guaymas en septiembre",
-        "summary": "Infraestructura portuaria se fortalece con equipo nuevo para manejo de contenedores.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/llegan-en-septiembre-al-puerto-dos-gruas-para-manejo-de-contenedores/",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
-      },
-      {
-        "title": "Sonora invierte 4.5 millones para combatir gusano barrenador",
-        "summary": "Estado destina recursos contra plagas agrícolas en territorio sonorense.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-destina-mas-de-4-5-millones-de-pesos-para-combatir-el-gusano-barrenador-31721877",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
-      },
-      {
-        "title": "Sonora reactiva exportación de ganado a Estados Unidos por Agua Prieta",
-        "summary": "Se reanudan envíos ganaderos tras más de un año de cierre con protocolos sanitarios reforzados.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-reabre-la-frontera-para-exportar-ganado-a-eu-tras-mas-de-un-ano-de-cierre-31719983",
-        "_added_at": "2026-08-24T09:35:12.495000-07:00"
-      },
-      {
-        "title": "Sector ganadero celebra reapertura de frontera para exportaciones",
-        "summary": "Autoridades y productores destacan coordinación exitosa para cumplir requisitos sanitarios estadounidenses.",
+        "title": "Sonora reabre exportación ganadera con 750 cabezas iniciales",
+        "summary": "Gobierno autoriza reanudación envíos ganado a EU tras cierre fronterizo; aumentará gradualmente a mil 500 cabezas.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/reapertura-ganadera-es-buena-noticia-para-sonora-valles/263022",
-        "_added_at": "2026-08-24T09:35:12.495000-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-vuelve-a-exportar-ganado-a-eu-tras-cierre-fronterizo/263137",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       },
       {
-        "title": "Nuevo esquema sanitario incluye inspecciones hasta entrega en frontera",
-        "summary": "Se implementan barridos en centros ganaderos y dispersión de moscas estériles en Sonora y Chihuahua.",
+        "title": "Dólar presiona al peso mexicano en mercado cambiario",
+        "summary": "Moneda estadounidense gana terreno frente al peso, generando presión en cotizaciones del mercado de divisas.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/24/ante-primer-envio-de-ganado-por-agua-prieta-alfonso-durazo-anuncia-sanidad-reforzada-y-sader-mantendra-trazabilidad-desde-el-nacimiento-para-sostener-exportaciones-a-eeuu/",
-        "_added_at": "2026-08-24T09:35:12.495000-07:00"
+        "url": "https://www.elimparcial.com/dinero/2026/08/25/precio-del-dolar-gana-terreno-y-pone-bajo-presion-al-peso-mexicano-asi-cotiza-este-martes-25-de-agosto/",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       },
       {
-        "title": "Inflación mexicana sube a 3.26% en agosto del año",
-        "summary": "Productos alimentarios presionan más el bolsillo de los consumidores según datos nacionales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/08/24/inflacion-sube-a-326-en-mexico-y-estos-son-los-productos-que-mas-presionaron-el-bolsillo-en-agosto/",
-        "_added_at": "2026-08-24T09:35:12.495000-07:00"
+        "title": "Miedo a perder empleos por inteligencia artificial crece",
+        "summary": "Trabajadores expresan preocupación creciente sobre impacto de IA en mercado laboral y estabilidad empleos.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/25/miedo-a-perder-el-trabajo-por-la-ia-aumenta-entre-los-empleados/",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "FGR condena cinco exservidores de salud en Sonora",
-        "summary": "Sentencia condenatoria contra funcionarios públicos de servicios sanitarios estatales.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/fgr-confrima-sentencia-a-cinco-exservidores-publicos-de-salud-en-sonora-31728052",
-        "_added_at": "2026-08-24T20:26:41.281931-07:00"
+        "title": "Hermosillo renueva avenida Huásabas en Lomas de Madrid",
+        "summary": "Municipio pavimenta avenida con concreto, nuevas tuberías y banquetas accesibles para 37 viviendas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/25/pavimentaran-la-avenida-huasabas-en-lomas-de-madrid-con-concreto-hidraulico-nuevas-tuberias-y-banquetas-accesibles-renovaran-los-servicios-para-37-viviendas/",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       },
       {
-        "title": "Buscando Corazones mantiene búsqueda de desaparecidos",
-        "summary": "Organización continúa labores de localización en Nogales sin interrución.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/08/24/buscando-corazones-nogales-mantiene-busqueda-personas-desaparecidas.html",
-        "_added_at": "2026-08-24T20:26:41.281931-07:00"
-      },
-      {
-        "title": "Estudiantes de Nogales avanzan en Olimpiada de Química",
-        "summary": "Cinco alumnos del CECyTES participan exitosamente en competencia académica.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/24/cinco-alumnos-cecytes-nogales-i-avanzan-olimpiada-quimica.html",
-        "_added_at": "2026-08-24T20:26:41.281931-07:00"
-      },
-      {
-        "title": "Hermosillo recibe donación de útiles escolares",
-        "summary": "Contribuyentes aportan más de 5,800 útiles para familias vulnerables hermosillenses.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/24/contribuyentes-de-hermosillo-donan-mas-de-5-mil-800-utiles-escolares-para-apoyar-a-familias-vulnerables/",
-        "_added_at": "2026-08-24T20:26:41.281931-07:00"
-      },
-      {
-        "title": "Confirman segundo caso de gusano barrenador en Yécora",
-        "summary": "Plaiga agrícola detectada nuevamente en sierra de Sonora; segunda confirmación.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/gusano-barrenador-en-sonora-confirman-segundo-caso-en-yecora-31723893",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
-      },
-      {
-        "title": "Enfermeros suplentes del ISSSTE mantienen paro por salarios",
-        "summary": "Personal de salud protesta por falta de pago en dependencia estatal.",
+        "title": "IMSS-Bienestar fortalece atención médica con nuevos consultorios",
+        "summary": "Gobierno expande infraestructura sanitaria instalando nuevos consultorios de atención primaria en todo país.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/enfermeros-suplentes-issste-mantienen-paro-falta-pago-n900300",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+        "url": "https://www.uniradiosonora.com/gobierno/imss-bienestar-fortalece-atencion-medica-nuevos-consultorios-n900462",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       },
       {
-        "title": "Cecyte Nogales recibe autobús para estudiantes",
-        "summary": "Escuela de nivel medio superior beneficia a 600 estudiantes con transporte nuevo.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/24/entregan-transporte-escolar-cecyte-nogales-ii-beneficio-600-estudiantes.html",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
+        "title": "Tec de Monterrey Sonora inaugura Sala de Juicios Orales",
+        "summary": "Universidad abre nueva sala especializada para práctica de litigación oral y formación de abogados.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/tec-monterrey-sonora-inaugura-sala-juicios-orales-n900478",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       },
       {
-        "title": "Carbón Fest reúne familias y donaciones para DIF Nogales",
-        "summary": "Evento solidario en frontera genera fondos para dependencia asistencial.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/24/carbon-fest-reune-familias-nogalenses-cientos-donaciones-dif.html",
-        "_added_at": "2026-08-24T15:23:49.594812-07:00"
-      },
-      {
-        "title": "Pronóstico de lluvias fuertes para el sur de Sonora hoy",
-        "summary": "Autoridades meteorológicas alertan sobre precipitaciones intensas esperadas en región sur estatal.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/clima-en-sonora-hoy-24-de-agosto-pronostican-lluvias-fuertes-para-el-sur-del-estado/142152",
-        "_added_at": "2026-08-24T09:35:12.495000-07:00"
+        "title": "UES apuesta por prevención salud mental de estudiantes",
+        "summary": "Universidad enfatiza importancia detección temprana y prevención de problemas psicológicos en población estudiantil.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ues-apuesta-por-la-prevencion-y-deteccion-oportuna-de-problemas-de-salud-mental-31726430",
+        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-24T20:26:41.281931-07:00"
+  "last_updated": "2026-08-25T09:35:13.372209-07:00"
 }
