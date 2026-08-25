@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -48,6 +48,13 @@
     ],
     "politica": [
       {
+        "title": "Lamarque destaca igualdad en proceso interno de Morena",
+        "summary": "Dirigente político subraya equidad en procedimientos partidistas de la organización.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-resalta-igualdad-en-proceso-interno-de-morena/263109",
+        "_added_at": "2026-08-24T20:26:41.281931-07:00"
+      },
+      {
         "title": "Detienen paro de Cecytes tras acuerdos con SEP",
         "summary": "Negociaciones logran cancelar huelga prevista para estudiantes de tecnológicos.",
         "source": "Medios OBSON",
@@ -84,6 +91,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Sonora reanuda exportación ganadera tras 22 meses",
+        "summary": "Se autoriza cruce de 760 reses a EU después de cierre prolongado de frontera.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/sonora-rompe-cerco-ganadero-760-reses-cruzaran-a-eu-tras-22-meses-de-cierres/",
+        "_added_at": "2026-08-24T20:26:41.281931-07:00"
+      },
+      {
+        "title": "Durazo lidera alianza con productores para fortalecer campo",
+        "summary": "Gobernador coordina estrategia para transformación y desarrollo agrícola estatal.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-encabeza-alianza-con-productores-para-transformar-y-fortalecer-el-campo-de-sonora/",
+        "_added_at": "2026-08-24T20:26:41.281931-07:00"
+      },
       {
         "title": "Reapertura ganadera abre mercado estadounidense a Sonora",
         "summary": "Sonora exportará 760 reses tras levantamiento de cierre de 22 meses a EE.UU.",
@@ -143,6 +164,34 @@
     ],
     "sociedad": [
       {
+        "title": "FGR condena cinco exservidores de salud en Sonora",
+        "summary": "Sentencia condenatoria contra funcionarios públicos de servicios sanitarios estatales.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/fgr-confrima-sentencia-a-cinco-exservidores-publicos-de-salud-en-sonora-31728052",
+        "_added_at": "2026-08-24T20:26:41.281931-07:00"
+      },
+      {
+        "title": "Buscando Corazones mantiene búsqueda de desaparecidos",
+        "summary": "Organización continúa labores de localización en Nogales sin interrución.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/08/24/buscando-corazones-nogales-mantiene-busqueda-personas-desaparecidas.html",
+        "_added_at": "2026-08-24T20:26:41.281931-07:00"
+      },
+      {
+        "title": "Estudiantes de Nogales avanzan en Olimpiada de Química",
+        "summary": "Cinco alumnos del CECyTES participan exitosamente en competencia académica.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/24/cinco-alumnos-cecytes-nogales-i-avanzan-olimpiada-quimica.html",
+        "_added_at": "2026-08-24T20:26:41.281931-07:00"
+      },
+      {
+        "title": "Hermosillo recibe donación de útiles escolares",
+        "summary": "Contribuyentes aportan más de 5,800 útiles para familias vulnerables hermosillenses.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/24/contribuyentes-de-hermosillo-donan-mas-de-5-mil-800-utiles-escolares-para-apoyar-a-familias-vulnerables/",
+        "_added_at": "2026-08-24T20:26:41.281931-07:00"
+      },
+      {
         "title": "Confirman segundo caso de gusano barrenador en Yécora",
         "summary": "Plaiga agrícola detectada nuevamente en sierra de Sonora; segunda confirmación.",
         "source": "El Sol de Hermosillo",
@@ -179,5 +228,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-24T15:23:49.594812-07:00"
+  "last_updated": "2026-08-24T20:26:41.281931-07:00"
 }
