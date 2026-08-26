@@ -1,267 +1,85 @@
 {
-  "date": "2026-08-25",
-  "run_count": 3,
+  "date": "2026-08-26",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Robo con descargas eléctricas en Nogales reportado",
-        "summary": "Delincuente agrede con descargas eléctricas a hombre y le roba su mochila en colonia Obrera.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/25/sufre-descargas-electricas-roban-su-mochila-llegar-trabajar-colonia-obrera.html",
-        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+        "title": "Refuerzan vigilancia en Caborca con detenciones",
+        "summary": "Autoridades intensifican operativos de seguridad en Caborca, resultando en dos detenciones en diferentes acciones.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermisllo/policiaca/refuerzan-vigilancia-en-caborca-y-detienen-a-dos-personas-en-distintos-operativos-31725149",
+        "_added_at": "2026-08-26T09:46:42.553791-07:00"
       },
       {
-        "title": "Hombre golpeado y abandonado tras ser subido a vehículo",
-        "summary": "Persona denuncia agresión y abandono después de ser subida a Jeep en Nogales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/25/hombre-denuncia-fue-golpeado-abandonado-subido-jeep-nogales.html",
-        "_added_at": "2026-08-25T20:33:31.651047-07:00"
-      },
-      {
-        "title": "Dos hermanos mueren ahogados en San Luis Río Colorado",
-        "summary": "Fallecen dos hermanos en canal; familia ya había sufrido otra tragedia anteriormente.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/identifican-a-hermanos-ahogados-en-san-luis-rio-colorado/263188",
-        "_added_at": "2026-08-25T20:33:31.651047-07:00"
-      },
-      {
-        "title": "Gusano barrenador: Sonora despliega moscas estériles",
-        "summary": "Sonora dispersará 12 millones de moscas estériles semanalmente en Álamos y Yécora para contener la plaga de gusano barrenador.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/25/sonora-dispersara-12-millones-de-moscas-esteriles-cada-semana-y-levantara-dos-cercos-para-frenar-el-avance-del-gusano-barrenador/",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Cinco casos de gusano barrenador contenidos con cerco sanitario",
-        "summary": "Autoridades implementan muralla sanitaria para contener cinco focos de gusano barrenador en Sonora y proteger exportaciones.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/asi-contendran-casos-de-gusano-barrenador-en-sonora-durazo/263157",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Hermosillo y Sonora: tercer lugar en fosas clandestinas",
-        "summary": "Investigación revela que Hermosillo y Sonora ocupan tercer lugar nacional en fosas clandestinas desde 2017.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/25/hermosillo-y-sonora-son-tercer-lugar-nacional-en-fosas-clandestinas-repuntaron-en-2017-ibero/",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Dos hermanos fallecen ahogados en Sonora",
-        "summary": "Tragedia familiar en Sonora: dos hermanos mueren ahogados; la familia había sufrido otra desgracia anteriormente.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/mueren-dos-hermanos-ahogados-en-sonora-su-familia-ya-habia-vivido-otra-tragedia/142255",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Joven detenido por amenazar matar perro en Hermosillo",
-        "summary": "Autoridades detuvieron a un individuo que amenazó con matar a su mascota con tijeras en la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/25/detienen-joven-por-amenazar-con-matar-a-su-perro-con-unas-tijeras-en-hermosillo/",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
-      },
-      {
-        "title": "Estados Unidos alerta en Mexicali por amenaza desconocida",
-        "summary": "EU suspende vuelos y actividades en Mexicali tras emitir alerta por posible amenaza sin especificar detalles.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/nacional/estados-unidos-lanza-alerta-en-mexicali-suspende-actividades-y-vuelos-por-posible-amenaza/142222",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
-      },
-      {
-        "title": "Marina refuerza seguridad en Mexicali tras alerta estadounidense",
-        "summary": "Autoridades navales incrementan vigilancia en la frontera mexicana por recomendación de Estados Unidos.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/25/marina-del-pilar-refuerza-seguridad-en-mexicali-tras-alerta-de-eeuu/",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
+        "title": "Motociclista muere tras impacto vehicular",
+        "summary": "Persona en motocicleta fallece presuntamente al ser golpeada por un vehículo en incidente vial.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/26/mu3-re-motociclista-presuntamente-tras-ser-impactado-por-vehiculo/",
+        "_added_at": "2026-08-26T09:46:42.553791-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Lorenia Valles defiende proceso electoral de Morena",
-        "summary": "Funcionaria sostiene que pueblo decide sobre coordinaciones estatales con principios de 4T.",
+        "title": "Celida López lidera encuestas internas de Morena Sonora",
+        "summary": "Aspira a candidatura morenista apelando a unidad y conciliación con equipos derrotados en el estado.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/el-pueblo-tiene-la-ultima-palabra-lorenia-valles/263189",
-        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/asegura-celida-lopez-encabezar-encuestas-de-morena/263210",
+        "_added_at": "2026-08-26T09:46:42.553791-07:00"
       },
       {
-        "title": "Colosio define su futuro político esperando plazos legales",
-        "summary": "Político ya decidió su camino rumbo a 2027 pero espera anunciarlo en tiempo legal.",
+        "title": "Sheinbaum define candidatos por encuestas nacionales",
+        "summary": "Presidenta indica que sondeos internos determinarán selección de candidatos para Morena.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/25/luis-donaldo-colosio-ya-decidio-su-futuro-politico-rumbo-a-2027-pero-esperara-los-plazos-legales-para-revelar-si-competira-por-sonora-o-nuevo-leon/",
-        "_added_at": "2026-08-25T20:33:31.651047-07:00"
-      },
-      {
-        "title": "Morena analiza posible expulsión de Rocha Moya",
-        "summary": "Partido Morena evalúa la permanencia del exgobernador de Sonora Rocha Moya en la organización política.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/25/morena-podria-expulsar-a-rocha-moya-analizan-su-permanencia-en-el-partido/",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Astiazarán presentará segundo informe el 18 de septiembre",
-        "summary": "Gobernador Antonio Astiazarán rendirá su segundo informe de gobierno en Hermosillo el próximo 18 de septiembre.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/25/presentara-antonio-astiazaran-segundo-informe-de-gobierno-el-18-de-septiembre-en-hermosillo/",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Diputada demanda cierre del Hospital Dr. Fernando Ocaranza",
-        "summary": "Gabriela Félix de Movimiento Ciudadano solicita el cierre del hospital por riesgos a la salud pública.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/pide-diputada-de-mc-gabriela-felix-cierre-del-hospital-dr-fernando-ocaranza-por-riesgos-31524839",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Colosio ve a Movimiento Ciudadano con fuerza para ganar Sonora",
-        "summary": "Líder político descarta sumarse a Morena y considera a MC con condiciones para triunfo electoral sin alianzas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/25/luis-donaldo-colosio-descarta-sumarse-a-morena-y-ve-a-mc-con-condiciones-para-ganar-en-sonora-sin-alianzas/",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
-      },
-      {
-        "title": "Sheinbaum: Rocha e Insunza deben decidir su futuro político",
-        "summary": "Presidenta presiona a políticos sonorenses a tomar decisiones sobre su permanencia en cargos públicos.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/sheinbaum-rocha-e-insunza-deben-decidir-su-futuro/",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
-      },
-      {
-        "title": "Sheinbaum plantea prohibir doble nacionalidad a gobernadores",
-        "summary": "Presidenta propone reforma para impedir que presidentes y gobernadores tengan doble nacionalidad en México.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/nacional/sheinbaum-plantea-prohibir-doble-nacionalidad-a-presidentes-y-gobernadores-en-mexico/142219",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
+        "url": "https://www.elimparcial.com/mexico/2026/08/26/candidatos-de-morena-los-definira-la-encuesta-sheinbaum/",
+        "_added_at": "2026-08-26T09:46:42.553791-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Útiles escolares mantienen ventas estables en San Luis",
-        "summary": "Comercio de mochilas y materiales escolares se mantiene estable antes de regreso a clases.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/venta-de-utiles-escolares-se-mantiene-estable-antes-del-regreso-a-clases-en-san-luis-rio-colorado-31741028",
-        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+        "title": "Puerto Guaymas potencia infraestructura con nuevas grúas",
+        "summary": "Gobernador Durazo anuncia llegada de equipos especializados para aumentar capacidad logística portuaria.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/puerto-de-guaymas-potencia-su-capacidad-logistica-gobernador-durazo/",
+        "_added_at": "2026-08-26T09:46:42.553791-07:00"
       },
       {
-        "title": "Modernización pesquera con 49 nuevos motores en Sonora",
-        "summary": "Gobierno entrega motores para mejorar flota pesquera estatal.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/modernizan-pesca-sonorense-49-nuevos-motores-n900633",
-        "_added_at": "2026-08-25T20:33:31.651047-07:00"
-      },
-      {
-        "title": "Ganado sonorense retoma exportación a Estados Unidos",
-        "summary": "Más de 716 cabezas de ganado cruzaron ayer hacia EU como parte de la reactivación de exportaciones desde Sonora.",
+        "title": "Sonora expande infraestructura de salud con 419 consultorios",
+        "summary": "Nuevo programa instalará consultorios en zonas marginadas e iniciaría operaciones enero 2027.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/asi-contendran-casos-de-gusano-barrenador-en-sonora-durazo/263157",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/anuncian-419-nuevos-consultorios-de-salud-para-sonora/263211",
+        "_added_at": "2026-08-26T09:46:42.553791-07:00"
       },
       {
-        "title": "UGRS negocia reapertura del puerto de Nogales",
-        "summary": "Autoridades analizan con USDA la reapertura del puerto de exportación ganadero en Nogales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/25/ugrs-analiza-autoridades-usda-reapertura-puerto-exportacion-nogales.html",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Fernando Rojo anuncia tercer depósito de Tarjeta Oportunidades",
-        "summary": "Secretario de Bienestar anuncia nuevo depósito en Tarjeta de Oportunidades para más de 16 mil familias sonorenses.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/25/fernando-rojo-anuncia-tercer-deposito-de-la-tarjeta-de-oportunidades-para-mas-de-16-mil-familias-en-sonora/",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Sonora reabre exportación ganadera con 750 cabezas iniciales",
-        "summary": "Gobierno autoriza reanudación envíos ganado a EU tras cierre fronterizo; aumentará gradualmente a mil 500 cabezas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-vuelve-a-exportar-ganado-a-eu-tras-cierre-fronterizo/263137",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
-      },
-      {
-        "title": "Dólar presiona al peso mexicano en mercado cambiario",
-        "summary": "Moneda estadounidense gana terreno frente al peso, generando presión en cotizaciones del mercado de divisas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/08/25/precio-del-dolar-gana-terreno-y-pone-bajo-presion-al-peso-mexicano-asi-cotiza-este-martes-25-de-agosto/",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
-      },
-      {
-        "title": "Miedo a perder empleos por inteligencia artificial crece",
-        "summary": "Trabajadores expresan preocupación creciente sobre impacto de IA en mercado laboral y estabilidad empleos.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/08/25/miedo-a-perder-el-trabajo-por-la-ia-aumenta-entre-los-empleados/",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
+        "title": "Universidad de Sonora marca precedente en supercómputo nacional",
+        "summary": "Unison implementa infraestructura Yuca de alta capacidad computacional en México.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermisillo.com.mx/elsoldehermisillo/local/unison-marca-un-precedente-en-mexico-con-yuca-su-infraestructura-de-supercomputo-31742733",
+        "_added_at": "2026-08-26T09:46:42.553791-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Salud primaria se amplía 40% con 419 nuevos consultorios",
-        "summary": "Durazo y Sheinbaum expanden servicios de atención básica de salud en Sonora significativamente.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/durazo-y-sheinbaum-amplian-mas-de-40-la-atencion-de-salud-primaria-en-sonora-con-419-nuevos-consultorios/",
-        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+        "title": "Alertan por mayor actividad ciclónica en septiembre",
+        "summary": "Protección Civil prevé intensificación de ciclones en Pacífico durante próximos meses; recomiendan prepararse.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/alertan-por-mayor-actividad-de-ciclones-en-sonora/263190",
+        "_added_at": "2026-08-26T09:46:42.553791-07:00"
       },
       {
-        "title": "Gusano barrenador: cinco casos activos en Sonora detectados",
-        "summary": "Cuatro casos en Álamos y uno en Yécora reportados según Senasica.",
+        "title": "Obras en Hermosillo afectarán regreso a clases",
+        "summary": "Reparaciones viales activas complicarán tráfico y movilidad durante inicio de ciclo escolar.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/25/gusano-barrenador-sonora-suma-cinco-casos-activos-cuatro-en-alamos-y-uno-en-yecora/",
-        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/26/obras-activas-ya-afectan-el-trafico-de-hermosillo-y-el-regreso-a-clases-de-miles-de-estudiantes-aumentara-la-carga-vehicular-estos-sectores-podrian-registrar-congestionamientos/",
+        "_added_at": "2026-08-26T09:46:42.553791-07:00"
       },
       {
-        "title": "Lluvias intensifican vigilancia contra dengue en Sonora",
-        "summary": "Autoridades refuerzan fumigación y monitoreo por incremento de precipitaciones.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/lluvias-elevan-vigilancia-contra-el-dengue-en-sonora-y-refuerzan-fumigacion-31741791",
-        "_added_at": "2026-08-25T20:33:31.651047-07:00"
-      },
-      {
-        "title": "Calor extremo en Hermosillo requiere refuerzo en hidratación",
-        "summary": "Autoridades enfatizan importancia de mantenerse hidratado por temperaturas altas.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/refuerzan-hidratacion-calor-extremo-hermosillo-n900652",
-        "_added_at": "2026-08-25T20:33:31.651047-07:00"
-      },
-      {
-        "title": "Sonora abrirá 419 consultorios de salud gratuita",
-        "summary": "Sonora habilitará 419 consultorios con atención médica gratuita, medicamentos y telemedicina en zonas marginadas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com.mx/son/sonora/2026/08/25/sonora-habilitara-419-consultorios-del-servicio-universal-de-salud-en-zonas-marginadas-tendran-medicamentos-telemedicina-y-atencion-gratuita-para-padecimientos-menores/",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Vigilancia reduce vandalismo en escuelas de Nogales",
-        "summary": "Medidas de seguridad disminuyen actos de vandalismo en planteles educativos de Nogales previo a regreso a clases.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/25/vigilancia-reduce-vandalismo-escuelas-nogales-previo-regreso-clases.html",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Nogales entrega 500 tarjetas del Bienestar a nuevos beneficiarios",
-        "summary": "Autoridades entregan más de 500 tarjetas de Bienestar a nuevos beneficiarios en Nogales para acceder a programas sociales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/25/entregan-mas-500-tarjetas-bienestar-nuevos-beneficiarios-nogales.html",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Sindicato del Cobach amenaza con cerrar dos planteles",
-        "summary": "Sindicato del Colegio de Bachilleres amenaza con cierre de dos escuelas en Hermosillo por conflicto laboral.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/sindicato-cobach-amenaza-cerrar-dos-planteles-hermosillo-n900548",
-        "_added_at": "2026-08-25T15:24:53.755963-07:00"
-      },
-      {
-        "title": "Hermosillo renueva avenida Huásabas en Lomas de Madrid",
-        "summary": "Municipio pavimenta avenida con concreto, nuevas tuberías y banquetas accesibles para 37 viviendas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/25/pavimentaran-la-avenida-huasabas-en-lomas-de-madrid-con-concreto-hidraulico-nuevas-tuberias-y-banquetas-accesibles-renovaran-los-servicios-para-37-viviendas/",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
-      },
-      {
-        "title": "IMSS-Bienestar fortalece atención médica con nuevos consultorios",
-        "summary": "Gobierno expande infraestructura sanitaria instalando nuevos consultorios de atención primaria en todo país.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/imss-bienestar-fortalece-atencion-medica-nuevos-consultorios-n900462",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
+        "title": "Presentan iniciativa para reforma ambiental integral",
+        "summary": "Semarnat propone cambios fundamentales a ley que rige política ecológica del país.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/semarnat-anuncia-iniciativa-de-reforma-integral-a-ley-que-rige-la-politica-ambiental/",
+        "_added_at": "2026-08-26T09:46:42.553791-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-25T20:33:31.651047-07:00"
+  "last_updated": "2026-08-26T09:46:42.553791-07:00"
 }
