@@ -1,8 +1,29 @@
 {
   "date": "2026-08-25",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Robo con descargas eléctricas en Nogales reportado",
+        "summary": "Delincuente agrede con descargas eléctricas a hombre y le roba su mochila en colonia Obrera.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/25/sufre-descargas-electricas-roban-su-mochila-llegar-trabajar-colonia-obrera.html",
+        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+      },
+      {
+        "title": "Hombre golpeado y abandonado tras ser subido a vehículo",
+        "summary": "Persona denuncia agresión y abandono después de ser subida a Jeep en Nogales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/25/hombre-denuncia-fue-golpeado-abandonado-subido-jeep-nogales.html",
+        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+      },
+      {
+        "title": "Dos hermanos mueren ahogados en San Luis Río Colorado",
+        "summary": "Fallecen dos hermanos en canal; familia ya había sufrido otra tragedia anteriormente.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/identifican-a-hermanos-ahogados-en-san-luis-rio-colorado/263188",
+        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+      },
       {
         "title": "Gusano barrenador: Sonora despliega moscas estériles",
         "summary": "Sonora dispersará 12 millones de moscas estériles semanalmente en Álamos y Yécora para contener la plaga de gusano barrenador.",
@@ -55,6 +76,20 @@
     ],
     "politica": [
       {
+        "title": "Lorenia Valles defiende proceso electoral de Morena",
+        "summary": "Funcionaria sostiene que pueblo decide sobre coordinaciones estatales con principios de 4T.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/el-pueblo-tiene-la-ultima-palabra-lorenia-valles/263189",
+        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+      },
+      {
+        "title": "Colosio define su futuro político esperando plazos legales",
+        "summary": "Político ya decidió su camino rumbo a 2027 pero espera anunciarlo en tiempo legal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/25/luis-donaldo-colosio-ya-decidio-su-futuro-politico-rumbo-a-2027-pero-esperara-los-plazos-legales-para-revelar-si-competira-por-sonora-o-nuevo-leon/",
+        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+      },
+      {
         "title": "Morena analiza posible expulsión de Rocha Moya",
         "summary": "Partido Morena evalúa la permanencia del exgobernador de Sonora Rocha Moya en la organización política.",
         "source": "Proyecto Puente",
@@ -98,6 +133,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Útiles escolares mantienen ventas estables en San Luis",
+        "summary": "Comercio de mochilas y materiales escolares se mantiene estable antes de regreso a clases.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/venta-de-utiles-escolares-se-mantiene-estable-antes-del-regreso-a-clases-en-san-luis-rio-colorado-31741028",
+        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+      },
+      {
+        "title": "Modernización pesquera con 49 nuevos motores en Sonora",
+        "summary": "Gobierno entrega motores para mejorar flota pesquera estatal.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/modernizan-pesca-sonorense-49-nuevos-motores-n900633",
+        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+      },
       {
         "title": "Ganado sonorense retoma exportación a Estados Unidos",
         "summary": "Más de 716 cabezas de ganado cruzaron ayer hacia EU como parte de la reactivación de exportaciones desde Sonora.",
@@ -143,6 +192,34 @@
     ],
     "sociedad": [
       {
+        "title": "Salud primaria se amplía 40% con 419 nuevos consultorios",
+        "summary": "Durazo y Sheinbaum expanden servicios de atención básica de salud en Sonora significativamente.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/durazo-y-sheinbaum-amplian-mas-de-40-la-atencion-de-salud-primaria-en-sonora-con-419-nuevos-consultorios/",
+        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+      },
+      {
+        "title": "Gusano barrenador: cinco casos activos en Sonora detectados",
+        "summary": "Cuatro casos en Álamos y uno en Yécora reportados según Senasica.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/25/gusano-barrenador-sonora-suma-cinco-casos-activos-cuatro-en-alamos-y-uno-en-yecora/",
+        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+      },
+      {
+        "title": "Lluvias intensifican vigilancia contra dengue en Sonora",
+        "summary": "Autoridades refuerzan fumigación y monitoreo por incremento de precipitaciones.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/lluvias-elevan-vigilancia-contra-el-dengue-en-sonora-y-refuerzan-fumigacion-31741791",
+        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+      },
+      {
+        "title": "Calor extremo en Hermosillo requiere refuerzo en hidratación",
+        "summary": "Autoridades enfatizan importancia de mantenerse hidratado por temperaturas altas.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/refuerzan-hidratacion-calor-extremo-hermosillo-n900652",
+        "_added_at": "2026-08-25T20:33:31.651047-07:00"
+      },
+      {
         "title": "Sonora abrirá 419 consultorios de salud gratuita",
         "summary": "Sonora habilitará 419 consultorios con atención médica gratuita, medicamentos y telemedicina en zonas marginadas.",
         "source": "El Imparcial",
@@ -183,22 +260,8 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/gobierno/imss-bienestar-fortalece-atencion-medica-nuevos-consultorios-n900462",
         "_added_at": "2026-08-25T09:35:13.372209-07:00"
-      },
-      {
-        "title": "Tec de Monterrey Sonora inaugura Sala de Juicios Orales",
-        "summary": "Universidad abre nueva sala especializada para práctica de litigación oral y formación de abogados.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/tec-monterrey-sonora-inaugura-sala-juicios-orales-n900478",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
-      },
-      {
-        "title": "UES apuesta por prevención salud mental de estudiantes",
-        "summary": "Universidad enfatiza importancia detección temprana y prevención de problemas psicológicos en población estudiantil.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ues-apuesta-por-la-prevencion-y-deteccion-oportuna-de-problemas-de-salud-mental-31726430",
-        "_added_at": "2026-08-25T09:35:13.372209-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-25T15:24:53.755963-07:00"
+  "last_updated": "2026-08-25T20:33:31.651047-07:00"
 }
