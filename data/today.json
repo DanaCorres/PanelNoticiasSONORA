@@ -1,8 +1,36 @@
 {
   "date": "2026-08-26",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen choferes de Tufesa por tráfico de droga en Hermosillo",
+        "summary": "Autoridades capturaron a conductores de la empresa de transportes involucrados en operaciones de narcotráfico en la capital sonorense.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/policiaca/detienen-a-choferes-de-tufesa-por-trafico-de-droga-en-hermosillo/142308",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
+      {
+        "title": "Aseguran 700+ dosis de droga en operativos en Nogales",
+        "summary": "Operativos coordinados resultaron en incautación de drogas y detención de varios sospechosos en la frontera norte.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/26/aseguran-mas-700-dosis-drogas-detienen-varias-personas-operativos-nogales.html",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
+      {
+        "title": "Armado irrumpe en vivienda y golpea a vecino en Nogales",
+        "summary": "Sujeto armado forzó entrada a domicilio en Nuevo Nogales y agredió físicamente al residente.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/26/sujeto-armado-rompe-puerta-golpea-vecino-cachazos-nuevo-nogales.html",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
+      {
+        "title": "Investigan muerte de hombre en domicilio de Nogales",
+        "summary": "Localizan sin vida a un hombre de 58 años en su vivienda en la colonia Barcelona; autoridades abren investigación.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/26/investigan-muerte-hombre-localizado-vida-dentro-su-domicilio-barcelona.html",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
       {
         "title": "Refuerzan vigilancia en Caborca con detenciones",
         "summary": "Autoridades intensifican operativos de seguridad en Caborca, resultando en dos detenciones en diferentes acciones.",
@@ -20,6 +48,27 @@
     ],
     "politica": [
       {
+        "title": "Natalia Rivera renuncia a dirigencia de Movimiento Ciudadano",
+        "summary": "La líder estatal deja su cargo en el partido político tras cambios en la estructura interna.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/natalia-rivera-renuncia-a-la-dirigencia-estatal-de-movimiento-ciudadano/",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
+      {
+        "title": "Enrique Inzunza abandona bancada de Morena",
+        "summary": "Diputado se separa del grupo parlamentario de la mayoría legislativa en Sonora.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/enrique-inzunza-deja-bancada-morena-n900826",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
+      {
+        "title": "Durazo impulsa a Colosio y busca candidato para Morena",
+        "summary": "Gobernador promueve a Colosio mientras negocia para que Valles sea candidato del partido oficial.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/durazo-impulsa-a-colosio-y-aun-busca-que-valles-abandere-a-morena/",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
+      {
         "title": "Celida López lidera encuestas internas de Morena Sonora",
         "summary": "Aspira a candidatura morenista apelando a unidad y conciliación con equipos derrotados en el estado.",
         "source": "Expreso",
@@ -35,6 +84,34 @@
       }
     ],
     "economia": [
+      {
+        "title": "Frontera reabre para ganado; cambio llegó para quedarse",
+        "summary": "Restablecimiento de comercio ganadero transfronterizo se consolida como medida permanente en la región.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/reapertura-frontera-ganado-llego-quedarse-n900717",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
+      {
+        "title": "Guaymas mejora infraestructura con nuevas grúas especializadas",
+        "summary": "Puerto aumenta capacidad logística con llegada de equipos modernos para operaciones de carga.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/el-puerto-potencia-su-capacidad-logistica-con-llegada-de-gruas-especializadas-gobernador-durazo/",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
+      {
+        "title": "Será UES sede de Feria Nacional del Empleo en San Luis",
+        "summary": "Institución educativa albergará evento de búsqueda laboral en la región de San Luis Río Colorado.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/sera-ues-sede-de-la-feria-nacional-del-empleo-en-san-luis-rio-colorado-31653057",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
+      {
+        "title": "Avanza identidad geográfica del dátil en San Luis",
+        "summary": "Propuesta busca reconocimiento oficial y distintivo para el producto agrícola regional.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/avanza-propuesta-de-identidad-geografica-del-datil-en-la-region-de-san-luis-31756164",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
       {
         "title": "Puerto Guaymas potencia infraestructura con nuevas grúas",
         "summary": "Gobernador Durazo anuncia llegada de equipos especializados para aumentar capacidad logística portuaria.",
@@ -59,6 +136,27 @@
     ],
     "sociedad": [
       {
+        "title": "Doctor Vagón ofrecerá 2 mil consultas gratuitas en Empalme",
+        "summary": "Jornada médica de servicios gratuitos se realizará en el puerto con consulta y entrega de medicamentos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/anuncian-regreso-del-dr-vagon/263262",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
+      {
+        "title": "Aumentan más del 50% atenciones por golpe de calor en 2026",
+        "summary": "Cruz Roja registra incremento significativo en llamadas de emergencia por enfermedades causadas por altas temperaturas.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/26/aumentan-mas-del-50-atenciones-por-glpe-de-calor-en-2026-cruz-roja/",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
+      {
+        "title": "Piden proteger y conectar ciclovías de Hermosillo",
+        "summary": "Ciudadanos solicitan mejoras en infraestructura ciclista para seguridad y continuidad de carriles.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/26/ciclovias-de-hermosillo-necesitan-proteccion-mantenimiento-y-tramos-continuos-para-evitar-que-ciclistas-se-incorporen-al-trafico/",
+        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+      },
+      {
         "title": "Alertan por mayor actividad ciclónica en septiembre",
         "summary": "Protección Civil prevé intensificación de ciclones en Pacífico durante próximos meses; recomiendan prepararse.",
         "source": "Expreso",
@@ -81,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-26T09:46:42.553791-07:00"
+  "last_updated": "2026-08-26T19:55:03.846007-07:00"
 }
