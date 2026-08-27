@@ -1,183 +1,106 @@
 {
-  "date": "2026-08-26",
-  "run_count": 2,
+  "date": "2026-08-27",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detienen choferes de Tufesa por tráfico de droga en Hermosillo",
-        "summary": "Autoridades capturaron a conductores de la empresa de transportes involucrados en operaciones de narcotráfico en la capital sonorense.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/policiaca/detienen-a-choferes-de-tufesa-por-trafico-de-droga-en-hermosillo/142308",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+        "title": "Autoridades investigan seguimiento a esposa de exfuncionario",
+        "summary": "FGJE atiende denuncia de Mónica Gámez sobre presunto seguimiento en vehículo en Hermosillo.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/fgje-busca-a-esposa-de-farias-para-conocer-denuncia/263292",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
       },
       {
-        "title": "Aseguran 700+ dosis de droga en operativos en Nogales",
-        "summary": "Operativos coordinados resultaron en incautación de drogas y detención de varios sospechosos en la frontera norte.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/26/aseguran-mas-700-dosis-drogas-detienen-varias-personas-operativos-nogales.html",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+        "title": "Decomisan fentanilo y heroína en autobús interprovincial",
+        "summary": "Operadores de transporte detenidos tras hallazgo de drogas en unidad de pasajeros.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/decomisan-fentanilo-y-heroina-en-autobus-detienen-a-operadores-del-transporte/",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
       },
       {
-        "title": "Armado irrumpe en vivienda y golpea a vecino en Nogales",
-        "summary": "Sujeto armado forzó entrada a domicilio en Nuevo Nogales y agredió físicamente al residente.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/26/sujeto-armado-rompe-puerta-golpea-vecino-cachazos-nuevo-nogales.html",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+        "title": "Capturan presuntos narcomenudistas con armas y drogas",
+        "summary": "Agentes municipales aseguran a dos sujetos dedicados a venta de estupefacientes.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/atrapan-a-dos-presuntos-tiradores-con-droga-agentes-municipales/",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
       },
       {
-        "title": "Investigan muerte de hombre en domicilio de Nogales",
-        "summary": "Localizan sin vida a un hombre de 58 años en su vivienda en la colonia Barcelona; autoridades abren investigación.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/26/investigan-muerte-hombre-localizado-vida-dentro-su-domicilio-barcelona.html",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
-      },
-      {
-        "title": "Refuerzan vigilancia en Caborca con detenciones",
-        "summary": "Autoridades intensifican operativos de seguridad en Caborca, resultando en dos detenciones en diferentes acciones.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermisllo/policiaca/refuerzan-vigilancia-en-caborca-y-detienen-a-dos-personas-en-distintos-operativos-31725149",
-        "_added_at": "2026-08-26T09:46:42.553791-07:00"
-      },
-      {
-        "title": "Motociclista muere tras impacto vehicular",
-        "summary": "Persona en motocicleta fallece presuntamente al ser golpeada por un vehículo en incidente vial.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/08/26/mu3-re-motociclista-presuntamente-tras-ser-impactado-por-vehiculo/",
-        "_added_at": "2026-08-26T09:46:42.553791-07:00"
+        "title": "Adolescente muere en riña familiar en Santa Cruz",
+        "summary": "Joven es atacado por su hermano en comunidad sonorense con resultado fatal.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/muere-adolescente-atacado-por-hermano-en-la-comunidad-de-santa-cruz/",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Natalia Rivera renuncia a dirigencia de Movimiento Ciudadano",
-        "summary": "La líder estatal deja su cargo en el partido político tras cambios en la estructura interna.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/08/natalia-rivera-renuncia-a-la-dirigencia-estatal-de-movimiento-ciudadano/",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
-      },
-      {
-        "title": "Enrique Inzunza abandona bancada de Morena",
-        "summary": "Diputado se separa del grupo parlamentario de la mayoría legislativa en Sonora.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/enrique-inzunza-deja-bancada-morena-n900826",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
-      },
-      {
-        "title": "Durazo impulsa a Colosio y busca candidato para Morena",
-        "summary": "Gobernador promueve a Colosio mientras negocia para que Valles sea candidato del partido oficial.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/08/durazo-impulsa-a-colosio-y-aun-busca-que-valles-abandere-a-morena/",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
-      },
-      {
-        "title": "Celida López lidera encuestas internas de Morena Sonora",
-        "summary": "Aspira a candidatura morenista apelando a unidad y conciliación con equipos derrotados en el estado.",
+        "title": "Valles garantiza continuidad de transformación en Sonora",
+        "summary": "Senadora con licencia afirma que respaldo ciudadano asegura proyecto de 4T en estado.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/asegura-celida-lopez-encabezar-encuestas-de-morena/263210",
-        "_added_at": "2026-08-26T09:46:42.553791-07:00"
-      },
-      {
-        "title": "Sheinbaum define candidatos por encuestas nacionales",
-        "summary": "Presidenta indica que sondeos internos determinarán selección de candidatos para Morena.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/26/candidatos-de-morena-los-definira-la-encuesta-sheinbaum/",
-        "_added_at": "2026-08-26T09:46:42.553791-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/en-sonora-esta-garantizada-la-continuidad-de-la-4t-valles/263275",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Frontera reabre para ganado; cambio llegó para quedarse",
-        "summary": "Restablecimiento de comercio ganadero transfronterizo se consolida como medida permanente en la región.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/reapertura-frontera-ganado-llego-quedarse-n900717",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+        "title": "Hermosillo logra menor desempleo en 25 años",
+        "summary": "Capital sonorense alcanza tasa de desocupación histórica en segundo semestre 2026.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/hermosillo-logra-su-menor-tasa-de-desocupacion-en-25-anos-durante-segundo-semestre-de-2026/",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
       },
       {
-        "title": "Guaymas mejora infraestructura con nuevas grúas especializadas",
-        "summary": "Puerto aumenta capacidad logística con llegada de equipos modernos para operaciones de carga.",
+        "title": "Durazo anuncia inversión de 450 millones en Empalme",
+        "summary": "Gobernador presenta plan de transformación para municipio portuario sonorense.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/empalme-se-transforma-con-inversion-de-450-mdp-durazo/142367",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
+      },
+      {
+        "title": "Gobierno deposita tercer abono en Tarjetas de Oportunidades",
+        "summary": "Gobernador respalda economía familiar sonorense con nuevo depósito programado.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/el-puerto-potencia-su-capacidad-logistica-con-llegada-de-gruas-especializadas-gobernador-durazo/",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+        "url": "https://www.radarsonora.com/gobernador-durazo-respalda-economia-de-familias-sonorenses-con-tercer-deposito-de-tarjetas-de-oportunidades/",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
       },
       {
-        "title": "Será UES sede de Feria Nacional del Empleo en San Luis",
-        "summary": "Institución educativa albergará evento de búsqueda laboral en la región de San Luis Río Colorado.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/sera-ues-sede-de-la-feria-nacional-del-empleo-en-san-luis-rio-colorado-31653057",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
-      },
-      {
-        "title": "Avanza identidad geográfica del dátil en San Luis",
-        "summary": "Propuesta busca reconocimiento oficial y distintivo para el producto agrícola regional.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/avanza-propuesta-de-identidad-geografica-del-datil-en-la-region-de-san-luis-31756164",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
-      },
-      {
-        "title": "Puerto Guaymas potencia infraestructura con nuevas grúas",
-        "summary": "Gobernador Durazo anuncia llegada de equipos especializados para aumentar capacidad logística portuaria.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/puerto-de-guaymas-potencia-su-capacidad-logistica-gobernador-durazo/",
-        "_added_at": "2026-08-26T09:46:42.553791-07:00"
-      },
-      {
-        "title": "Sonora expande infraestructura de salud con 419 consultorios",
-        "summary": "Nuevo programa instalará consultorios en zonas marginadas e iniciaría operaciones enero 2027.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/anuncian-419-nuevos-consultorios-de-salud-para-sonora/263211",
-        "_added_at": "2026-08-26T09:46:42.553791-07:00"
-      },
-      {
-        "title": "Universidad de Sonora marca precedente en supercómputo nacional",
-        "summary": "Unison implementa infraestructura Yuca de alta capacidad computacional en México.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermisillo.com.mx/elsoldehermisillo/local/unison-marca-un-precedente-en-mexico-con-yuca-su-infraestructura-de-supercomputo-31742733",
-        "_added_at": "2026-08-26T09:46:42.553791-07:00"
+        "title": "Semiconductores representan oportunidad económica para Sonora",
+        "summary": "Sector industrial emergente abre perspectivas de crecimiento en estado.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/semiconductores-una-coyuntura-para-el-estado/142366",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Doctor Vagón ofrecerá 2 mil consultas gratuitas en Empalme",
-        "summary": "Jornada médica de servicios gratuitos se realizará en el puerto con consulta y entrega de medicamentos.",
+        "title": "Padres piden limitar uso de celulares en escuelas sonorenses",
+        "summary": "AEPAF solicita legislación para regular dispositivos en aulas de Sonora.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/anuncian-regreso-del-dr-vagon/263262",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/aepaf-pide-limitar-celulares-en-escuelas-de-sonora/263298",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
       },
       {
-        "title": "Aumentan más del 50% atenciones por golpe de calor en 2026",
-        "summary": "Cruz Roja registra incremento significativo en llamadas de emergencia por enfermedades causadas por altas temperaturas.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/08/26/aumentan-mas-del-50-atenciones-por-glpe-de-calor-en-2026-cruz-roja/",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+        "title": "Hermosillo requiere 500 camiones de transporte público",
+        "summary": "Estudiantes demandan ampliación de flota para mejora de servicio ante regreso a clases.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/27/imtes-reforzara-vigilancia-al-transporte-de-hermosillo-ante-regreso-a-clases-usuarios-piden-mas-unidades/",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
       },
       {
-        "title": "Piden proteger y conectar ciclovías de Hermosillo",
-        "summary": "Ciudadanos solicitan mejoras en infraestructura ciclista para seguridad y continuidad de carriles.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/26/ciclovias-de-hermosillo-necesitan-proteccion-mantenimiento-y-tramos-continuos-para-evitar-que-ciclistas-se-incorporen-al-trafico/",
-        "_added_at": "2026-08-26T19:55:03.846007-07:00"
+        "title": "Aguirre impulsa reforestación para combatir altas temperaturas",
+        "summary": "Iniciativa ambiental busca reducir impacto de calor extremo en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/27/daniel-aguirre-busca-reducir-impacto-de-las-altas-temperaturas-en-hermosillo-con-su-iniciativa-de-reforestacion/",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
       },
       {
-        "title": "Alertan por mayor actividad ciclónica en septiembre",
-        "summary": "Protección Civil prevé intensificación de ciclones en Pacífico durante próximos meses; recomiendan prepararse.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/alertan-por-mayor-actividad-de-ciclones-en-sonora/263190",
-        "_added_at": "2026-08-26T09:46:42.553791-07:00"
-      },
-      {
-        "title": "Obras en Hermosillo afectarán regreso a clases",
-        "summary": "Reparaciones viales activas complicarán tráfico y movilidad durante inicio de ciclo escolar.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/26/obras-activas-ya-afectan-el-trafico-de-hermosillo-y-el-regreso-a-clases-de-miles-de-estudiantes-aumentara-la-carga-vehicular-estos-sectores-podrian-registrar-congestionamientos/",
-        "_added_at": "2026-08-26T09:46:42.553791-07:00"
-      },
-      {
-        "title": "Presentan iniciativa para reforma ambiental integral",
-        "summary": "Semarnat propone cambios fundamentales a ley que rige política ecológica del país.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/semarnat-anuncia-iniciativa-de-reforma-integral-a-ley-que-rige-la-politica-ambiental/",
-        "_added_at": "2026-08-26T09:46:42.553791-07:00"
+        "title": "Hermosillo avanza en limpieza de canales tras retirar toneladas",
+        "summary": "Capital sonorense realiza tercera jornada de saneamiento extrayendo mil toneladas residuos.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hermosillo-va-por-la-tercera-vuelta-de-limpieza-de-canales-tras-retirar-mil-toneladas-de-residuos-31664731",
+        "_added_at": "2026-08-27T05:59:53.338069-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-26T19:55:03.846007-07:00"
+  "last_updated": "2026-08-27T05:59:53.338069-07:00"
 }
