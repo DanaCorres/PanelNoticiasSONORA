@@ -1,8 +1,36 @@
 {
   "date": "2026-08-27",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sonora lidera país con mil 54 casos de dengue",
+        "summary": "Estado ocupa primer lugar nacional en dengue. Hermosillo, Guaymas y Empalme concentran casos activos. Autoridades refuerzan prevención.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/27/sonora-suma-mil-54-casos-confirmados-de-dengue-y-ocupa-el-primer-lugar-nacional-salud-llama-a-reforzar-la-prevencion-y-permitir-el-acceso-a-brigadas-de-fumigacion/",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
+      {
+        "title": "Canadá mantiene a Sonora en alerta naranja por violencia",
+        "summary": "Canadá mantiene alerta naranja para Sonora por crimen organizado y violencia. Advierte sobre riesgos para viajeros.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/canada-mantiene-a-sonora-en-alerta-naranja-por-violencia-y-crimen-organizado-31771991",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
+      {
+        "title": "Menor detenido por muerte de hermano en Santa Cruz",
+        "summary": "Adolescente detenido por homicidio de su hermano. Joven de 17 años presuntamente atacó a su hermano fatalmente.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/detenido-menor-por-homicidio-de-su-hermano-en-santa-cruz/263336",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
+      {
+        "title": "Esposa de Fernando Farías reporta seguimiento en Hermosillo",
+        "summary": "Cónyuge de político denuncia haber sido seguida. Fiscalía de Sonora proporciona protección a la familia.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/esposa-de-fernando-farias-denuncia-que-la-siguieron-en-hermosillo-fiscalia-de-sonora-le-dara-proteccion/",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
       {
         "title": "Autoridades investigan seguimiento a esposa de exfuncionario",
         "summary": "FGJE atiende denuncia de Mónica Gámez sobre presunto seguimiento en vehículo en Hermosillo.",
@@ -34,6 +62,27 @@
     ],
     "politica": [
       {
+        "title": "Movimiento Ciudadano atrae padrecismo en Sonora",
+        "summary": "MC genera tensión en oposición sonorense. Movimiento atrae a militantes del PRI hacia sus filas.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/movimiento-ciudadano-atrae-al-padrecismo-y-pone-en-vilo-a-la-oposicion-en-sonora/",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
+      {
+        "title": "Defensa menciona políticos en caso de huachicol fiscal",
+        "summary": "Abogados de excontralmirante mencionan autoridad de Tabasco. Revelan presuntos vínculos en fraude fiscal.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/defensa-de-excontralmirante-menciona-a-andy-y-a-un-politico-de-tabasco-por-huachicol-fiscal/",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
+      {
+        "title": "Covafam levanta plantón frente a Congreso de Sonora",
+        "summary": "Organización levanta acción de protesta. Manifestantes se retiran del Congreso estatal tras demanda.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/covafam-levanta-planton-frente-congreso-sonora-n900919",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
+      {
         "title": "Valles garantiza continuidad de transformación en Sonora",
         "summary": "Senadora con licencia afirma que respaldo ciudadano asegura proyecto de 4T en estado.",
         "source": "Expreso",
@@ -42,6 +91,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Sonora aporta tercera parte de minería nacional",
+        "summary": "Estado genera 140 mil empleos en minería. Sonora lidera producción mineral a nivel país.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-aporta-una-tercera-parte-de-la-produccion-minera-nacional-y-genera-mas-de-140-mil-empleos-31101890",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
+      {
+        "title": "Advierten riesgos para Sonora en revisiones de T-MEC",
+        "summary": "Analistas prevén impacto negativo en estado. Revisiones anuales del tratado generan preocupación.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/advierten-riesgos-para-sonora-por-revisiones-anuales-del-t-mec-30925050",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
       {
         "title": "Hermosillo logra menor desempleo en 25 años",
         "summary": "Capital sonorense alcanza tasa de desocupación histórica en segundo semestre 2026.",
@@ -73,6 +136,34 @@
     ],
     "sociedad": [
       {
+        "title": "Incendio destruye puesto de empanadas artesanales",
+        "summary": "Local en Valle del Yaqui reduce a cenizas. Propietaria busca reconstruir negocio con apoyo ciudadano.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/incendio-destruye-puesto-de-empanadas-en-valle-del-yaqui/263337",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
+      {
+        "title": "Cecytes Nogales II inicia ciclo con 600 estudiantes",
+        "summary": "Plantel comienza curso 2026-2027 favorable. Más de seiscientos estudiantes inscritos iniciaron clases.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/27/arranca-cecytes-nogales-ii-ciclo-escolar-mas-600-estudiantes.html",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
+      {
+        "title": "Seis jóvenes nogalenses viajan a Taiwán",
+        "summary": "Estudiantes viajarán para fortalecer formación tecnológica. Programa de movilidad académica internacional.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/27/seis-jovenes-nogalenses-viajan-taiwan-fortalecer-su-formacion-tecnologica.html",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
+      {
+        "title": "Fotoseptiembre 2026 llega a 11 municipios sonorenses",
+        "summary": "Festival fotográfico recorre estado. Sesenta y siete actividades artísticas en diversos municipios.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/27/fotoseptiembre-2026-llegara-a-11-municipios-de-sonora-con-67-actividades/",
+        "_added_at": "2026-08-27T17:44:50.576042-07:00"
+      },
+      {
         "title": "Padres piden limitar uso de celulares en escuelas sonorenses",
         "summary": "AEPAF solicita legislación para regular dispositivos en aulas de Sonora.",
         "source": "Expreso",
@@ -102,5 +193,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-27T05:59:53.338069-07:00"
+  "last_updated": "2026-08-27T17:44:50.576042-07:00"
 }
