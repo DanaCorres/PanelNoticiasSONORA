@@ -1,8 +1,22 @@
 {
   "date": "2026-08-29",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ataque armado cancela evento de boxeo en CUM Hermosillo",
+        "summary": "Grupo armado irrumpe en el CUM, quema ring y obliga a posponer la Noche Suprema en Hermosillo.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/balacera-e-incendio-en-el-cum-cancelan-la-noche-suprema/",
+        "_added_at": "2026-08-29T12:11:48.563359-07:00"
+      },
+      {
+        "title": "Menor muere atropellada en unidad deportiva de Navojoa",
+        "summary": "Accidente fatal dentro de instalación deportiva en Navojoa deja una menor fallecida.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/muere-menor-tras-ser-atropellada-dentro-de-unidad-deportiva-en-navojoa/142570",
+        "_added_at": "2026-08-29T12:11:48.563359-07:00"
+      },
       {
         "title": "Incendian ring en CUM previo a evento de boxeo",
         "summary": "Comando armado incendia instalación del CUM en Hermosillo antes de función Noche Suprema, causando su cancelación.",
@@ -27,6 +41,13 @@
     ],
     "politica": [
       {
+        "title": "Gobierno refuerza búsqueda de personas desaparecidas",
+        "summary": "Autoridades anuncian intensificación de operativos para localizar desaparecidos en Sonora.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/gobierno-reforzara-busqueda-de-personas-desaparecidas/",
+        "_added_at": "2026-08-29T12:11:48.563359-07:00"
+      },
+      {
         "title": "Lamarque reconoce rol de mujeres en soberanía",
         "summary": "Autoridad estatal destaca participación de mujeres sonorenses en defensa de causas y organización del movimiento.",
         "source": "Expreso",
@@ -42,6 +63,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Inicia construcción de 4.6 mil viviendas en Navojoa",
+        "summary": "Proyecto de vivienda contempla inversión de 2.4 mil millones de pesos en predio de 47 hectáreas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/construiran-4-mil-600-viviendas-en-navojoa/263444",
+        "_added_at": "2026-08-29T12:11:48.563359-07:00"
+      },
+      {
+        "title": "Fortalece Sonora capacitación de operadores de transporte",
+        "summary": "Gobierno impulsa entrenamiento con nuevo tractocamión en institución de formación.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/sonora/2026/08/29/fortalece-sonora-formacion-operadores-nuevo-tractocamion-icatson.html",
+        "_added_at": "2026-08-29T12:11:48.563359-07:00"
+      },
       {
         "title": "Construcción de vivienda crece con apoyo federal",
         "summary": "Sonora registra aumento sin precedentes en construcción habitacional con respaldo del gobierno nacional.",
@@ -73,6 +108,27 @@
     ],
     "sociedad": [
       {
+        "title": "Lluvia intensa causa daños en Nogales; árboles caídos",
+        "summary": "Tormenta provoca estragos materiales y vehículos varados en frontera sonorense.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/29/intensa-lluvia-deja-danos-materiales-caida-arboles-vehiculos-varados-nogales.html",
+        "_added_at": "2026-08-29T12:11:48.563359-07:00"
+      },
+      {
+        "title": "45 mil estudiantes regresan a clases en Nogales",
+        "summary": "Educación básica reanuda actividades en 180 planteles preparados de la frontera.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/29/regresaran-clases-45-mil-estudiantes-educacion-basica-este-lunes-nogales.html",
+        "_added_at": "2026-08-29T12:11:48.563359-07:00"
+      },
+      {
+        "title": "Fuertes lluvias continuarán en Sonora; Cajeme afectado",
+        "summary": "Servicio meteorológico alerta sobre tormentas y temperaturas superiores a 45 grados en estado.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/lluvias-y-tormentas-fuertes-continuaran-en-sonora-cajeme-registra-mayores-acumulados/142568",
+        "_added_at": "2026-08-29T12:11:48.563359-07:00"
+      },
+      {
         "title": "Covafam levanta campamento tras 99 días",
         "summary": "Organización concluye huelga de hambre en Hermosillo tras negociaciones con autoridades estatales.",
         "source": "El Sol de Hermosillo",
@@ -102,5 +158,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-29T02:17:49.631307-07:00"
+  "last_updated": "2026-08-29T12:11:48.563359-07:00"
 }
