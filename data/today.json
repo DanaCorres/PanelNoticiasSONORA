@@ -1,8 +1,22 @@
 {
   "date": "2026-08-29",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ataque armado interrumpe evento en CUM de Hermosillo",
+        "summary": "Grupo armado irrumpe en Centro de Usos Múltiples, quema ring de box y cancela Noche Suprema. Autoridades descartan terrorismo.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/grupo-armado-irrumpe-en-el-cum-quema-ring-de-box/",
+        "_added_at": "2026-08-29T16:52:58.995153-07:00"
+      },
+      {
+        "title": "Sonora localizó 3 mil personas desaparecidas en 5 años",
+        "summary": "Fiscalía reporta 2 mil 519 personas localizadas con vida y 586 sin vida mediante búsquedas coordinadas con colectivos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/29/fgje-sonora-reporta-mas-de-3-mil-personas-desaparecidas-o-ausentes-localizadas-en-5-anos-mediante-busquedas-con-colectivos-y-autoridades/",
+        "_added_at": "2026-08-29T16:52:58.995153-07:00"
+      },
       {
         "title": "Ataque armado cancela evento de boxeo en CUM Hermosillo",
         "summary": "Grupo armado irrumpe en el CUM, quema ring y obliga a posponer la Noche Suprema en Hermosillo.",
@@ -41,6 +55,20 @@
     ],
     "politica": [
       {
+        "title": "INE instala módulos móviles para credenciales en Sonora",
+        "summary": "Servicio itinerante disponible del 31 de agosto al 4 de septiembre para trámites de identificación.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/modulos-moviles-ine-en-sonora-para-credencial-de-votar/263463",
+        "_added_at": "2026-08-29T16:52:58.995153-07:00"
+      },
+      {
+        "title": "Guaymas incluido en plan nacional de trenes de pasajeros",
+        "summary": "Puerto sonorense forma parte de iniciativa de transporte ferroviario a nivel nacional.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/guaymas-en-el-plan-nacional-de-trenes-de-pasajeros/",
+        "_added_at": "2026-08-29T16:52:58.995153-07:00"
+      },
+      {
         "title": "Gobierno refuerza búsqueda de personas desaparecidas",
         "summary": "Autoridades anuncian intensificación de operativos para localizar desaparecidos en Sonora.",
         "source": "Entorno Informativo",
@@ -63,6 +91,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Turismo de cruceros crece en Sonora; arribarán 24 embarcaciones",
+        "summary": "Gobierno anuncia incremento en cruceros entre 2026 y 2029 con impulso de autoridades estatales.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/con-impulso-de-durazo-crece-el-turismo-de-cruceros-en-sonora-anuncia-arribo-de-24-embarcaciones-entre-2026-2029/",
+        "_added_at": "2026-08-29T16:52:58.995153-07:00"
+      },
       {
         "title": "Inicia construcción de 4.6 mil viviendas en Navojoa",
         "summary": "Proyecto de vivienda contempla inversión de 2.4 mil millones de pesos en predio de 47 hectáreas.",
@@ -107,6 +142,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora respalda sanciones contra quienes quiten tarjetas a adultos",
+        "summary": "Autoridades de Bienestar buscan proteger recursos de pensionados mediante medidas punitivas.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/bienestar-en-sonora-respalda-sanciones-para-quienes-quiten-tarjetas-a-los-adultos-mayores-31803139",
+        "_added_at": "2026-08-29T16:52:58.995153-07:00"
+      },
+      {
+        "title": "Salud Sonora refuerza fumigación contra dengue en viviendas",
+        "summary": "Campaña de prevención intensifica acciones para combatir propagación del vector.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/29/refuerza-salud-sonora-fumigacion-contra-el-dengue-en-viviendas/",
+        "_added_at": "2026-08-29T16:52:58.995153-07:00"
+      },
       {
         "title": "Lluvia intensa causa daños en Nogales; árboles caídos",
         "summary": "Tormenta provoca estragos materiales y vehículos varados en frontera sonorense.",
@@ -158,5 +207,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-29T12:11:48.563359-07:00"
+  "last_updated": "2026-08-29T16:52:58.995153-07:00"
 }
