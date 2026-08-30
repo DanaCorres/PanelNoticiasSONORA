@@ -1,211 +1,113 @@
 {
-  "date": "2026-08-29",
-  "run_count": 3,
+  "date": "2026-08-30",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Ataque armado interrumpe evento en CUM de Hermosillo",
-        "summary": "Grupo armado irrumpe en Centro de Usos Múltiples, quema ring de box y cancela Noche Suprema. Autoridades descartan terrorismo.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/grupo-armado-irrumpe-en-el-cum-quema-ring-de-box/",
-        "_added_at": "2026-08-29T16:52:58.995153-07:00"
-      },
-      {
-        "title": "Sonora localizó 3 mil personas desaparecidas en 5 años",
-        "summary": "Fiscalía reporta 2 mil 519 personas localizadas con vida y 586 sin vida mediante búsquedas coordinadas con colectivos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/08/29/fgje-sonora-reporta-mas-de-3-mil-personas-desaparecidas-o-ausentes-localizadas-en-5-anos-mediante-busquedas-con-colectivos-y-autoridades/",
-        "_added_at": "2026-08-29T16:52:58.995153-07:00"
-      },
-      {
-        "title": "Ataque armado cancela evento de boxeo en CUM Hermosillo",
-        "summary": "Grupo armado irrumpe en el CUM, quema ring y obliga a posponer la Noche Suprema en Hermosillo.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/08/balacera-e-incendio-en-el-cum-cancelan-la-noche-suprema/",
-        "_added_at": "2026-08-29T12:11:48.563359-07:00"
-      },
-      {
-        "title": "Menor muere atropellada en unidad deportiva de Navojoa",
-        "summary": "Accidente fatal dentro de instalación deportiva en Navojoa deja una menor fallecida.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/muere-menor-tras-ser-atropellada-dentro-de-unidad-deportiva-en-navojoa/142570",
-        "_added_at": "2026-08-29T12:11:48.563359-07:00"
-      },
-      {
-        "title": "Incendian ring en CUM previo a evento de boxeo",
-        "summary": "Comando armado incendia instalación del CUM en Hermosillo antes de función Noche Suprema, causando su cancelación.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/comando-armado-incendia-ring-en-cum-de-hermosillo-previo-a-noche-suprema/142544",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
-      },
-      {
-        "title": "Hallan 18 kilos de fentanilo en autobús",
-        "summary": "Autoridades decomisan fentanilo oculto en transporte público en Hermosillo durante operativo de seguridad.",
+        "title": "Diez colonias de Hermosillo reciben atención policial prioritaria",
+        "summary": "Autoridades identificaron zonas críticas en Hermosillo que requerirán refuerzo en vigilancia y operativos de seguridad.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/hallan-18-kilos-de-fentanilo-ocultos-en-un-autobus-en-hermosillo-31771026",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/identifican-10-colonias-de-hermosillo-como-zonas-prioritarias-de-atencion-policial-31803333",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
       },
       {
-        "title": "Helicóptero de Fuerzas Armadas se desploma",
-        "summary": "Aeronave militar sufre accidente en Sonora, según reportes de video de incidente.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/video-helicoptero-fuerzas-armadas-desploma-n901163",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
+        "title": "Accidente vial en Empalme-Obregón deja seis lesionados",
+        "summary": "Choque deja varios heridos, incluyendo menores trasladados de urgencia en tramo carretero crítico.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/choque-en-tramo-empalme-obregon-deja-seis-lesionados/263480",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
+      },
+      {
+        "title": "Explosión en Miguel Alemán causa grave lesionado",
+        "summary": "Detonación en comisaría deja herido en estado grave; se investigan causas del incidente.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/deja-explosion-a-herido-grave-en-la-comisaria-miguel-aleman/",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
+      },
+      {
+        "title": "Encuentran cuerpo con signos de violencia cerca de Las Cuevitas",
+        "summary": "Descubrimiento de cadáver en predio despierte investigación de autoridades sobre posible delito.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/encuentran-cuerpo-con-huellas-de-violencia-en-predio-cercano-a-las-cuevitas/",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
       }
     ],
     "politica": [
       {
-        "title": "INE instala módulos móviles para credenciales en Sonora",
-        "summary": "Servicio itinerante disponible del 31 de agosto al 4 de septiembre para trámites de identificación.",
+        "title": "Lorenia Valles reconoce programas sociales para adultos mayores",
+        "summary": "Funcionario destaca compromiso del gobierno en apoyo a personas de la tercera edad en Sonora.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/modulos-moviles-ine-en-sonora-para-credencial-de-votar/263463",
-        "_added_at": "2026-08-29T16:52:58.995153-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/valles-reconoce-compromiso-de-la-4t-con-adultos-mayores/263475",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
       },
       {
-        "title": "Guaymas incluido en plan nacional de trenes de pasajeros",
-        "summary": "Puerto sonorense forma parte de iniciativa de transporte ferroviario a nivel nacional.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/guaymas-en-el-plan-nacional-de-trenes-de-pasajeros/",
-        "_added_at": "2026-08-29T16:52:58.995153-07:00"
-      },
-      {
-        "title": "Gobierno refuerza búsqueda de personas desaparecidas",
-        "summary": "Autoridades anuncian intensificación de operativos para localizar desaparecidos en Sonora.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/gobierno-reforzara-busqueda-de-personas-desaparecidas/",
-        "_added_at": "2026-08-29T12:11:48.563359-07:00"
-      },
-      {
-        "title": "Lamarque reconoce rol de mujeres en soberanía",
-        "summary": "Autoridad estatal destaca participación de mujeres sonorenses en defensa de causas y organización del movimiento.",
+        "title": "Javier Lamarque dialoga con comunidad de Palo Verde",
+        "summary": "Funcionario sostiene encuentro con vecinos para conocer necesidades y fortalecer transformación social.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-reconoce-fuerza-de-mujeres-de-sonora/263424",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-dialoga-con-familias-de-palo-verde/263474",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
       },
       {
-        "title": "Aprueban convocatoria para consejos electorales",
-        "summary": "Instituto Estatal Electoral aprueba convocatoria para conformar consejos distritales y municipales en Sonora.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/aprueban-convocatoria-para-consejos-distritales-y-municipales-el-instituto-estatal-electoral/",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
+        "title": "Célida López convoca asamblea informativa en Hermosillo",
+        "summary": "Tercera sesión digital de vinculación ciudadana se transmitirá en vivo este domingo.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/celida-lopez-encabezara-asamblea-informativa-en-hermosillo/263481",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Turismo de cruceros crece en Sonora; arribarán 24 embarcaciones",
-        "summary": "Gobierno anuncia incremento en cruceros entre 2026 y 2029 con impulso de autoridades estatales.",
+        "title": "Sonora recibirá 24 cruceros internacionales a partir de septiembre",
+        "summary": "Arribos de buques turísticos reforzarán economía local en puertos sonorenses durante próximos meses.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/sonora-suma-24-arribos-de-cruceros-internacionales-a-partir-de-septiembre/",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
+      },
+      {
+        "title": "Pavimentación del Camino de los Yaquis en conclusión",
+        "summary": "Proyecto de infraestructura en San Carlos está próximo a completarse beneficiando conectividad regional.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/con-impulso-de-durazo-crece-el-turismo-de-cruceros-en-sonora-anuncia-arribo-de-24-embarcaciones-entre-2026-2029/",
-        "_added_at": "2026-08-29T16:52:58.995153-07:00"
+        "url": "https://www.radarsonora.com/esta-por-concluir-pavimentacion-del-camino-de-los-yaquis-en-san-carlos/",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
       },
       {
-        "title": "Inicia construcción de 4.6 mil viviendas en Navojoa",
-        "summary": "Proyecto de vivienda contempla inversión de 2.4 mil millones de pesos en predio de 47 hectáreas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/construiran-4-mil-600-viviendas-en-navojoa/263444",
-        "_added_at": "2026-08-29T12:11:48.563359-07:00"
-      },
-      {
-        "title": "Fortalece Sonora capacitación de operadores de transporte",
-        "summary": "Gobierno impulsa entrenamiento con nuevo tractocamión en institución de formación.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/sonora/2026/08/29/fortalece-sonora-formacion-operadores-nuevo-tractocamion-icatson.html",
-        "_added_at": "2026-08-29T12:11:48.563359-07:00"
-      },
-      {
-        "title": "Construcción de vivienda crece con apoyo federal",
-        "summary": "Sonora registra aumento sin precedentes en construcción habitacional con respaldo del gobierno nacional.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/navojoa-en-sonora-se-construye-vivienda-como-nunca-con-respaldo-de-sheinbaum/",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
-      },
-      {
-        "title": "Navojoa tendrá 4 mil 600 viviendas nuevas",
-        "summary": "Inicia construcción de desarrollos inmobiliarios con miles de unidades habitacionales en Navojoa.",
+        "title": "Impulsan emprendimiento de jóvenes en Sonora",
+        "summary": "Gobierno apoya iniciativas empresariales de juventud para generar oportunidades económicas locales.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/navojoa-tendra-4-mil-600-nuevas-viviendas-n901139",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
-      },
-      {
-        "title": "Algodón sonorense llega al mercado japonés",
-        "summary": "Producto agrícola de San Luis Río Colorado se exporta a Japón expandiendo mercados internacionales.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/algodon-sanluisino-va-al-mercado-japones-31787308",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
-      },
-      {
-        "title": "Paulina Ocaña impulsa capacitación de transportistas",
-        "summary": "Programa de entrenamiento para operadores de autotransporte busca mejorar seguridad y profesionalismo.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/paulina-ocana-impulsa-capacitacion-de-operadores-en-sonora/263419",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/impulsan-jovenes-emprendedores-sonora-n901241",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Sonora respalda sanciones contra quienes quiten tarjetas a adultos",
-        "summary": "Autoridades de Bienestar buscan proteger recursos de pensionados mediante medidas punitivas.",
+        "title": "Marcha en Hermosillo contra proyectos de gas en el Golfo",
+        "summary": "Ciudadanos se movilizan hacia Palacio de Gobierno para defender ecosistema marino y ballenas.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/bienestar-en-sonora-respalda-sanciones-para-quienes-quiten-tarjetas-a-los-adultos-mayores-31803139",
-        "_added_at": "2026-08-29T16:52:58.995153-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/marchan-rumbo-a-palacio-de-gobierno-contra-megaproyecto-de-gas-y-en-defensa-de-las-ballenas-31806951",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
       },
       {
-        "title": "Salud Sonora refuerza fumigación contra dengue en viviendas",
-        "summary": "Campaña de prevención intensifica acciones para combatir propagación del vector.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/08/29/refuerza-salud-sonora-fumigacion-contra-el-dengue-en-viviendas/",
-        "_added_at": "2026-08-29T16:52:58.995153-07:00"
+        "title": "Treinta jóvenes de Talento Sonorense viajarán a Taiwán",
+        "summary": "Tercera generación de programa inicia viaje internacional para intercambio y capacitación profesional.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/comienza-el-sueno-de-30-jovenes-de-la-tercera-generacion-de-talento-sonorense-rumbo-a-taiwan/",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
       },
       {
-        "title": "Lluvia intensa causa daños en Nogales; árboles caídos",
-        "summary": "Tormenta provoca estragos materiales y vehículos varados en frontera sonorense.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/29/intensa-lluvia-deja-danos-materiales-caida-arboles-vehiculos-varados-nogales.html",
-        "_added_at": "2026-08-29T12:11:48.563359-07:00"
+        "title": "Hermosillo suma noventa y cinco clubes ambientales en escuelas",
+        "summary": "Iniciativa Guardianes del Agua expande participación estudiantil en protección de recursos hídricos.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/guardianes-agua-hermosillo-suma-95-clubes-escuelas-durante-2026-n901248",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
       },
       {
-        "title": "45 mil estudiantes regresan a clases en Nogales",
-        "summary": "Educación básica reanuda actividades en 180 planteles preparados de la frontera.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/29/regresaran-clases-45-mil-estudiantes-educacion-basica-este-lunes-nogales.html",
-        "_added_at": "2026-08-29T12:11:48.563359-07:00"
-      },
-      {
-        "title": "Fuertes lluvias continuarán en Sonora; Cajeme afectado",
-        "summary": "Servicio meteorológico alerta sobre tormentas y temperaturas superiores a 45 grados en estado.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/lluvias-y-tormentas-fuertes-continuaran-en-sonora-cajeme-registra-mayores-acumulados/142568",
-        "_added_at": "2026-08-29T12:11:48.563359-07:00"
-      },
-      {
-        "title": "Covafam levanta campamento tras 99 días",
-        "summary": "Organización concluye huelga de hambre en Hermosillo tras negociaciones con autoridades estatales.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/covafam-levanta-campamento-tras-99-dias-de-huelga-de-hambre-en-sonora-31771584",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
-      },
-      {
-        "title": "Protestan por cambios en Casa de la Cultura",
-        "summary": "Trabajadores de institución cultural en Hermosillo se movilizan contra cambios laborales y reducción de becas.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/protestan-por-cambios-laborales-y-reduccion-de-becas-en-la-casa-de-la-cultura-de-hermosillo-31792872",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
-      },
-      {
-        "title": "Vecinos de Altares 2 bloquean por servicios",
-        "summary": "Habitantes cierren cruce en Hermosillo exigiendo acceso a servicios públicos básicos para comunidad.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/vecinos-de-altares-2-bloquean-cruce-por-falta-de-servicios-publicos-31759678",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
-      },
-      {
-        "title": "Estudiante de Unison crea guante traductor de señas",
-        "summary": "Invento tecnológico desarrollado por alumno de universidad sonorense facilita comunicación en lenguaje de signos.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/crea-estudiante-de-unison-guante-traductor-de-senas/",
-        "_added_at": "2026-08-29T02:17:49.631307-07:00"
+        "title": "Salud Sonora intensifica fumigación contra dengue en región",
+        "summary": "Autoridades sanitarias despliegan operativos en noventa y cinco mil hectáreas y viviendas.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/refuerza-salud-sonora-fumigacion-contra-el-dengue-en-viviendas-y-95-mil-hectareas/",
+        "_added_at": "2026-08-30T01:29:02.172146-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-29T16:52:58.995153-07:00"
+  "last_updated": "2026-08-30T01:29:02.172146-07:00"
 }
