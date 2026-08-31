@@ -1,8 +1,29 @@
 {
   "date": "2026-08-30",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ataque armado en CUM vinculado a disputas por narcomenudeo",
+        "summary": "Autoridades relacionan tiroteo en Campus de la Universidad de Sonora con conflictos entre grupos delictivos locales dedicados al narcomenudeo.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/relacionan-ataque-armado-en-el-cum-a-disputas-entre-grupos-delictivos-vinculados-al-narcomenudeo/",
+        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+      },
+      {
+        "title": "Volcadura de tráiler con cerdos genera rapiña en Navojoa",
+        "summary": "Tráiler que transportaba más de 60 cerdos volcó en carretera de Navojoa; pobladores aprovecharon accidente para robar animales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/rapinan-60-cerdos-tras-volcadura-en-carretera-de-navojoa/263511",
+        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+      },
+      {
+        "title": "Ataque a mano armada en Guaymas deja víctima",
+        "summary": "Desconocidos golpearon a un hombre en Guaymas durante incidente de violencia urbana.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/golpean-desconocidos-a-hombre-en-guaymas/",
+        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+      },
       {
         "title": "Ataque armado en CUM vinculado a disputa criminal",
         "summary": "Fiscalía identifica responsables de ataque en Campus de la Universidad de Sonora, vinculados a narcomensaje entre rivales.",
@@ -51,16 +72,30 @@
         "source": "Entorno Informativo",
         "url": "https://entornoinformativo.com.mx/deja-explosion-a-herido-grave-en-la-comisaria-miguel-aleman/",
         "_added_at": "2026-08-30T01:29:02.172146-07:00"
-      },
-      {
-        "title": "Encuentran cuerpo con signos de violencia cerca de Las Cuevitas",
-        "summary": "Descubrimiento de cadáver en predio despierte investigación de autoridades sobre posible delito.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/encuentran-cuerpo-con-huellas-de-violencia-en-predio-cercano-a-las-cuevitas/",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Célida López espera resultados de encuesta Morena en Sonora",
+        "summary": "Aspirante a gobernatura por Morena encabezó asamblea en Hermosillo y manifestó disposición para participar en encuesta interna del partido.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/celida-lopez-encabeza-su-asamblea-informativa-en-hermosillo/263508",
+        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+      },
+      {
+        "title": "Célida López afirma que Sonora demanda gobernante mujer experimentada",
+        "summary": "Aspirante a gobernatura lanza mensaje sobre preferencia ciudadana por liderazgo femenino con trayectoria en Sonora.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/30/celida-lopez-lanza-mensaje-a-javier-lamarque-es-tiempo-de-mujeres/",
+        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+      },
+      {
+        "title": "DEA continuará búsqueda de bienes de Genaro García Luna",
+        "summary": "Agencia antidrogas estadounidense mantiene investigaciones y persecución de activos vinculados con exfuncionario mexicano tras decomiso en Florida.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/08/30/mas-de-58-millones-de-dolares-recuperados-en-florida-llevan-a-la-dea-a-mantener-la-busqueda-de-activos-vinculados-con-genaro-garcia-luna-mientras-estados-unidos-sostiene-investigaciones-pendientes-sobre-la-red-de-corrupcion/",
+        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+      },
       {
         "title": "Madres Buscadoras convocan marcha por desaparecidos",
         "summary": "Organización de Sonora llama a movilización para visibilizar crisis de personas desaparecidas en estado.",
@@ -99,6 +134,13 @@
     ],
     "economia": [
       {
+        "title": "San Luis Río Colorado reclama soluciones a CFE por apagones",
+        "summary": "Alcalde exige a Comisión Federal de Electricidad atender ola de cortes de suministro eléctrico en el municipio.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/exige-alcalde-de-san-luis-rio-colorado-soluciones-a-la-cfe-ante-ola-de-apagones-31816560",
+        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+      },
+      {
         "title": "Turismo médico en San Luis busca agilizar cruces aduanales",
         "summary": "Consejo de Turismo Médico negocia con autoridades para acelerar trámites en aduana local.",
         "source": "Tribuna de San Luis",
@@ -128,6 +170,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Hermosillo suspende cierre de dos planteles Cobach",
+        "summary": "Autoridades educativas revirtieron decisión de cerrar dos escuelas del Colegio de Bachilleres en la capital.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/suspenden-cierre-dos-planteles-cobach-hermosillo-n901264",
+        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+      },
+      {
+        "title": "Hermosillo continúa jornadas gratuitas de castración animal",
+        "summary": "Municipio mantiene programa de servicios veterinarios sin costo para esterilización de perros y gatos.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/mantiene-ayuntamiento-hermosillo-jornadas-gratuitas-castracion-perros-gatos-n901277",
+        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+      },
+      {
+        "title": "Gobierno Hermosillo invita comerciantes a registrarse para Fiestas Patrias",
+        "summary": "Municipio abre trámites de permisos para vendedores ambulantes durante festividades patrias de septiembre.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/invita-gobierno-hermosillo-comerciantes-tramitar-permiso-vender-durante-fiestas-patrias-n901271",
+        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+      },
       {
         "title": "Regreso a clases genera congestión vial en Hermosillo",
         "summary": "Autoridades prevén tráfico intenso en bulevares García Morales, Quiroga y Quintero Arce mañana.",
@@ -172,5 +235,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-30T12:02:35.327969-07:00"
+  "last_updated": "2026-08-30T17:12:31.687483-07:00"
 }
