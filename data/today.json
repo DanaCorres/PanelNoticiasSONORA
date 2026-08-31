@@ -1,8 +1,15 @@
 {
   "date": "2026-08-31",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fuga de gas evacúa hospital en Hermosillo",
+        "summary": "Evacuaron 350 personas del Hospital Ocaranza del ISSSTE por presunta fuga de gas natural en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/31/evacuan-a-350-personas-por-fuga-de-gas-en-hospital-del-issste-en-hermosillo/",
+        "_added_at": "2026-08-31T14:18:33.817175-07:00"
+      },
       {
         "title": "Rickettsia causa 44 muertes en Sonora durante 2026",
         "summary": "Enfermedad transmitida por garrapatas ha cobrado 44 vidas en el estado este año.",
@@ -34,6 +41,20 @@
     ],
     "politica": [
       {
+        "title": "Durazo presentará quinto informe el 13 de septiembre",
+        "summary": "Gobernador Alfonso Durazo entregará su quinto informe de gobierno el próximo 13 de septiembre.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/alfonso-durazo-entregara-su-quinto-informe-de-gobierno-el-13-de-septiembre-31828574",
+        "_added_at": "2026-08-31T14:18:33.817175-07:00"
+      },
+      {
+        "title": "Morena llama a cerrar filas en Sonora",
+        "summary": "Dirigencia de Morena en Nogales convoca a unidad del movimiento sin divisiones internas.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/31/morena-llama-cerrar-filas-nada-nadie-esta-encima-movimiento.html",
+        "_added_at": "2026-08-31T14:18:33.817175-07:00"
+      },
+      {
         "title": "Inaugura Hermosillo Plaza de Buscadoras y Paseo Memoria",
         "summary": "Nueva plaza dedicada a desaparecidos y víctimas de violencia abre en capital.",
         "source": "El Sol de Hermosillo",
@@ -57,6 +78,27 @@
     ],
     "economia": [
       {
+        "title": "Sorteo Zodiaco: 7 millones para Ciudad Obregón",
+        "summary": "Premio mayor del Sorteo Zodiaco 1759 se vende en Ciudad Obregón con siete millones de pesos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-pega-al-premio-mayor-7-mdp-caen-en-ciudad-obregon/263574",
+        "_added_at": "2026-08-31T14:18:33.817175-07:00"
+      },
+      {
+        "title": "IMSS Bienestar abrirá 419 consultorios en Sonora",
+        "summary": "Sonora ampliará su red de salud pública con apertura de 419 nuevos consultorios del IMSS Bienestar.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-ampliara-su-red-de-salud-con-419-nuevos-consultorios-del-imss-bienestar-31740880",
+        "_added_at": "2026-08-31T14:18:33.817175-07:00"
+      },
+      {
+        "title": "24 cruceros confirman escala en Guaymas hasta 2029",
+        "summary": "Autoridades confirman 24 cruceros turísticos hacia Guaymas con estimado de 53 mil pasajeros.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/turismo/confirman-24-cruceros-turisticos-hacia-guaymas-de-2026-a-2029-estiman-mas-de-53-mil-pasajeros-31740634",
+        "_added_at": "2026-08-31T14:18:33.817175-07:00"
+      },
+      {
         "title": "Desempleo en Sonora baja a 2.76 por ciento",
         "summary": "Ocupación laboral crece durante segundo trimestre de 2026 en el estado.",
         "source": "Diario del Yaqui",
@@ -79,6 +121,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Regresan 500 mil estudiantes a clases en Sonora",
+        "summary": "Iniciaron el ciclo escolar 2026-2027 con regreso a clases de medio millón de estudiantes de básica.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/regresan-a-clases-500-mil-estudiantes-en-sonora/263572",
+        "_added_at": "2026-08-31T14:18:33.817175-07:00"
+      },
+      {
+        "title": "Analizan aplicar Revisión Mochila en secundarias",
+        "summary": "Autoridades de Sonora evalúan implementar revisión de mochilas en escuelas secundarias.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/analizan-aplicar-revision-mochila-secundarias-sonora-n901389",
+        "_added_at": "2026-08-31T14:18:33.817175-07:00"
+      },
+      {
+        "title": "Lluvias de hasta 150 mm aliviarán calor en Sonora",
+        "summary": "Precipitaciones de hasta 150 milímetros terminarán onda de calor en la entidad.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/08/sonora-dejara-atras-la-onda-de-calor-con-lluvias-de-hasta-150-mm/",
+        "_added_at": "2026-08-31T14:18:33.817175-07:00"
+      },
+      {
+        "title": "Policías entregan mochilas a 240 niños en Nogales",
+        "summary": "Elementos policiales y ciudadanos donaron mochilas a 240 estudiantes antes del regreso a clases.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/31/policias-ponen-mochila-hombro-240-ninos.html",
+        "_added_at": "2026-08-31T14:18:33.817175-07:00"
+      },
       {
         "title": "Fumigan 4 mil viviendas contra garrapatas",
         "summary": "Campaña sanitaria en Sonora contra plagas transmisoras de enfermedades.",
@@ -109,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-31T01:49:52.994096-07:00"
+  "last_updated": "2026-08-31T14:18:33.817175-07:00"
 }
