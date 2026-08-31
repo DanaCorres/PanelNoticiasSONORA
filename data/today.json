@@ -1,239 +1,113 @@
 {
-  "date": "2026-08-30",
-  "run_count": 3,
+  "date": "2026-08-31",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Ataque armado en CUM vinculado a disputas por narcomenudeo",
-        "summary": "Autoridades relacionan tiroteo en Campus de la Universidad de Sonora con conflictos entre grupos delictivos locales dedicados al narcomenudeo.",
+        "title": "Rickettsia causa 44 muertes en Sonora durante 2026",
+        "summary": "Enfermedad transmitida por garrapatas ha cobrado 44 vidas en el estado este año.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/suman-44-defunciones-por-rickettsia-durante-este-ano-en-sonora/",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
+      },
+      {
+        "title": "Tiroteo en Cajeme: dos muertos y nueve heridos",
+        "summary": "Enfrentamiento durante parrillada con más de 100 asistentes deja víctimas mortales.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/internacional/tiroteo-durante-una-parrillada-deja-dos-muertos-y-nueve-heridos-habia-mas-de-100-personas/142667",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
+      },
+      {
+        "title": "Condenan a 27 años por desaparición de ex pareja",
+        "summary": "Sentencia en Sonora por caso de desaparición forzada de pareja sentimental.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/relacionan-ataque-armado-en-el-cum-a-disputas-entre-grupos-delictivos-vinculados-al-narcomenudeo/",
-        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+        "url": "https://www.radarsonora.com/por-desaparicion-de-su-ex-pareja-sentimental-estara-preso-27-anos/",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       },
       {
-        "title": "Volcadura de tráiler con cerdos genera rapiña en Navojoa",
-        "summary": "Tráiler que transportaba más de 60 cerdos volcó en carretera de Navojoa; pobladores aprovecharon accidente para robar animales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/rapinan-60-cerdos-tras-volcadura-en-carretera-de-navojoa/263511",
-        "_added_at": "2026-08-30T17:12:31.687483-07:00"
-      },
-      {
-        "title": "Ataque a mano armada en Guaymas deja víctima",
-        "summary": "Desconocidos golpearon a un hombre en Guaymas durante incidente de violencia urbana.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/golpean-desconocidos-a-hombre-en-guaymas/",
-        "_added_at": "2026-08-30T17:12:31.687483-07:00"
-      },
-      {
-        "title": "Ataque armado en CUM vinculado a disputa criminal",
-        "summary": "Fiscalía identifica responsables de ataque en Campus de la Universidad de Sonora, vinculados a narcomensaje entre rivales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/08/30/disputa-entre-grupos-criminales-estaria-detras-de-ataque-armado-en-cum-hermosillo-fiscalia-identifica-a-responsables-los-vincula-a-narcomensaje-dirigido-a-rivales-y-cantante-de-corridos-tumbados/",
-        "_added_at": "2026-08-30T12:02:35.327969-07:00"
-      },
-      {
-        "title": "Fatal accidente en Cajeme cobra vida a pasajero",
-        "summary": "Choque en bulevar Ramírez deja sin vida a pasajero de vehículo de plataforma durante madrugada.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/choque-en-obregon-deja-sin-vida-a-pasajero-de-plataforma/263494",
-        "_added_at": "2026-08-30T12:02:35.327969-07:00"
-      },
-      {
-        "title": "Localizan menores con Alerta Amber desde febrero",
-        "summary": "Cateo en Hermosillo permite rescatar a dos menores desaparecidos desde hace meses.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/cateo-en-hermosillo-permite-localizar-a-dos-menores-con-alerta-amber-desde-febrero-31713871",
-        "_added_at": "2026-08-30T12:02:35.327969-07:00"
-      },
-      {
-        "title": "Bomberos rescatan hombre atrapado en torre CFE",
-        "summary": "Operativo exitoso en Hermosillo para bajar a persona que quedó varada en estructura eléctrica.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/bomberos-rescatan-hombre-atrapado-torre-cfe-hermosillo-n901253",
-        "_added_at": "2026-08-30T12:02:35.327969-07:00"
-      },
-      {
-        "title": "Diez colonias de Hermosillo reciben atención policial prioritaria",
-        "summary": "Autoridades identificaron zonas críticas en Hermosillo que requerirán refuerzo en vigilancia y operativos de seguridad.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/identifican-10-colonias-de-hermosillo-como-zonas-prioritarias-de-atencion-policial-31803333",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
-      },
-      {
-        "title": "Accidente vial en Empalme-Obregón deja seis lesionados",
-        "summary": "Choque deja varios heridos, incluyendo menores trasladados de urgencia en tramo carretero crítico.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/choque-en-tramo-empalme-obregon-deja-seis-lesionados/263480",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
-      },
-      {
-        "title": "Explosión en Miguel Alemán causa grave lesionado",
-        "summary": "Detonación en comisaría deja herido en estado grave; se investigan causas del incidente.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/deja-explosion-a-herido-grave-en-la-comisaria-miguel-aleman/",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
+        "title": "Localizan con vida a joven desaparecido",
+        "summary": "Menor reportado desaparecido el 21 de agosto fue encontrado sano en Sonora.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/localizan-con-vida-a-joven-reportado-como-desaparecido-el-dia-21-de-agosto/",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Célida López espera resultados de encuesta Morena en Sonora",
-        "summary": "Aspirante a gobernatura por Morena encabezó asamblea en Hermosillo y manifestó disposición para participar en encuesta interna del partido.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/celida-lopez-encabeza-su-asamblea-informativa-en-hermosillo/263508",
-        "_added_at": "2026-08-30T17:12:31.687483-07:00"
-      },
-      {
-        "title": "Célida López afirma que Sonora demanda gobernante mujer experimentada",
-        "summary": "Aspirante a gobernatura lanza mensaje sobre preferencia ciudadana por liderazgo femenino con trayectoria en Sonora.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/08/30/celida-lopez-lanza-mensaje-a-javier-lamarque-es-tiempo-de-mujeres/",
-        "_added_at": "2026-08-30T17:12:31.687483-07:00"
-      },
-      {
-        "title": "DEA continuará búsqueda de bienes de Genaro García Luna",
-        "summary": "Agencia antidrogas estadounidense mantiene investigaciones y persecución de activos vinculados con exfuncionario mexicano tras decomiso en Florida.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/08/30/mas-de-58-millones-de-dolares-recuperados-en-florida-llevan-a-la-dea-a-mantener-la-busqueda-de-activos-vinculados-con-genaro-garcia-luna-mientras-estados-unidos-sostiene-investigaciones-pendientes-sobre-la-red-de-corrupcion/",
-        "_added_at": "2026-08-30T17:12:31.687483-07:00"
-      },
-      {
-        "title": "Madres Buscadoras convocan marcha por desaparecidos",
-        "summary": "Organización de Sonora llama a movilización para visibilizar crisis de personas desaparecidas en estado.",
+        "title": "Inaugura Hermosillo Plaza de Buscadoras y Paseo Memoria",
+        "summary": "Nueva plaza dedicada a desaparecidos y víctimas de violencia abre en capital.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/madres-buscadoras-de-sonora-convoca-a-marcha-por-las-personas-desaparecidas-31623791",
-        "_added_at": "2026-08-30T12:02:35.327969-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/inauguran-plaza-de-las-buscadoras-y-paseo-de-la-memoria-viva-en-hermosillo-31822874",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       },
       {
-        "title": "Congreso recibe iniciativa sobre doble nacionalidad presidencial",
-        "summary": "Propuesta legislativa busca prohibir que presidente electo tenga doble nacionalidad.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/congreso-recibe-iniciativa-prohibir-doble-nacionalidad-presidente-n901251",
-        "_added_at": "2026-08-30T12:02:35.327969-07:00"
+        "title": "Marchan en Hermosillo por desaparecidos",
+        "summary": "Manifestación en la capital demanda acciones contra desapariciones forzadas.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/marchan-por-desaparecidos-en-hermosillo/",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       },
       {
-        "title": "Lorenia Valles reconoce programas sociales para adultos mayores",
-        "summary": "Funcionario destaca compromiso del gobierno en apoyo a personas de la tercera edad en Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/valles-reconoce-compromiso-de-la-4t-con-adultos-mayores/263475",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
-      },
-      {
-        "title": "Javier Lamarque dialoga con comunidad de Palo Verde",
-        "summary": "Funcionario sostiene encuentro con vecinos para conocer necesidades y fortalecer transformación social.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-dialoga-con-familias-de-palo-verde/263474",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
-      },
-      {
-        "title": "Célida López convoca asamblea informativa en Hermosillo",
-        "summary": "Tercera sesión digital de vinculación ciudadana se transmitirá en vivo este domingo.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/celida-lopez-encabezara-asamblea-informativa-en-hermosillo/263481",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
+        "title": "Célida López: tiempo de mujeres transformadoras",
+        "summary": "Funcionaria afirma que Sonora avanza hacia liderazgo femenino en transformación.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/es-tiempo-de-mujeres-transformadoras-afirma-celida-lopez/",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       }
     ],
     "economia": [
       {
-        "title": "San Luis Río Colorado reclama soluciones a CFE por apagones",
-        "summary": "Alcalde exige a Comisión Federal de Electricidad atender ola de cortes de suministro eléctrico en el municipio.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/exige-alcalde-de-san-luis-rio-colorado-soluciones-a-la-cfe-ante-ola-de-apagones-31816560",
-        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+        "title": "Desempleo en Sonora baja a 2.76 por ciento",
+        "summary": "Ocupación laboral crece durante segundo trimestre de 2026 en el estado.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/desempleo-baja-en-sonora-durante-segundo-trimestre-de-2026-tasa-se-ubica-en-276-por-ciento/142670",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       },
       {
-        "title": "Turismo médico en San Luis busca agilizar cruces aduanales",
-        "summary": "Consejo de Turismo Médico negocia con autoridades para acelerar trámites en aduana local.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/consejo-de-turismo-medico-busca-acuerdo-para-obtener-celeridad-en-cruce-por-aduana-local-31800120",
-        "_added_at": "2026-08-30T12:02:35.327969-07:00"
+        "title": "Aumenta ocupación laboral en Sonora",
+        "summary": "Estrategia de Durazo incrementa empleo y reduce informalidad en la entidad.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/aumenta-ocupacion-laboral-en-sonora/",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       },
       {
-        "title": "Sonora recibirá 24 cruceros internacionales a partir de septiembre",
-        "summary": "Arribos de buques turísticos reforzarán economía local en puertos sonorenses durante próximos meses.",
+        "title": "Ampliación de Bulevar Hidalgo tras derribo",
+        "summary": "Proyecto vial en Hermosillo avanza con demolición de inmueble estratégico.",
         "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/sonora-suma-24-arribos-de-cruceros-internacionales-a-partir-de-septiembre/",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
-      },
-      {
-        "title": "Pavimentación del Camino de los Yaquis en conclusión",
-        "summary": "Proyecto de infraestructura en San Carlos está próximo a completarse beneficiando conectividad regional.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/esta-por-concluir-pavimentacion-del-camino-de-los-yaquis-en-san-carlos/",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
-      },
-      {
-        "title": "Impulsan emprendimiento de jóvenes en Sonora",
-        "summary": "Gobierno apoya iniciativas empresariales de juventud para generar oportunidades económicas locales.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/impulsan-jovenes-emprendedores-sonora-n901241",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
+        "url": "https://www.radiosonora.com.mx/derribo-de-inmueble-dara-paso-a-ampliacion-del-bulevar-hidalgo/",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Hermosillo suspende cierre de dos planteles Cobach",
-        "summary": "Autoridades educativas revirtieron decisión de cerrar dos escuelas del Colegio de Bachilleres en la capital.",
+        "title": "Fumigan 4 mil viviendas contra garrapatas",
+        "summary": "Campaña sanitaria en Sonora contra plagas transmisoras de enfermedades.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/suspenden-cierre-dos-planteles-cobach-hermosillo-n901264",
-        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+        "url": "https://www.uniradiosonora.com/salud/fumigan-mas-4-mil-viviendas-garrapatas-sonora-n901281",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       },
       {
-        "title": "Hermosillo continúa jornadas gratuitas de castración animal",
-        "summary": "Municipio mantiene programa de servicios veterinarios sin costo para esterilización de perros y gatos.",
+        "title": "Cobach recibe 30 mil estudiantes en Sonora",
+        "summary": "Colegio de Bachilleres abre puertas en 30 planteles con matrícula importante.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/mantiene-ayuntamiento-hermosillo-jornadas-gratuitas-castracion-perros-gatos-n901277",
-        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/cobach-sonora-recibira-30-mil-estudiantes-lunes-n901279",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       },
       {
-        "title": "Gobierno Hermosillo invita comerciantes a registrarse para Fiestas Patrias",
-        "summary": "Municipio abre trámites de permisos para vendedores ambulantes durante festividades patrias de septiembre.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/invita-gobierno-hermosillo-comerciantes-tramitar-permiso-vender-durante-fiestas-patrias-n901271",
-        "_added_at": "2026-08-30T17:12:31.687483-07:00"
+        "title": "SEC lista para regreso a clases en Sonora",
+        "summary": "Secretaría de Educación atiende consultas y preparativos para reinicio escolar.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/atendera-sec-cualquier-situacion-por-regreso-a-clases-a-traves-de-linea-de-la-educacion/",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       },
       {
-        "title": "Regreso a clases genera congestión vial en Hermosillo",
-        "summary": "Autoridades prevén tráfico intenso en bulevares García Morales, Quiroga y Quintero Arce mañana.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/08/30/regreso-a-clases-manana-pondra-el-trafico-pesado/",
-        "_added_at": "2026-08-30T12:02:35.327969-07:00"
-      },
-      {
-        "title": "Yuma abre escenario a personas con discapacidad",
-        "summary": "Municipio de San Luis promueve talento artístico inclusivo en evento cultural.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/yuma-abre-el-escenario-al-talento-y-arte-de-personas-con-discapacidad-31789300",
-        "_added_at": "2026-08-30T12:02:35.327969-07:00"
-      },
-      {
-        "title": "Marcha en Hermosillo contra proyectos de gas en el Golfo",
-        "summary": "Ciudadanos se movilizan hacia Palacio de Gobierno para defender ecosistema marino y ballenas.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/marchan-rumbo-a-palacio-de-gobierno-contra-megaproyecto-de-gas-y-en-defensa-de-las-ballenas-31806951",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
-      },
-      {
-        "title": "Treinta jóvenes de Talento Sonorense viajarán a Taiwán",
-        "summary": "Tercera generación de programa inicia viaje internacional para intercambio y capacitación profesional.",
+        "title": "Obras viales reducen accidentes hasta 85 por ciento",
+        "summary": "Pasos desnivel y arcos carreteros mejoran seguridad vial en puntos críticos.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/comienza-el-sueno-de-30-jovenes-de-la-tercera-generacion-de-talento-sonorense-rumbo-a-taiwan/",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
-      },
-      {
-        "title": "Hermosillo suma noventa y cinco clubes ambientales en escuelas",
-        "summary": "Iniciativa Guardianes del Agua expande participación estudiantil en protección de recursos hídricos.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/guardianes-agua-hermosillo-suma-95-clubes-escuelas-durante-2026-n901248",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
-      },
-      {
-        "title": "Salud Sonora intensifica fumigación contra dengue en región",
-        "summary": "Autoridades sanitarias despliegan operativos en noventa y cinco mil hectáreas y viviendas.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/refuerza-salud-sonora-fumigacion-contra-el-dengue-en-viviendas-y-95-mil-hectareas/",
-        "_added_at": "2026-08-30T01:29:02.172146-07:00"
+        "url": "https://www.radarsonora.com/nuevas-obras-viales-como-paso-a-desnivel-y-arcos-carreteros-reducen-hasta-85-los-accidentes-en-esos-puntos/",
+        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-30T17:12:31.687483-07:00"
+  "last_updated": "2026-08-31T01:49:52.994096-07:00"
 }
