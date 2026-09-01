@@ -1,8 +1,22 @@
 {
   "date": "2026-08-31",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Desmantelan narcolaboratorio valuado en 3 mil millones",
+        "summary": "Autoridades desmantelaron un laboratorio de drogas de gran envergadura en la entidad.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/desmantelan-narcolaboratorio-valuado-en-3-mil-324-mdp/",
+        "_added_at": "2026-08-31T17:59:08.728584-07:00"
+      },
+      {
+        "title": "Seguridad refuerza vigilancia en escuelas de Nogales",
+        "summary": "Elementos de Seguridad Pública aumentaron presencia en planteles durante regreso a clases.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/31/vuelta-clases-seguridad-publica-refuerza-vigilancia-escuelas-nogales.html",
+        "_added_at": "2026-08-31T17:59:08.728584-07:00"
+      },
       {
         "title": "Fuga de gas evacúa hospital en Hermosillo",
         "summary": "Evacuaron 350 personas del Hospital Ocaranza del ISSSTE por presunta fuga de gas natural en Hermosillo.",
@@ -41,6 +55,27 @@
     ],
     "politica": [
       {
+        "title": "Congreso impulsa 21 iniciativas para proteger adultos mayores",
+        "summary": "Legislatura estatal aprobó medidas legislativas enfocadas en el bienestar de la tercera edad.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/congreso-de-sonora-impulsa-21-iniciativas-para-proteger-a-adultos-mayores-31832191",
+        "_added_at": "2026-08-31T17:59:08.728584-07:00"
+      },
+      {
+        "title": "PAN demanda investigación a Andy López por huachicol",
+        "summary": "Partido panista exige esclarecer presuntos desvíos fiscales en la administración estatal.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/08/31/el-pan-exige-que-se-investigue-a-andy-lopez-por-huachicol-fiscal/",
+        "_added_at": "2026-08-31T17:59:08.728584-07:00"
+      },
+      {
+        "title": "Diputada López Noriega cierra período en Mesa Directiva",
+        "summary": "Legisladora finaliza su gestión al frente del órgano directivo del Congreso sonorense.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/diputada-alejandra-lopez-noriega-cierra-periodo-al-frente-de-la-mesa-directiva-del-congreso-de-sonora-31832247",
+        "_added_at": "2026-08-31T17:59:08.728584-07:00"
+      },
+      {
         "title": "Durazo presentará quinto informe el 13 de septiembre",
         "summary": "Gobernador Alfonso Durazo entregará su quinto informe de gobierno el próximo 13 de septiembre.",
         "source": "El Sol de Hermosillo",
@@ -77,6 +112,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Falla técnica suspende exportación de ganado por Agua Prieta",
+        "summary": "Problemas en instalaciones retrasan envíos de ganado a Estados Unidos dos o tres días.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/08/31/suspenden-exportacion-de-ganado-sonorense-a-estados-unidos-por-cuestiones-tecnicas/",
+        "_added_at": "2026-08-31T17:59:08.728584-07:00"
+      },
+      {
+        "title": "IMSS fortalece infraestructura médica en Sonora y BC",
+        "summary": "Instituto invierte en construcción de hospital de zona en San Luis Río Colorado.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/destaca-imss-construccion-de-hospital-de-zona-en-slrc-ante-constructores-de-bc-31710047",
+        "_added_at": "2026-08-31T17:59:08.728584-07:00"
+      },
       {
         "title": "Sorteo Zodiaco: 7 millones para Ciudad Obregón",
         "summary": "Premio mayor del Sorteo Zodiaco 1759 se vende en Ciudad Obregón con siete millones de pesos.",
@@ -122,6 +171,34 @@
     ],
     "sociedad": [
       {
+        "title": "Sonora entrega 430 mil uniformes escolares gratuitos",
+        "summary": "Gobierno estatal distribuyó uniformes y libros de texto gratis para inicio de ciclo escolar.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/08/31/entrega-sonora-430-mil-uniformes-escolares-gratuitos-para-el-regreso-a-clases/",
+        "_added_at": "2026-08-31T17:59:08.728584-07:00"
+      },
+      {
+        "title": "Oomapas investiga daños en drenaje de Nogales",
+        "summary": "Organismos de agua busca responsables de objetos arrojados que colapsaron sistemas.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/08/31/trapos-piedras-basura-colapsan-drenaje-oomapas-ya-busca-responsables.html",
+        "_added_at": "2026-08-31T17:59:08.728584-07:00"
+      },
+      {
+        "title": "Retiran 40 toneladas de cacharros contra dengue",
+        "summary": "Campaña de limpieza eliminó depósitos de agua que permitían reproducción de mosquitos.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/retiran-40-toneladas-cacharros-dengue-n901468",
+        "_added_at": "2026-08-31T17:59:08.728584-07:00"
+      },
+      {
+        "title": "CSS atiende sin costo enfermedades crónicas en SLR",
+        "summary": "Centro de Salud ofrece servicios gratuitos a derechohabientes del IMSS con padecimientos crónicos.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/el-css-atiende-sin-costo-a-derechohabientes-del-imss-que-padecen-enfermedades-cronicas-31833470",
+        "_added_at": "2026-08-31T17:59:08.728584-07:00"
+      },
+      {
         "title": "Regresan 500 mil estudiantes a clases en Sonora",
         "summary": "Iniciaron el ciclo escolar 2026-2027 con regreso a clases de medio millón de estudiantes de básica.",
         "source": "Expreso",
@@ -162,22 +239,8 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/sociedad/cobach-sonora-recibira-30-mil-estudiantes-lunes-n901279",
         "_added_at": "2026-08-31T01:49:52.994096-07:00"
-      },
-      {
-        "title": "SEC lista para regreso a clases en Sonora",
-        "summary": "Secretaría de Educación atiende consultas y preparativos para reinicio escolar.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/atendera-sec-cualquier-situacion-por-regreso-a-clases-a-traves-de-linea-de-la-educacion/",
-        "_added_at": "2026-08-31T01:49:52.994096-07:00"
-      },
-      {
-        "title": "Obras viales reducen accidentes hasta 85 por ciento",
-        "summary": "Pasos desnivel y arcos carreteros mejoran seguridad vial en puntos críticos.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/nuevas-obras-viales-como-paso-a-desnivel-y-arcos-carreteros-reducen-hasta-85-los-accidentes-en-esos-puntos/",
-        "_added_at": "2026-08-31T01:49:52.994096-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-31T14:18:33.817175-07:00"
+  "last_updated": "2026-08-31T17:59:08.728584-07:00"
 }
