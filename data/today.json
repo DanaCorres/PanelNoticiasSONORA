@@ -1,8 +1,29 @@
 {
   "date": "2026-09-02",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Asesinan a tecladista, esposa e hija en Sonora",
+        "summary": "Jonathan Meléndez, músico de Camilo Séptimo, fue asesinado junto a su esposa embarazada y su hija de tres años.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/farandula/asesinan-a-jonathan-melendez-tecladista-de-camilo-septimo-junto-a-su-esposa-embarazada-y-su-hija-de-3-anos/142901",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
+      {
+        "title": "Derrame de ácido sulfúrico cierra carretera Ímuris-Cananea",
+        "summary": "Profepa evalúa impacto ambiental tras volcadura de pipa con ácido sulfúrico que mantiene cerrada la vía.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/profepa-evalua-afectacion-ambiental-tras-derrame-de-acido-sulfurico-en-tramo-imuris-cananea-sonora-31866004",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
+      {
+        "title": "Ataque armado deja joven lesionado en Villa de Seris",
+        "summary": "Sujeto resulta herido tras balacera en el barrio mágico de la capital sonorense.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/ataque-armado-deja-a-joven-lesionado-en-el-barrio-magico-de-villa-de-seris/",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
       {
         "title": "CBP decomisa millón de pastillas de fentanilo en Nogales",
         "summary": "Aduanas incauta un millón de pastillas de fentanilo y 57 kilos de pasta de opio valuados en más de 3 millones de dólares en garita de Nogales.",
@@ -55,6 +76,27 @@
     ],
     "politica": [
       {
+        "title": "Colosio responde a Durazo sobre su futuro político",
+        "summary": "Senador de Nuevo León reacciona tras cuestionamientos del gobernador sonorense sobre su experiencia.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/02/colosio-riojas-responde-a-durazo-de-mi-futuro-me-encargo-yo/",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
+      {
+        "title": "Congreso debatirá tamiz neonatal cardiológico en Sonora",
+        "summary": "Diputados dialogan sobre iniciativa para realizar screening cardíaco a recién nacidos sonorenses.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/02/dialogan-en-el-congreso-de-sonora-sobre-iniciativa-en-materia-de-tamiz-neonatal-cardiologico/",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
+      {
+        "title": "Julia Huerta felicita a Sheinbaum por Segundo Informe",
+        "summary": "Alcaldesa de Nogales respalda gestión de la presidenta tras presentación de resultados.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/02/julia-huerta-felicita-claudia-sheinbaum-su-segundo-informe.html",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
+      {
         "title": "Durazo cuestiona madurez política de Colosio tras críticas",
         "summary": "Gobernador replica señalamientos del senador potosino sobre evaluación al gobierno de Sheinbaum.",
         "source": "Expreso",
@@ -106,6 +148,34 @@
     ],
     "economia": [
       {
+        "title": "Cámaras exigen a CFE solucionar fallas eléctricas",
+        "summary": "Empresarios de San Luis Río Colorado reclaman al organismo por interrupciones en suministro eléctrico.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/camaras-empresariales-exigen-a-cfe-solucion-a-fallas-en-el-suministro-electrico-31864409",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
+      {
+        "title": "Hermosillo obtiene máxima calificación crediticia",
+        "summary": "Capital sonorense alcanza la más alta evaluación de solvencia financiera municipal.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/alcanza-hermosillo-maxima-calificacion-crediticia/",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
+      {
+        "title": "Coparmex organiza Foro Empresarial con 500 empresarios",
+        "summary": "Evento \"Ideas en Movimiento\" reunirá a empresarios hermosillenses para charlas y conferencias.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/02/con-charlas-y-conferencias-celebrara-coparmex-foro-empresarial-ideas-en-movimiento-con-mas-de-500-empresarios-en-hermosillo/",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
+      {
+        "title": "Avanzan obras del colector Quintero Arce al 75%",
+        "summary": "Rehabilitación de infraestructura sanitaria hermosillense continúa tras socavón anterior.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/02/avanza-al-75-la-rehabilitacion-del-colector-sanitario-quintero-arce/",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
+      {
         "title": "Agua Prieta reanuda exportación de ganado tras reparación",
         "summary": "Frontera sonorense se reactiva el 8 de septiembre tras falla de equipo.",
         "source": "El Sol de Hermosillo",
@@ -135,6 +205,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Hermosillo concentra 44% de casos de dengue en Sonora",
+        "summary": "Salud identifica zonas de riesgo en la capital; Poblado Miguel Alemán acumula 60% de contagios.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/02/hermosillo-concentra-el-44-de-los-casos-activos-de-dengue-en-sonora-y-salud-identifica-las-zonas-de-la-ciudad-con-mayor-riesgo-de-contagio/",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
+      {
+        "title": "Gobierno organiza encuentro nacional de educación ambiental",
+        "summary": "Sonora realiza primer encuentro normalista sobre innovación y sustentabilidad en educación.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/02/gobierno-de-sonora-organiza-el-primer-encuentro-nacional-de-experiencias-normalistas-en-innovacion-y-educacion-ambiental/",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
+      {
+        "title": "Protección Civil pronostica lluvias y calor en Sonora",
+        "summary": "Se esperan tormentas vespertinas y nocturnas esta semana con ambiente muy caluroso.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/pronostican-lluvias-y-calor-para-sonora-este-jueves-y-viernes/263738",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
+      {
+        "title": "Atropellan a osa en carretera Ímuris-Cananea",
+        "summary": "Animal fue golpeado; autoridades temen que haya dejado cría en el área.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/atropellan-a-osa-en-carretera-imuris-cananea-temen-que-haya-dejado-una-cria-31634544",
+        "_added_at": "2026-09-02T16:51:42.886409-07:00"
+      },
       {
         "title": "Brigada DIF \"Para Ti\" lleva servicios a Navojoa",
         "summary": "Dependencia estatal realiza jornada de atención en municipio sur de Sonora.",
@@ -176,22 +274,8 @@
         "source": "Tribuna de San Luis",
         "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/escuelas-de-yuma-exigen-cartilla-de-vacunacion-actualizada-para-asistir-a-clases-31848965",
         "_added_at": "2026-09-02T00:15:54.521524-07:00"
-      },
-      {
-        "title": "Programa de tinacos avanza al 60% en Hermosillo",
-        "summary": "Iniciativa de acceso a agua beneficia a familias vulnerables.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/avanza-60-programa-de-tinacos-gratuitos-en-beneficio-de-familias-vulnerables/",
-        "_added_at": "2026-09-02T00:15:54.521524-07:00"
-      },
-      {
-        "title": "San Luis Río Colorado continúa jornada de descacharre",
-        "summary": "Autoridades instan a ciudadanía a participar en limpieza ambiental.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/san-luis-rio-colorado-mantiene-jornada-de-descacharre-conoce-que-puedes-llevar-31845384",
-        "_added_at": "2026-09-02T00:15:54.521524-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-02T12:13:24.844990-07:00"
+  "last_updated": "2026-09-02T16:51:42.886409-07:00"
 }
