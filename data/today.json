@@ -1,8 +1,36 @@
 {
   "date": "2026-09-02",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "CBP decomisa millón de pastillas de fentanilo en Nogales",
+        "summary": "Aduanas incauta un millón de pastillas de fentanilo y 57 kilos de pasta de opio valuados en más de 3 millones de dólares en garita de Nogales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/09/02/millonario-decomiso-de-narcoticos-en-garita-de-nogales/",
+        "_added_at": "2026-09-02T12:13:24.844990-07:00"
+      },
+      {
+        "title": "Volcadura de pipa de ácido sulfúrico cierra carretera Ímuris-Cananea",
+        "summary": "Accidente vial mantiene cerrado tramo entre Ímuris y Cananea tras volcadura de pipa con ácido sulfúrico, tráfico restablecido tras 15 horas.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/volcadura-de-pipa-con-acido-sulfurico-mantiene-cerrada-la-imuris-cananea/",
+        "_added_at": "2026-09-02T12:13:24.844990-07:00"
+      },
+      {
+        "title": "Mujer operaba fraude de 820 mil pesos en Sonora",
+        "summary": "Investigación revela esquema fraudulento mediante falsa caja de ahorro y representación municipal falsificada.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/02/asi-habria-operado-el-fraude-de-820-mil-pesos-en-sonora-mediante-una-supuesta-caja-de-ahorro-y-una-falsa-representacion-municipal-y-sindical/",
+        "_added_at": "2026-09-02T12:13:24.844990-07:00"
+      },
+      {
+        "title": "Refuerzan operativo contra gusano barrenador en Álamos y Yécora",
+        "summary": "Gobierno intensifica vigilancia sanitaria en municipios sonorenses para combatir plaga ganadera.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/gusano-barrenador-en-sonora-refuerzan-operativo-en-alamos-yecora-y-huatabampo-31738071",
+        "_added_at": "2026-09-02T12:13:24.844990-07:00"
+      },
       {
         "title": "Fotoperiodista muere en accidente vial entre Ímuris y Magdalena",
         "summary": "Rafael Alegría falleció tras volcadura de camioneta en tramo mojado de la carretera estatal.",
@@ -26,6 +54,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Durazo cuestiona madurez política de Colosio tras críticas",
+        "summary": "Gobernador replica señalamientos del senador potosino sobre evaluación al gobierno de Sheinbaum.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/alfonso-durazo-responde-criticas-a-luis-donaldo-colosio/263718",
+        "_added_at": "2026-09-02T12:13:24.844990-07:00"
+      },
+      {
+        "title": "Rogelio Cota renuncia a Movimiento Ciudadano en Hermosillo",
+        "summary": "Cambio político en militancia dentro de la capital sonorense.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/rogelio-cota-renuncia-movimiento-ciudadano-hermosillo-n901763",
+        "_added_at": "2026-09-02T12:13:24.844990-07:00"
+      },
+      {
+        "title": "Sheinbaum suspende 63 permisos aduanales por huachicol",
+        "summary": "Gobierno federal toma medidas contra robo de combustible en fronteras.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/sheinbaum-suspende-63-permisos-aduanales-por-huachicol/",
+        "_added_at": "2026-09-02T12:13:24.844990-07:00"
+      },
       {
         "title": "Sheinbaum presenta proyectos de infraestructura y agua para Sonora",
         "summary": "Presidenta anuncia inversiones en desarrollo estatal durante visita.",
@@ -87,6 +136,34 @@
     ],
     "sociedad": [
       {
+        "title": "Brigada DIF \"Para Ti\" lleva servicios a Navojoa",
+        "summary": "Dependencia estatal realiza jornada de atención en municipio sur de Sonora.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/02/la-brigada-dif-sonora-para-ti-llego-a-navojoa/",
+        "_added_at": "2026-09-02T12:13:24.844990-07:00"
+      },
+      {
+        "title": "Gobierno refuerza vigilancia pesquera en presa El Oviachic",
+        "summary": "Operativo de control en cuerpo de agua para garantizar pesca sostenible.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/02/gobierno-de-sonora-refuerza-vigilancia-pesquera-en-la-presa-el-oviachic/",
+        "_added_at": "2026-09-02T12:13:24.844990-07:00"
+      },
+      {
+        "title": "Hospital Fernando Ocaranza requiere intervención inmediata",
+        "summary": "Autoridades reclaman urgente modernización y mejoras en infraestructura sanitaria.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/02/agustin-rodriguez-exige-intervencion-inmediata-en-hospital-fernando-ocaranza-no-podemos-esperar-una-tragedia/",
+        "_added_at": "2026-09-02T12:13:24.844990-07:00"
+      },
+      {
+        "title": "Se espera semana de lluvias en Hermosillo y Sonora",
+        "summary": "Sistemas meteorológicos traerán precipitaciones a la entidad durante los próximos días.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/clima-en-hermosillo-hoy-2-de-septiembre-se-espera-una-semana-de-lluvias-en-la-ciudad/142819",
+        "_added_at": "2026-09-02T12:13:24.844990-07:00"
+      },
+      {
         "title": "Refuerzan operativo contra gusano barrenador en tres municipios",
         "summary": "Sonora intensifica campaña preventiva en Álamos, Yécora y Huatabampo.",
         "source": "El Sol de Hermosillo",
@@ -116,5 +193,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-02T00:15:54.521524-07:00"
+  "last_updated": "2026-09-02T12:13:24.844990-07:00"
 }
