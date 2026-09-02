@@ -1,267 +1,120 @@
 {
-  "date": "2026-09-01",
-  "run_count": 3,
+  "date": "2026-09-02",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Hombre asesinado tras acompañar menor a escuela en Nogales",
-        "summary": "Individuo fue atacado minutos después de dejar a un menor en institución educativa en Nogales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/01/acompano-menor-escuela-minutos-despues-fue-asesinado-nogales.html",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
-      },
-      {
-        "title": "Capturan presunto homicida en Ímuris",
-        "summary": "Autoridades detuvieron e imputaron a sospechoso de homicidio en municipio de Ímuris.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/01/capturan-e-imputan-a-presunto-homicida-en-imuris/",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
-      },
-      {
-        "title": "Rescatan niña encerrada en vehículo con motor encendido",
-        "summary": "Bomberos de San Luis Río Colorado liberaron a menor atrapada dentro de automóvil.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/rescatan-bomberos-a-nenita-atrapada-en-automovil-con-el-motor-encendido-31848014",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
-      },
-      {
-        "title": "Tres volcaduras por exceso de velocidad en San Luis Río Colorado",
-        "summary": "Se registraron múltiples accidentes viales en menos de veinticuatro horas en la región.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/se-registran-tres-volcaduras-por-exceso-de-velocidad-en-menos-de-24-horas-en-la-grullita-31828543",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
-      },
-      {
-        "title": "Fotoperiodista Rafael Alegría muere en accidente en Sonora",
-        "summary": "Profesional de la fotografía falleció en un accidente mientras viajaba acompañado de su esposa en el estado.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/muere-el-fotoperiodista-rafael-alegria-en-accidente-en-sonora-viajaba-con-su-esposa/142788",
-        "_added_at": "2026-09-01T12:12:30.483663-07:00"
-      },
-      {
-        "title": "Participantes de evento Noche Suprema tienen antecedentes penales",
-        "summary": "Asistentes de actividad en Hermosillo registran procesos judiciales abiertos y órdenes de aprehensión.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/01/participantes-de-noche-suprema-tienen-procesos-penales-y-una-orden-de-aprehension/",
-        "_added_at": "2026-09-01T12:12:30.483663-07:00"
-      },
-      {
-        "title": "Hombre detenido tras agredir policía en fila de cruce a EU",
-        "summary": "Conductor fue capturado en Nogales después de golpear a elemento de seguridad durante intento de travesía.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/01/metio-fila-cruzar-eu-termino-detenido-golpear-policia.html",
-        "_added_at": "2026-09-01T12:12:30.483663-07:00"
-      },
-      {
-        "title": "Armas aseguradas en escuela de manejo de Nogales",
-        "summary": "Dos mexicanos fueron arrestados con armamento en instalación ubicada en Arizona, cerca de frontera sonorense.",
+        "title": "Fotoperiodista muere en accidente vial entre Ímuris y Magdalena",
+        "summary": "Rafael Alegría falleció tras volcadura de camioneta en tramo mojado de la carretera estatal.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/arrestan-a-dos-mexicanos-y-aseguran-armas-en-nogales-arizona/263630",
-        "_added_at": "2026-09-01T12:12:30.483663-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/muere-fotoperiodista-rafael-alegria-en-tramo-imuris-magdalena/263675",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
       },
       {
-        "title": "Dos hombres mueren por ataque con arma blanca en Hermosillo",
-        "summary": "Localizan a dos hombres fallecidos tras ataque con arma blanca al sur de la capital sonorense.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/localizan-a-dos-hombres-sin-vida-tras-ataque-con-arma-blanca-al-sur-de-hermosillo-31838112",
-        "_added_at": "2026-09-01T00:56:31.029265-07:00"
-      },
-      {
-        "title": "Choque mortal entre pipa y sedán en Empalme",
-        "summary": "Accidente vial en Empalme causa un fallecimiento y un lesionado grave.",
+        "title": "Detienen a hombre con metanfetamina en Huatabampo",
+        "summary": "Policía Federal Ministerial aseguró cinco paquetes de droga en operativo carretero.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/fatal-accidente-en-empalme-deja-un-muerto-y-un-herido/263600",
-        "_added_at": "2026-09-01T00:56:31.029265-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/condenan-a-hombre-por-transporte-de-metanfetamina-en-sonora/263680",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
+      },
+      {
+        "title": "Pipa sufre accidente en tramo Ímuris-Cananea",
+        "summary": "Percance moviliza a cuerpos de emergencia en carretera del estado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/pipa-sufre-accidente-en-tramo-imuris-cananea/263685",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Sonora inicia actividades por aniversario de Independencia",
-        "summary": "Gobierno estatal da arranque a conmemoraciones del mes patrio en diversos municipios.",
+        "title": "Sheinbaum presenta proyectos de infraestructura y agua para Sonora",
+        "summary": "Presidenta anuncia inversiones en desarrollo estatal durante visita.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/claudia-sheinbaum-presenta-proyectos-de-infraestructura-y-agua-para-sonora-31850150",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
+      },
+      {
+        "title": "Durazo destaca avances de administración Sheinbaum en estado",
+        "summary": "Gobernador resalta logros tras segundo informe presidencial.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/inician-sonora-actividades-aniversario-independencia-n901578",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
+        "url": "https://www.uniradiosonora.com/gobierno/durazo-destaca-avances-sheinbaum-sonora-n901677",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
       },
       {
-        "title": "Tohono O'odham rechazan construcción de muro en Quitobaquito",
-        "summary": "Nación indígena se opone a intervención fronteriza en sitio sagrado ubicado en territorio sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/01/pondrian-dinamita-en-el-cementerio-de-arlington-lider-tohono-oodham-compara-ese-escenario-con-intervenir-quitobaquito-sitio-sagrado-para-la-nacion-para-construir-un-segundo-muro-fronterizo-en-arizona-junto-a-sonora-mientras-contratistas-federales-perforan-sus-tierras-para-avanzar-la-obra/",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
+        "title": "Wasapraka lleva problemática de apagones a Congreso",
+        "summary": "Diputada denuncia crisis energética en San Luis Río Colorado.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/desde-el-congreso-wasapraka-lleva-los-apagones-de-san-luis-rio-colorado-a-la-tribuna-31851078",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
       },
       {
-        "title": "Julia Huerta realiza recorridos de cercanía en Pueblitos y Canoas",
-        "summary": "Candidata continúa visitas de proximidad con ciudadanía en zonas de Nogales bajo lluvia.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/09/01/julia-huerta-mantiene-recorridos-cercania-ciudadana-pueblitos-canoas.html",
-        "_added_at": "2026-09-01T12:12:30.483663-07:00"
-      },
-      {
-        "title": "Gobierno de Navojoa inicia celebraciones del mes patrio",
-        "summary": "Administración municipal lanza actividades conmemorativas de septiembre en la localidad.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/01/gobierno-municipal-de-navojoa-arranca-con-el-mes-patrio/",
-        "_added_at": "2026-09-01T12:12:30.483663-07:00"
-      },
-      {
-        "title": "Raúl Bolaños Cacho presidirá Cámara de Diputados",
-        "summary": "Legislador sonorense asume la presidencia de la Cámara de Diputados en nueva legislatura.",
+        "title": "Laura Itzel Castillo asume lucha contra violencia de género",
+        "summary": "Nueva funcionaria estatal enfrenta desafío de inseguridad hacia mujeres.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/raul-bolanos-cacho-presidira-camara-diputados-n901488",
-        "_added_at": "2026-09-01T00:56:31.029265-07:00"
-      },
-      {
-        "title": "Lorenia Valles destaca apoyo a educación en Sonora",
-        "summary": "Senadora con licencia subraya respaldo de gobiernos federal y estatal a retorno de 500 mil estudiantes.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/destaca-valles-respaldo-de-sheinbaum-y-durazo-a-la-educacion/263607",
-        "_added_at": "2026-09-01T00:56:31.029265-07:00"
-      },
-      {
-        "title": "Enrique Inzunza rechaza acusaciones de nexos con narcotráfico",
-        "summary": "Político sonorense niega ser narcosenador en reaparición pública tras controversia.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/no-soy-narcosenador-enrique-inzunza-reaparece-n901491",
-        "_added_at": "2026-09-01T00:56:31.029265-07:00"
+        "url": "https://www.uniradiosonora.com/gobierno/laura-itzel-castillo-asume-mujeres-reto-violencia-genero-n901695",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Regreso a clases dispara ventas hasta treinta y cinco por ciento",
-        "summary": "Comercios en Nogales reportan importante incremento en ventas durante temporada escolar.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/01/regreso-clases-dispara-ventas-hasta-35-nogales.html",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
-      },
-      {
-        "title": "Exportación de ganado continúa pese a problema en Agua Prieta",
-        "summary": "Gobierno estatal asegura que comercio ganadero a Estados Unidos no se detiene.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/problema-en-agua-prieta-no-frena-exportacion-de-ganado-a-eu/263649",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
-      },
-      {
-        "title": "Hermosillo busca crédito de ciento veinte millones para AguaH",
-        "summary": "Municipio capital gestiona financiamiento para empresa de servicios de agua potable.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/hermosillo-va-credito-120-mdp-aguah-n901636",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
-      },
-      {
-        "title": "Cabildo autoriza crédito de 120 millones para Agua de Hermosillo",
-        "summary": "Ayuntamiento aprobó financiamiento para empresa prestadora de servicios hídricos en la capital.",
+        "title": "Agua Prieta reanuda exportación de ganado tras reparación",
+        "summary": "Frontera sonorense se reactiva el 8 de septiembre tras falla de equipo.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/aprueba-cabildo-credito-de-120-mdp-para-agua-de-hermosillo-31837370",
-        "_added_at": "2026-09-01T12:12:30.483663-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/agua-prieta-volvera-a-exportar-ganado-el-8-de-septiembre-tras-falla-en-equipo-de-inspeccion-31852149",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
       },
       {
-        "title": "Sonora inicia septiembre con descuentos en testamentos en notarías",
-        "summary": "Mes del Testamento ofrece reducciones de hasta 50 por ciento en servicios notariales en la entidad.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-inicia-con-descuentos-septiembre-mes-del-testamento/263624",
-        "_added_at": "2026-09-01T12:12:30.483663-07:00"
-      },
-      {
-        "title": "Estado rechaza ubicar desaladora de Arizona en Kino o Guaymas",
-        "summary": "Gobierno sonorense descarta instalación de proyecto hídrico estadounidense en costas estatales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/01/kino-o-guaymas-podrian-ser-opcion-para-desaladora-de-arizona-pero-estado-lo-rechaza-nicolas-pineda/",
-        "_added_at": "2026-09-01T12:12:30.483663-07:00"
-      },
-      {
-        "title": "Cabildo aprueba 120 millones de pesos para Agua de Hermosillo",
-        "summary": "Crédito autorizado para fortalecer operaciones y servicios del organismo municipal.",
+        "title": "Hermosillo obtiene calificación AAA en finanzas municipales",
+        "summary": "Capital estatal presume sólida salud financiera.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/cabildo-aprueba-creditos-120-mdp-aguah-n901482",
-        "_added_at": "2026-09-01T00:56:31.029265-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/hermosillo-presume-finanzas-solidas-calificacion-aaa-n901673",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
       },
       {
-        "title": "Falla técnica detiene exportación de ganado hacia Estados Unidos",
-        "summary": "Unión Ganadera reporta pausa temporal en envíos; se reanudará operaciones próximamente.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/una-falla-tecnica-detuvo-exportacion-de-ganado-hacia-eu-se-reanudara-en-proximos-dias-union-ganadera/",
-        "_added_at": "2026-09-01T00:56:31.029265-07:00"
-      },
-      {
-        "title": "Lamarque destaca potencial minero y pesquero del norte",
-        "summary": "Funcionario señala minería, pesca y frontera como capacidades económicas estratégicas regionales.",
+        "title": "Lamarque destaca potencial fronterizo de San Luis Río Colorado",
+        "summary": "Autoridades resaltan vocación productiva para desarrollo económico regional.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/mineria-pesca-y-frontera-fortalezas-del-norte-lamarque/263599",
-        "_added_at": "2026-09-01T00:56:31.029265-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/javier-lamarque-destaca-fortalezas-productivas-de-slrc/263678",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
+      },
+      {
+        "title": "UTGuaymas firma convenio con aeronáutica para formación dual",
+        "summary": "Universidad impulsa modelo educativo vinculado con empresa del sector.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/firma-utguaymas-convenio-con-empresa-aeronautica-para-impulsar-modelo-de-formacion-dual/",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Tormenta tropical Marie podría dejar lluvias en Sonora",
-        "summary": "Sistema meteorológico avanza hacia noroeste generando posibles precipitaciones en estado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/01/tormenta-tropical-marie-avanza-al-noroeste-y-podria-aumentar-la-humedad-los-nublados-y-las-lluvias-en-sonora-mientras-se-fortalece-rumbo-a-huracan/",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
-      },
-      {
-        "title": "Van casi dos mil tinacos gratis distribuidos en Hermosillo",
-        "summary": "Gobierno municipal continúa programa de entrega de recipientes para agua a ciudadanos.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/van-casi-2-mil-tinacos-gratis-hermosillo-n901626",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
-      },
-      {
-        "title": "Club Rotario apoya a estudiantes de primarias en Nogales",
-        "summary": "Organización benéfica entrega mochilas y recursos a alumnos de cinco escuelas.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/09/01/club-rotario-apoya-cinco-primarias-nogales.html",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
-      },
-      {
-        "title": "Fotoperiodista Rafael Alegría muere en accidente en Sonora",
-        "summary": "Profesional falleció en siniestro vial mientras viajaba acompañado de su esposa.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/muere-el-fotoperiodista-rafael-alegria-en-accidente-en-sonora-viajaba-con-su-esposa/142788",
-        "_added_at": "2026-09-01T16:47:54.909554-07:00"
-      },
-      {
-        "title": "Lluvia de tormenta tropical Marie llegará a Sonora próximamente",
-        "summary": "Sistema de baja presión en Pacífico aportará mayor humedad y precipitaciones a la región.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/humedad-de-marie-podria-alcanzar-sonora-con-potencial-de-nuevas-tormentas/",
-        "_added_at": "2026-09-01T12:12:30.483663-07:00"
-      },
-      {
-        "title": "Bulevar Circunvalación del Parque Industrial en rehabilitación",
-        "summary": "Obras avanzan en infraestructura vial de Ciudad Obregón para mejora de comunicaciones.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/01/avanza-rehabilitacion-del-bulevar-circunvalacion-en-el-parque-industrial/",
-        "_added_at": "2026-09-01T12:12:30.483663-07:00"
-      },
-      {
-        "title": "Salud Sonora promueve triple chequeo para cáncer de mama",
-        "summary": "Dependencia estatal impulsa campaña de detección temprana de enfermedad neoplásica.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/01/promueve-salud-sonora-el-triple-chequeo-para-la-deteccion-oportuna-del-cancer-de-mama/",
-        "_added_at": "2026-09-01T12:12:30.483663-07:00"
-      },
-      {
-        "title": "Preparativos patrios intensos en Navojoa por mes de septiembre",
-        "summary": "Ambulantes venden artículos tricolores a precios que varían de 35 a 500 pesos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/ambulantes-llenan-navojoa-con-articulos-para-fiestas-patrias/263610",
-        "_added_at": "2026-09-01T00:56:31.029265-07:00"
-      },
-      {
-        "title": "Hermosillo convoca para reconocer a jóvenes destacados",
-        "summary": "Capital abre proceso de búsqueda y selección de jóvenes con mayor desempeño municipal.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/hermosillo-busca-sus-jovenes-mas-destacados-n901480",
-        "_added_at": "2026-09-01T00:56:31.029265-07:00"
-      },
-      {
-        "title": "Fuga de agua afecta suministro en Insurgentes",
-        "summary": "Ruptura de tubería causa cortes de agua en colonias de Hermosillo.",
+        "title": "Refuerzan operativo contra gusano barrenador en tres municipios",
+        "summary": "Sonora intensifica campaña preventiva en Álamos, Yécora y Huatabampo.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/fuga-de-agua-deja-sin-servicio-a-vecinos-de-la-colonia-insurgentes-31623538",
-        "_added_at": "2026-09-01T00:56:31.029265-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/gusano-barrenador-en-sonora-refuerzan-operativo-en-alamos-yecora-y-huatabampo-31738071",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
+      },
+      {
+        "title": "Escuelas en Yuma exigen cartilla de vacunación actualizada",
+        "summary": "Institutos educativos requieren documentación médica para ingreso.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/escuelas-de-yuma-exigen-cartilla-de-vacunacion-actualizada-para-asistir-a-clases-31848965",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
+      },
+      {
+        "title": "Programa de tinacos avanza al 60% en Hermosillo",
+        "summary": "Iniciativa de acceso a agua beneficia a familias vulnerables.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/avanza-60-programa-de-tinacos-gratuitos-en-beneficio-de-familias-vulnerables/",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
+      },
+      {
+        "title": "San Luis Río Colorado continúa jornada de descacharre",
+        "summary": "Autoridades instan a ciudadanía a participar en limpieza ambiental.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/san-luis-rio-colorado-mantiene-jornada-de-descacharre-conoce-que-puedes-llevar-31845384",
+        "_added_at": "2026-09-02T00:15:54.521524-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-01T16:47:54.909554-07:00"
+  "last_updated": "2026-09-02T00:15:54.521524-07:00"
 }
