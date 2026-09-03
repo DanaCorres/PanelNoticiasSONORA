@@ -1,8 +1,36 @@
 {
   "date": "2026-09-03",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a tres por ataque que canceló Noche Suprema",
+        "summary": "Fiscalía de Sonora captura a presuntos responsables del incidente violento en evento del CUM en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/03/detienen-a-tres-personas-por-el-ataque-que-obligo-a-cancelar-noche-suprema-en-el-cum-de-hermosillo-uno-de-los-influencers-del-evento-fue-arrestado-por-una-denuncia-de-violacion/",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
+      {
+        "title": "Sellan narcotúnel reutilizado recientemente en Nogales",
+        "summary": "Autoridades cierran pasaje de 79 metros que había sido asegurado en abril y vuelto a usar.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sellan-narcotunel-en-nogales-sonora-habia-sido-reutilizado/263790",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
+      {
+        "title": "Gobernador Durazo incorpora 271 elementos a Policía Estatal",
+        "summary": "Duplicación de corporación con egresados de la Universidad de Seguridad Pública.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-duplica-policia-estatal-se-integran-271-nuevos-elementos-egresados-de-la-usp/",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
+      {
+        "title": "Hallan dos ejecutados en plaza de Ciudad Obregón",
+        "summary": "Descubren cuerpos en las ruinas de Plaza Valle.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/policiaca/hallan-a-par-de-ejecutados-en-las-ruinas-de-la-plaza-valle/142987",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
       {
         "title": "Detienen sujeto en garita de Nogales tras persecución",
         "summary": "Hombre interceptado en Dennis DeConcini por coordinación de policías municipales y autoridades fronterizas estadounidenses.",
@@ -34,6 +62,27 @@
     ],
     "politica": [
       {
+        "title": "Tensión Durazo-Colosio por candidatura de MC en Sonora",
+        "summary": "Conflicto político interno entre funcionarios estatal y candidato por Movimiento Ciudadano.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/tension-durazo-colosio-pone-en-riesgo-candidatura-de-mc-en-sonora/",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
+      {
+        "title": "MC lleva a Durazo ante INE por críticas a Colosio",
+        "summary": "Movimiento Ciudadano denuncia ante organismo electoral comentarios del gobernador.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/mc-lleva-a-durazo-ante-el-ine-por-sus-criticas-a-colosio-riojas/",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
+      {
+        "title": "Colosio responde críticas de Durazo en disputa política",
+        "summary": "Candidato contesta al gobernador en escalada de tensión electoral sonorense.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/nacional/luis-donaldo-colosio-le-responde-a-alfonso-durazo-por-criticas/142963",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
+      {
         "title": "Durazo integra 271 policías estatales egresados de USP",
         "summary": "Gobernador duplica Policía Estatal con nuevos elementos capacitados en academia de seguridad.",
         "source": "Radar Sonora",
@@ -57,6 +106,20 @@
     ],
     "economia": [
       {
+        "title": "Coparmex destaca aumento salarial pero pide certeza",
+        "summary": "Empresarios reconocen incremento de salario mínimo pero señalan desafíos en seguridad.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/reconoce-coparmex-avances-pero-pide-certeza-para-invertir/263781",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
+      {
+        "title": "Cajeme concentra mayor cantidad de psicólogos en Sonora",
+        "summary": "Municipio destaca en oferta de servicios profesionales de salud mental.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/03/cajeme-el-municipio-con-mas-psicologos-en-sonora/",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
+      {
         "title": "Sonora promociona 45 eventos turísticos en dos meses",
         "summary": "Festivales, fiestas patronales y encuentros gastronómicos impulsan turismo en 16 municipios.",
         "source": "Expreso",
@@ -79,6 +142,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora bajo alerta por calor extremo y tormentas fuertes",
+        "summary": "Ocho municipios enfrentan lluvia y rayos; Ciudad Obregón en semáforo naranja.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/03/estos-municipios-de-sonora-tendran-lluvias-y-tormentas-electricas-durante-las-proximas-horas/",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
+      {
+        "title": "Alertan en Nogales por gusano barrenador en mascotas",
+        "summary": "Advertencia sanitaria sobre parásito que puede afectar también a humanos.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/03/alertan-gusano-barrenador-mascotas-puede-afectar-humanos.html",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
+      {
+        "title": "Tránsito Municipal inicia regularización de motociclistas en Cajeme",
+        "summary": "Proceso de formalización para prestadores de servicio de transporte.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/03/en-cajeme-inicia-transito-municipal-proceso-de-regularizacion-para-motociclistas-prestadores-de-servicio/",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
+      {
+        "title": "Sonorenses destacan en Campeonato Mundial de Boccia 2026",
+        "summary": "Pareja de atletas locales alcanza posiciones altas en competencia internacional.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/03/par-de-sonorenses-terminan-en-top-del-campeonato-mundial-de-boccia-2026/",
+        "_added_at": "2026-09-03T12:05:48.383799-07:00"
+      },
       {
         "title": "Sonora bajo alerta por calor intenso y fuertes lluvias",
         "summary": "Meteorología advierte sobre condiciones climáticas extremas en diferentes regiones del estado.",
@@ -109,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-03T00:19:48.177513-07:00"
+  "last_updated": "2026-09-03T12:05:48.383799-07:00"
 }
