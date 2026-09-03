@@ -1,8 +1,22 @@
 {
   "date": "2026-09-03",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sellan narcotúnel de 79 metros hallado en Nogales",
+        "summary": "Autoridades sellaron túnel de contrabando localizado en frontera nogalense cuatro meses después de su descubrimiento.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/sellan-narcotunel-de-79-metros-cuatro-meses-despues-de-hallarlo-en-nogales/",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
+      {
+        "title": "Detienen creador de contenido por incendio en Hermosillo",
+        "summary": "Capturan a influencer y tres cómplices implicados en incendio durante evento en capital sonorense.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/detienen-a-creador-de-contenido-y-tres-mas-por-incendio-en-evento-de-hermosillo/",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
       {
         "title": "Detienen a tres por ataque que canceló Noche Suprema",
         "summary": "Fiscalía de Sonora captura a presuntos responsables del incidente violento en evento del CUM en Hermosillo.",
@@ -62,6 +76,27 @@
     ],
     "politica": [
       {
+        "title": "Fátima Morales encabeza Unidad de Igualdad en Congreso",
+        "summary": "Designan nueva titular para dirección técnica de género en órgano legislativo estatal.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/fatima-alejandra-morales-nueva-titular-de-la-unidad-tecnica-para-la-igualdad-de-genero-del-congreso-31785691",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
+      {
+        "title": "Sonora mantiene Alerta de Violencia de Género en seis municipios",
+        "summary": "Persiste protocolo de seguridad por violencia contra mujeres en diversas localidades de la entidad.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-mantiene-alerta-de-violencia-de-genero-en-seis-municipios-31882398",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
+      {
+        "title": "Identidad geográfica del dátil avanza en San Luis Río Colorado",
+        "summary": "Impulsan reconocimiento oficial de denominación de origen para producto agrícola regional.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/avanza-propuesta-de-identidad-geografica-del-datil-en-la-region-de-san-luis-31756164",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
+      {
         "title": "Tensión Durazo-Colosio por candidatura de MC en Sonora",
         "summary": "Conflicto político interno entre funcionarios estatal y candidato por Movimiento Ciudadano.",
         "source": "Sonora Presente",
@@ -106,6 +141,34 @@
     ],
     "economia": [
       {
+        "title": "Tec Monterrey amplía espacios para PrepaTec en Sonora",
+        "summary": "Construyen nuevo edificio de cinco mil metros con cuatro niveles y 32 aulas en campus regional.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/construccion-de-nuevo-edificio-prepatec-en-tec-sonora-norte/263818",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
+      {
+        "title": "Jubilados de CFE protestan contra recortes de pensiones",
+        "summary": "Trabajadores retirados de comisión eléctrica manifiestan inconformidad por reducción de ingresos.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/jubilados-cfe-protestan-recorte-pensiones-n902032",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
+      {
+        "title": "Excluyen San Luis Río Colorado de cartelera turística estatal",
+        "summary": "Municipio queda fuera de promoción de 45 eventos turísticos programados en Sonora.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/dejan-fuera-de-cartelera-de-45-eventos-turisticos-en-sonora-a-san-luis-rio-colorado-31884458",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
+      {
+        "title": "Notarios ofrecen 50% descuento en testamentos durante septiembre",
+        "summary": "Gremio promociona servicios de trámites legales con rebaja especial en mes actual.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/03/septiembre-ofrece-un-50-de-descuento-en-testamentos-en-sonora-notarios/",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
+      {
         "title": "Coparmex destaca aumento salarial pero pide certeza",
         "summary": "Empresarios reconocen incremento de salario mínimo pero señalan desafíos en seguridad.",
         "source": "Expreso",
@@ -142,6 +205,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "IMSS realiza donación múltiple de órganos en Hermosillo",
+        "summary": "Hospital logra exitosa donación de órganos con ceremonia simbólica del Pasillo de la Vida.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/03/concreta-imss-en-sonora-donacion-de-organos-en-hgz-no-2-de-hermosillo/",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
+      {
+        "title": "Hermosillo y Miguel Alemán concentran casos de dengue",
+        "summary": "Salud confirma mayor concentración de contagios en dos municipios durante últimas semanas.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/03/hermosillo-y-miguel-aleman-concentran-casos-de-dengue-registrados-en-sonora-en-las-ultimas-dos-semanas-salud/",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
+      {
+        "title": "Alertan en Nogales sobre señales de riesgo suicida",
+        "summary": "Autoridades sanitarias hacen llamado a identificar síntomas de crisis emocional en población.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/03/alertan-nogales-senales-riesgo-pensamientos-suicidas.html",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
+      {
+        "title": "Shriners dona equipo de rehabilitación al DIF Nogales",
+        "summary": "Organización benéfica entrega sillas de ruedas y equipamiento para niños y adultos.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/03/shriners-dona-equipo-rehabilitacion-dif-nogales-apoyar-ninos-adultos.html",
+        "_added_at": "2026-09-03T16:47:10.684181-07:00"
+      },
       {
         "title": "Sonora bajo alerta por calor extremo y tormentas fuertes",
         "summary": "Ocho municipios enfrentan lluvia y rayos; Ciudad Obregón en semáforo naranja.",
@@ -183,22 +274,8 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/sociedad/sonora-reunira-normalistas-educacion-ambiental-n901906",
         "_added_at": "2026-09-03T00:19:48.177513-07:00"
-      },
-      {
-        "title": "Septiembre dedicado a prevención del suicidio",
-        "summary": "Mes de sensibilización sobre salud mental y programas de prevención en estado.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/salud/septiembre-mes-hablar-prevencion-suicidio-n901904",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
-      },
-      {
-        "title": "Hermosillo elimina 8 mil 315 llantas de circulación",
-        "summary": "Programa ambiental recolecta neumáticos para evitar contaminación y plagas.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/hermosillo-saca-circulacion-8-mil-315-llantas-n901887",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-03T12:05:48.383799-07:00"
+  "last_updated": "2026-09-03T16:47:10.684181-07:00"
 }
