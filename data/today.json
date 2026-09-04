@@ -1,8 +1,29 @@
 {
   "date": "2026-09-04",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Cinco detenidos por balacera e incendios en el CUM",
+        "summary": "Autoridades aseguran a cinco personas implicadas en incidente violento durante evento en Hermosillo; influencer ligado al caso presumía venta de drogas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/04/reportan-cuarto-detenido-por-incidentes-en-el-cum-previo-a-la-noche-suprema/",
+        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+      },
+      {
+        "title": "Aseguran medio kilo de cristal en ruta Ímuris-Cananea",
+        "summary": "Conductor detenido con 453.5 gramos de droga sintética durante operativo en carretera fronteriza del estado.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/04/aseguran-casi-medio-kilo-crystal-carretera-imuriscananea.html",
+        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+      },
+      {
+        "title": "Vinculan a proceso agresor de dos policías en Cajeme",
+        "summary": "Presunto agresor de uniformados en Ciudad Obregón queda ligado a proceso judicial.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/policiaca/vinculan-proceso-presunto-agresor-dos-policias-cajeme-n902206",
+        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+      },
       {
         "title": "Detienen a influencer vinculado con incendio en Hermosillo",
         "summary": "Arrestaron a influencer que promocionaba droga en redes y está ligado al incendio del ring de Noche Suprema en Hermosillo.",
@@ -41,6 +62,27 @@
     ],
     "politica": [
       {
+        "title": "Morena Sonora definirá coordinadores distritales antes del 15",
+        "summary": "Partido define estructura de comités estatales; preparadas nuevas convocatorias para elegir coordinaciones en la entidad.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/morena-sonora-preve-conocer-a-mas-tardar-el-15-de-septiembre-quien-encabezara-los-comites-31898793",
+        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+      },
+      {
+        "title": "IEE abre concurso para lema de próximas elecciones",
+        "summary": "Instituto estatal permite que ciudadanía participe eligiendo consigna para comicios futuros en Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/04/iee-sonora-abre-concurso-para-ciudadanos-podran-elegir-lema-de-proximas-elecciones/",
+        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+      },
+      {
+        "title": "Lamarque impulsa segundo piso de 4T en Sonora",
+        "summary": "Funcionario busca consolidar políticas transformadoras en la entidad con nuevas iniciativas.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/lamarque-busca-construir-el-segundo-piso-de-la-4t-en-sonora-31529913",
+        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+      },
+      {
         "title": "Durazo y MC escalan confrontación rumbo a 2027",
         "summary": "Intensifica la rivalidad entre Durazo y Movimiento Ciudadano en la carrera electoral de Sonora 2027.",
         "source": "Sonora Presente",
@@ -71,6 +113,20 @@
     ],
     "economia": [
       {
+        "title": "Regulación de pipas de materiales peligrosos en cuestionamiento",
+        "summary": "Investigan quién supervisa transporte de químicos en Sonora tras derrame de ácido sulfúrico en región.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/derrame-de-acido-sulfurico-en-imuris-cananea-que-sigue/263888",
+        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+      },
+      {
+        "title": "CFE suspenderá servicio eléctrico en Nogales por ocho horas",
+        "summary": "Paraestatal anuncia corte de energía en ejido Cibuta de 4:00 a 12:00 horas para labores de mantenimiento.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/cfe-suspendera-el-servicio-electrico-en-ejido-cibuta-nogales/263858",
+        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+      },
+      {
         "title": "Inician modernización de carretera Sonoyta-Puerto Peñasco",
         "summary": "Gobierno invierte mil 800 millones de pesos en infraestructura de carretera en la región.",
         "source": "Expreso",
@@ -93,6 +149,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Paro en IMSS Nogales afecta a 300 usuarios diarios",
+        "summary": "Trabajadores exigen mejoras en instalaciones administrativas de subdelegación; servicio de salud comprometido en la región.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/04/paro-laboral-imss-nogales-instalaciones-mal-estado-afecta-300-usuarios-dia.html",
+        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+      },
+      {
+        "title": "Sonora suma 23 casos de gusano barrenador",
+        "summary": "Alertan sobre propagación de parásito en ganado; autoridades trabajan en contención de enfermedad animal.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/sonora-suma-23-casos-gusano-barrenador-n902179",
+        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+      },
+      {
+        "title": "Se recupera servicio de agua en Centro y Sur Hermosillo",
+        "summary": "Restablecen abastecimiento tras reparación del acueducto Independencia en capital estatal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/04/se-recupera-el-servicio-de-agua-en-centro-y-sur-de-hermosillo-tras-reparacion-del-acueducto-independencia/",
+        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+      },
+      {
+        "title": "Astiazarán supervisa parque para niñez autista",
+        "summary": "Funcionario inspecciona infraestructura destinada a atender necesidades de menores con espectro autista.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/supervisa-tono-astiazaran-parque-para-ninez-autista/",
+        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+      },
       {
         "title": "CFE suspenderá servicio eléctrico en Nogales",
         "summary": "Corte de energía de ocho horas en Ejido Cibuta, Nogales, informó la paraestatal.",
@@ -137,5 +221,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-04T11:48:51.920089-07:00"
+  "last_updated": "2026-09-04T16:43:21.029032-07:00"
 }
