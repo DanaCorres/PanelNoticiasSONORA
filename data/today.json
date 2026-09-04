@@ -1,8 +1,36 @@
 {
   "date": "2026-09-04",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a influencer vinculado con incendio en Hermosillo",
+        "summary": "Arrestaron a influencer que promocionaba droga en redes y está ligado al incendio del ring de Noche Suprema en Hermosillo.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/detienen-a-influencer-ligado-al-incendio-del-ring-en-hermosillo-presumia-venta-de-droga-en-tiktok/",
+        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+      },
+      {
+        "title": "Maestras asesinadas en ataque armado identificadas",
+        "summary": "Identificaron a dos maestras que perdieron la vida en un ataque armado en la entidad.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/nacional/identifican-a-las-2-maestras-que-perdieron-la-vida-en-ataque-armado/143049",
+        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+      },
+      {
+        "title": "Clausuran zona por derrame de ácido en Cananea",
+        "summary": "Profepa cerró área en carretera Ímuris-Cananea tras derrame de ácido sulfúrico.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/04/clausura-profepa-zona-por-derrame-de-acido-sulfurico-en-carretera-imuris-cananea/",
+        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+      },
+      {
+        "title": "Ferromex debe reparar daños por derrame químico en Naco",
+        "summary": "Propietario de rancho en Naco exige a Ferromex indemnización tras descarrilamiento y derrame de hidrosulfuro de sodio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/09/04/tras-descarrilamiento-de-tren-de-ferromex-y-derrame-de-hidrosulfuro-de-sodio-en-naco-sonora-propietario-del-rancho-afectado-exige-a-la-empresa-reparar-los-danos/",
+        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+      },
       {
         "title": "Destruyen más de 2,500 vapeadores incautados en Sonora",
         "summary": "Autoridades destruyen vapeadores asegurados como parte de operativo contra productos ilícitos en la entidad.",
@@ -13,6 +41,27 @@
     ],
     "politica": [
       {
+        "title": "Durazo y MC escalan confrontación rumbo a 2027",
+        "summary": "Intensifica la rivalidad entre Durazo y Movimiento Ciudadano en la carrera electoral de Sonora 2027.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/durazo-y-mc-escalan-el-pulso-por-sonora-rumbo-a-2027/",
+        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+      },
+      {
+        "title": "IEE convoca a crear frases para promover el voto",
+        "summary": "Instituto Electoral de Sonora invita a ciudadanía a participar con propuestas de frases de votación.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/04/iee-invita-a-sonorenses-a-crear-frase-para-promover-el-voto/",
+        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+      },
+      {
+        "title": "Morena retrasa anuncio de candidato a gubernatura",
+        "summary": "Incertidumbre sobre cuándo Morena revelará su candidato oficial para gobernar Sonora.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/04/cuando-anunciara-morena-candidato-o-candidata-a-gubernatura-de-sonora-por-que-lo-retrasan/",
+        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+      },
+      {
         "title": "Modernización carretera Sonoyta-Peñasco con inversión de 1,800 millones",
         "summary": "Gobernador Durazo y Presidenta Sheinbaum inician proyecto de infraestructura vial entre Puerto Peñasco y frontera.",
         "source": "Radar Sonora",
@@ -22,6 +71,20 @@
     ],
     "economia": [
       {
+        "title": "Inician modernización de carretera Sonoyta-Puerto Peñasco",
+        "summary": "Gobierno invierte mil 800 millones de pesos en infraestructura de carretera en la región.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/arranca-modernizacion-de-carretera-sonoyta-puerto-penasco/263855",
+        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+      },
+      {
+        "title": "Pescadores de Yavaros preocupados por temporada de camarón",
+        "summary": "Flota pesquera espera autorización para camarón; prevén menor cantidad de barcos por falta de recursos.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/04/pescadores-de-yavaros-esperan-luz-verde-para-el-camaron-preven-menor-flota-por-falta-de-recursos/",
+        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+      },
+      {
         "title": "Guaymas como motor logístico con modernización portuaria",
         "summary": "Javier Lamarque destaca potencial de puerto para fortalecer movimiento de carga y conectividad regional.",
         "source": "Expreso",
@@ -30,6 +93,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "CFE suspenderá servicio eléctrico en Nogales",
+        "summary": "Corte de energía de ocho horas en Ejido Cibuta, Nogales, informó la paraestatal.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/cfe-suspendera-el-servicio-electrico-en-ejido-cibuta-nogales/263858",
+        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+      },
+      {
+        "title": "Burgos impulsa capacitación contra violencia de género",
+        "summary": "Iniciativa en Nogales fortalece defensa de mujeres y aborda violencia política de género.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/04/angelica-burgos-impulsa-capacitacion-fortalecer-defensa-mujeres-nogales.html",
+        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+      },
+      {
+        "title": "UNICEF reconoce protección de menores en Sonora",
+        "summary": "Gobierno de Sonora recibe reconocimiento internacional por trabajo en protección de niñas, niños y adolescentes.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/04/reconoce-unicef-mexico-trabajo-del-gobierno-de-sonora-sobre-proteccion-de-ninas-ninos-y-adolescentes-sec/",
+        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+      },
       {
         "title": "Agua normaliza en Hermosillo este viernes tras crisis",
         "summary": "Servicio de agua potable regresa a condiciones normales en la capital sonorense.",
@@ -53,5 +137,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-04T00:22:18.804923-07:00"
+  "last_updated": "2026-09-04T11:48:51.920089-07:00"
 }
