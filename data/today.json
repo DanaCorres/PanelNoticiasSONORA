@@ -1,281 +1,57 @@
 {
-  "date": "2026-09-03",
-  "run_count": 3,
+  "date": "2026-09-04",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Sellan narcotúnel de 79 metros hallado en Nogales",
-        "summary": "Autoridades sellaron túnel de contrabando localizado en frontera nogalense cuatro meses después de su descubrimiento.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/sellan-narcotunel-de-79-metros-cuatro-meses-despues-de-hallarlo-en-nogales/",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Detienen creador de contenido por incendio en Hermosillo",
-        "summary": "Capturan a influencer y tres cómplices implicados en incendio durante evento en capital sonorense.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/detienen-a-creador-de-contenido-y-tres-mas-por-incendio-en-evento-de-hermosillo/",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Detienen a tres por ataque que canceló Noche Suprema",
-        "summary": "Fiscalía de Sonora captura a presuntos responsables del incidente violento en evento del CUM en Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/03/detienen-a-tres-personas-por-el-ataque-que-obligo-a-cancelar-noche-suprema-en-el-cum-de-hermosillo-uno-de-los-influencers-del-evento-fue-arrestado-por-una-denuncia-de-violacion/",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "Sellan narcotúnel reutilizado recientemente en Nogales",
-        "summary": "Autoridades cierran pasaje de 79 metros que había sido asegurado en abril y vuelto a usar.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sellan-narcotunel-en-nogales-sonora-habia-sido-reutilizado/263790",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "Gobernador Durazo incorpora 271 elementos a Policía Estatal",
-        "summary": "Duplicación de corporación con egresados de la Universidad de Seguridad Pública.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/gobernador-durazo-duplica-policia-estatal-se-integran-271-nuevos-elementos-egresados-de-la-usp/",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "Hallan dos ejecutados en plaza de Ciudad Obregón",
-        "summary": "Descubren cuerpos en las ruinas de Plaza Valle.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/policiaca/hallan-a-par-de-ejecutados-en-las-ruinas-de-la-plaza-valle/142987",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "Detienen sujeto en garita de Nogales tras persecución",
-        "summary": "Hombre interceptado en Dennis DeConcini por coordinación de policías municipales y autoridades fronterizas estadounidenses.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/detienen-a-hombre-en-garita-de-nogales-sonora/263765",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
-      },
-      {
-        "title": "Aseguran 922 mil dosis de droga en operativos",
-        "summary": "PESP realiza decomisos significativos de narcóticos durante operaciones en diferentes municipios de Sonora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/asegura-pesp-mas-de-922-mil-dosis-de-narcotico-durante-operativos-en-sonora-31847871",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
-      },
-      {
-        "title": "Ataque armado en El Ranchito deja dos muertos",
-        "summary": "Enfrentamiento con armas resulta en dos fallecidos en zona de Hermosillo.",
+        "title": "Destruyen más de 2,500 vapeadores incautados en Sonora",
+        "summary": "Autoridades destruyen vapeadores asegurados como parte de operativo contra productos ilícitos en la entidad.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/ataque-armado-deja-dos-muertos-ranchito-n901913",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
-      },
-      {
-        "title": "Hallan dos hombres sin vida en colonia Coloso",
-        "summary": "Descubrimiento de cuerpos en área de Hermosillo genera investigación policial.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/localizan-a-dos-hombres-sin-vida-en-la-colonia-coloso-31872158",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
+        "url": "https://www.uniradiosonora.com/policiaca/destruyen-mas-2-mil-500-vapeadores-sonora-n902110",
+        "_added_at": "2026-09-04T00:22:18.804923-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Fátima Morales encabeza Unidad de Igualdad en Congreso",
-        "summary": "Designan nueva titular para dirección técnica de género en órgano legislativo estatal.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/fatima-alejandra-morales-nueva-titular-de-la-unidad-tecnica-para-la-igualdad-de-genero-del-congreso-31785691",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Sonora mantiene Alerta de Violencia de Género en seis municipios",
-        "summary": "Persiste protocolo de seguridad por violencia contra mujeres en diversas localidades de la entidad.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-mantiene-alerta-de-violencia-de-genero-en-seis-municipios-31882398",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Identidad geográfica del dátil avanza en San Luis Río Colorado",
-        "summary": "Impulsan reconocimiento oficial de denominación de origen para producto agrícola regional.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/avanza-propuesta-de-identidad-geografica-del-datil-en-la-region-de-san-luis-31756164",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Tensión Durazo-Colosio por candidatura de MC en Sonora",
-        "summary": "Conflicto político interno entre funcionarios estatal y candidato por Movimiento Ciudadano.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/tension-durazo-colosio-pone-en-riesgo-candidatura-de-mc-en-sonora/",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "MC lleva a Durazo ante INE por críticas a Colosio",
-        "summary": "Movimiento Ciudadano denuncia ante organismo electoral comentarios del gobernador.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/mc-lleva-a-durazo-ante-el-ine-por-sus-criticas-a-colosio-riojas/",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "Colosio responde críticas de Durazo en disputa política",
-        "summary": "Candidato contesta al gobernador en escalada de tensión electoral sonorense.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/nacional/luis-donaldo-colosio-le-responde-a-alfonso-durazo-por-criticas/142963",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "Durazo integra 271 policías estatales egresados de USP",
-        "summary": "Gobernador duplica Policía Estatal con nuevos elementos capacitados en academia de seguridad.",
+        "title": "Modernización carretera Sonoyta-Peñasco con inversión de 1,800 millones",
+        "summary": "Gobernador Durazo y Presidenta Sheinbaum inician proyecto de infraestructura vial entre Puerto Peñasco y frontera.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/gobernador-durazo-duplica-policia-estatal-se-integran-271-nuevos-elementos-egresados-de-la-usp/",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
-      },
-      {
-        "title": "Colosio y Durazo intercambian críticas sobre Sheinbaum",
-        "summary": "Gobernador y ex candidato mantienen controversia pública sobre políticas federales.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/tras-cuestionar-a-sheinbaum-colosio-y-durazo-intercambian-reproches/",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
-      },
-      {
-        "title": "Valles respalda política de bienestar de Sheinbaum",
-        "summary": "Funcionaria estatal destaca crecimiento salarial y cobertura de programas sociales federales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-respalda-politica-de-bienestar-de-sheinbaum/263750",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
+        "url": "https://www.radarsonora.com/gobernador-durazo-y-presidenta-sheinbaum-arrancan-modernizacion-de-carretera-sonoyta-penasco-con-inversion-de-mil-800-millones/",
+        "_added_at": "2026-09-04T00:22:18.804923-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Tec Monterrey amplía espacios para PrepaTec en Sonora",
-        "summary": "Construyen nuevo edificio de cinco mil metros con cuatro niveles y 32 aulas en campus regional.",
+        "title": "Guaymas como motor logístico con modernización portuaria",
+        "summary": "Javier Lamarque destaca potencial de puerto para fortalecer movimiento de carga y conectividad regional.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/construccion-de-nuevo-edificio-prepatec-en-tec-sonora-norte/263818",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Jubilados de CFE protestan contra recortes de pensiones",
-        "summary": "Trabajadores retirados de comisión eléctrica manifiestan inconformidad por reducción de ingresos.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/jubilados-cfe-protestan-recorte-pensiones-n902032",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Excluyen San Luis Río Colorado de cartelera turística estatal",
-        "summary": "Municipio queda fuera de promoción de 45 eventos turísticos programados en Sonora.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/dejan-fuera-de-cartelera-de-45-eventos-turisticos-en-sonora-a-san-luis-rio-colorado-31884458",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Notarios ofrecen 50% descuento en testamentos durante septiembre",
-        "summary": "Gremio promociona servicios de trámites legales con rebaja especial en mes actual.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/03/septiembre-ofrece-un-50-de-descuento-en-testamentos-en-sonora-notarios/",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Coparmex destaca aumento salarial pero pide certeza",
-        "summary": "Empresarios reconocen incremento de salario mínimo pero señalan desafíos en seguridad.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/reconoce-coparmex-avances-pero-pide-certeza-para-invertir/263781",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "Cajeme concentra mayor cantidad de psicólogos en Sonora",
-        "summary": "Municipio destaca en oferta de servicios profesionales de salud mental.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/03/cajeme-el-municipio-con-mas-psicologos-en-sonora/",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "Sonora promociona 45 eventos turísticos en dos meses",
-        "summary": "Festivales, fiestas patronales y encuentros gastronómicos impulsan turismo en 16 municipios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/preparan-45-eventos-para-impulsar-el-turismo-en-sonora/263749",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
-      },
-      {
-        "title": "Coparmex reúne 500 líderes empresariales en foro",
-        "summary": "Encuentro de Ideas en Movimiento 2026 convoca a empresarios para discutir temas de negocios.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/coparmex-reunira-a-mas-de-500-lideres-empresariales-en-foro-ideas-en-movimiento-2026-31864066",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
-      },
-      {
-        "title": "Tesorería ofrece descuentos en Hermosillo",
-        "summary": "Municipio promueve incentivos de pago en contribuciones y servicios municipales.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/tesoreria-acerca-descuentos-hermosillo-n901892",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/guaymas-puede-convertirse-en-motor-logistico-javier-lamarque/263828",
+        "_added_at": "2026-09-04T00:22:18.804923-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "IMSS realiza donación múltiple de órganos en Hermosillo",
-        "summary": "Hospital logra exitosa donación de órganos con ceremonia simbólica del Pasillo de la Vida.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/03/concreta-imss-en-sonora-donacion-de-organos-en-hgz-no-2-de-hermosillo/",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Hermosillo y Miguel Alemán concentran casos de dengue",
-        "summary": "Salud confirma mayor concentración de contagios en dos municipios durante últimas semanas.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/03/hermosillo-y-miguel-aleman-concentran-casos-de-dengue-registrados-en-sonora-en-las-ultimas-dos-semanas-salud/",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Alertan en Nogales sobre señales de riesgo suicida",
-        "summary": "Autoridades sanitarias hacen llamado a identificar síntomas de crisis emocional en población.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/03/alertan-nogales-senales-riesgo-pensamientos-suicidas.html",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Shriners dona equipo de rehabilitación al DIF Nogales",
-        "summary": "Organización benéfica entrega sillas de ruedas y equipamiento para niños y adultos.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/03/shriners-dona-equipo-rehabilitacion-dif-nogales-apoyar-ninos-adultos.html",
-        "_added_at": "2026-09-03T16:47:10.684181-07:00"
-      },
-      {
-        "title": "Sonora bajo alerta por calor extremo y tormentas fuertes",
-        "summary": "Ocho municipios enfrentan lluvia y rayos; Ciudad Obregón en semáforo naranja.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/03/estos-municipios-de-sonora-tendran-lluvias-y-tormentas-electricas-durante-las-proximas-horas/",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "Alertan en Nogales por gusano barrenador en mascotas",
-        "summary": "Advertencia sanitaria sobre parásito que puede afectar también a humanos.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/03/alertan-gusano-barrenador-mascotas-puede-afectar-humanos.html",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "Tránsito Municipal inicia regularización de motociclistas en Cajeme",
-        "summary": "Proceso de formalización para prestadores de servicio de transporte.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/03/en-cajeme-inicia-transito-municipal-proceso-de-regularizacion-para-motociclistas-prestadores-de-servicio/",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "Sonorenses destacan en Campeonato Mundial de Boccia 2026",
-        "summary": "Pareja de atletas locales alcanza posiciones altas en competencia internacional.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/03/par-de-sonorenses-terminan-en-top-del-campeonato-mundial-de-boccia-2026/",
-        "_added_at": "2026-09-03T12:05:48.383799-07:00"
-      },
-      {
-        "title": "Sonora bajo alerta por calor intenso y fuertes lluvias",
-        "summary": "Meteorología advierte sobre condiciones climáticas extremas en diferentes regiones del estado.",
+        "title": "Agua normaliza en Hermosillo este viernes tras crisis",
+        "summary": "Servicio de agua potable regresa a condiciones normales en la capital sonorense.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/sonora-alerta-calor-fuertes-lluvias-n901908",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/agua-volvera-normalidad-viernes-hermosillo-n902073",
+        "_added_at": "2026-09-04T00:22:18.804923-07:00"
       },
       {
-        "title": "Sonora reúne normalistas por educación ambiental",
-        "summary": "Encuentro de maestros enfocado en formar educadores en temas de sustentabilidad.",
+        "title": "Calor extremo en Sonora se prolongará hasta noviembre",
+        "summary": "Secretaría de Salud advierte sobre riesgos por temperaturas altas y recomienda medidas preventivas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/advierten-que-calor-puede-afectar-a-sonora-hasta-noviembre/263832",
+        "_added_at": "2026-09-04T00:22:18.804923-07:00"
+      },
+      {
+        "title": "Parque inclusivo avanza para niños con autismo",
+        "summary": "Proyecto de espacio inclusivo en desarrollo para beneficio de menores con condición de espectro autista.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/sonora-reunira-normalistas-educacion-ambiental-n901906",
-        "_added_at": "2026-09-03T00:19:48.177513-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/avanza-parque-inclusivo-ninas-ninos-autismo-n902097",
+        "_added_at": "2026-09-04T00:22:18.804923-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-03T16:47:10.684181-07:00"
+  "last_updated": "2026-09-04T00:22:18.804923-07:00"
 }
