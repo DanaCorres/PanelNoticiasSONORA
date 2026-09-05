@@ -1,8 +1,36 @@
 {
   "date": "2026-09-05",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Disparan contra policías en Cajeme; sujeto vinculado a proceso",
+        "summary": "Individuo disparó contra dos policías en Cajeme y fue detenido, siendo vinculado a proceso penal por los hechos.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/disparo-contra-dos-policias-en-cajeme-queda-preso-y-vinculado-a-proceso/",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
+      {
+        "title": "Asesinato en Puerta del Rey; víctima identificada",
+        "summary": "Autoridades identificaron a hombre fallecido tras ser hallado en una vivienda de Puerta del Rey.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/policiaca/identifican-hombre-asesinado-vivienda-puerta-rey-n902330",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
+      {
+        "title": "Tres hombres imputados por homicidio en Hermosillo",
+        "summary": "Se imputan cargos a tres individuos por homicidio y ataque en instalaciones deportivas de Hermosillo.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/policiaca/imputan-tres-hombres-homicidio-ataque-instalaciones-deportivas-hermosillo-n902320",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
+      {
+        "title": "Capturan a sujeto por irrumpir en el CUM",
+        "summary": "Detienen a individuo que irrumpió en las instalaciones del Centro Universitario de Monterrey.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/capturan-a-otro-por-irrumpir-en-el-cum/",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
       {
         "title": "Cuarto detenido por incendio en campus universitario",
         "summary": "Autoridades capturan a cuarto implicado en incendio registrado en el CUM de Hermosillo.",
@@ -34,6 +62,27 @@
     ],
     "politica": [
       {
+        "title": "Toman protesta direcciones municipales del PRD-Maciso",
+        "summary": "Se realizó ceremonia de protesta para nuevas direcciones municipales ejecutivas de la alianza PRD-Maciso en Sonora.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/toman-protesta-a-direcciones-municipales-ejecutivas-del-prd-maciso-en-sonora-31918930",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
+      {
+        "title": "Movimiento Ciudadano se prepara para 2027; Colosio relevante",
+        "summary": "MC estructura su estrategia electoral para 2027 en Sonora con Colosio como figura central.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/movimiento-ciudadano-se-prepara-rumbo-a-2027-y-colosio-aparece-como-pieza-clave-en-sonora-31713606",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
+      {
+        "title": "Partido Verde prepara 20 Casas Verdes en Sonora",
+        "summary": "PVEM proyecta apertura de veinte espacios comunitarios denominados Casas Verdes en la entidad.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/partido-verde-en-sonora-prepara-20-casas-verdes-31775469",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
+      {
         "title": "Lamarque destaca experiencia para próximo gobierno estatal",
         "summary": "Político señala que nuevo periodo de tres años requiere continuidad y experiencia administrativa.",
         "source": "Expreso",
@@ -63,6 +112,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Pobreza laboral en Sonora cae a mínimo de diez años",
+        "summary": "Indicadores muestran reducción significativa en pobreza laboral; ingresos alcanzan 4 mil 456 pesos mensuales por integrante.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/05/pobreza-laboral-en-sonora-cae-a-su-nivel-mas-bajo-en-10-anos-ingreso-laboral-por-integrante-del-hogar-llega-a-4-mil-456-pesos-al-mes/",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
+      {
+        "title": "Exportaciones ganaderas desde Agua Prieta se reanudan martes",
+        "summary": "Cruces ganaderos a EE.UU. reabren después de cierre técnico, favoreciendo comercio de exportación.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mundo/2026/09/05/exportaciones-ganaderas-a-eeuu-desde-agua-prieta-se-reanudaran-el-proximo-martes/",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
+      {
+        "title": "Porcicultura sonorense repunta; producción crece cuarenta por ciento",
+        "summary": "Sector porcino de Sonora experimenta recuperación con aumento de producción y crecimiento en exportaciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/05/produccion-porcina-de-sonora-aumenta-40-y-exportaciones-crecen-31-por-recuperacion-del-mercado-de-japon-pero-el-precio-sigue-bajo/",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
       {
         "title": "Reapertura de cruce ganadero en Agua Prieta prevista",
         "summary": "Nuevo sistema permitirá reanudar comercio de ganado hacia Estados Unidos próxima semana.",
@@ -94,6 +164,34 @@
     ],
     "sociedad": [
       {
+        "title": "Colectivo Abrazos de Mamá une familias en tertulia",
+        "summary": "Organización convoca a familias en evento de regreso a clases en Nogales, fomentando cohesión comunitaria.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/05/colectivo-abrazos-mama-une-familias-su-primera-tertulia-regreso-clases.html",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
+      {
+        "title": "Reanudan talleres artísticos en Casa de la Cultura",
+        "summary": "Se retoman actividades de talleres artísticos en Casa de la Cultura de Hermosillo para comunidad.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/reanudan-talleres-artisticos-casa-cultura-hermosillo-n902325",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
+      {
+        "title": "Deporte como herramienta contra conductas de riesgo",
+        "summary": "Autoridades impulsan actividades deportivas y formación cívica para prevenir conductas antisociales en jóvenes nogalenses.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/05/deporte-disciplina-alejar-jovenes-conductas-riesgo-nogales.html",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
+      {
+        "title": "Profepa clausura zona por derrame de ácido sulfúrico",
+        "summary": "Autoridades ambientales cierran polígono afectado por derrames químicos en Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/clausuran-poligono-por-derrame-de-acido-en-sonora/263957",
+        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+      },
+      {
         "title": "DIF reporta 106 casos de abandono a adultos mayores",
         "summary": "Institución atiende expedientes por maltrato y desatención de personas de tercera edad.",
         "source": "Radio Sonora",
@@ -123,5 +221,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-05T00:04:06.619590-07:00"
+  "last_updated": "2026-09-05T16:33:50.967451-07:00"
 }
