@@ -1,225 +1,127 @@
 {
-  "date": "2026-09-04",
-  "run_count": 3,
+  "date": "2026-09-05",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Cinco detenidos por balacera e incendios en el CUM",
-        "summary": "Autoridades aseguran a cinco personas implicadas en incidente violento durante evento en Hermosillo; influencer ligado al caso presumía venta de drogas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/04/reportan-cuarto-detenido-por-incidentes-en-el-cum-previo-a-la-noche-suprema/",
-        "_added_at": "2026-09-04T16:43:21.029032-07:00"
-      },
-      {
-        "title": "Aseguran medio kilo de cristal en ruta Ímuris-Cananea",
-        "summary": "Conductor detenido con 453.5 gramos de droga sintética durante operativo en carretera fronteriza del estado.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/04/aseguran-casi-medio-kilo-crystal-carretera-imuriscananea.html",
-        "_added_at": "2026-09-04T16:43:21.029032-07:00"
-      },
-      {
-        "title": "Vinculan a proceso agresor de dos policías en Cajeme",
-        "summary": "Presunto agresor de uniformados en Ciudad Obregón queda ligado a proceso judicial.",
+        "title": "Cuarto detenido por incendio en campus universitario",
+        "summary": "Autoridades capturan a cuarto implicado en incendio registrado en el CUM de Hermosillo.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/vinculan-proceso-presunto-agresor-dos-policias-cajeme-n902206",
-        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+        "url": "https://www.uniradiosonora.com/policiaca/cae-cuarto-implicado-incendio-cum-n902241",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
       },
       {
-        "title": "Detienen a influencer vinculado con incendio en Hermosillo",
-        "summary": "Arrestaron a influencer que promocionaba droga en redes y está ligado al incendio del ring de Noche Suprema en Hermosillo.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/detienen-a-influencer-ligado-al-incendio-del-ring-en-hermosillo-presumia-venta-de-droga-en-tiktok/",
-        "_added_at": "2026-09-04T11:48:51.920089-07:00"
-      },
-      {
-        "title": "Maestras asesinadas en ataque armado identificadas",
-        "summary": "Identificaron a dos maestras que perdieron la vida en un ataque armado en la entidad.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/nacional/identifican-a-las-2-maestras-que-perdieron-la-vida-en-ataque-armado/143049",
-        "_added_at": "2026-09-04T11:48:51.920089-07:00"
-      },
-      {
-        "title": "Clausuran zona por derrame de ácido en Cananea",
-        "summary": "Profepa cerró área en carretera Ímuris-Cananea tras derrame de ácido sulfúrico.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/04/clausura-profepa-zona-por-derrame-de-acido-sulfurico-en-carretera-imuris-cananea/",
-        "_added_at": "2026-09-04T11:48:51.920089-07:00"
-      },
-      {
-        "title": "Ferromex debe reparar daños por derrame químico en Naco",
-        "summary": "Propietario de rancho en Naco exige a Ferromex indemnización tras descarrilamiento y derrame de hidrosulfuro de sodio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/09/04/tras-descarrilamiento-de-tren-de-ferromex-y-derrame-de-hidrosulfuro-de-sodio-en-naco-sonora-propietario-del-rancho-afectado-exige-a-la-empresa-reparar-los-danos/",
-        "_added_at": "2026-09-04T11:48:51.920089-07:00"
-      },
-      {
-        "title": "Destruyen más de 2,500 vapeadores incautados en Sonora",
-        "summary": "Autoridades destruyen vapeadores asegurados como parte de operativo contra productos ilícitos en la entidad.",
+        "title": "Maestra de preescolar sentenciada por abuso sexual",
+        "summary": "Condena judicial a docente acusada de cometer abusos sexuales contra menores.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/destruyen-mas-2-mil-500-vapeadores-sonora-n902110",
-        "_added_at": "2026-09-04T00:22:18.804923-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/sentencian-maestra-kinder-abusos-sexuales-n902250",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+      },
+      {
+        "title": "Mil 467 Zonas SALVA refuerzan seguridad en Hermosillo",
+        "summary": "Gobierno implementa programa de zonas seguras para protección de mujeres en riesgo.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/suman-mil-467-zonas-salva-hermosillo-n902245",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+      },
+      {
+        "title": "Fuga de amoníaco en Hermosillo genera alerta sanitaria",
+        "summary": "Incidente químico en la ciudad afecta a residentes; se informan efectos potenciales en salud.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/fuga-de-amoniaco-en-hermosillo-que-efectos-puede-tener-en-la-salud-31620721",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Morena Sonora definirá coordinadores distritales antes del 15",
-        "summary": "Partido define estructura de comités estatales; preparadas nuevas convocatorias para elegir coordinaciones en la entidad.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/morena-sonora-preve-conocer-a-mas-tardar-el-15-de-septiembre-quien-encabezara-los-comites-31898793",
-        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+        "title": "Lamarque destaca experiencia para próximo gobierno estatal",
+        "summary": "Político señala que nuevo periodo de tres años requiere continuidad y experiencia administrativa.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/gobierno-de-tres-anos-requiere-experiencia-javier-lamarque/263912",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
       },
       {
-        "title": "IEE abre concurso para lema de próximas elecciones",
-        "summary": "Instituto estatal permite que ciudadanía participe eligiendo consigna para comicios futuros en Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/04/iee-sonora-abre-concurso-para-ciudadanos-podran-elegir-lema-de-proximas-elecciones/",
-        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+        "title": "Lorenia Valles respalda programa federal de vivienda",
+        "summary": "Senadora con licencia destaca resultados de iniciativa de Sheinbaum en el estado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/valles-destaca-resultados-de-vivienda-para-el-bienestar/263921",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
       },
       {
-        "title": "Lamarque impulsa segundo piso de 4T en Sonora",
-        "summary": "Funcionario busca consolidar políticas transformadoras en la entidad con nuevas iniciativas.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/lamarque-busca-construir-el-segundo-piso-de-la-4t-en-sonora-31529913",
-        "_added_at": "2026-09-04T16:43:21.029032-07:00"
-      },
-      {
-        "title": "Durazo y MC escalan confrontación rumbo a 2027",
-        "summary": "Intensifica la rivalidad entre Durazo y Movimiento Ciudadano en la carrera electoral de Sonora 2027.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/durazo-y-mc-escalan-el-pulso-por-sonora-rumbo-a-2027/",
-        "_added_at": "2026-09-04T11:48:51.920089-07:00"
-      },
-      {
-        "title": "IEE convoca a crear frases para promover el voto",
-        "summary": "Instituto Electoral de Sonora invita a ciudadanía a participar con propuestas de frases de votación.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/04/iee-invita-a-sonorenses-a-crear-frase-para-promover-el-voto/",
-        "_added_at": "2026-09-04T11:48:51.920089-07:00"
-      },
-      {
-        "title": "Morena retrasa anuncio de candidato a gubernatura",
-        "summary": "Incertidumbre sobre cuándo Morena revelará su candidato oficial para gobernar Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/04/cuando-anunciara-morena-candidato-o-candidata-a-gubernatura-de-sonora-por-que-lo-retrasan/",
-        "_added_at": "2026-09-04T11:48:51.920089-07:00"
-      },
-      {
-        "title": "Modernización carretera Sonoyta-Peñasco con inversión de 1,800 millones",
-        "summary": "Gobernador Durazo y Presidenta Sheinbaum inician proyecto de infraestructura vial entre Puerto Peñasco y frontera.",
+        "title": "Isaac López Villavicencio asume Secretaría del PRI",
+        "summary": "Cambio de liderazgo en estructura partidista a nivel estatal.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/gobernador-durazo-y-presidenta-sheinbaum-arrancan-modernizacion-de-carretera-sonoyta-penasco-con-inversion-de-mil-800-millones/",
-        "_added_at": "2026-09-04T00:22:18.804923-07:00"
+        "url": "https://www.radarsonora.com/isaac-lopez-villavicencio-asume-secretaria-general-del-pri/",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+      },
+      {
+        "title": "Morena Sonora prevé resultados de encuesta próximamente",
+        "summary": "Partido planea publicar resultados de sondeo interno para el 15 de septiembre.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/morena-sonora-preve-resultados-de-su-encuesta-para-el-15-de-septiembre/",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Regulación de pipas de materiales peligrosos en cuestionamiento",
-        "summary": "Investigan quién supervisa transporte de químicos en Sonora tras derrame de ácido sulfúrico en región.",
+        "title": "Reapertura de cruce ganadero en Agua Prieta prevista",
+        "summary": "Nuevo sistema permitirá reanudar comercio de ganado hacia Estados Unidos próxima semana.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/derrame-de-acido-sulfurico-en-imuris-cananea-que-sigue/263888",
-        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/cruce-ganadero-en-agua-prieta-podria-reanudarse-el-martes/263910",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
       },
       {
-        "title": "CFE suspenderá servicio eléctrico en Nogales por ocho horas",
-        "summary": "Paraestatal anuncia corte de energía en ejido Cibuta de 4:00 a 12:00 horas para labores de mantenimiento.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cfe-suspendera-el-servicio-electrico-en-ejido-cibuta-nogales/263858",
-        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+        "title": "UES fortalece formación de horticultores sonorenses",
+        "summary": "Universidad impulsa educación agrícola en campos experimentales del estado.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/ues-fortalece-formacion-de-futuros-horticultores-en-campos-experimentales-31902291",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
       },
       {
-        "title": "Inician modernización de carretera Sonoyta-Puerto Peñasco",
-        "summary": "Gobierno invierte mil 800 millones de pesos en infraestructura de carretera en la región.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/arranca-modernizacion-de-carretera-sonoyta-puerto-penasco/263855",
-        "_added_at": "2026-09-04T11:48:51.920089-07:00"
+        "title": "Buscan regularizar transporte de jornaleros agrícolas",
+        "summary": "Iniciativa para formalizar y mejorar condiciones de trabajadores del campo en Sonora.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/buscan-regularizar-transporte-de-jornaleros-agricolas-en-sonora/",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
       },
       {
-        "title": "Pescadores de Yavaros preocupados por temporada de camarón",
-        "summary": "Flota pesquera espera autorización para camarón; prevén menor cantidad de barcos por falta de recursos.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/04/pescadores-de-yavaros-esperan-luz-verde-para-el-camaron-preven-menor-flota-por-falta-de-recursos/",
-        "_added_at": "2026-09-04T11:48:51.920089-07:00"
-      },
-      {
-        "title": "Guaymas como motor logístico con modernización portuaria",
-        "summary": "Javier Lamarque destaca potencial de puerto para fortalecer movimiento de carga y conectividad regional.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/guaymas-puede-convertirse-en-motor-logistico-javier-lamarque/263828",
-        "_added_at": "2026-09-04T00:22:18.804923-07:00"
+        "title": "Simposio Internacional de Nogal Pecanero 2026 en Hermosillo",
+        "summary": "Evento XXVII edición promueve desarrollo agroindustrial regional con participación internacional.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/https-infodegeneracion-com-simposio-internacional-nogal-pecanero-2026-hermosillo/",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Paro en IMSS Nogales afecta a 300 usuarios diarios",
-        "summary": "Trabajadores exigen mejoras en instalaciones administrativas de subdelegación; servicio de salud comprometido en la región.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/04/paro-laboral-imss-nogales-instalaciones-mal-estado-afecta-300-usuarios-dia.html",
-        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+        "title": "DIF reporta 106 casos de abandono a adultos mayores",
+        "summary": "Institución atiende expedientes por maltrato y desatención de personas de tercera edad.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/dif-sonora-atiende-106-expedientes-por-abandono-de-adultos-mayores-en-2026/",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
       },
       {
-        "title": "Sonora suma 23 casos de gusano barrenador",
-        "summary": "Alertan sobre propagación de parásito en ganado; autoridades trabajan en contención de enfermedad animal.",
+        "title": "Foro impulsa emprendimiento femenino en Sonora",
+        "summary": "Evento ofrece herramientas y capacitación a mujeres empresarias del estado.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/foro-emprendamos-juntas-mujeres-emprendedoras-sonora/",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+      },
+      {
+        "title": "Calor extremo afecta a recolectores de basura",
+        "summary": "Trabajadores enfrentan condiciones climáticas adversas en labores de saneamiento urbano.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/sonora-suma-23-casos-gusano-barrenador-n902179",
-        "_added_at": "2026-09-04T16:43:21.029032-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/calor-da-tregua-recolectores-basura-n902243",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
       },
       {
-        "title": "Se recupera servicio de agua en Centro y Sur Hermosillo",
-        "summary": "Restablecen abastecimiento tras reparación del acueducto Independencia en capital estatal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/04/se-recupera-el-servicio-de-agua-en-centro-y-sur-de-hermosillo-tras-reparacion-del-acueducto-independencia/",
-        "_added_at": "2026-09-04T16:43:21.029032-07:00"
-      },
-      {
-        "title": "Astiazarán supervisa parque para niñez autista",
-        "summary": "Funcionario inspecciona infraestructura destinada a atender necesidades de menores con espectro autista.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/supervisa-tono-astiazaran-parque-para-ninez-autista/",
-        "_added_at": "2026-09-04T16:43:21.029032-07:00"
-      },
-      {
-        "title": "CFE suspenderá servicio eléctrico en Nogales",
-        "summary": "Corte de energía de ocho horas en Ejido Cibuta, Nogales, informó la paraestatal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cfe-suspendera-el-servicio-electrico-en-ejido-cibuta-nogales/263858",
-        "_added_at": "2026-09-04T11:48:51.920089-07:00"
-      },
-      {
-        "title": "Burgos impulsa capacitación contra violencia de género",
-        "summary": "Iniciativa en Nogales fortalece defensa de mujeres y aborda violencia política de género.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/04/angelica-burgos-impulsa-capacitacion-fortalecer-defensa-mujeres-nogales.html",
-        "_added_at": "2026-09-04T11:48:51.920089-07:00"
-      },
-      {
-        "title": "UNICEF reconoce protección de menores en Sonora",
-        "summary": "Gobierno de Sonora recibe reconocimiento internacional por trabajo en protección de niñas, niños y adolescentes.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/04/reconoce-unicef-mexico-trabajo-del-gobierno-de-sonora-sobre-proteccion-de-ninas-ninos-y-adolescentes-sec/",
-        "_added_at": "2026-09-04T11:48:51.920089-07:00"
-      },
-      {
-        "title": "Agua normaliza en Hermosillo este viernes tras crisis",
-        "summary": "Servicio de agua potable regresa a condiciones normales en la capital sonorense.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/agua-volvera-normalidad-viernes-hermosillo-n902073",
-        "_added_at": "2026-09-04T00:22:18.804923-07:00"
-      },
-      {
-        "title": "Calor extremo en Sonora se prolongará hasta noviembre",
-        "summary": "Secretaría de Salud advierte sobre riesgos por temperaturas altas y recomienda medidas preventivas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/advierten-que-calor-puede-afectar-a-sonora-hasta-noviembre/263832",
-        "_added_at": "2026-09-04T00:22:18.804923-07:00"
-      },
-      {
-        "title": "Parque inclusivo avanza para niños con autismo",
-        "summary": "Proyecto de espacio inclusivo en desarrollo para beneficio de menores con condición de espectro autista.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/avanza-parque-inclusivo-ninas-ninos-autismo-n902097",
-        "_added_at": "2026-09-04T00:22:18.804923-07:00"
+        "title": "Universidad entrega útiles y silla de ruedas a DIF",
+        "summary": "UES realiza donación de materiales educativos y equipo para beneficiarios del DIF municipal.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/entrega-ues-utiles-escolares-y-silla-de-ruedas-al-dif-municipal-31802116",
+        "_added_at": "2026-09-05T00:04:06.619590-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-04T16:43:21.029032-07:00"
+  "last_updated": "2026-09-05T00:04:06.619590-07:00"
 }
