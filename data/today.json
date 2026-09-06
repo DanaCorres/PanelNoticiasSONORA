@@ -1,225 +1,113 @@
 {
-  "date": "2026-09-05",
-  "run_count": 2,
+  "date": "2026-09-06",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Disparan contra policías en Cajeme; sujeto vinculado a proceso",
-        "summary": "Individuo disparó contra dos policías en Cajeme y fue detenido, siendo vinculado a proceso penal por los hechos.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/disparo-contra-dos-policias-en-cajeme-queda-preso-y-vinculado-a-proceso/",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "Asesinato en Puerta del Rey; víctima identificada",
-        "summary": "Autoridades identificaron a hombre fallecido tras ser hallado en una vivienda de Puerta del Rey.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/identifican-hombre-asesinado-vivienda-puerta-rey-n902330",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "Tres hombres imputados por homicidio en Hermosillo",
-        "summary": "Se imputan cargos a tres individuos por homicidio y ataque en instalaciones deportivas de Hermosillo.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/imputan-tres-hombres-homicidio-ataque-instalaciones-deportivas-hermosillo-n902320",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "Capturan a sujeto por irrumpir en el CUM",
-        "summary": "Detienen a individuo que irrumpió en las instalaciones del Centro Universitario de Monterrey.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/capturan-a-otro-por-irrumpir-en-el-cum/",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "Cuarto detenido por incendio en campus universitario",
-        "summary": "Autoridades capturan a cuarto implicado en incendio registrado en el CUM de Hermosillo.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/cae-cuarto-implicado-incendio-cum-n902241",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
-      },
-      {
-        "title": "Maestra de preescolar sentenciada por abuso sexual",
-        "summary": "Condena judicial a docente acusada de cometer abusos sexuales contra menores.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/sentencian-maestra-kinder-abusos-sexuales-n902250",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
-      },
-      {
-        "title": "Mil 467 Zonas SALVA refuerzan seguridad en Hermosillo",
-        "summary": "Gobierno implementa programa de zonas seguras para protección de mujeres en riesgo.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/suman-mil-467-zonas-salva-hermosillo-n902245",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
-      },
-      {
-        "title": "Fuga de amoníaco en Hermosillo genera alerta sanitaria",
-        "summary": "Incidente químico en la ciudad afecta a residentes; se informan efectos potenciales en salud.",
+        "title": "EU emite alerta de seguridad en Nogales; restringe movilidad",
+        "summary": "Estados Unidos activó alerta de seguridad en Nogales limitando actividades de funcionarios consulares por amenazas identificadas.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/fuga-de-amoniaco-en-hermosillo-que-efectos-puede-tener-en-la-salud-31620721",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/estados-unidos-emite-alerta-de-seguridad-y-restringe-actividades-en-nogales-por-amenazas-31924241",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
+      },
+      {
+        "title": "Ataque armado en CUM deja un hombre asesinado",
+        "summary": "Homicidio registrado tras ataque armado en zona del CUM en Hermosillo.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/tras-el-ataque-armado-en-el-cum-asesinaron-a-un-hombre/",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
+      },
+      {
+        "title": "Choque carretero en SLRC-Santa Clara cobra cuatro vidas",
+        "summary": "Accidente vial en tramo San Luis Río Colorado-Santa Clara resulta en cuatro muertos y múltiples lesionados.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/choque-en-tramo-slrc-santa-clara-deja-cuatro-muertos/263966",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
+      },
+      {
+        "title": "Vinculan a dos sujetos por vehículos robados en SLRC",
+        "summary": "Dos personas quedan ligadas a proceso por posesión de automóviles robados en San Luis Río Colorado.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/quedan-vinculados-dos-sujetos-por-la-posesion-de-vehiculos-robados-en-san-luis-rio-colorado/",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Toman protesta direcciones municipales del PRD-Maciso",
-        "summary": "Se realizó ceremonia de protesta para nuevas direcciones municipales ejecutivas de la alianza PRD-Maciso en Sonora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/toman-protesta-a-direcciones-municipales-ejecutivas-del-prd-maciso-en-sonora-31918930",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "Movimiento Ciudadano se prepara para 2027; Colosio relevante",
-        "summary": "MC estructura su estrategia electoral para 2027 en Sonora con Colosio como figura central.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/movimiento-ciudadano-se-prepara-rumbo-a-2027-y-colosio-aparece-como-pieza-clave-en-sonora-31713606",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "Partido Verde prepara 20 Casas Verdes en Sonora",
-        "summary": "PVEM proyecta apertura de veinte espacios comunitarios denominados Casas Verdes en la entidad.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/partido-verde-en-sonora-prepara-20-casas-verdes-31775469",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "Lamarque destaca experiencia para próximo gobierno estatal",
-        "summary": "Político señala que nuevo periodo de tres años requiere continuidad y experiencia administrativa.",
+        "title": "Lamarque subraya importancia de coordinación institucional en Sonora",
+        "summary": "Funcionario destaca que comunicación entre niveles de gobierno es esencial para recursos y bienestar familiar.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/gobierno-de-tres-anos-requiere-experiencia-javier-lamarque/263912",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/coordinacion-institucional-es-clave-para-el-desarrollo-jlc/263973",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
       },
       {
-        "title": "Lorenia Valles respalda programa federal de vivienda",
-        "summary": "Senadora con licencia destaca resultados de iniciativa de Sheinbaum en el estado.",
+        "title": "Valles destaca infraestructura de gobierno Sheinbaum en Sonora",
+        "summary": "Funcionaria resalta que inversión federal impulsa bienestar social y desarrollo regional en la entidad.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/valles-destaca-resultados-de-vivienda-para-el-bienestar/263921",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/infraestructura-y-bienestar-en-gobierno-de-sheinbaum-valles/263972",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
       },
       {
-        "title": "Isaac López Villavicencio asume Secretaría del PRI",
-        "summary": "Cambio de liderazgo en estructura partidista a nivel estatal.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/isaac-lopez-villavicencio-asume-secretaria-general-del-pri/",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+        "title": "PRI se prepara para próximas contiendas electorales",
+        "summary": "Dirigente del tricolor afirma que partido está fortalecido y listo para participar en elecciones futuras.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/en-miguel-aleman-el-pri-esta-vivo-y-listo-para-dar-la-batalla-lupita-soto/",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
       },
       {
-        "title": "Morena Sonora prevé resultados de encuesta próximamente",
-        "summary": "Partido planea publicar resultados de sondeo interno para el 15 de septiembre.",
+        "title": "INE convoca a jóvenes guaymenses a tramitar credencial electoral",
+        "summary": "Instituto electoral invita a menores de 17 años de Guaymas a obtener su credencial para votar.",
         "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/morena-sonora-preve-resultados-de-su-encuesta-para-el-15-de-septiembre/",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+        "url": "https://www.radiosonora.com.mx/ine-llama-a-jovenes-guaymenses-de-17-anos-a-tramitar-su-credencial-para-votar/",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Pobreza laboral en Sonora cae a mínimo de diez años",
-        "summary": "Indicadores muestran reducción significativa en pobreza laboral; ingresos alcanzan 4 mil 456 pesos mensuales por integrante.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/05/pobreza-laboral-en-sonora-cae-a-su-nivel-mas-bajo-en-10-anos-ingreso-laboral-por-integrante-del-hogar-llega-a-4-mil-456-pesos-al-mes/",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "Exportaciones ganaderas desde Agua Prieta se reanudan martes",
-        "summary": "Cruces ganaderos a EE.UU. reabren después de cierre técnico, favoreciendo comercio de exportación.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mundo/2026/09/05/exportaciones-ganaderas-a-eeuu-desde-agua-prieta-se-reanudaran-el-proximo-martes/",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "Porcicultura sonorense repunta; producción crece cuarenta por ciento",
-        "summary": "Sector porcino de Sonora experimenta recuperación con aumento de producción y crecimiento en exportaciones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/05/produccion-porcina-de-sonora-aumenta-40-y-exportaciones-crecen-31-por-recuperacion-del-mercado-de-japon-pero-el-precio-sigue-bajo/",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "Reapertura de cruce ganadero en Agua Prieta prevista",
-        "summary": "Nuevo sistema permitirá reanudar comercio de ganado hacia Estados Unidos próxima semana.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cruce-ganadero-en-agua-prieta-podria-reanudarse-el-martes/263910",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
-      },
-      {
-        "title": "UES fortalece formación de horticultores sonorenses",
-        "summary": "Universidad impulsa educación agrícola en campos experimentales del estado.",
+        "title": "Inicia dispersión de Programas del Bienestar en San Luis Río Colorado",
+        "summary": "Gobierno federal comienza pagos de programas sociales en municipio del norte de Sonora.",
         "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/ues-fortalece-formacion-de-futuros-horticultores-en-campos-experimentales-31902291",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/inicia-en-san-luis-la-dispersion-de-pagos-de-los-programas-del-bienestar-31918390",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
       },
       {
-        "title": "Buscan regularizar transporte de jornaleros agrícolas",
-        "summary": "Iniciativa para formalizar y mejorar condiciones de trabajadores del campo en Sonora.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/buscan-regularizar-transporte-de-jornaleros-agricolas-en-sonora/",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
-      },
-      {
-        "title": "Simposio Internacional de Nogal Pecanero 2026 en Hermosillo",
-        "summary": "Evento XXVII edición promueve desarrollo agroindustrial regional con participación internacional.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/https-infodegeneracion-com-simposio-internacional-nogal-pecanero-2026-hermosillo/",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+        "title": "Casa Ley celebra 72 años de operaciones en Hermosillo",
+        "summary": "Empresa comercial marca aniversario acompañada por clientes locales en la capital sonorense.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/casa-ley-celebra-72-anos-junto-sus-clientes-hermosillo-n902348",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Colectivo Abrazos de Mamá une familias en tertulia",
-        "summary": "Organización convoca a familias en evento de regreso a clases en Nogales, fomentando cohesión comunitaria.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/05/colectivo-abrazos-mama-une-familias-su-primera-tertulia-regreso-clases.html",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "Reanudan talleres artísticos en Casa de la Cultura",
-        "summary": "Se retoman actividades de talleres artísticos en Casa de la Cultura de Hermosillo para comunidad.",
+        "title": "Gobierno de Hermosillo ofrece castración gratuita de mascotas",
+        "summary": "Municipio invita a ciudadanos a jornada de esterilización sin costo en parque Los Encinos.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/reanudan-talleres-artisticos-casa-cultura-hermosillo-n902325",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
+        "url": "https://www.uniradiosonora.com/salud/invita-gobierno-hermosillo-jornada-castracion-gratuita-perros-gatos-encinos-n902350",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
       },
       {
-        "title": "Deporte como herramienta contra conductas de riesgo",
-        "summary": "Autoridades impulsan actividades deportivas y formación cívica para prevenir conductas antisociales en jóvenes nogalenses.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/05/deporte-disciplina-alejar-jovenes-conductas-riesgo-nogales.html",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "Profepa clausura zona por derrame de ácido sulfúrico",
-        "summary": "Autoridades ambientales cierran polígono afectado por derrames químicos en Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/clausuran-poligono-por-derrame-de-acido-en-sonora/263957",
-        "_added_at": "2026-09-05T16:33:50.967451-07:00"
-      },
-      {
-        "title": "DIF reporta 106 casos de abandono a adultos mayores",
-        "summary": "Institución atiende expedientes por maltrato y desatención de personas de tercera edad.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/dif-sonora-atiende-106-expedientes-por-abandono-de-adultos-mayores-en-2026/",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
-      },
-      {
-        "title": "Foro impulsa emprendimiento femenino en Sonora",
-        "summary": "Evento ofrece herramientas y capacitación a mujeres empresarias del estado.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/foro-emprendamos-juntas-mujeres-emprendedoras-sonora/",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
-      },
-      {
-        "title": "Calor extremo afecta a recolectores de basura",
-        "summary": "Trabajadores enfrentan condiciones climáticas adversas en labores de saneamiento urbano.",
+        "title": "Sonora refuerza prevención del dengue tras lluvias",
+        "summary": "Secretaría de Salud intensifica acciones contra mosquitos tras Segunda Jornada Nacional de lucha contra enfermedad.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/calor-da-tregua-recolectores-basura-n902243",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+        "url": "https://www.uniradiosonora.com/salud/refuerza-salud-sonora-prevencion-dengue-despues-lluvias-n902346",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
       },
       {
-        "title": "Universidad entrega útiles y silla de ruedas a DIF",
-        "summary": "UES realiza donación de materiales educativos y equipo para beneficiarios del DIF municipal.",
+        "title": "Tormentas eléctricas y lluvias fuertes en sur de Sonora",
+        "summary": "Meteorología prevé precipitaciones importantes en zona serrana del estado para próximos días.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/tormentas-electricas-y-fuertes-lluvias-llegaran-al-sur-de-sonora-este-domingo/143167",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
+      },
+      {
+        "title": "DIF San Luis ofrece Tarjetón de Discapacidad sin costo",
+        "summary": "Institución municipal pone a disposición trámite gratuito para personas con discapacidad.",
         "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/entrega-ues-utiles-escolares-y-silla-de-ruedas-al-dif-municipal-31802116",
-        "_added_at": "2026-09-05T00:04:06.619590-07:00"
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/dif-san-luis-rio-colorado-ofrece-tarjeton-de-discapacidad-gratuito-conoce-los-requisitos-31869700",
+        "_added_at": "2026-09-06T00:15:25.892449-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-05T16:33:50.967451-07:00"
+  "last_updated": "2026-09-06T00:15:25.892449-07:00"
 }
