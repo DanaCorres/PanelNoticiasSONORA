@@ -1,8 +1,36 @@
 {
   "date": "2026-09-06",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sentencian a 10 años por robo violento en Guaymas",
+        "summary": "Responsable de asalto a mano armada recibe condena de diez años y medio de prisión por la FGJES.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/06/a-prision-por-10-anos-y-6-meses-responsable-de-robo-violento-en-guaymas-fgjes/",
+        "_added_at": "2026-09-06T16:29:02.843437-07:00"
+      },
+      {
+        "title": "Choque frontal fatal en carretera del Golfo",
+        "summary": "Accidente automovilístico deja múltiples víctimas mortales en San Luis Río Colorado.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/sube-a-cinco-cifra-de-muertos-tras-choque-frontal-en-carretera-al-golfo-31930840",
+        "_added_at": "2026-09-06T16:29:02.843437-07:00"
+      },
+      {
+        "title": "Imputan homicidio a tres detenidos por ataque en CUM",
+        "summary": "Tres sujetos enfrentan cargos por homicidio tras incidente violento en instalaciones del Centro Universitario.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/imputan-por-homicidio-a-tres-ligados-al-ataque-en-instalaciones-del-cum-de-hermosillo-antes-de-la-noche-suprema-31911509",
+        "_added_at": "2026-09-06T16:29:02.843437-07:00"
+      },
+      {
+        "title": "Detienen profesor acusado de abusos sexuales",
+        "summary": "Autoridades capturan docente señalado de cometer delitos sexuales contra estudiante.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/detienen-profesor-acusado-abusos-sexuales-alumno-n902392",
+        "_added_at": "2026-09-06T16:29:02.843437-07:00"
+      },
       {
         "title": "Ejecutan a hombre en colonia Cajeme",
         "summary": "Homicidio registrado en zona residencial de Ciudad Obregón.",
@@ -41,6 +69,20 @@
     ],
     "politica": [
       {
+        "title": "Consulado estadounidense restringe operaciones en Nogales",
+        "summary": "Embajada limita actividades en la frontera por presuntas amenazas de seguridad.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/consulado-de-eu-restringe-actividades-en-nogales-por-presuntas-amenazas/",
+        "_added_at": "2026-09-06T16:29:02.843437-07:00"
+      },
+      {
+        "title": "Durazo marca récord en construcción de hospitales",
+        "summary": "Gobierno estatal construye diez hospitales en cinco años versus nueve en treinta años anteriores.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/alfonso-durazo-marca-un-record-historico-en-salud-10-hospitales-en-cinco-anos-frente-a-nueve-en-tres-decadas/",
+        "_added_at": "2026-09-06T16:29:02.843437-07:00"
+      },
+      {
         "title": "Lamarque subraya importancia de coordinación institucional en Sonora",
         "summary": "Funcionario destaca que comunicación entre niveles de gobierno es esencial para recursos y bienestar familiar.",
         "source": "Expreso",
@@ -71,6 +113,27 @@
     ],
     "economia": [
       {
+        "title": "UTH recibe un millón de euros para nuevo laboratorio",
+        "summary": "Inversión internacional para crear centro especializado en tecnología de refrigerantes únicos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/06/universidad-tecnologica-de-hermosillo-recibira-inversion-de-un-millon-de-euros-para-crear-laboratorio-de-nuevos-refrigerantes/",
+        "_added_at": "2026-09-06T16:29:02.843437-07:00"
+      },
+      {
+        "title": "Becas de 200 mil pesos para estudiantes en extranjero",
+        "summary": "Gobierno de Sonora ofrece apoyo económico a veinticinco jóvenes para formación internacional.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/beca-sonora-internacional-daran-200-mil-pesos-a-estudiantes/263996",
+        "_added_at": "2026-09-06T16:29:02.843437-07:00"
+      },
+      {
+        "title": "Contadores alertan sobre cuentas bloqueadas en Sonora",
+        "summary": "Gremio profesional advierte sobre consecuencias de restricciones a cuentas bancarias.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/06/colegio-de-contadores-de-sonora-alertan-sobre-consecuencias-de-cuentas-bloqueadas/",
+        "_added_at": "2026-09-06T16:29:02.843437-07:00"
+      },
+      {
         "title": "Turismo capta 1,083 millones por vacaciones",
         "summary": "Sector turístico sonorense genera ingresos significativos durante período vacacional.",
         "source": "El Imparcial",
@@ -93,6 +156,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "DIF Sonora fortalece doscientos comedores populares",
+        "summary": "Institución refuerza red de comedores comunitarios para apoyo alimentario.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/dif-sonora-fortalece-200-comedores-populares-n902383",
+        "_added_at": "2026-09-06T16:29:02.843437-07:00"
+      },
+      {
+        "title": "Sonora se prepara para tormentas el fin de semana",
+        "summary": "Meteorología advierte sobre lluvias intensas en múltiples ciudades del estado.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/sonora-se-prepara-para-un-domingo-de-tormentas-estas-ciudades-podrian-recibir-lluvias-este-6-de-septiembre/143172",
+        "_added_at": "2026-09-06T16:29:02.843437-07:00"
+      },
       {
         "title": "Durazo inaugura 10 hospitales en cinco años",
         "summary": "Gobierno estatal supera récord histórico de infraestructura hospitalaria en período comparable.",
@@ -144,5 +221,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-06T11:01:13.855035-07:00"
+  "last_updated": "2026-09-06T16:29:02.843437-07:00"
 }
