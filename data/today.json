@@ -1,8 +1,15 @@
 {
   "date": "2026-09-06",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ejecutan a hombre en colonia Cajeme",
+        "summary": "Homicidio registrado en zona residencial de Ciudad Obregón.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/06/ej3-cutan-a-hombre-en-la-colonia-cajeme-2/",
+        "_added_at": "2026-09-06T11:01:13.855035-07:00"
+      },
       {
         "title": "EU emite alerta de seguridad en Nogales; restringe movilidad",
         "summary": "Estados Unidos activó alerta de seguridad en Nogales limitando actividades de funcionarios consulares por amenazas identificadas.",
@@ -64,6 +71,13 @@
     ],
     "economia": [
       {
+        "title": "Turismo capta 1,083 millones por vacaciones",
+        "summary": "Sector turístico sonorense genera ingresos significativos durante período vacacional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/06/capta-turismo-1083-millones-por-vacaciones/",
+        "_added_at": "2026-09-06T11:01:13.855035-07:00"
+      },
+      {
         "title": "Inicia dispersión de Programas del Bienestar en San Luis Río Colorado",
         "summary": "Gobierno federal comienza pagos de programas sociales en municipio del norte de Sonora.",
         "source": "Tribuna de San Luis",
@@ -79,6 +93,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Durazo inaugura 10 hospitales en cinco años",
+        "summary": "Gobierno estatal supera récord histórico de infraestructura hospitalaria en período comparable.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/06/van-10-hospitales-en-5-anos-destaca-durazo-se-supera-lo-contruido-en-ultimos-30-anos/",
+        "_added_at": "2026-09-06T11:01:13.855035-07:00"
+      },
+      {
+        "title": "Hermosillo ofrece jornada gratuita de castración de mascotas",
+        "summary": "Gobierno municipal realiza evento de esterilización de perros y gatos en Los Encinos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com.mx/son/hermosillo/2026/09/06/hermosillo-tendra-jornada-gratuita-de-castracion-para-perros-y-gatos/",
+        "_added_at": "2026-09-06T11:01:13.855035-07:00"
+      },
+      {
+        "title": "Refuerzan acciones contra dengue en jornada nacional",
+        "summary": "Gobierno sonorense intensifica medidas de prevención y control del dengue.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-refuerza-medidas-de-prevencion-y-control-con-segunda-jornada-nacional-de-lucha-contra-el-dengue/",
+        "_added_at": "2026-09-06T11:01:13.855035-07:00"
+      },
       {
         "title": "Gobierno de Hermosillo ofrece castración gratuita de mascotas",
         "summary": "Municipio invita a ciudadanos a jornada de esterilización sin costo en parque Los Encinos.",
@@ -109,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-06T00:15:25.892449-07:00"
+  "last_updated": "2026-09-06T11:01:13.855035-07:00"
 }
