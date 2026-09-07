@@ -1,8 +1,36 @@
 {
   "date": "2026-09-07",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tres detenidos por incendio en campus universitario de Hermosillo",
+        "summary": "Vinculan a proceso a tres sujetos por incendio y daños en el Centro de Estudios Universitarios de Hermosillo durante eventos previos.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/vinculan-a-proceso-a-tres-por-incendio-y-danos-en-el-cum-de-hermosillo-31944941",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
+      {
+        "title": "Operativos contra vehículos extranjeros en carreteras sonorenses",
+        "summary": "CEVCE mantiene inspecciones permanentes en Sonora para detectar autos irregulares y contrabando.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/cevce-mantiene-operativos-contra-autos-extranjeros-en-sonora/264043",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
+      {
+        "title": "Detectan mil 404 conductores ebrios en Hermosillo en seis meses",
+        "summary": "Filtros de alcoholimetría aumentan detenciones de ebrios enviados a juzgado, disminuyendo accidentes viales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/07/filtros-de-alcoholimetria-detectan-a-mas-conductores-ebrios-en-hermosillo-y-aumentan-los-enviados-ante-el-juez-pero-disminuyen-accidentes-y-muertes-viales/",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
+      {
+        "title": "Presunta ladrona perseguida en calles de Ciudad Obregón",
+        "summary": "Persecución de presunta delincuente en Ciudad Obregón queda documentada en video viral.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/persiguen-a-presunta-ladrona-por-calles-de-ciudad-obregon-y-todo-queda-grabado-en-video/143215",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
       {
         "title": "Capturan a sujeto por maltrato animal en Agua Prieta",
         "summary": "Fiscalía captura a presunto maltratador de animales identificado mediante análisis de videos y fuentes abiertas.",
@@ -34,6 +62,27 @@
     ],
     "politica": [
       {
+        "title": "Heriberto Aguilar impulsa reforma a Ley General de Salud",
+        "summary": "Senador propone incorporar hospitales a procuración de órganos bajo estrictos controles sanitarios.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/heriberto-aguilar-impulsa-reforma-para-procuracion-organos/264044",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
+      {
+        "title": "Hugo Aguilar defiende nuevo Poder Judicial mexicano",
+        "summary": "Funcionario respalda reforma judicial argumentando obediencia a la Constitución.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/hugo-aguilar-defiende-nuevo-poder-judicial-debemos-obediencia-constitucion-n902482",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
+      {
+        "title": "Rogelio Cota se suma a proyecto político de Toño Astiazarán",
+        "summary": "Político se incorpora a iniciativa mediante Sonora con Todo tras salida de Movimiento Ciudadano.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/se-suma-rogelio-cota-a-proyecto-de-tono-astiazaran-a-traves-de-sonora-con-todo/",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
+      {
         "title": "Lamarque pide unidad y priorizar bienestar ciudadano",
         "summary": "Político sonorense exhorta mantener cohesión y colocar necesidades del pueblo sobre aspiraciones personales.",
         "source": "Expreso",
@@ -42,6 +91,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Hacienda Sonora niega adeudo con Cruz Roja por revalidación",
+        "summary": "Dependencia estatal desmente deuda de 30 millones de pesos con institución.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/hacienda-sonora-niega-adeudo-30-mdp-cruz-roja-revalidacion-vehicular-n902499",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
+      {
+        "title": "Programa Borrón y Cuenta Nueva beneficia a 350 mil contribuyentes",
+        "summary": "Iniciativa fiscal sonorense alcanza cobertura importante entre deudores estatales.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/beneficiara-programa-borron-y-cuenta-nueva-a-mas-de-350-mil-contribuyentes-en-sonora/",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
+      {
+        "title": "Fuerte incendio consume recicladora en Parque Industrial",
+        "summary": "Siniestro afecta empresa de reciclaje ubicada en zona industrial hermosillense.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/arrasa-fuerte-incendio-con-recicladora-en-el-parque-industrial/",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
       {
         "title": "Comedores populares reciben apoyo de 21 millones pesos",
         "summary": "Gobierno destina recurso para fortalecer programas de alimentación en establecimientos comunitarios sonorenses.",
@@ -58,6 +128,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Padres cierran Secundaria 6 por malas condiciones",
+        "summary": "Comunidad educativa protesta exigiendo soluciones para alumnos sin aulas adecuadas.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/alumnos-piso-calor-padres-toman-secundaria-6-exigen-soluciones-n902494",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
+      {
+        "title": "Bienestar alerta por fraudes con calendarios falsos",
+        "summary": "Dependencia advierte sobre esquemas fraudulentos aprovechando periodos de pago.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/07/bienestar-alerta-por-fraudes-con-calendarios-falsos-durante-periodos-de-pago/",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
+      {
+        "title": "Denuncian retraso en entrega de leche especial en Isssteson",
+        "summary": "Familia reporta demora en prestaciones de lactancia para bebé de ocho meses.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/07/denuncian-retraso-en-entrega-de-leche-especial-para-nina-de-ocho-meses-en-isssteson/",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
+      {
+        "title": "Tormentas avanzarán hacia centro y sur de Sonora",
+        "summary": "Monzón favorecerá precipitaciones en zonas serranas con temperaturas extremas en noroeste.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/07/el-monzon-favorecera-tormentas-en-el-norte-y-las-zonas-serranas-mientras-el-noroeste-y-centro-del-estado-registraran-temperaturas-de-hasta-43c/",
+        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+      },
       {
         "title": "Gobierno entrega 736 mil becas a estudiantes sonorenses",
         "summary": "Administración Durazo invierte 3 mil 700 millones pesos en educación y becas durante su gestión.",
@@ -81,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-07T00:29:07.817118-07:00"
+  "last_updated": "2026-09-07T12:36:13.078041-07:00"
 }
