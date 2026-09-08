@@ -1,246 +1,92 @@
 {
-  "date": "2026-09-07",
-  "run_count": 3,
+  "date": "2026-09-08",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Adolescente mata a primo en Ciudad Obregón por disputa de dinero",
-        "summary": "Menor dispara a su primo en discusión por 7 mil pesos en domicilio de Cajeme el domingo por la noche.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cajeme-menor-de-edad-asesina-a-balazos-a-su-primo-por-dinero/264047",
-        "_added_at": "2026-09-07T16:59:47.153518-07:00"
-      },
-      {
-        "title": "Incendio consume recicladora en Parque Industrial Hermosillo",
-        "summary": "Fuerte incendio afecta establecimiento de reciclaje en zona industrial hermosillense.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/arrasa-fuerte-incendio-con-recicladora-en-el-parque-industrial/",
-        "_added_at": "2026-09-07T16:59:47.153518-07:00"
-      },
-      {
-        "title": "FGR halla bodega con documentos clasificados y armas de exvicealmirante",
-        "summary": "Operación federal localiza material sensible e instrumentos en propiedad de Farías en Sonora.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/07/fgr-halla-bodega-de-exvicealmirante-manuel-farias-con-documentos-clasificados-y-armas/",
-        "_added_at": "2026-09-07T16:59:47.153518-07:00"
-      },
-      {
-        "title": "Tres detenidos por incendio en campus universitario de Hermosillo",
-        "summary": "Vinculan a proceso a tres sujetos por incendio y daños en el Centro de Estudios Universitarios de Hermosillo durante eventos previos.",
+        "title": "Influencer enfrentará juicio por violación de menores",
+        "summary": "Azlán N fue vinculado a proceso acusado de violación y corrupción de menores en Hermosillo.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/vinculan-a-proceso-a-tres-por-incendio-y-danos-en-el-cum-de-hermosillo-31944941",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/vinculan-a-proceso-al-influencer-azlan-n-por-violacion-y-corrupcion-de-menores-en-hermosillo-31954722",
+        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       },
       {
-        "title": "Operativos contra vehículos extranjeros en carreteras sonorenses",
-        "summary": "CEVCE mantiene inspecciones permanentes en Sonora para detectar autos irregulares y contrabando.",
+        "title": "Reportan desaparición de joven en Nogales",
+        "summary": "Ángel Iván Soto Acuña desapareció en Nogales, se solicita información sobre su paradero.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cevce-mantiene-operativos-contra-autos-extranjeros-en-sonora/264043",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/desaparece-angel-ivan-soto-acuna-en-nogales/264086",
+        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       },
       {
-        "title": "Detectan mil 404 conductores ebrios en Hermosillo en seis meses",
-        "summary": "Filtros de alcoholimetría aumentan detenciones de ebrios enviados a juzgado, disminuyendo accidentes viales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/07/filtros-de-alcoholimetria-detectan-a-mas-conductores-ebrios-en-hermosillo-y-aumentan-los-enviados-ante-el-juez-pero-disminuyen-accidentes-y-muertes-viales/",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
-      },
-      {
-        "title": "Presunta ladrona perseguida en calles de Ciudad Obregón",
-        "summary": "Persecución de presunta delincuente en Ciudad Obregón queda documentada en video viral.",
+        "title": "Joven muere tras ataque de su primo en Cajeme",
+        "summary": "Un joven falleció en Ciudad Obregón tras ser atacado por su primo.",
         "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/persiguen-a-presunta-ladrona-por-calles-de-ciudad-obregon-y-todo-queda-grabado-en-video/143215",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+        "url": "https://diariodelyaqui.mx/ciudadobregon/identifican-a-joven-que-murio-tras-ser-atacado-por-su-primo-en-ciudad-obregon/143251",
+        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       },
       {
-        "title": "Capturan a sujeto por maltrato animal en Agua Prieta",
-        "summary": "Fiscalía captura a presunto maltratador de animales identificado mediante análisis de videos y fuentes abiertas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/fgje-captura-a-senalado-por-maltrato-animal-en-agua-prieta/264016",
-        "_added_at": "2026-09-07T00:29:07.817118-07:00"
-      },
-      {
-        "title": "Atentado armado en CUM: procesados los responsables",
-        "summary": "Inician proceso legal contra implicados en ataque armado ocurrido en Campus de la Universidad de Sonora.",
+        "title": "Durazo entrega 73 nuevas unidades a instituciones de seguridad",
+        "summary": "Gobernador refuerza corporaciones policiales con vehículos para mejorar patrullaje estatal.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/van-a-proceso-por-el-atentado-armado-en-el-cum/",
-        "_added_at": "2026-09-07T00:29:07.817118-07:00"
-      },
-      {
-        "title": "Incendio en recicladora de Hermosillo requiere intervención",
-        "summary": "Bomberos controlan siniestro en instalaciones de reciclaje para evitar propagación del fuego.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/incendio-en-recicladora-de-hermosillo-moviliza-a-bomberos-trabajan-para-evitar-que-se-extienda-31939593",
-        "_added_at": "2026-09-07T00:29:07.817118-07:00"
+        "url": "https://www.radarsonora.com/gobernador-durazo-fortalece-instituciones-de-seguridad-con-entrega-de-73-nuevas-unidades/",
+        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Heriberto Aguilar propone reforma a Ley General de Salud",
-        "summary": "Legislador impulsa cambios para reducir barreras y aumentar donaciones en materia sanitaria.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/07/mas-donacion-menos-barreras-heriberto-aguilar-propone-reforma-a-la-ley-general-de-salud/",
-        "_added_at": "2026-09-07T16:59:47.153518-07:00"
-      },
-      {
-        "title": "Nogales mantiene tranquilidad pese a alerta consular estadounidense",
-        "summary": "Alcalde reporta normalidad en frontera a pesar de alertas diplomáticas internacionales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/07/frontera-mantiene-calma-pese-alerta-consular-incidentes-alcalde-nogales.html",
-        "_added_at": "2026-09-07T16:59:47.153518-07:00"
-      },
-      {
-        "title": "Heriberto Aguilar impulsa reforma a Ley General de Salud",
-        "summary": "Senador propone incorporar hospitales a procuración de órganos bajo estrictos controles sanitarios.",
+        "title": "Lamarque destaca tecnología como fortaleza de Sonora",
+        "summary": "Funcionario enfatiza importancia de tecnología e innovación en desarrollo económico regional.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/heriberto-aguilar-impulsa-reforma-para-procuracion-organos/264044",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
-      },
-      {
-        "title": "Hugo Aguilar defiende nuevo Poder Judicial mexicano",
-        "summary": "Funcionario respalda reforma judicial argumentando obediencia a la Constitución.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/hugo-aguilar-defiende-nuevo-poder-judicial-debemos-obediencia-constitucion-n902482",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
-      },
-      {
-        "title": "Rogelio Cota se suma a proyecto político de Toño Astiazarán",
-        "summary": "Político se incorpora a iniciativa mediante Sonora con Todo tras salida de Movimiento Ciudadano.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/se-suma-rogelio-cota-a-proyecto-de-tono-astiazaran-a-traves-de-sonora-con-todo/",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
-      },
-      {
-        "title": "Lamarque pide unidad y priorizar bienestar ciudadano",
-        "summary": "Político sonorense exhorta mantener cohesión y colocar necesidades del pueblo sobre aspiraciones personales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-llama-a-poner-bienestar-del-pueblo-sobre-intereses/264015",
-        "_added_at": "2026-09-07T00:29:07.817118-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-destaca-la-tecnologia-para-fortalecer-sonora/264078",
+        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Deshidratación dispara consultas en clínicas privadas por ola de calor",
-        "summary": "Temperaturas extremas incrementan afluencia a consultorios particulares en Hermosillo.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/deshidratacion-lleva-a-mas-personas-a-consultorios-particulares-por-las-altas-temperaturas-31668245",
-        "_added_at": "2026-09-07T16:59:47.153518-07:00"
+        "title": "Comercios esperan alza de 5% en Fiestas Patrias",
+        "summary": "Negocios locales proyectan aumento en ventas durante celebraciones patrias de septiembre.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/comercios-preven-un-alza-del-cinco-por-ciento-en-ventas-durante-fiestas-patrias/",
+        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       },
       {
-        "title": "Puente San Marcial en Guaymas presenta deterioro e inseguridad",
-        "summary": "Infraestructura vial estratégica del Valle de Guaymas requiere atención por riesgos estructurales.",
+        "title": "Puerto muestra capacidad logística con descarga de 114 toneladas",
+        "summary": "Operación portuaria demuestra infraestructura y capacidad de manejo de carga pesada.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/advierten-por-deterioro-y-riesgo-en-puente-san-marcial-del-valle-de-guaymas/",
-        "_added_at": "2026-09-07T16:59:47.153518-07:00"
-      },
-      {
-        "title": "Hacienda Sonora niega adeudo con Cruz Roja por revalidación",
-        "summary": "Dependencia estatal desmente deuda de 30 millones de pesos con institución.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/hacienda-sonora-niega-adeudo-30-mdp-cruz-roja-revalidacion-vehicular-n902499",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
-      },
-      {
-        "title": "Programa Borrón y Cuenta Nueva beneficia a 350 mil contribuyentes",
-        "summary": "Iniciativa fiscal sonorense alcanza cobertura importante entre deudores estatales.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/beneficiara-programa-borron-y-cuenta-nueva-a-mas-de-350-mil-contribuyentes-en-sonora/",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
-      },
-      {
-        "title": "Fuerte incendio consume recicladora en Parque Industrial",
-        "summary": "Siniestro afecta empresa de reciclaje ubicada en zona industrial hermosillense.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/arrasa-fuerte-incendio-con-recicladora-en-el-parque-industrial/",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
-      },
-      {
-        "title": "Comedores populares reciben apoyo de 21 millones pesos",
-        "summary": "Gobierno destina recurso para fortalecer programas de alimentación en establecimientos comunitarios sonorenses.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/comedores-populares-de-sonora-recibiran-apoyo-por-21-millones-de-pesos-31937166",
-        "_added_at": "2026-09-07T00:29:07.817118-07:00"
-      },
-      {
-        "title": "Universidad Tecnológica invierte millón euros en laboratorio",
-        "summary": "Hermosillo recibirá financiamiento internacional para modernizar instalaciones de investigación académica.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/invertiran-un-millon-de-euros-en-laboratorio-en-la-universidad-tecnologica-de-hermosillo/",
-        "_added_at": "2026-09-07T00:29:07.817118-07:00"
+        "url": "https://www.radarsonora.com/descarga-de-pieza-de-114-toneladas-muestra-capacidad-logistica-del-puerto/",
+        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Yoremes mayos celebran cuarto encuentro cultural en Nogales",
-        "summary": "Comunidad indígena conmemora evento de identidad y tradición en frontera sonorense.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/07/yoremes-mayos-celebraran-nogales-su-cuarto-encuentro-cultural-indigena.html",
-        "_added_at": "2026-09-07T16:59:47.153518-07:00"
-      },
-      {
-        "title": "Sonora lidera en afectaciones por calor; segundo en muertes",
-        "summary": "Entidad registra crisis sanitaria por temperaturas extremas entre estados mexicanos.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-lidera-en-afectaciones-por-calor-y-ocupa-el-segundo-lugar-en-muertes-31948652",
-        "_added_at": "2026-09-07T16:59:47.153518-07:00"
-      },
-      {
-        "title": "Salud capacita a padres y docentes sobre emergencias de diabetes tipo 1",
-        "summary": "Programa educativo atiende complicaciones de enfermedad en menores sonorenses.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/ciencia-y-salud/salud-sonora-capacitara-a-padres-docentes-y-personal-medico-ante-emergencias-por-diabetes-tipo-1-en-ninos-31946105",
-        "_added_at": "2026-09-07T16:59:47.153518-07:00"
-      },
-      {
-        "title": "DIF Navojoa habilita albergues ante temporada de lluvias",
-        "summary": "Institución prepara refugios para personas afectadas por precipitaciones fuertes.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/07/habilita-dif-navojoa-albergues-ante-las-lluvias/",
-        "_added_at": "2026-09-07T16:59:47.153518-07:00"
-      },
-      {
-        "title": "Padres cierran Secundaria 6 por malas condiciones",
-        "summary": "Comunidad educativa protesta exigiendo soluciones para alumnos sin aulas adecuadas.",
+        "title": "Alumna crea extintor accionado por sonido",
+        "summary": "Estudiante sonorense inventa dispositivo innovador que apaga incendios usando ondas sonoras.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/alumnos-piso-calor-padres-toman-secundaria-6-exigen-soluciones-n902494",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/video-alumna-crea-extintor-apaga-fuego-sonido-n902623",
+        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       },
       {
-        "title": "Bienestar alerta por fraudes con calendarios falsos",
-        "summary": "Dependencia advierte sobre esquemas fraudulentos aprovechando periodos de pago.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/07/bienestar-alerta-por-fraudes-con-calendarios-falsos-durante-periodos-de-pago/",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+        "title": "Rescatan joven de 25 metros de caída en barranco",
+        "summary": "Operativo de emergencia logra salvar a persona que cayó desde gran altura.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/rescatan-a-joven-que-cayo-a-un-barranco-desde-una-altura-de-25-metros/",
+        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       },
       {
-        "title": "Denuncian retraso en entrega de leche especial en Isssteson",
-        "summary": "Familia reporta demora en prestaciones de lactancia para bebé de ocho meses.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/07/denuncian-retraso-en-entrega-de-leche-especial-para-nina-de-ocho-meses-en-isssteson/",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
+        "title": "Sonora registra 30 casos de gusano barrenador",
+        "summary": "Enfermedad afecta a seis municipios; autoridades liberan millones de moscas estériles.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-acumula-30-casos-de-gusano-barrenador-en-seis-municipios-31952353",
+        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       },
       {
-        "title": "Tormentas avanzarán hacia centro y sur de Sonora",
-        "summary": "Monzón favorecerá precipitaciones en zonas serranas con temperaturas extremas en noroeste.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/07/el-monzon-favorecera-tormentas-en-el-norte-y-las-zonas-serranas-mientras-el-noroeste-y-centro-del-estado-registraran-temperaturas-de-hasta-43c/",
-        "_added_at": "2026-09-07T12:36:13.078041-07:00"
-      },
-      {
-        "title": "Gobierno entrega 736 mil becas a estudiantes sonorenses",
-        "summary": "Administración Durazo invierte 3 mil 700 millones pesos en educación y becas durante su gestión.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/alfonso-durazo-hace-historia-en-sonora-mas-de-736-mil-becas-entregadas-a-estudiantes/143200",
-        "_added_at": "2026-09-07T00:29:07.817118-07:00"
-      },
-      {
-        "title": "Ascienden a 464 afectados por ola de calor en estado",
-        "summary": "Autoridades reportan incremento significativo de casos relacionados con altas temperaturas en Sonora.",
+        "title": "Astiazarán moderniza bibliotecas y ludotecas municipales",
+        "summary": "Presidente municipal invierte en infraestructura cultural y espacios recreativos para comunidad.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/asciende-a-464-afectados-por-calor-en-sonora/",
-        "_added_at": "2026-09-07T00:29:07.817118-07:00"
+        "url": "https://entornoinformativo.com.mx/moderniza-tono-astiazaran-bibliotecas-y-ludotecas-municipales/",
+        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-07T16:59:47.153518-07:00"
+  "last_updated": "2026-09-08T00:22:35.226129-07:00"
 }
