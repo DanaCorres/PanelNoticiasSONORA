@@ -1,8 +1,29 @@
 {
   "date": "2026-09-07",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Adolescente mata a primo en Ciudad Obregón por disputa de dinero",
+        "summary": "Menor dispara a su primo en discusión por 7 mil pesos en domicilio de Cajeme el domingo por la noche.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/cajeme-menor-de-edad-asesina-a-balazos-a-su-primo-por-dinero/264047",
+        "_added_at": "2026-09-07T16:59:47.153518-07:00"
+      },
+      {
+        "title": "Incendio consume recicladora en Parque Industrial Hermosillo",
+        "summary": "Fuerte incendio afecta establecimiento de reciclaje en zona industrial hermosillense.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/arrasa-fuerte-incendio-con-recicladora-en-el-parque-industrial/",
+        "_added_at": "2026-09-07T16:59:47.153518-07:00"
+      },
+      {
+        "title": "FGR halla bodega con documentos clasificados y armas de exvicealmirante",
+        "summary": "Operación federal localiza material sensible e instrumentos en propiedad de Farías en Sonora.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/07/fgr-halla-bodega-de-exvicealmirante-manuel-farias-con-documentos-clasificados-y-armas/",
+        "_added_at": "2026-09-07T16:59:47.153518-07:00"
+      },
       {
         "title": "Tres detenidos por incendio en campus universitario de Hermosillo",
         "summary": "Vinculan a proceso a tres sujetos por incendio y daños en el Centro de Estudios Universitarios de Hermosillo durante eventos previos.",
@@ -51,16 +72,23 @@
         "source": "El Sol de Hermosillo",
         "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/incendio-en-recicladora-de-hermosillo-moviliza-a-bomberos-trabajan-para-evitar-que-se-extienda-31939593",
         "_added_at": "2026-09-07T00:29:07.817118-07:00"
-      },
-      {
-        "title": "Choque vehicular deja tres heridos en Hermosillo",
-        "summary": "Accidente de tránsito genera emergencia con lesionados que requieren atención médica.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/tres-heridos-deja-impresionante-choque-de-esta-noche/",
-        "_added_at": "2026-09-07T00:29:07.817118-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Heriberto Aguilar propone reforma a Ley General de Salud",
+        "summary": "Legislador impulsa cambios para reducir barreras y aumentar donaciones en materia sanitaria.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/07/mas-donacion-menos-barreras-heriberto-aguilar-propone-reforma-a-la-ley-general-de-salud/",
+        "_added_at": "2026-09-07T16:59:47.153518-07:00"
+      },
+      {
+        "title": "Nogales mantiene tranquilidad pese a alerta consular estadounidense",
+        "summary": "Alcalde reporta normalidad en frontera a pesar de alertas diplomáticas internacionales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/07/frontera-mantiene-calma-pese-alerta-consular-incidentes-alcalde-nogales.html",
+        "_added_at": "2026-09-07T16:59:47.153518-07:00"
+      },
       {
         "title": "Heriberto Aguilar impulsa reforma a Ley General de Salud",
         "summary": "Senador propone incorporar hospitales a procuración de órganos bajo estrictos controles sanitarios.",
@@ -91,6 +119,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Deshidratación dispara consultas en clínicas privadas por ola de calor",
+        "summary": "Temperaturas extremas incrementan afluencia a consultorios particulares en Hermosillo.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/deshidratacion-lleva-a-mas-personas-a-consultorios-particulares-por-las-altas-temperaturas-31668245",
+        "_added_at": "2026-09-07T16:59:47.153518-07:00"
+      },
+      {
+        "title": "Puente San Marcial en Guaymas presenta deterioro e inseguridad",
+        "summary": "Infraestructura vial estratégica del Valle de Guaymas requiere atención por riesgos estructurales.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/advierten-por-deterioro-y-riesgo-en-puente-san-marcial-del-valle-de-guaymas/",
+        "_added_at": "2026-09-07T16:59:47.153518-07:00"
+      },
       {
         "title": "Hacienda Sonora niega adeudo con Cruz Roja por revalidación",
         "summary": "Dependencia estatal desmente deuda de 30 millones de pesos con institución.",
@@ -128,6 +170,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Yoremes mayos celebran cuarto encuentro cultural en Nogales",
+        "summary": "Comunidad indígena conmemora evento de identidad y tradición en frontera sonorense.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/07/yoremes-mayos-celebraran-nogales-su-cuarto-encuentro-cultural-indigena.html",
+        "_added_at": "2026-09-07T16:59:47.153518-07:00"
+      },
+      {
+        "title": "Sonora lidera en afectaciones por calor; segundo en muertes",
+        "summary": "Entidad registra crisis sanitaria por temperaturas extremas entre estados mexicanos.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-lidera-en-afectaciones-por-calor-y-ocupa-el-segundo-lugar-en-muertes-31948652",
+        "_added_at": "2026-09-07T16:59:47.153518-07:00"
+      },
+      {
+        "title": "Salud capacita a padres y docentes sobre emergencias de diabetes tipo 1",
+        "summary": "Programa educativo atiende complicaciones de enfermedad en menores sonorenses.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/ciencia-y-salud/salud-sonora-capacitara-a-padres-docentes-y-personal-medico-ante-emergencias-por-diabetes-tipo-1-en-ninos-31946105",
+        "_added_at": "2026-09-07T16:59:47.153518-07:00"
+      },
+      {
+        "title": "DIF Navojoa habilita albergues ante temporada de lluvias",
+        "summary": "Institución prepara refugios para personas afectadas por precipitaciones fuertes.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/07/habilita-dif-navojoa-albergues-ante-las-lluvias/",
+        "_added_at": "2026-09-07T16:59:47.153518-07:00"
+      },
       {
         "title": "Padres cierran Secundaria 6 por malas condiciones",
         "summary": "Comunidad educativa protesta exigiendo soluciones para alumnos sin aulas adecuadas.",
@@ -169,15 +239,8 @@
         "source": "Entorno Informativo",
         "url": "https://entornoinformativo.com.mx/asciende-a-464-afectados-por-calor-en-sonora/",
         "_added_at": "2026-09-07T00:29:07.817118-07:00"
-      },
-      {
-        "title": "DIF Sonora sin aumento reportado en atención migrante",
-        "summary": "Dependencia estatal indica que no hay incremento previsto en servicios para población migrante en 2026.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sin-reporte-de-aumento-en-atencion-a-migrantes-en-2026-dif-sonora-31896674",
-        "_added_at": "2026-09-07T00:29:07.817118-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-07T12:36:13.078041-07:00"
+  "last_updated": "2026-09-07T16:59:47.153518-07:00"
 }
