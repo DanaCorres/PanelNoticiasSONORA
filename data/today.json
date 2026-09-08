@@ -1,8 +1,36 @@
 {
   "date": "2026-09-08",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a 'El Catracho' a proceso por secuestro en Altar",
+        "summary": "Presunto delincuente vinculado a proceso por privación de libertad en municipio de Altar tras presentación de pruebas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/08/vinculan-a-proceso-a-el-catracho-por-delito-contra-la-libertad-de-las-personas-en-altar/",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
+      {
+        "title": "Tres implicados en ataque al CUM van a proceso",
+        "summary": "Autoridades vinculan a tres sujetos por participación en ataque armado contra Centro Universitario en Hermosillo.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/van-a-proceso-tres-implicados-en-ataque-armado-en-el-cum/",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
+      {
+        "title": "Influencer Azlán será imputado por apología del delito",
+        "summary": "Creador de contenido enfrentará cargos tras difundir material en redes previo al ataque al CUM Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/08/influencer-sera-imputado-por-apologia-del-delito-tras-difusion-de-contenido-en-redes-previo-a-ataque-al-cum-hermosillo/",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
+      {
+        "title": "Fiscal asegura que no hay cobro de piso en Sonora",
+        "summary": "Procurador de justicia niega existencia de extorsiones sistemáticas en la entidad durante declaraciones públicas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/08/en-sonora-no-hay-cobro-de-piso-asegura-el-fiscal-gustavo-salas/",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
       {
         "title": "Sonora reduce homicidios 68.2% con fortalecimiento institucional",
         "summary": "Estado reporta reducción significativa en homicidios dolosos mediante estrategias de seguridad institucional reforzada.",
@@ -44,16 +72,23 @@
         "source": "Diario del Yaqui",
         "url": "https://diariodelyaqui.mx/ciudadobregon/identifican-a-joven-que-murio-tras-ser-atacado-por-su-primo-en-ciudad-obregon/143251",
         "_added_at": "2026-09-08T00:22:35.226129-07:00"
-      },
-      {
-        "title": "Durazo entrega 73 nuevas unidades a instituciones de seguridad",
-        "summary": "Gobernador refuerza corporaciones policiales con vehículos para mejorar patrullaje estatal.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/gobernador-durazo-fortalece-instituciones-de-seguridad-con-entrega-de-73-nuevas-unidades/",
-        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Gobernador Durazo niega desapariciones forzadas en Sonora",
+        "summary": "Funcionario estatal asegura categóricamente que no existen casos de desaparición forzada bajo su administración.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/08/no-tenemos-absolutamente-ninguna-desaparicion-forzada-en-sonora-asegura-alfonso-durazo/",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
+      {
+        "title": "Sonora se suma al Registro Nacional de Obligaciones Alimentarias",
+        "summary": "Entidad se integra a sistema nacional para transparencia y cobranza de pensiones alimenticias.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/08/sonora-se-suma-al-registro-nacional-de-obligaciones-alimentarias/",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
       {
         "title": "Inzunza queda fuera de Morena de manera oficial",
         "summary": "Senador sonorense es expulsado del partido; buscan quitarle comisión en el Senado.",
@@ -84,6 +119,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Presas del Valle del Yaqui necesitan lluvias para siembra",
+        "summary": "Reservas hídricas insuficientes para sembrar 110 mil hectáreas; esperan precipitaciones en septiembre.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/presas-del-yaqui-tienen-agua-para-sembrar-110-mil-hectareas/264129",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
+      {
+        "title": "CANACINTRA Nogales inaugura nueva sede regional",
+        "summary": "Cámara de comercio abre instalaciones que refuerzan su presencia y liderazgo en el Pacífico Norte.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/08/inaugura-canacintra-nogales-nueva-sede-expande-liderazgo-region-pacifico-norte.html",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
+      {
+        "title": "Hermosillo estrenará línea de transporte eléctrico exprés",
+        "summary": "Capital sonorense implementa nuevo servicio de movilidad sustentable de mayor rapidez.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/hermosillo-estrenara-linea-expres-transporte-electrico-n902753",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
       {
         "title": "Sonora reanuda exportación ganado hacia Estados Unidos",
         "summary": "Cruzarán 750 cabezas de ganado por Agua Prieta tras reparaciones en instalaciones.",
@@ -121,6 +177,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Gobernador apoya con becas a estudiantes con discapacidad auditiva",
+        "summary": "Gobierno estatal otorga apoyo económico a estudiantes con sordera para acceso a educación.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/08/gobernador-durazo-apoya-con-becas-a-estudiantes-con-discapacidad-auditiva/",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
+      {
+        "title": "56 frentes fríos afectarán Sonora con lluvias y heladas",
+        "summary": "Servicio Meteorológico prevé sistemas frontales superiores al promedio con impacto en temperaturas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/temporada-2026-2027-tendra-56-frentes-frios-afectaran-sonora/264136",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
+      {
+        "title": "UES San Luis suspende clases por falla eléctrica",
+        "summary": "Universidad estatal interrumpe actividades presenciales; se reanudarían después de reparación.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/la-ues-san-luis-rio-colorado-suspende-clases-presenciales-por-falla-electrica-se-reanudaran-el-miercoles-31961267",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
+      {
+        "title": "Hermosillo identifica 192 lotes baldíos bajo seguimiento municipal",
+        "summary": "Municipio monitorea terrenos abandonados en colonias específicas; aplicará sanciones hasta un millón.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hermosillo-tiene-192-lotes-baldios-bajo-seguimiento-estas-colonias-concentran-mas-reportes-31509173",
+        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+      },
       {
         "title": "Lluvias y tormentas avanzan en Sonora próximas horas",
         "summary": "Monzón mantiene condiciones para tormentas; Nogales concentra mayor probabilidad de precipitación.",
@@ -162,15 +246,8 @@
         "source": "El Sol de Hermosillo",
         "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-acumula-30-casos-de-gusano-barrenador-en-seis-municipios-31952353",
         "_added_at": "2026-09-08T00:22:35.226129-07:00"
-      },
-      {
-        "title": "Astiazarán moderniza bibliotecas y ludotecas municipales",
-        "summary": "Presidente municipal invierte en infraestructura cultural y espacios recreativos para comunidad.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/moderniza-tono-astiazaran-bibliotecas-y-ludotecas-municipales/",
-        "_added_at": "2026-09-08T00:22:35.226129-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-08T12:15:39.016391-07:00"
+  "last_updated": "2026-09-08T16:50:13.808104-07:00"
 }
