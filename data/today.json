@@ -1,8 +1,29 @@
 {
   "date": "2026-09-08",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sonora reduce homicidios 68.2% con fortalecimiento institucional",
+        "summary": "Estado reporta reducción significativa en homicidios dolosos mediante estrategias de seguridad institucional reforzada.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/sonora-reduce-68-2-por-ciento-el-homicidio-doloso-mediante-el-fortalecimiento-institucional-de-seguridad/",
+        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+      },
+      {
+        "title": "Gusano barrenador detectado en cuatro municipios sonorenses",
+        "summary": "Autoridades dispersan 30 millones de moscas estériles para contener plaga en Álamos, Quiriego, Yécora y Cajeme.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/08/sonora-suma-30-casos-de-gusano-barrenador-en-alamos-quiriego-yecora-y-cajeme-refuerzan-barridos-y-dispersan-30-millones-de-moscas-esteriles/",
+        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+      },
+      {
+        "title": "Aseguran 400 kilos tilapia por pesca ilegal en presa",
+        "summary": "Autoridades refuerzan vigilancia en El Oviáchic durante veda de tilapia en Sonora.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/aseguran-cerca-de-400-kilos-de-tilapia-por-pesca-ilegal-en-la-presa-el-oviachic-30885789",
+        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+      },
       {
         "title": "Influencer enfrentará juicio por violación de menores",
         "summary": "Azlán N fue vinculado a proceso acusado de violación y corrupción de menores en Hermosillo.",
@@ -34,6 +55,27 @@
     ],
     "politica": [
       {
+        "title": "Inzunza queda fuera de Morena de manera oficial",
+        "summary": "Senador sonorense es expulsado del partido; buscan quitarle comisión en el Senado.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/inzunza-queda-fuera-morena-manera-oficial-preven-quitarle-comision-senado-n902687",
+        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+      },
+      {
+        "title": "Congreso de Sonora reforma protección de datos personales",
+        "summary": "Discuten iniciativa para reforzar consentimiento en manejo información personal de ciudadanos.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/08/discuten-en-el-congreso-de-sonora-reforma-para-reforzar-el-consentimiento-en-el-manejo-de-datos-personales/",
+        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+      },
+      {
+        "title": "Durazo rompe tendencia de tres décadas en gobernanza",
+        "summary": "Gobernador implementa cambios significativos en modelo político del estado.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-alfonso-durazo-rompe-tendencia-de-tres-decadas/",
+        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+      },
+      {
         "title": "Lamarque destaca tecnología como fortaleza de Sonora",
         "summary": "Funcionario enfatiza importancia de tecnología e innovación en desarrollo económico regional.",
         "source": "Expreso",
@@ -42,6 +84,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Sonora reanuda exportación ganado hacia Estados Unidos",
+        "summary": "Cruzarán 750 cabezas de ganado por Agua Prieta tras reparaciones en instalaciones.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-reanuda-exportacion-de-ganado-a-eu-por-agua-prieta/264104",
+        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+      },
+      {
+        "title": "Gobierno promueve financiamiento en Feria Sonora Atiende",
+        "summary": "Ofrece opciones de crédito y apoyo financiero para empresas y emprendedores.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/08/gobierno-de-sonora-promueve-opciones-de-financiamiento-en-feria-sonora-atiende/",
+        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+      },
+      {
+        "title": "Proyecto acuacultura totoaba avanza en Bahía de Kino",
+        "summary": "Sonora construye laboratorio para recuperación de especie en peligro de extinción.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-busca-recuperar-la-totoaba-con-un-nuevo-proyecto-de-acuacultura-en-bahia-de-kino-31962561",
+        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+      },
       {
         "title": "Comercios esperan alza de 5% en Fiestas Patrias",
         "summary": "Negocios locales proyectan aumento en ventas durante celebraciones patrias de septiembre.",
@@ -58,6 +121,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Lluvias y tormentas avanzan en Sonora próximas horas",
+        "summary": "Monzón mantiene condiciones para tormentas; Nogales concentra mayor probabilidad de precipitación.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/08/tormentas-y-lluvias-fuertes-avanzaran-del-norte-y-la-sierra-hacia-el-centro-y-sur-de-sonora-en-las-proximas-horas-nogales-concentra-la-mayor-probabilidad/",
+        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+      },
+      {
+        "title": "DIF San Luis entrega bastones blancos a asociación ciegos",
+        "summary": "Apoyo a personas con discapacidad visual mediante entrega de bastones de movilidad.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/el-dif-san-luis-entrega-16-bastones-blancos-a-la-asociacion-enuluvi-31882736",
+        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+      },
+      {
+        "title": "Denuncian malas condiciones en Universidad Benito Juárez",
+        "summary": "Estudiantes en Etchojoa señalan problemas de infraestructura en campus universitario.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/08/denuncian-alumnos-malas-condiciones-en-universidad-benito-juarez-en-etchojoa/",
+        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+      },
       {
         "title": "Alumna crea extintor accionado por sonido",
         "summary": "Estudiante sonorense inventa dispositivo innovador que apaga incendios usando ondas sonoras.",
@@ -88,5 +172,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-08T00:22:35.226129-07:00"
+  "last_updated": "2026-09-08T12:15:39.016391-07:00"
 }
