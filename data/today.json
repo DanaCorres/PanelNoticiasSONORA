@@ -1,8 +1,36 @@
 {
   "date": "2026-09-09",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallan sin vida a Wendy en San Luis Río Colorado",
+        "summary": "Fiscalía investiga muerte de mujer tras 10 días de búsqueda; identifican persona de interés y brindan acompañamiento a familia.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/policiaca/2026/09/09/fgjes-investiga-desaparicion-y-localizacion-sin-vida-de-wendy-estefany-n-en-slrc/",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
+      {
+        "title": "Tráiler con gasolina se volca en Nogales",
+        "summary": "Derrame de 62 mil litros en parque industrial provoca incidente de relevancia ambiental y seguridad pública.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/09/vuelca-trailer-62-mil-litros-gasolina-provoca-derrame-parque-industrial.html",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
+      {
+        "title": "Bombero nogalense hospitalizado por quemaduras",
+        "summary": "Pablo Domínguez sufre quemaduras de primero y segundo grado durante atención de fuga de gas en Nogales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/bombero-de-nogales-recibe-atencion-especializada-por-quemaduras/264209",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
+      {
+        "title": "FGJES aumenta sentencias condenatorias en 411%",
+        "summary": "Fiscalía incrementa eficacia en procuración de justicia, consolidando a Sonora con mayor confianza ciudadana.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/09/incrementa-fgjes-en-un-411-las-sentencias-condenatorias-y-consolida-a-sonora-entre-los-estados-con-mayor-confianza-ciudadana-en-la-procuracion-de-justicia/",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
       {
         "title": "Autobús se descarrila y cae en canal de desagüe en Navojoa",
         "summary": "Accidente de transporte en sur de Sonora deja 13 pasajeros lesionados tras pérdida de control.",
@@ -48,6 +76,27 @@
     ],
     "politica": [
       {
+        "title": "Beltrones convoca frente opositor contra Morena",
+        "summary": "Líder político pide unidad de oposición y vigilancia en casillas para elecciones 2027.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/09/beltrones-pide-a-la-oposicion-formar-un-frente-comun-contra-morena-y-vigilar-casillas-en-2027/",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
+      {
+        "title": "INE invita jóvenes a tramitar credencial electoral",
+        "summary": "Iniciativa para aumentar participación política de ciudadanos en edad de votar.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/invita-ine-a-jovenes-a-tramitar-su-credencial-para-votar-31987233",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
+      {
+        "title": "Diputada Peña presenta iniciativa sobre diabetes tipo 1",
+        "summary": "Propuesta para garantizar atención integral a menores con diabetes en Sonora.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/09/presenta-diputada-amairany-pena-iniciativa-para-garantizar-atencion-integral-a-ninas-ninos-y-adolescentes-con-diabetes-tipo-1/",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
+      {
         "title": "Relator ONU: contaminación persiste en Río Sonora",
         "summary": "Organismo internacional señala que el problema ambiental en el río continúa sin resolverse.",
         "source": "El Sol de Hermosillo",
@@ -85,6 +134,20 @@
     ],
     "economia": [
       {
+        "title": "Yazaki prevé recuperar empleos en Cajeme y Bácum",
+        "summary": "Empresa espera reactivación laboral durante otoño según reporte de INDEX Sonora.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/09/yazaki-preve-recuperar-empleos-en-cajeme-y-bacum-durante-otono-index-sonora/",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
+      {
+        "title": "Reabren acceso de avenida Tecnológico en Nogales",
+        "summary": "Se restituye circulación vial en intersección estratégica de Nogales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/09/reabren-acceso-avenida-tecnologico-maestros-plutarco-elias-calles.html",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
+      {
         "title": "Agua Prieta reanuda cruce de ganado a Estados Unidos",
         "summary": "Ganadería se reactiva tras resolverse falla técnica en punto de paso fronterizo.",
         "source": "Sonora Presente",
@@ -121,6 +184,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Escuelas suspenden clases por problemáticas en Hermosillo",
+        "summary": "Planteles básicos cierran por distintas razones incluyendo infraestructura e insalubridad.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/escuelas-de-educacion-basica-suspenden-clases-por-distintas-problematicas-en-hermosillo-31986163",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
+      {
+        "title": "Venta de sangre: dos casos denunciados ante FGR",
+        "summary": "Se documenta delito federal de comercio irregular de sangre en Sonora.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/salud/venta-sangre-delito-federal-dos-casos-fueron-denunciados-fgr-sonora-n902946",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
+      {
+        "title": "Redes sociales impactan salud mental de usuarios",
+        "summary": "Expertos advierten sobre consecuencias del uso excesivo en bienestar psicológico.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/salud/alertan-impacto-uso-excesivo-redes-sociales-salud-mental-n902944/",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
+      {
+        "title": "Inaugura Astiazarán nuevo Cárcamo H en Hermosillo",
+        "summary": "Se reactiva espacio emblemático con presencia de familias y deportistas.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/inaugura-tono-astiazaran-nuevo-carcamo-h-junto-a-familias-y-deportistas/",
+        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+      },
       {
         "title": "Poste de alumbrado cae en primaria al norte de Hermosillo",
         "summary": "Estructura educativa afectada por caída de instalación tras vientos sostenidos en zona.",
@@ -162,22 +253,8 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/salud/fortalecen-respuesta-crisis-suicidas-n902809",
         "_added_at": "2026-09-09T00:31:12.575509-07:00"
-      },
-      {
-        "title": "Regalarán árboles nativos en vivero municipal",
-        "summary": "Entregan ejemplares nativos gratuitos para reforestación en Hermosillo.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/donaran-arboles-nativos-en-el-vivero-municipal/",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
-      },
-      {
-        "title": "Advierten sobre páginas falsas de trámites gubernamentales",
-        "summary": "Ciudadanía alerta sobre estafas mediante sitios web y mensajes falsos que simulan apoyos.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/advierten-a-la-ciudadania-sobre-mensajes-y-paginas-falsas-que-simulan-apoyos-y-tramites-de-gobierno-31966182",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-09T12:04:44.910744-07:00"
+  "last_updated": "2026-09-09T16:49:44.811415-07:00"
 }
