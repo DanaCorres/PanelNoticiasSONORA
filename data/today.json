@@ -1,8 +1,22 @@
 {
   "date": "2026-09-09",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Autobús se descarrila y cae en canal de desagüe en Navojoa",
+        "summary": "Accidente de transporte en sur de Sonora deja 13 pasajeros lesionados tras pérdida de control.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/accidente-en-carretera-navojoa-deja-13-pasajeros-lesionados/264179",
+        "_added_at": "2026-09-09T12:04:44.910744-07:00"
+      },
+      {
+        "title": "Tractocamión con combustible vuelca en Nogales",
+        "summary": "Derrame de combustible complica tránsito en Nogales tras volcamiento de cisterna.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/09/09/vuelca-tractocamion-con-doble-cisterna-cargado-de-combustible-en-nogales-cierran-acceso-al-parque-industrial-san-ramon-por-derrame/",
+        "_added_at": "2026-09-09T12:04:44.910744-07:00"
+      },
       {
         "title": "Operativos en Hermosillo: 138 detenidos y drogas aseguradas",
         "summary": "Semana intensiva de operativos resultó en 138 detenciones, armas y 177 dosis de crystal decomisadas en Hermosillo.",
@@ -34,6 +48,20 @@
     ],
     "politica": [
       {
+        "title": "Relator ONU: contaminación persiste en Río Sonora",
+        "summary": "Organismo internacional señala que el problema ambiental en el río continúa sin resolverse.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/relator-de-la-onu-la-contaminacion-persiste-en-el-rio-sonora-que-falto-y-que-se-exige-ahora-31900905",
+        "_added_at": "2026-09-09T12:04:44.910744-07:00"
+      },
+      {
+        "title": "CFE corta luz a pozos agrícolas de familia LeBarón",
+        "summary": "Conflicto entre empresa eléctrica e histórica familia sonorense por suministro a infraestructura agrícola.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/cortes-luz-pozos-agricolas-desatan-conflicto-cfe-familia-lebaron-n902885",
+        "_added_at": "2026-09-09T12:04:44.910744-07:00"
+      },
+      {
         "title": "Durazo inaugura Centro de Simulación en Hospital Universitario",
         "summary": "Gobernador expande atención médica con nuevo Centro de Simulación para capacitación clínica de profesionales.",
         "source": "Radar Sonora",
@@ -57,6 +85,20 @@
     ],
     "economia": [
       {
+        "title": "Agua Prieta reanuda cruce de ganado a Estados Unidos",
+        "summary": "Ganadería se reactiva tras resolverse falla técnica en punto de paso fronterizo.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/agua-prieta-reactiva-el-cruce-de-ganado-hacia-eu-tras-falla-tecnica/",
+        "_added_at": "2026-09-09T12:04:44.910744-07:00"
+      },
+      {
+        "title": "Zona prohibida genera mayor cantidad de multas en Hermosillo",
+        "summary": "Estacionamientos ilegales se convierten en infracción vehicular con mayor incremento en la capital.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/09/hermosillo-registra-mas-multas-de-transito-en-el-primer-semestre-de-2026-y-estacionarse-en-zona-prohibida-se-convierte-en-la-infraccion-con-mayor-aumento/",
+        "_added_at": "2026-09-09T12:04:44.910744-07:00"
+      },
+      {
         "title": "Reanudan envíos de ganado sonorense a EU",
         "summary": "Se reanuda comercio de ganado con Estados Unidos tras cierre de 12 días en frontera.",
         "source": "Entorno Informativo",
@@ -79,6 +121,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Poste de alumbrado cae en primaria al norte de Hermosillo",
+        "summary": "Estructura educativa afectada por caída de instalación tras vientos sostenidos en zona.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/09/cae-poste-de-alumbrado-en-primaria-al-norte-de-hermosillo-tras-dias-suspendido-por-vientos/",
+        "_added_at": "2026-09-09T12:04:44.910744-07:00"
+      },
+      {
+        "title": "Desconfianza hacia policías municipales persiste en Sonora",
+        "summary": "Encuesta refleja baja confianza ciudadana en corporaciones policiales locales del estado.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/09/persiste-desconfianza-hacia-policias-municipales-en-sonora/",
+        "_added_at": "2026-09-09T12:04:44.910744-07:00"
+      },
+      {
+        "title": "Lluvias destruyen mercancía de abarrotes en Ciudad Obregón",
+        "summary": "Tormentas causan pérdidas económicas a comerciantes de la región cajemense.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/fuertes-lluvias-destruyen-abarrotes-en-ciudad-obregon/143371",
+        "_added_at": "2026-09-09T12:04:44.910744-07:00"
+      },
+      {
+        "title": "Albergue de menores en San Luis solicita apoyo alimenticio urgente",
+        "summary": "Institución de rescate enfrenta escasez de alimentos y pide ayuda comunitaria.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/albergue-rescate-de-angelitos-callejeros-se-queda-sin-alimento-solicitan-apoyo-urgente-de-la-comunidad-31646508",
+        "_added_at": "2026-09-09T12:04:44.910744-07:00"
+      },
       {
         "title": "Entregan uniformes escolares gratuitos en San Luis",
         "summary": "Distribución de uniformes y libros de texto inicia en escuelas de San Luis Río Colorado.",
@@ -109,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-09T00:31:12.575509-07:00"
+  "last_updated": "2026-09-09T12:04:44.910744-07:00"
 }
