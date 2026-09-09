@@ -1,253 +1,113 @@
 {
-  "date": "2026-09-08",
-  "run_count": 3,
+  "date": "2026-09-09",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Vinculan a 'El Catracho' a proceso por secuestro en Altar",
-        "summary": "Presunto delincuente vinculado a proceso por privación de libertad en municipio de Altar tras presentación de pruebas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/08/vinculan-a-proceso-a-el-catracho-por-delito-contra-la-libertad-de-las-personas-en-altar/",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+        "title": "Operativos en Hermosillo: 138 detenidos y drogas aseguradas",
+        "summary": "Semana intensiva de operativos resultó en 138 detenciones, armas y 177 dosis de crystal decomisadas en Hermosillo.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/semana-de-operativos-sacude-hermosillo-138-detenidos-armas-y-177-dosis-de-crystal-aseguradas/",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       },
       {
-        "title": "Tres implicados en ataque al CUM van a proceso",
-        "summary": "Autoridades vinculan a tres sujetos por participación en ataque armado contra Centro Universitario en Hermosillo.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/van-a-proceso-tres-implicados-en-ataque-armado-en-el-cum/",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+        "title": "Agresores del CUM vinculados a tres homicidios",
+        "summary": "Autoridades investigan conexión de atacantes del CUM con tres casos de homicidio en la región.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/policiaca/agresores-cum-estarian-ligados-tres-homicidios-n902766",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       },
       {
-        "title": "Influencer Azlán será imputado por apología del delito",
-        "summary": "Creador de contenido enfrentará cargos tras difundir material en redes previo al ataque al CUM Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/08/influencer-sera-imputado-por-apologia-del-delito-tras-difusion-de-contenido-en-redes-previo-a-ataque-al-cum-hermosillo/",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
-      },
-      {
-        "title": "Fiscal asegura que no hay cobro de piso en Sonora",
-        "summary": "Procurador de justicia niega existencia de extorsiones sistemáticas en la entidad durante declaraciones públicas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/08/en-sonora-no-hay-cobro-de-piso-asegura-el-fiscal-gustavo-salas/",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
-      },
-      {
-        "title": "Sonora reduce homicidios 68.2% con fortalecimiento institucional",
-        "summary": "Estado reporta reducción significativa en homicidios dolosos mediante estrategias de seguridad institucional reforzada.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/sonora-reduce-68-2-por-ciento-el-homicidio-doloso-mediante-el-fortalecimiento-institucional-de-seguridad/",
-        "_added_at": "2026-09-08T12:15:39.016391-07:00"
-      },
-      {
-        "title": "Gusano barrenador detectado en cuatro municipios sonorenses",
-        "summary": "Autoridades dispersan 30 millones de moscas estériles para contener plaga en Álamos, Quiriego, Yécora y Cajeme.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/08/sonora-suma-30-casos-de-gusano-barrenador-en-alamos-quiriego-yecora-y-cajeme-refuerzan-barridos-y-dispersan-30-millones-de-moscas-esteriles/",
-        "_added_at": "2026-09-08T12:15:39.016391-07:00"
-      },
-      {
-        "title": "Aseguran 400 kilos tilapia por pesca ilegal en presa",
-        "summary": "Autoridades refuerzan vigilancia en El Oviáchic durante veda de tilapia en Sonora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/aseguran-cerca-de-400-kilos-de-tilapia-por-pesca-ilegal-en-la-presa-el-oviachic-30885789",
-        "_added_at": "2026-09-08T12:15:39.016391-07:00"
-      },
-      {
-        "title": "Influencer enfrentará juicio por violación de menores",
-        "summary": "Azlán N fue vinculado a proceso acusado de violación y corrupción de menores en Hermosillo.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/vinculan-a-proceso-al-influencer-azlan-n-por-violacion-y-corrupcion-de-menores-en-hermosillo-31954722",
-        "_added_at": "2026-09-08T00:22:35.226129-07:00"
-      },
-      {
-        "title": "Reportan desaparición de joven en Nogales",
-        "summary": "Ángel Iván Soto Acuña desapareció en Nogales, se solicita información sobre su paradero.",
+        "title": "Hombre vinculado a proceso por homicidio en Obregón",
+        "summary": "Detienen y vinculan a proceso a presunto responsable de muerte de Ana Lilia en Ciudad Obregón.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/desaparece-angel-ivan-soto-acuna-en-nogales/264086",
-        "_added_at": "2026-09-08T00:22:35.226129-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-sujeto-por-homicidio-de-mujer-en-ciudad-obregon/264148",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       },
       {
-        "title": "Joven muere tras ataque de su primo en Cajeme",
-        "summary": "Un joven falleció en Ciudad Obregón tras ser atacado por su primo.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/identifican-a-joven-que-murio-tras-ser-atacado-por-su-primo-en-ciudad-obregon/143251",
-        "_added_at": "2026-09-08T00:22:35.226129-07:00"
+        "title": "389 casos judicializados por desaparición de personas",
+        "summary": "Fiscalía suma 389 casos procesados judicialmente relacionados con desapariciones en Sonora.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/suman-389-casos-judicializados-por-desaparicion-de-personas/",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Gobernador Durazo niega desapariciones forzadas en Sonora",
-        "summary": "Funcionario estatal asegura categóricamente que no existen casos de desaparición forzada bajo su administración.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/08/no-tenemos-absolutamente-ninguna-desaparicion-forzada-en-sonora-asegura-alfonso-durazo/",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
-      },
-      {
-        "title": "Sonora se suma al Registro Nacional de Obligaciones Alimentarias",
-        "summary": "Entidad se integra a sistema nacional para transparencia y cobranza de pensiones alimenticias.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/08/sonora-se-suma-al-registro-nacional-de-obligaciones-alimentarias/",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
-      },
-      {
-        "title": "Inzunza queda fuera de Morena de manera oficial",
-        "summary": "Senador sonorense es expulsado del partido; buscan quitarle comisión en el Senado.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/inzunza-queda-fuera-morena-manera-oficial-preven-quitarle-comision-senado-n902687",
-        "_added_at": "2026-09-08T12:15:39.016391-07:00"
-      },
-      {
-        "title": "Congreso de Sonora reforma protección de datos personales",
-        "summary": "Discuten iniciativa para reforzar consentimiento en manejo información personal de ciudadanos.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/08/discuten-en-el-congreso-de-sonora-reforma-para-reforzar-el-consentimiento-en-el-manejo-de-datos-personales/",
-        "_added_at": "2026-09-08T12:15:39.016391-07:00"
-      },
-      {
-        "title": "Durazo rompe tendencia de tres décadas en gobernanza",
-        "summary": "Gobernador implementa cambios significativos en modelo político del estado.",
+        "title": "Durazo inaugura Centro de Simulación en Hospital Universitario",
+        "summary": "Gobernador expande atención médica con nuevo Centro de Simulación para capacitación clínica de profesionales.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/gobernador-alfonso-durazo-rompe-tendencia-de-tres-decadas/",
-        "_added_at": "2026-09-08T12:15:39.016391-07:00"
+        "url": "https://www.radarsonora.com/gobernador-durazo-expande-atencion-de-hospital-universitario-con-centro-de-simulacion-para-la-excelencia-clinica/",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       },
       {
-        "title": "Lamarque destaca tecnología como fortaleza de Sonora",
-        "summary": "Funcionario enfatiza importancia de tecnología e innovación en desarrollo económico regional.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-destaca-la-tecnologia-para-fortalecer-sonora/264078",
-        "_added_at": "2026-09-08T00:22:35.226129-07:00"
+        "title": "Lamarque destaca salto histórico en becas de Sonora",
+        "summary": "Funcionario subraya incremento significativo en recursos destinados a becas para estudiantes sonorenses.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/lamarque-destaca-salto-historico-becas-sonora-n902795",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
+      },
+      {
+        "title": "Gobernador rechaza abandono del Hospital de Ures",
+        "summary": "Durazo niega que las obras del Hospital Regional de Ures estén abandonadas y destaca avances.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/rechaza-gobernador-que-este-abandonada-la-obra-del-hospital-regional-de-ures-31969976",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Presas del Valle del Yaqui necesitan lluvias para siembra",
-        "summary": "Reservas hídricas insuficientes para sembrar 110 mil hectáreas; esperan precipitaciones en septiembre.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/presas-del-yaqui-tienen-agua-para-sembrar-110-mil-hectareas/264129",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
-      },
-      {
-        "title": "CANACINTRA Nogales inaugura nueva sede regional",
-        "summary": "Cámara de comercio abre instalaciones que refuerzan su presencia y liderazgo en el Pacífico Norte.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/08/inaugura-canacintra-nogales-nueva-sede-expande-liderazgo-region-pacifico-norte.html",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
-      },
-      {
-        "title": "Hermosillo estrenará línea de transporte eléctrico exprés",
-        "summary": "Capital sonorense implementa nuevo servicio de movilidad sustentable de mayor rapidez.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/hermosillo-estrenara-linea-expres-transporte-electrico-n902753",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
-      },
-      {
-        "title": "Sonora reanuda exportación ganado hacia Estados Unidos",
-        "summary": "Cruzarán 750 cabezas de ganado por Agua Prieta tras reparaciones en instalaciones.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-reanuda-exportacion-de-ganado-a-eu-por-agua-prieta/264104",
-        "_added_at": "2026-09-08T12:15:39.016391-07:00"
-      },
-      {
-        "title": "Gobierno promueve financiamiento en Feria Sonora Atiende",
-        "summary": "Ofrece opciones de crédito y apoyo financiero para empresas y emprendedores.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/08/gobierno-de-sonora-promueve-opciones-de-financiamiento-en-feria-sonora-atiende/",
-        "_added_at": "2026-09-08T12:15:39.016391-07:00"
-      },
-      {
-        "title": "Proyecto acuacultura totoaba avanza en Bahía de Kino",
-        "summary": "Sonora construye laboratorio para recuperación de especie en peligro de extinción.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-busca-recuperar-la-totoaba-con-un-nuevo-proyecto-de-acuacultura-en-bahia-de-kino-31962561",
-        "_added_at": "2026-09-08T12:15:39.016391-07:00"
-      },
-      {
-        "title": "Comercios esperan alza de 5% en Fiestas Patrias",
-        "summary": "Negocios locales proyectan aumento en ventas durante celebraciones patrias de septiembre.",
+        "title": "Reanudan envíos de ganado sonorense a EU",
+        "summary": "Se reanuda comercio de ganado con Estados Unidos tras cierre de 12 días en frontera.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/comercios-preven-un-alza-del-cinco-por-ciento-en-ventas-durante-fiestas-patrias/",
-        "_added_at": "2026-09-08T00:22:35.226129-07:00"
+        "url": "https://entornoinformativo.com.mx/reanudan-envios-de-ganado-de-sonora-a-eu-tras-12-dias-de-cierre/",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       },
       {
-        "title": "Puerto muestra capacidad logística con descarga de 114 toneladas",
-        "summary": "Operación portuaria demuestra infraestructura y capacidad de manejo de carga pesada.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/descarga-de-pieza-de-114-toneladas-muestra-capacidad-logistica-del-puerto/",
-        "_added_at": "2026-09-08T00:22:35.226129-07:00"
+        "title": "Crece empleo manufacturero en Sonora",
+        "summary": "Sector manufacturero genera nuevos empleos durante el primer semestre del año.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/crece-empleo-manufacturero-en-sonora-durante-primer-semestre/",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
+      },
+      {
+        "title": "Proponen ampliar programas de vivienda para vulnerables",
+        "summary": "Iniciativa busca expandir acceso a vivienda con alternativas a compra tradicional en Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/ely-sallard-hernandez-presenta-iniciativa-vivienda-sonora/264161",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Gobernador apoya con becas a estudiantes con discapacidad auditiva",
-        "summary": "Gobierno estatal otorga apoyo económico a estudiantes con sordera para acceso a educación.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/08/gobernador-durazo-apoya-con-becas-a-estudiantes-con-discapacidad-auditiva/",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
-      },
-      {
-        "title": "56 frentes fríos afectarán Sonora con lluvias y heladas",
-        "summary": "Servicio Meteorológico prevé sistemas frontales superiores al promedio con impacto en temperaturas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/temporada-2026-2027-tendra-56-frentes-frios-afectaran-sonora/264136",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
-      },
-      {
-        "title": "UES San Luis suspende clases por falla eléctrica",
-        "summary": "Universidad estatal interrumpe actividades presenciales; se reanudarían después de reparación.",
+        "title": "Entregan uniformes escolares gratuitos en San Luis",
+        "summary": "Distribución de uniformes y libros de texto inicia en escuelas de San Luis Río Colorado.",
         "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/la-ues-san-luis-rio-colorado-suspende-clases-presenciales-por-falla-electrica-se-reanudaran-el-miercoles-31961267",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/llegan-uniformes-escolares-gratuitos-a-planteles-la-entrega-inicia-esta-semana-31965357",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       },
       {
-        "title": "Hermosillo identifica 192 lotes baldíos bajo seguimiento municipal",
-        "summary": "Municipio monitorea terrenos abandonados en colonias específicas; aplicará sanciones hasta un millón.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hermosillo-tiene-192-lotes-baldios-bajo-seguimiento-estas-colonias-concentran-mas-reportes-31509173",
-        "_added_at": "2026-09-08T16:50:13.808104-07:00"
-      },
-      {
-        "title": "Lluvias y tormentas avanzan en Sonora próximas horas",
-        "summary": "Monzón mantiene condiciones para tormentas; Nogales concentra mayor probabilidad de precipitación.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/08/tormentas-y-lluvias-fuertes-avanzaran-del-norte-y-la-sierra-hacia-el-centro-y-sur-de-sonora-en-las-proximas-horas-nogales-concentra-la-mayor-probabilidad/",
-        "_added_at": "2026-09-08T12:15:39.016391-07:00"
-      },
-      {
-        "title": "DIF San Luis entrega bastones blancos a asociación ciegos",
-        "summary": "Apoyo a personas con discapacidad visual mediante entrega de bastones de movilidad.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/el-dif-san-luis-entrega-16-bastones-blancos-a-la-asociacion-enuluvi-31882736",
-        "_added_at": "2026-09-08T12:15:39.016391-07:00"
-      },
-      {
-        "title": "Denuncian malas condiciones en Universidad Benito Juárez",
-        "summary": "Estudiantes en Etchojoa señalan problemas de infraestructura en campus universitario.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/08/denuncian-alumnos-malas-condiciones-en-universidad-benito-juarez-en-etchojoa/",
-        "_added_at": "2026-09-08T12:15:39.016391-07:00"
-      },
-      {
-        "title": "Alumna crea extintor accionado por sonido",
-        "summary": "Estudiante sonorense inventa dispositivo innovador que apaga incendios usando ondas sonoras.",
+        "title": "Fortalecen respuesta ante crisis suicidas en Sonora",
+        "summary": "Se intensifican capacitaciones y diálogos para prevención de suicidios y atención a crisis.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/video-alumna-crea-extintor-apaga-fuego-sonido-n902623",
-        "_added_at": "2026-09-08T00:22:35.226129-07:00"
+        "url": "https://www.uniradiosonora.com/salud/fortalecen-respuesta-crisis-suicidas-n902809",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       },
       {
-        "title": "Rescatan joven de 25 metros de caída en barranco",
-        "summary": "Operativo de emergencia logra salvar a persona que cayó desde gran altura.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/rescatan-a-joven-que-cayo-a-un-barranco-desde-una-altura-de-25-metros/",
-        "_added_at": "2026-09-08T00:22:35.226129-07:00"
+        "title": "Regalarán árboles nativos en vivero municipal",
+        "summary": "Entregan ejemplares nativos gratuitos para reforestación en Hermosillo.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/donaran-arboles-nativos-en-el-vivero-municipal/",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       },
       {
-        "title": "Sonora registra 30 casos de gusano barrenador",
-        "summary": "Enfermedad afecta a seis municipios; autoridades liberan millones de moscas estériles.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-acumula-30-casos-de-gusano-barrenador-en-seis-municipios-31952353",
-        "_added_at": "2026-09-08T00:22:35.226129-07:00"
+        "title": "Advierten sobre páginas falsas de trámites gubernamentales",
+        "summary": "Ciudadanía alerta sobre estafas mediante sitios web y mensajes falsos que simulan apoyos.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/advierten-a-la-ciudadania-sobre-mensajes-y-paginas-falsas-que-simulan-apoyos-y-tramites-de-gobierno-31966182",
+        "_added_at": "2026-09-09T00:31:12.575509-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-08T16:50:13.808104-07:00"
+  "last_updated": "2026-09-09T00:31:12.575509-07:00"
 }
