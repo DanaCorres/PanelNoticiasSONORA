@@ -1,8 +1,36 @@
 {
   "date": "2026-09-10",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Creador de contenido asesinado en Ciudad Obregón",
+        "summary": "Confirman homicidio del Piturris, influenciador de redes sociales, en Cajeme.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/10/confirma-fgjes-homicidio-del-piturris-en-ciudad-obregon/",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
+      {
+        "title": "Joven herido por disparo dentro de su casa en Nogales",
+        "summary": "Investigan incidente de disparo que dejó gravemente herido a joven en domicilio.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/10/joven-resulta-gravemente-herido-disparo-dentro-su-casa.html",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
+      {
+        "title": "Fiscal investiga homicidio de taquero en Obregón",
+        "summary": "Muerte de vendedor de tacos por arma de fuego bajo investigación fiscal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/09/10/fiscalia-investiga-homicidio-de-un-taquero-en-ciudad-obregon-con-arma-de-fuego/",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
+      {
+        "title": "Operativo por violencia familiar en Cócorit",
+        "summary": "Captura de hombre buscado por actos de violencia intrafamiliar en la región.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/10/implementan-operativo-para-capturar-a-un-hombre-por-vi0-lencia-familiar-en-cocorit/",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
       {
         "title": "Camión urbano choca contra vivienda en Hermosillo",
         "summary": "Pasajeros salen por ventanas tras impacto de autobús contra barda en Hermosillo; investigan exceso de velocidad.",
@@ -44,23 +72,37 @@
         "source": "Tribuna de San Luis",
         "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/fiscalia-identifica-a-persona-de-interes-por-muerte-de-wendy-en-slrc-31990470",
         "_added_at": "2026-09-10T00:27:42.965311-07:00"
-      },
-      {
-        "title": "Hombre atacado a balazos en relleno sanitario de SLRC",
-        "summary": "Sujeto de 29 años recibe disparos en relleno sanitario; autoridades buscan responsable del ataque.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/hombre-de-29-anos-es-atacado-a-balazos-en-relleno-sanitario-buscan-al-responsable-31750085",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
-      },
-      {
-        "title": "Clausuran La Coqueta vinculada a grupo de riesgo",
-        "summary": "Autoridades clausuran establecimiento ligado a la Patrulla Espiritual tras controversia.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/nacional/clausuran-la-coqueta-ligada-a-la-patrulla-espiritual-tras-polemica-del-padrino-alexis/143391",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Diputada promueve reforma para vivienda digna en Sonora",
+        "summary": "Elly Sallard impulsa reforma garantizando servicios y seguridad en nuevas viviendas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/vivienda-adecuada-en-sonora-que-proposen-la-reforma/264280",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
+      {
+        "title": "Diputada usa lonas ilegales en Nogales para promoción",
+        "summary": "Señalan posible violación electoral por promoción anticipada de candidata rumbo a 2027.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/diputada-local-inunda-nogales-con-lonas-de-ella-y-sheinbaum-senalan-posible-promocion-ilegal-de-la-diputada-rumbo-a-2027/",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
+      {
+        "title": "Morena vigilará candidatos que aspiren representación estatal",
+        "summary": "Ariadna Montiel confirma cumplimiento de ley en selección de candidatos.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/10/morena-cumplira-la-ley-y-cuidara-que-quienes-aspiren-a-representarnos-esten-a-la-altura-de-la-confianza-ciudadana-ariadna-montiel/",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
+      {
+        "title": "Julia Huerta perfila candidatura en Nogales por Morena",
+        "summary": "Candidata recorre colonias y espera convocatoria para coordinación municipal.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/10/julia-huerta-ya-recorrio-47-colonias-espera-convocatoria-morena.html",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
       {
         "title": "Alcalde SLRC destaca avances a dos años de gobierno",
         "summary": "César Iván Sandoval resalta cercania social y obras de impacto ciudadano en San Luis Río Colorado.",
@@ -98,6 +140,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "H Bus beneficia estudiantes universitarios en Hermosillo",
+        "summary": "Transporte ofrece apoyos tarifarios a estudiantes de educación superior.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/beneficia-transporte-h-bus-a-estudiantes-universitarios-con-el-impulso-de-tono-astiazaran/",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
       {
         "title": "OOMAPAS amplía red de drenaje en San Luis Río Colorado",
         "summary": "Proyecto beneficiará a más de mil sanluisinos con ampliación de infraestructura sanitaria.",
@@ -143,6 +192,34 @@
     ],
     "sociedad": [
       {
+        "title": "Crisis grave en Hospital Ocaranza acumula 42 observaciones",
+        "summary": "Derechohabientes exigen clausura tras críticas infraestructurales y deficiencias.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/crisis-del-hospital-ocaranza-sacude-al-congreso-acumula-42-observaciones-y-derechohabientes-exigen-clausurarlo/",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
+      {
+        "title": "Recuperan bombeo de agua en Hermosillo gradualmente",
+        "summary": "AguaH mejora suministro tras restablecimiento del sistema La Victoria.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/10/recuperan-bombeo-de-la-victoria-suministro-de-agua-mejora-gradualmente-en-hermosillo-aguah/",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
+      {
+        "title": "Lluvias y tormentas eléctricas continúan en Sonora",
+        "summary": "Alerta meteorológica por precipitaciones fuertes en norte, centro y sierra.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/10/lluvias-fuertes-y-tormentas-electricas-continuaran-hoy-en-el-norte-centro-y-sierra-de-sonora-navojoa-tendra-70-de-probabilidad-y-hermosillo-55/",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
+      {
+        "title": "Niños y adolescentes hacen mitad de llamadas falsas al 911",
+        "summary": "Bomberos alertan sobre abuso de línea de emergencia por menores en Sonora.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/la-mitad-de-las-llamadas-de-broma-al-911-en-sonora-las-hacen-ninos-y-adolescentes-31899987",
+        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+      },
+      {
         "title": "Aumento de conductas suicidas en Sonora preocupa autoridades",
         "summary": "Casos de ideación suicida crecen 28 por ciento; Salud enfatiza necesidad de prevención.",
         "source": "Expreso",
@@ -183,22 +260,8 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/sociedad/refuerzan-prevencion-suicidio-apoyo-atencion-oportuna-n903015",
         "_added_at": "2026-09-10T00:27:42.965311-07:00"
-      },
-      {
-        "title": "H Bus ofrece transporte eléctrico gratuito a estudiantes",
-        "summary": "Programa de movilidad sostenible beneficia a población estudiantil sonorense.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/h-bus-impulsa-estudiantes-transporte-electrico-gratuito-n903013",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
-      },
-      {
-        "title": "Proponen regulación de tecnología en escuelas sonorenses",
-        "summary": "Iniciativa busca uso responsable de celulares y dispositivos en planteles educativos.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/presentan-iniciativa-para-el-uso-responsable-de-celulares-y-tecnologia-en-escuelas-de-sonora-31967713",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-10T11:56:48.475230-07:00"
+  "last_updated": "2026-09-10T16:43:20.173780-07:00"
 }
