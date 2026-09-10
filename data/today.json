@@ -1,8 +1,36 @@
 {
   "date": "2026-09-10",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Camión urbano choca contra vivienda en Hermosillo",
+        "summary": "Pasajeros salen por ventanas tras impacto de autobús contra barda en Hermosillo; investigan exceso de velocidad.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/columnas/2026/09/10/camion-urbano-se-impacta-contra-barda-de-una-vivienda-de-hermosillo-pasajeros-salen-por-las-ventanas-y-reportan-lesionados-en-paseo-del-pedregal/",
+        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+      },
+      {
+        "title": "Hombre condenado por transportar fentanilo y heroína",
+        "summary": "Sentencian a 8 años de prisión a sujeto que llevaba 31 paquetes de drogas en autobús entre Sonoyta y San Luis.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/10/sentencian-a-8-anos-de-prision-a-hombre-que-transportaba-fentanilo-y-heroina-en-autobus-en-carretera-sonoyta-slrc/",
+        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+      },
+      {
+        "title": "Detienen a dos jóvenes por robo a tienda en Hermosillo",
+        "summary": "Capturan a presuntos responsables de asalto a abarrotes; recuperan mercancía y efectivo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/10/tras-presunto-robo-a-un-abarrotes-de-hermosillo-detienen-a-dos-jovenes-y-recuperan-mercancia-y-efectivo/",
+        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+      },
+      {
+        "title": "Solicitan reforzar vigilancia en campus del ITSON Náinari",
+        "summary": "Autoridades piden incrementar seguridad en alrededores de institución tras serie de asaltos reportados.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/10/solicitan-reforzar-la-vigilancia-en-los-alrededores-del-itson-nainari-tras-una-serie-de-as4ltos/",
+        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+      },
       {
         "title": "Localizan a desaparecido de Nayarit en Agua Prieta",
         "summary": "Hombre reportado desaparecido en Nayarit fue encontrado con vida en Agua Prieta, Sonora.",
@@ -34,6 +62,20 @@
     ],
     "politica": [
       {
+        "title": "Alcalde SLRC destaca avances a dos años de gobierno",
+        "summary": "César Iván Sandoval resalta cercania social y obras de impacto ciudadano en San Luis Río Colorado.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/destaca-alcalde-cesar-ivan-sandoval-cercania-social-y-obra-con-impacto-ciudadano-a-dos-anos-de-gobierno-en-san-luis-rio-32002855",
+        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+      },
+      {
+        "title": "Congreso analiza necesidades del sector minero sonorense",
+        "summary": "Legisladores sonorenses examinan retos y demandas de la industria minera en la entidad.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/10/analiza-congreso-de-sonora-necesidades-y-retos-del-sector-minero-en-la-entidad/",
+        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+      },
+      {
         "title": "Beltrones convoca oposición para vigilancia electoral 2027",
         "summary": "Líder opositor hace llamado a frente para observar casillas durante proceso electoral próximo.",
         "source": "Entorno Informativo",
@@ -56,6 +98,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "OOMAPAS amplía red de drenaje en San Luis Río Colorado",
+        "summary": "Proyecto beneficiará a más de mil sanluisinos con ampliación de infraestructura sanitaria.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/el-30-ayuntamiento-y-oomapas-arrancan-ampliacion-de-red-de-drenaje-para-beneficiar-a-mas-de-mil-personas-en-san-luis-rio-colorado-31898155",
+        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+      },
+      {
+        "title": "Falla eléctrica de CFE afecta suministro de agua en Hermosillo",
+        "summary": "Más de 30 colonias de la capital sonorense enfrentan falta e intermitencias de agua.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/10/falla-electrica-de-cfe-afecta-bombeo-de-agua-en-hermosillo-y-provoca-falta-e-intermitencias-en-al-menos-30-colonias-del-norte/",
+        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+      },
       {
         "title": "Durazo propone construir 65 mil viviendas en Sonora",
         "summary": "Gobierno estatal busca triplicar cifra histórica de tres sexenios anteriores en construcción de casas.",
@@ -87,6 +143,34 @@
     ],
     "sociedad": [
       {
+        "title": "Aumento de conductas suicidas en Sonora preocupa autoridades",
+        "summary": "Casos de ideación suicida crecen 28 por ciento; Salud enfatiza necesidad de prevención.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/aumentan-tendencias-suicidas-28-por-ciento-en-sonora/264249",
+        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+      },
+      {
+        "title": "Programa \"Juntas Creamos\" empodera económicamente a mujeres",
+        "summary": "Talleres de jabones artesanales en Hermosillo promueven independencia económica femenina.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/juntas-creamos-fomenta-la-independencia-economica-de-mujeres-con-talleres-de-jabones-artesanales-en-hermosillo-31058990",
+        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+      },
+      {
+        "title": "Accidente de autobús en Navojoa deja 13 lesionados",
+        "summary": "Lluvia provoca volcadura de camión de pasajeros en Navojoa con múltiples heridos.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/policiaca/lluvia-provoca-accidente-autobus-navojoa-13-pasajeros-resultan-lesionados-n903073",
+        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+      },
+      {
+        "title": "Ludoteca Ave Badú abre espacios para hablar de duelos",
+        "summary": "Iniciativa en Ciudad Obregón crea espacios para abordar duelos invisibles en comunidad.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/10/ludoteca-ave-badu-abrira-espacios-para-hablar-de-duelos-invisibles/",
+        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+      },
+      {
         "title": "Sonora registra 294 suicidios en primeros siete meses",
         "summary": "Cifra alarmante de muertes autoinfligidas en la entidad refleja crisis de salud mental.",
         "source": "El Sol de Hermosillo",
@@ -116,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-10T00:27:42.965311-07:00"
+  "last_updated": "2026-09-10T11:56:48.475230-07:00"
 }
