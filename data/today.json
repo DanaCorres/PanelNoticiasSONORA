@@ -1,260 +1,120 @@
 {
-  "date": "2026-09-09",
-  "run_count": 3,
+  "date": "2026-09-10",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Hallan sin vida a Wendy en San Luis Río Colorado",
-        "summary": "Fiscalía investiga muerte de mujer tras 10 días de búsqueda; identifican persona de interés y brindan acompañamiento a familia.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/policiaca/2026/09/09/fgjes-investiga-desaparicion-y-localizacion-sin-vida-de-wendy-estefany-n-en-slrc/",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
-      },
-      {
-        "title": "Tráiler con gasolina se volca en Nogales",
-        "summary": "Derrame de 62 mil litros en parque industrial provoca incidente de relevancia ambiental y seguridad pública.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/09/vuelca-trailer-62-mil-litros-gasolina-provoca-derrame-parque-industrial.html",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
-      },
-      {
-        "title": "Bombero nogalense hospitalizado por quemaduras",
-        "summary": "Pablo Domínguez sufre quemaduras de primero y segundo grado durante atención de fuga de gas en Nogales.",
+        "title": "Localizan a desaparecido de Nayarit en Agua Prieta",
+        "summary": "Hombre reportado desaparecido en Nayarit fue encontrado con vida en Agua Prieta, Sonora.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/bombero-de-nogales-recibe-atencion-especializada-por-quemaduras/264209",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-en-agua-prieta-a-hombre-reportado-desaparecido/264238",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       },
       {
-        "title": "FGJES aumenta sentencias condenatorias en 411%",
-        "summary": "Fiscalía incrementa eficacia en procuración de justicia, consolidando a Sonora con mayor confianza ciudadana.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/09/incrementa-fgjes-en-un-411-las-sentencias-condenatorias-y-consolida-a-sonora-entre-los-estados-con-mayor-confianza-ciudadana-en-la-procuracion-de-justicia/",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+        "title": "Fiscal identifica sospechoso por muerte en San Luis Río Colorado",
+        "summary": "Autoridades identifican persona de interés en caso de Wendy, hallada sin vida tras desaparición de diez días.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/fiscalia-identifica-a-persona-de-interes-por-muerte-de-wendy-en-slrc-31990470",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       },
       {
-        "title": "Autobús se descarrila y cae en canal de desagüe en Navojoa",
-        "summary": "Accidente de transporte en sur de Sonora deja 13 pasajeros lesionados tras pérdida de control.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/accidente-en-carretera-navojoa-deja-13-pasajeros-lesionados/264179",
-        "_added_at": "2026-09-09T12:04:44.910744-07:00"
+        "title": "Hombre atacado a balazos en relleno sanitario de SLRC",
+        "summary": "Sujeto de 29 años recibe disparos en relleno sanitario; autoridades buscan responsable del ataque.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/hombre-de-29-anos-es-atacado-a-balazos-en-relleno-sanitario-buscan-al-responsable-31750085",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       },
       {
-        "title": "Tractocamión con combustible vuelca en Nogales",
-        "summary": "Derrame de combustible complica tránsito en Nogales tras volcamiento de cisterna.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/09/09/vuelca-tractocamion-con-doble-cisterna-cargado-de-combustible-en-nogales-cierran-acceso-al-parque-industrial-san-ramon-por-derrame/",
-        "_added_at": "2026-09-09T12:04:44.910744-07:00"
-      },
-      {
-        "title": "Operativos en Hermosillo: 138 detenidos y drogas aseguradas",
-        "summary": "Semana intensiva de operativos resultó en 138 detenciones, armas y 177 dosis de crystal decomisadas en Hermosillo.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/semana-de-operativos-sacude-hermosillo-138-detenidos-armas-y-177-dosis-de-crystal-aseguradas/",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
-      },
-      {
-        "title": "Agresores del CUM vinculados a tres homicidios",
-        "summary": "Autoridades investigan conexión de atacantes del CUM con tres casos de homicidio en la región.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/agresores-cum-estarian-ligados-tres-homicidios-n902766",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
-      },
-      {
-        "title": "Hombre vinculado a proceso por homicidio en Obregón",
-        "summary": "Detienen y vinculan a proceso a presunto responsable de muerte de Ana Lilia en Ciudad Obregón.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/vinculan-a-sujeto-por-homicidio-de-mujer-en-ciudad-obregon/264148",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
-      },
-      {
-        "title": "389 casos judicializados por desaparición de personas",
-        "summary": "Fiscalía suma 389 casos procesados judicialmente relacionados con desapariciones en Sonora.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/suman-389-casos-judicializados-por-desaparicion-de-personas/",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
+        "title": "Clausuran La Coqueta vinculada a grupo de riesgo",
+        "summary": "Autoridades clausuran establecimiento ligado a la Patrulla Espiritual tras controversia.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/nacional/clausuran-la-coqueta-ligada-a-la-patrulla-espiritual-tras-polemica-del-padrino-alexis/143391",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Beltrones convoca frente opositor contra Morena",
-        "summary": "Líder político pide unidad de oposición y vigilancia en casillas para elecciones 2027.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/09/beltrones-pide-a-la-oposicion-formar-un-frente-comun-contra-morena-y-vigilar-casillas-en-2027/",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+        "title": "Beltrones convoca oposición para vigilancia electoral 2027",
+        "summary": "Líder opositor hace llamado a frente para observar casillas durante proceso electoral próximo.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/llama-beltrones-a-frente-opositor-para-vigilar-casillas-en-el-proceso-electoral-de-2027/",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       },
       {
-        "title": "INE invita jóvenes a tramitar credencial electoral",
-        "summary": "Iniciativa para aumentar participación política de ciudadanos en edad de votar.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/invita-ine-a-jovenes-a-tramitar-su-credencial-para-votar-31987233",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+        "title": "Colosio cuestiona proyecto político de Montiel",
+        "summary": "Candidato reclama legitimidad sonorense y critica viabilidad de propuesta adversaria.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/colosio-reta-a-montiel-naci-en-sonora-y-su-proyectito-se-esta-cayendo/",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       },
       {
-        "title": "Diputada Peña presenta iniciativa sobre diabetes tipo 1",
-        "summary": "Propuesta para garantizar atención integral a menores con diabetes en Sonora.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/09/presenta-diputada-amairany-pena-iniciativa-para-garantizar-atencion-integral-a-ninas-ninos-y-adolescentes-con-diabetes-tipo-1/",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
-      },
-      {
-        "title": "Relator ONU: contaminación persiste en Río Sonora",
-        "summary": "Organismo internacional señala que el problema ambiental en el río continúa sin resolverse.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/relator-de-la-onu-la-contaminacion-persiste-en-el-rio-sonora-que-falto-y-que-se-exige-ahora-31900905",
-        "_added_at": "2026-09-09T12:04:44.910744-07:00"
-      },
-      {
-        "title": "CFE corta luz a pozos agrícolas de familia LeBarón",
-        "summary": "Conflicto entre empresa eléctrica e histórica familia sonorense por suministro a infraestructura agrícola.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/cortes-luz-pozos-agricolas-desatan-conflicto-cfe-familia-lebaron-n902885",
-        "_added_at": "2026-09-09T12:04:44.910744-07:00"
-      },
-      {
-        "title": "Durazo inaugura Centro de Simulación en Hospital Universitario",
-        "summary": "Gobernador expande atención médica con nuevo Centro de Simulación para capacitación clínica de profesionales.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/gobernador-durazo-expande-atencion-de-hospital-universitario-con-centro-de-simulacion-para-la-excelencia-clinica/",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
-      },
-      {
-        "title": "Lamarque destaca salto histórico en becas de Sonora",
-        "summary": "Funcionario subraya incremento significativo en recursos destinados a becas para estudiantes sonorenses.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/lamarque-destaca-salto-historico-becas-sonora-n902795",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
-      },
-      {
-        "title": "Gobernador rechaza abandono del Hospital de Ures",
-        "summary": "Durazo niega que las obras del Hospital Regional de Ures estén abandonadas y destaca avances.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/rechaza-gobernador-que-este-abandonada-la-obra-del-hospital-regional-de-ures-31969976",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
+        "title": "Juez define sanciones por apología del delito online",
+        "summary": "Tribunal decidirá castigos para tres creadores de contenido por difusión de mensajes criminales.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/juez-decidira-eventuales-sanciones-por-apologia-del-delito-de-ser-procesados-tres-creadores-de-contenido/",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Yazaki prevé recuperar empleos en Cajeme y Bácum",
-        "summary": "Empresa espera reactivación laboral durante otoño según reporte de INDEX Sonora.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/09/yazaki-preve-recuperar-empleos-en-cajeme-y-bacum-durante-otono-index-sonora/",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+        "title": "Durazo propone construir 65 mil viviendas en Sonora",
+        "summary": "Gobierno estatal busca triplicar cifra histórica de tres sexenios anteriores en construcción de casas.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/tres-sexenios-impulsaron-726-viviendas-alfonso-durazo-va-por-65-mil/",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       },
       {
-        "title": "Reabren acceso de avenida Tecnológico en Nogales",
-        "summary": "Se restituye circulación vial en intersección estratégica de Nogales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/09/reabren-acceso-avenida-tecnologico-maestros-plutarco-elias-calles.html",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+        "title": "Kyungshin abre 600 vacantes laborales en Obregón",
+        "summary": "Empresa genera importantes oportunidades de empleo en Ciudad Obregón para candidatos interesados.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/600-vacantes-obregon-kyungshin-abre-oportunidades-laborales-n903011",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       },
       {
-        "title": "Agua Prieta reanuda cruce de ganado a Estados Unidos",
-        "summary": "Ganadería se reactiva tras resolverse falla técnica en punto de paso fronterizo.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/agua-prieta-reactiva-el-cruce-de-ganado-hacia-eu-tras-falla-tecnica/",
-        "_added_at": "2026-09-09T12:04:44.910744-07:00"
-      },
-      {
-        "title": "Zona prohibida genera mayor cantidad de multas en Hermosillo",
-        "summary": "Estacionamientos ilegales se convierten en infracción vehicular con mayor incremento en la capital.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/09/hermosillo-registra-mas-multas-de-transito-en-el-primer-semestre-de-2026-y-estacionarse-en-zona-prohibida-se-convierte-en-la-infraccion-con-mayor-aumento/",
-        "_added_at": "2026-09-09T12:04:44.910744-07:00"
-      },
-      {
-        "title": "Reanudan envíos de ganado sonorense a EU",
-        "summary": "Se reanuda comercio de ganado con Estados Unidos tras cierre de 12 días en frontera.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/reanudan-envios-de-ganado-de-sonora-a-eu-tras-12-dias-de-cierre/",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
-      },
-      {
-        "title": "Crece empleo manufacturero en Sonora",
-        "summary": "Sector manufacturero genera nuevos empleos durante el primer semestre del año.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/crece-empleo-manufacturero-en-sonora-durante-primer-semestre/",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
-      },
-      {
-        "title": "Proponen ampliar programas de vivienda para vulnerables",
-        "summary": "Iniciativa busca expandir acceso a vivienda con alternativas a compra tradicional en Sonora.",
+        "title": "Paquete Económico 2027 mantiene política sin nuevos impuestos",
+        "summary": "Valles Sampedro detalla presupuesto con 15% para bienestar y obras, sin incremento tributario.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/ely-sallard-hernandez-presenta-iniciativa-vivienda-sonora/264161",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-paquete-economico-2027/264224",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
+      },
+      {
+        "title": "Cámaras empresariales sin respuesta de CFE por apagones",
+        "summary": "Organizaciones empresariales de SLRC exigen atención a crisis de suministro eléctrico.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/camaras-empresariales-de-slrc-sin-respuesta-de-cfe-ante-posicionamiento-por-apagones-31990376",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Escuelas suspenden clases por problemáticas en Hermosillo",
-        "summary": "Planteles básicos cierran por distintas razones incluyendo infraestructura e insalubridad.",
+        "title": "Sonora registra 294 suicidios en primeros siete meses",
+        "summary": "Cifra alarmante de muertes autoinfligidas en la entidad refleja crisis de salud mental.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/escuelas-de-educacion-basica-suspenden-clases-por-distintas-problematicas-en-hermosillo-31986163",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-suma-294-suicidios-en-los-primeros-siete-meses-de-2026-31993200",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       },
       {
-        "title": "Venta de sangre: dos casos denunciados ante FGR",
-        "summary": "Se documenta delito federal de comercio irregular de sangre en Sonora.",
+        "title": "Refuerzan programas de prevención del suicidio en Sonora",
+        "summary": "Autoridades intensifican acciones de apoyo y atención oportuna para reducir muertes.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/salud/venta-sangre-delito-federal-dos-casos-fueron-denunciados-fgr-sonora-n902946",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/refuerzan-prevencion-suicidio-apoyo-atencion-oportuna-n903015",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       },
       {
-        "title": "Redes sociales impactan salud mental de usuarios",
-        "summary": "Expertos advierten sobre consecuencias del uso excesivo en bienestar psicológico.",
+        "title": "H Bus ofrece transporte eléctrico gratuito a estudiantes",
+        "summary": "Programa de movilidad sostenible beneficia a población estudiantil sonorense.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/salud/alertan-impacto-uso-excesivo-redes-sociales-salud-mental-n902944/",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/h-bus-impulsa-estudiantes-transporte-electrico-gratuito-n903013",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       },
       {
-        "title": "Inaugura Astiazarán nuevo Cárcamo H en Hermosillo",
-        "summary": "Se reactiva espacio emblemático con presencia de familias y deportistas.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/inaugura-tono-astiazaran-nuevo-carcamo-h-junto-a-familias-y-deportistas/",
-        "_added_at": "2026-09-09T16:49:44.811415-07:00"
-      },
-      {
-        "title": "Poste de alumbrado cae en primaria al norte de Hermosillo",
-        "summary": "Estructura educativa afectada por caída de instalación tras vientos sostenidos en zona.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/09/cae-poste-de-alumbrado-en-primaria-al-norte-de-hermosillo-tras-dias-suspendido-por-vientos/",
-        "_added_at": "2026-09-09T12:04:44.910744-07:00"
-      },
-      {
-        "title": "Desconfianza hacia policías municipales persiste en Sonora",
-        "summary": "Encuesta refleja baja confianza ciudadana en corporaciones policiales locales del estado.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/09/persiste-desconfianza-hacia-policias-municipales-en-sonora/",
-        "_added_at": "2026-09-09T12:04:44.910744-07:00"
-      },
-      {
-        "title": "Lluvias destruyen mercancía de abarrotes en Ciudad Obregón",
-        "summary": "Tormentas causan pérdidas económicas a comerciantes de la región cajemense.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/fuertes-lluvias-destruyen-abarrotes-en-ciudad-obregon/143371",
-        "_added_at": "2026-09-09T12:04:44.910744-07:00"
-      },
-      {
-        "title": "Albergue de menores en San Luis solicita apoyo alimenticio urgente",
-        "summary": "Institución de rescate enfrenta escasez de alimentos y pide ayuda comunitaria.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/albergue-rescate-de-angelitos-callejeros-se-queda-sin-alimento-solicitan-apoyo-urgente-de-la-comunidad-31646508",
-        "_added_at": "2026-09-09T12:04:44.910744-07:00"
-      },
-      {
-        "title": "Entregan uniformes escolares gratuitos en San Luis",
-        "summary": "Distribución de uniformes y libros de texto inicia en escuelas de San Luis Río Colorado.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/llegan-uniformes-escolares-gratuitos-a-planteles-la-entrega-inicia-esta-semana-31965357",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
-      },
-      {
-        "title": "Fortalecen respuesta ante crisis suicidas en Sonora",
-        "summary": "Se intensifican capacitaciones y diálogos para prevención de suicidios y atención a crisis.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/salud/fortalecen-respuesta-crisis-suicidas-n902809",
-        "_added_at": "2026-09-09T00:31:12.575509-07:00"
+        "title": "Proponen regulación de tecnología en escuelas sonorenses",
+        "summary": "Iniciativa busca uso responsable de celulares y dispositivos en planteles educativos.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/presentan-iniciativa-para-el-uso-responsable-de-celulares-y-tecnologia-en-escuelas-de-sonora-31967713",
+        "_added_at": "2026-09-10T00:27:42.965311-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-09T16:49:44.811415-07:00"
+  "last_updated": "2026-09-10T00:27:42.965311-07:00"
 }
