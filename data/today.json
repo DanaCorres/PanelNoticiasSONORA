@@ -1,8 +1,29 @@
 {
   "date": "2026-09-11",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan operadora del Cártel de Sinaloa con miles de cartuchos",
+        "summary": "Autoridades detienen a mujer relacionada con tráfico de armas del cártel, decomisando miles de cartuchos en Sonora.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/capturan-sonora-operadora-cartel-sinaloa-miles-cartuchos-n903284",
+        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+      },
+      {
+        "title": "Asesinan a creador de contenido El Piturris en taquería Cajeme",
+        "summary": "Sujeto identificado como El Piturris es asesinado a balazos mientras trabajaba en su negocio en Ciudad Obregón.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/asesinan-a-balazos-al-creador-de-contenido-el-piturris-en-una-taqueria-de-cajeme/",
+        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+      },
+      {
+        "title": "Suspenden clases en Masiaca y Bacabachi por crecida de arroyos",
+        "summary": "Lluvias intensas causan desborde de arroyos, obligando cierre de escuelas en dos municipios sonorenses.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/11/suspenden-clases-en-masiaca-y-bacabachi-ante-crecida-de-arroyos-por-lluvias/",
+        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+      },
       {
         "title": "Crimen organizado ejecuta a creador de contenido en Obregón",
         "summary": "Asesinado a balazos hombre identificado como \"El Piturris\" mientras trabajaba en su taquería en Ciudad Obregón.",
@@ -34,6 +55,20 @@
     ],
     "politica": [
       {
+        "title": "INE fija calendario electoral en Sonora rumbo a 2027",
+        "summary": "Instituto Electoral instala consejo local el 30 de septiembre y establece fechas para credenciales, precampañas y campañas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/11/elecciones-2027-en-sonora-ine-instalara-su-consejo-local-el-30-de-septiembre-y-fija-fechas-para-credencial-precampanas-y-campanas/",
+        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+      },
+      {
+        "title": "Morena encuestará mil 200 hogares para definir liderazgo estatal",
+        "summary": "Partido define estrategia política en Sonora mediante consulta masiva con familias en toda la entidad.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/morena-definira-liderazgo-en-sonora-con-encuesta-en-mil-200-hogares/",
+        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+      },
+      {
         "title": "Gobierno invierte 20 mil millones en carreteras estratégicas",
         "summary": "Durazo y Sheinbaum impulsan inversión federal en infraestructura vial prioritaria para Sonora.",
         "source": "Radar Sonora",
@@ -64,6 +99,13 @@
     ],
     "economia": [
       {
+        "title": "Durazo impulsa inversión histórica en carreteras de Sonora",
+        "summary": "Gobernador destina más de 20 mil millones de pesos para modernización y ampliación de infraestructura vial estatal.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/destinan-20-mil-mdp-a-carreteras-de-sonora/264316",
+        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+      },
+      {
         "title": "Puerto Peñasco emerge como ruta para exportar carbón",
         "summary": "Nuevo corredor comercial hacia Estados Unidos y Asia posiciona infraestructura portuaria local.",
         "source": "Radar Sonora",
@@ -86,6 +128,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Burgos promueve apoyo psicológico gratuito en Nogales",
+        "summary": "Iniciativa ofrece servicios de salud mental sin costo para familias nogalenses a través del programa Mujeres al 100.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/11/angelica-burgos-impulsa-apoyo-psicologico-gratis-familias-nogales.html",
+        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+      },
+      {
+        "title": "Hermosillo abre su primera Escuela Municipal de Música",
+        "summary": "Capital sonorense inaugura centro educativo con 89 alumnos e inversión superior a tres millones de pesos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/11/tras-anos-de-ensayar-al-aire-libre-89-alumnos-estrenan-la-primera-escuela-municipal-de-musica-de-hermosillo-con-inversion-de-mas-de-3-millones-de-pesos/",
+        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+      },
+      {
+        "title": "Alumna Unison gana competencia internacional de motorsport",
+        "summary": "Estudiante sonorense triunfa en evento Women in Motorsport, demostrando talento local en competencias internacionales.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/talento-sonorense-pista-alumna-unison-gana-women-in-motorsport-n903278",
+        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+      },
+      {
+        "title": "Treinta colonias hermosillenses recuperan servicio de agua",
+        "summary": "Distribuidoras reactivan bombeo en La Victoria, restableciendo agua potable en sectores de capital sonorense.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/11/todavia-no-tienes-agua-estas-30-colonias-de-hermosillo-recuperaran-el-servicio-este-viernes-tras-reactivarse-el-bombeo-de-la-victoria/",
+        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+      },
       {
         "title": "Prevención del suicidio prioridad en agenda legislativa",
         "summary": "Lorenia Valles y Unison impulsan campañas y medidas legislativas ante alarmante cifra de muertes.",
@@ -116,5 +186,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-11T00:25:44.607594-07:00"
+  "last_updated": "2026-09-11T11:59:11.324702-07:00"
 }
