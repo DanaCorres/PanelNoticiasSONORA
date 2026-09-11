@@ -1,8 +1,29 @@
 {
   "date": "2026-09-11",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre muere en choque frontal Hermosillo-Ures",
+        "summary": "Identifican a Aarón de 37 años como víctima de accidente vehicular en carretera. Familia viajaba en caravana.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/11/identifican-a-aaron-de-37-anos-como-victima-del-choque-frontal-en-la-carretera-hermosillo-ures-su-familia-viajaba-en-caravana/",
+        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+      },
+      {
+        "title": "Capturan a operadora del Cártel de Sinaloa en Sonora",
+        "summary": "Aseguran a mujer con 5 mil 400 cartuchos de municiones. Operaba para organización delictiva.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/capturan-en-sonora-a-operadora-del-cartel-de-sinaloa-con-5-mil-400-cartuchos/",
+        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+      },
+      {
+        "title": "Aseguran 350 envoltorios con droga en Nogales",
+        "summary": "Operativo conjunto de PESP y Sedena incauta narcoticos. Decomiso importante en la frontera.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/11/aseguran-mas-350-envoltorios-droga-durante-operativo-nogales.html",
+        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+      },
       {
         "title": "Capturan operadora del Cártel de Sinaloa con miles de cartuchos",
         "summary": "Autoridades detienen a mujer relacionada con tráfico de armas del cártel, decomisando miles de cartuchos en Sonora.",
@@ -55,6 +76,13 @@
     ],
     "politica": [
       {
+        "title": "Buscadora cuestiona a Astiazarán sobre apoyo a colectivos",
+        "summary": "Joven activista desafía al gobernador sobre políticas hacia grupos de búsqueda en Hermosillo.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/joven-buscadora-cuestiona-a-antonio-astiazaran-por-apoyo-a-colectivos-en-hermosillo-31823616",
+        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+      },
+      {
         "title": "INE fija calendario electoral en Sonora rumbo a 2027",
         "summary": "Instituto Electoral instala consejo local el 30 de septiembre y establece fechas para credenciales, precampañas y campañas.",
         "source": "El Imparcial",
@@ -99,6 +127,20 @@
     ],
     "economia": [
       {
+        "title": "Secretaría del Trabajo capacita a empresas sobre jornada laboral",
+        "summary": "Gobierno prepara al sector empresarial para reducción gradual de horas de trabajo.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/secretaria-trabajo-capacita-empresas-reduccion-gradual-jornada-laboral-n903345",
+        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+      },
+      {
+        "title": "Padres demandan devolución de dinero en Secundaria 30",
+        "summary": "Familias de San Luis Río Colorado reclaman reembolso a institución educativa.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/buscan-padres-de-familia-de-secundaria-30-devolucion-de-su-dinero-32029798",
+        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+      },
+      {
         "title": "Durazo impulsa inversión histórica en carreteras de Sonora",
         "summary": "Gobernador destina más de 20 mil millones de pesos para modernización y ampliación de infraestructura vial estatal.",
         "source": "Expreso",
@@ -128,6 +170,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Dos menores trasladadas en lancha por crecida en Masiaca",
+        "summary": "Niñas enfermas cruzadas por agua hacia Navojoa. Sistema de salud activa por emergencia.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/trasladan-en-lancha-a-dos-menores-enfermas-en-masiaca-sonora/264330",
+        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+      },
+      {
+        "title": "53 hospitalizaciones por intento de suicidio en Nogales",
+        "summary": "Cifra preocupante de autolesiones hasta agosto. Crisis de salud mental en la frontera.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/11/53-personas-fueron-hospitalizadas-nogales-intento-suicidio-hasta-agosto.html",
+        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+      },
+      {
+        "title": "Vecino rescata niño de cinco años durante incendio",
+        "summary": "Acto heroico en Nogales. Menor fue sacado de vivienda en llamas por civil.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/11/vecino-rescata-nino-5-anos-durante-incendio-nogales.html",
+        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+      },
+      {
+        "title": "Preparan Megalimpieza en Bahía de Kino",
+        "summary": "Iniciativa de limpieza de playas para proteger ecosistema marino en Sonora.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/a-limpiar-playa-preparan-megalimpieza-bahia-kino-n903327",
+        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+      },
       {
         "title": "Burgos promueve apoyo psicológico gratuito en Nogales",
         "summary": "Iniciativa ofrece servicios de salud mental sin costo para familias nogalenses a través del programa Mujeres al 100.",
@@ -169,22 +239,8 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/salud/refuerzan-cuidado-salud-mental-adultos-mayores-n903218",
         "_added_at": "2026-09-11T00:25:44.607594-07:00"
-      },
-      {
-        "title": "Arroyo en Masiaca crece por lluvia; advierten riesgo",
-        "summary": "Autoridades piden evitar cruzar corriente tras precipitaciones que incrementan caudal en la zona.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/crece-arroyo-masiaca-tras-lluvias-piden-evitar-cruzarlo-n903220",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
-      },
-      {
-        "title": "Hermosillo prepara Gran Maratón Internacional 2026",
-        "summary": "Evento deportivo de alcance internacional en etapa de organización para capital estatal.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/alistan-el-gran-maraton-internacional-hermosillo-2026/",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-11T11:59:11.324702-07:00"
+  "last_updated": "2026-09-11T16:52:55.560901-07:00"
 }
