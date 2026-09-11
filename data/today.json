@@ -1,267 +1,120 @@
 {
-  "date": "2026-09-10",
-  "run_count": 3,
+  "date": "2026-09-11",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Creador de contenido asesinado en Ciudad Obregón",
-        "summary": "Confirman homicidio del Piturris, influenciador de redes sociales, en Cajeme.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/10/confirma-fgjes-homicidio-del-piturris-en-ciudad-obregon/",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+        "title": "Crimen organizado ejecuta a creador de contenido en Obregón",
+        "summary": "Asesinado a balazos hombre identificado como \"El Piturris\" mientras trabajaba en su taquería en Ciudad Obregón.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/09/matan-a-balazos-a-el-piturris-mientras-atendia-su-taqueria-en-sonora/",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
       },
       {
-        "title": "Joven herido por disparo dentro de su casa en Nogales",
-        "summary": "Investigan incidente de disparo que dejó gravemente herido a joven en domicilio.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/10/joven-resulta-gravemente-herido-disparo-dentro-su-casa.html",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+        "title": "Extorsión y cobro de piso persisten en Hermosillo",
+        "summary": "Concanaco confirma continuidad de extorsiones pese a negaciones oficiales; empresarios firman pacto para combatir delito.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/concanaco-contradice-fgjes-hay-cobro-piso-n903209",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
       },
       {
-        "title": "Fiscal investiga homicidio de taquero en Obregón",
-        "summary": "Muerte de vendedor de tacos por arma de fuego bajo investigación fiscal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/09/10/fiscalia-investiga-homicidio-de-un-taquero-en-ciudad-obregon-con-arma-de-fuego/",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+        "title": "Detienen a tres con metanfetamina en Cajeme",
+        "summary": "Operativo policial en Ciudad Obregón aseguró droga y personas durante decomiso.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/policiaca/detienen-tres-metanfetamina-cajeme-n903207",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
       },
       {
-        "title": "Operativo por violencia familiar en Cócorit",
-        "summary": "Captura de hombre buscado por actos de violencia intrafamiliar en la región.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/10/implementan-operativo-para-capturar-a-un-hombre-por-vi0-lencia-familiar-en-cocorit/",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
-      },
-      {
-        "title": "Camión urbano choca contra vivienda en Hermosillo",
-        "summary": "Pasajeros salen por ventanas tras impacto de autobús contra barda en Hermosillo; investigan exceso de velocidad.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/columnas/2026/09/10/camion-urbano-se-impacta-contra-barda-de-una-vivienda-de-hermosillo-pasajeros-salen-por-las-ventanas-y-reportan-lesionados-en-paseo-del-pedregal/",
-        "_added_at": "2026-09-10T11:56:48.475230-07:00"
-      },
-      {
-        "title": "Hombre condenado por transportar fentanilo y heroína",
-        "summary": "Sentencian a 8 años de prisión a sujeto que llevaba 31 paquetes de drogas en autobús entre Sonoyta y San Luis.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/10/sentencian-a-8-anos-de-prision-a-hombre-que-transportaba-fentanilo-y-heroina-en-autobus-en-carretera-sonoyta-slrc/",
-        "_added_at": "2026-09-10T11:56:48.475230-07:00"
-      },
-      {
-        "title": "Detienen a dos jóvenes por robo a tienda en Hermosillo",
-        "summary": "Capturan a presuntos responsables de asalto a abarrotes; recuperan mercancía y efectivo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/10/tras-presunto-robo-a-un-abarrotes-de-hermosillo-detienen-a-dos-jovenes-y-recuperan-mercancia-y-efectivo/",
-        "_added_at": "2026-09-10T11:56:48.475230-07:00"
-      },
-      {
-        "title": "Solicitan reforzar vigilancia en campus del ITSON Náinari",
-        "summary": "Autoridades piden incrementar seguridad en alrededores de institución tras serie de asaltos reportados.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/10/solicitan-reforzar-la-vigilancia-en-los-alrededores-del-itson-nainari-tras-una-serie-de-as4ltos/",
-        "_added_at": "2026-09-10T11:56:48.475230-07:00"
-      },
-      {
-        "title": "Localizan a desaparecido de Nayarit en Agua Prieta",
-        "summary": "Hombre reportado desaparecido en Nayarit fue encontrado con vida en Agua Prieta, Sonora.",
+        "title": "Sonorense muere en tiroteo en Phoenix",
+        "summary": "Ciudadano de Sonora fallece en incidente violento durante pelea entre mujeres en Arizona.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-en-agua-prieta-a-hombre-reportado-desaparecido/264238",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
-      },
-      {
-        "title": "Fiscal identifica sospechoso por muerte en San Luis Río Colorado",
-        "summary": "Autoridades identifican persona de interés en caso de Wendy, hallada sin vida tras desaparición de diez días.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/fiscalia-identifica-a-persona-de-interes-por-muerte-de-wendy-en-slrc-31990470",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonorense-muere-en-tiroteo-en-phoenix/264294",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Diputada promueve reforma para vivienda digna en Sonora",
-        "summary": "Elly Sallard impulsa reforma garantizando servicios y seguridad en nuevas viviendas.",
+        "title": "Gobierno invierte 20 mil millones en carreteras estratégicas",
+        "summary": "Durazo y Sheinbaum impulsan inversión federal en infraestructura vial prioritaria para Sonora.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/impulsan-durazo-y-sheinbaum-mas-de-20-mil-millones-de-pesos-en-carreteras-estrategicas-para-sonora/",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
+      },
+      {
+        "title": "Senador Beltrones pide incorporar Buscadoras a comisión",
+        "summary": "Iniciativa para fortalecer participación de colectivos de búsqueda en organismos de investigación estatal.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/pide-incorporar-a-buscadoras-a-comision-de-busqueda-el-senador-manlio-fabio-beltrones/",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
+      },
+      {
+        "title": "Congreso de Sonora impulsa iniciativas sobre suicidio",
+        "summary": "Turnadas a órganos internos reformas sobre transparencia, prevención de suicidio y regulación de condominios.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/vivienda-adecuada-en-sonora-que-proposen-la-reforma/264280",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/congreso-sonora-impulsa-iniciativas-organos-internos-control/264290",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
       },
       {
-        "title": "Diputada usa lonas ilegales en Nogales para promoción",
-        "summary": "Señalan posible violación electoral por promoción anticipada de candidata rumbo a 2027.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/diputada-local-inunda-nogales-con-lonas-de-ella-y-sheinbaum-senalan-posible-promocion-ilegal-de-la-diputada-rumbo-a-2027/",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
-      },
-      {
-        "title": "Morena vigilará candidatos que aspiren representación estatal",
-        "summary": "Ariadna Montiel confirma cumplimiento de ley en selección de candidatos.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/10/morena-cumplira-la-ley-y-cuidara-que-quienes-aspiren-a-representarnos-esten-a-la-altura-de-la-confianza-ciudadana-ariadna-montiel/",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
-      },
-      {
-        "title": "Julia Huerta perfila candidatura en Nogales por Morena",
-        "summary": "Candidata recorre colonias y espera convocatoria para coordinación municipal.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/10/julia-huerta-ya-recorrio-47-colonias-espera-convocatoria-morena.html",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
-      },
-      {
-        "title": "Alcalde SLRC destaca avances a dos años de gobierno",
-        "summary": "César Iván Sandoval resalta cercania social y obras de impacto ciudadano en San Luis Río Colorado.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/destaca-alcalde-cesar-ivan-sandoval-cercania-social-y-obra-con-impacto-ciudadano-a-dos-anos-de-gobierno-en-san-luis-rio-32002855",
-        "_added_at": "2026-09-10T11:56:48.475230-07:00"
-      },
-      {
-        "title": "Congreso analiza necesidades del sector minero sonorense",
-        "summary": "Legisladores sonorenses examinan retos y demandas de la industria minera en la entidad.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/10/analiza-congreso-de-sonora-necesidades-y-retos-del-sector-minero-en-la-entidad/",
-        "_added_at": "2026-09-10T11:56:48.475230-07:00"
-      },
-      {
-        "title": "Beltrones convoca oposición para vigilancia electoral 2027",
-        "summary": "Líder opositor hace llamado a frente para observar casillas durante proceso electoral próximo.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/llama-beltrones-a-frente-opositor-para-vigilar-casillas-en-el-proceso-electoral-de-2027/",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
-      },
-      {
-        "title": "Colosio cuestiona proyecto político de Montiel",
-        "summary": "Candidato reclama legitimidad sonorense y critica viabilidad de propuesta adversaria.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/colosio-reta-a-montiel-naci-en-sonora-y-su-proyectito-se-esta-cayendo/",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
-      },
-      {
-        "title": "Juez define sanciones por apología del delito online",
-        "summary": "Tribunal decidirá castigos para tres creadores de contenido por difusión de mensajes criminales.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/juez-decidira-eventuales-sanciones-por-apologia-del-delito-de-ser-procesados-tres-creadores-de-contenido/",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
+        "title": "Leobardo Olmos se perfila en Morena",
+        "summary": "Político local entre nombres que suenan para posiciones dentro de estructura del partido.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/leobardo-olmos-entre-los-nombres-que-se-perfilan-en-morena/",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
       }
     ],
     "economia": [
       {
-        "title": "H Bus beneficia estudiantes universitarios en Hermosillo",
-        "summary": "Transporte ofrece apoyos tarifarios a estudiantes de educación superior.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/beneficia-transporte-h-bus-a-estudiantes-universitarios-con-el-impulso-de-tono-astiazaran/",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
-      },
-      {
-        "title": "OOMAPAS amplía red de drenaje en San Luis Río Colorado",
-        "summary": "Proyecto beneficiará a más de mil sanluisinos con ampliación de infraestructura sanitaria.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/el-30-ayuntamiento-y-oomapas-arrancan-ampliacion-de-red-de-drenaje-para-beneficiar-a-mas-de-mil-personas-en-san-luis-rio-colorado-31898155",
-        "_added_at": "2026-09-10T11:56:48.475230-07:00"
-      },
-      {
-        "title": "Falla eléctrica de CFE afecta suministro de agua en Hermosillo",
-        "summary": "Más de 30 colonias de la capital sonorense enfrentan falta e intermitencias de agua.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/10/falla-electrica-de-cfe-afecta-bombeo-de-agua-en-hermosillo-y-provoca-falta-e-intermitencias-en-al-menos-30-colonias-del-norte/",
-        "_added_at": "2026-09-10T11:56:48.475230-07:00"
-      },
-      {
-        "title": "Durazo propone construir 65 mil viviendas en Sonora",
-        "summary": "Gobierno estatal busca triplicar cifra histórica de tres sexenios anteriores en construcción de casas.",
+        "title": "Puerto Peñasco emerge como ruta para exportar carbón",
+        "summary": "Nuevo corredor comercial hacia Estados Unidos y Asia posiciona infraestructura portuaria local.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/tres-sexenios-impulsaron-726-viviendas-alfonso-durazo-va-por-65-mil/",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
+        "url": "https://www.radarsonora.com/el-puerto-nueva-ruta-para-exportar-carbon-a-eu-y-asia/",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
       },
       {
-        "title": "Kyungshin abre 600 vacantes laborales en Obregón",
-        "summary": "Empresa genera importantes oportunidades de empleo en Ciudad Obregón para candidatos interesados.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/600-vacantes-obregon-kyungshin-abre-oportunidades-laborales-n903011",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
-      },
-      {
-        "title": "Paquete Económico 2027 mantiene política sin nuevos impuestos",
-        "summary": "Valles Sampedro detalla presupuesto con 15% para bienestar y obras, sin incremento tributario.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-paquete-economico-2027/264224",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
-      },
-      {
-        "title": "Cámaras empresariales sin respuesta de CFE por apagones",
-        "summary": "Organizaciones empresariales de SLRC exigen atención a crisis de suministro eléctrico.",
+        "title": "Reformas impulsan uso de acero mexicano en obra pública",
+        "summary": "Cambios legislativos benefician proyectos federales en Sonora mediante priorización de materiales nacionales.",
         "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/camaras-empresariales-de-slrc-sin-respuesta-de-cfe-ante-posicionamiento-por-apagones-31990376",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/mexico/reformas-impulsan-acero-mexicano-en-obra-publica-tendran-impacto-en-proyectos-federales-de-sonora-31847624",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
+      },
+      {
+        "title": "Sonora analiza turismo de congresos y hospedaje",
+        "summary": "Foro Conextur 2026 examina tendencias en turismo de negocios, Airbnb y cadenas hoteleras.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/conextur-2026-sonora-analizara-turismo-de-congresos-airbnb-y-hoteles-all-inclusive-32003425",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Crisis grave en Hospital Ocaranza acumula 42 observaciones",
-        "summary": "Derechohabientes exigen clausura tras críticas infraestructurales y deficiencias.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/crisis-del-hospital-ocaranza-sacude-al-congreso-acumula-42-observaciones-y-derechohabientes-exigen-clausurarlo/",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
-      },
-      {
-        "title": "Recuperan bombeo de agua en Hermosillo gradualmente",
-        "summary": "AguaH mejora suministro tras restablecimiento del sistema La Victoria.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/10/recuperan-bombeo-de-la-victoria-suministro-de-agua-mejora-gradualmente-en-hermosillo-aguah/",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
-      },
-      {
-        "title": "Lluvias y tormentas eléctricas continúan en Sonora",
-        "summary": "Alerta meteorológica por precipitaciones fuertes en norte, centro y sierra.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/10/lluvias-fuertes-y-tormentas-electricas-continuaran-hoy-en-el-norte-centro-y-sierra-de-sonora-navojoa-tendra-70-de-probabilidad-y-hermosillo-55/",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
-      },
-      {
-        "title": "Niños y adolescentes hacen mitad de llamadas falsas al 911",
-        "summary": "Bomberos alertan sobre abuso de línea de emergencia por menores en Sonora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/la-mitad-de-las-llamadas-de-broma-al-911-en-sonora-las-hacen-ninos-y-adolescentes-31899987",
-        "_added_at": "2026-09-10T16:43:20.173780-07:00"
-      },
-      {
-        "title": "Aumento de conductas suicidas en Sonora preocupa autoridades",
-        "summary": "Casos de ideación suicida crecen 28 por ciento; Salud enfatiza necesidad de prevención.",
+        "title": "Prevención del suicidio prioridad en agenda legislativa",
+        "summary": "Lorenia Valles y Unison impulsan campañas y medidas legislativas ante alarmante cifra de muertes.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/aumentan-tendencias-suicidas-28-por-ciento-en-sonora/264249",
-        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/destaca-lorenia-valles-prevencion-del-suicidio/264296",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
       },
       {
-        "title": "Programa \"Juntas Creamos\" empodera económicamente a mujeres",
-        "summary": "Talleres de jabones artesanales en Hermosillo promueven independencia económica femenina.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/juntas-creamos-fomenta-la-independencia-economica-de-mujeres-con-talleres-de-jabones-artesanales-en-hermosillo-31058990",
-        "_added_at": "2026-09-10T11:56:48.475230-07:00"
-      },
-      {
-        "title": "Accidente de autobús en Navojoa deja 13 lesionados",
-        "summary": "Lluvia provoca volcadura de camión de pasajeros en Navojoa con múltiples heridos.",
+        "title": "Refuerzan atención salud mental en adultos mayores",
+        "summary": "Programas específicos enfocados en bienestar psicológico de personas de tercera edad en Sonora.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/lluvia-provoca-accidente-autobus-navojoa-13-pasajeros-resultan-lesionados-n903073",
-        "_added_at": "2026-09-10T11:56:48.475230-07:00"
+        "url": "https://www.uniradiosonora.com/salud/refuerzan-cuidado-salud-mental-adultos-mayores-n903218",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
       },
       {
-        "title": "Ludoteca Ave Badú abre espacios para hablar de duelos",
-        "summary": "Iniciativa en Ciudad Obregón crea espacios para abordar duelos invisibles en comunidad.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/10/ludoteca-ave-badu-abrira-espacios-para-hablar-de-duelos-invisibles/",
-        "_added_at": "2026-09-10T11:56:48.475230-07:00"
-      },
-      {
-        "title": "Sonora registra 294 suicidios en primeros siete meses",
-        "summary": "Cifra alarmante de muertes autoinfligidas en la entidad refleja crisis de salud mental.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-suma-294-suicidios-en-los-primeros-siete-meses-de-2026-31993200",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
-      },
-      {
-        "title": "Refuerzan programas de prevención del suicidio en Sonora",
-        "summary": "Autoridades intensifican acciones de apoyo y atención oportuna para reducir muertes.",
+        "title": "Arroyo en Masiaca crece por lluvia; advierten riesgo",
+        "summary": "Autoridades piden evitar cruzar corriente tras precipitaciones que incrementan caudal en la zona.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/refuerzan-prevencion-suicidio-apoyo-atencion-oportuna-n903015",
-        "_added_at": "2026-09-10T00:27:42.965311-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/crece-arroyo-masiaca-tras-lluvias-piden-evitar-cruzarlo-n903220",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
+      },
+      {
+        "title": "Hermosillo prepara Gran Maratón Internacional 2026",
+        "summary": "Evento deportivo de alcance internacional en etapa de organización para capital estatal.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/alistan-el-gran-maraton-internacional-hermosillo-2026/",
+        "_added_at": "2026-09-11T00:25:44.607594-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-10T16:43:20.173780-07:00"
+  "last_updated": "2026-09-11T00:25:44.607594-07:00"
 }
