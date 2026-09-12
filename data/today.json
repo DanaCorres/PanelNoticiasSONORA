@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -27,6 +27,13 @@
     ],
     "politica": [
       {
+        "title": "Oposición gana terreno en Cajeme",
+        "summary": "PAN muestra avance electoral en municipio de Cajeme durante período reciente.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/12/oposicion-gana-terreno-pan-cajeme/",
+        "_added_at": "2026-09-12T11:05:40.706458-07:00"
+      },
+      {
         "title": "Morena desmiente candidatura de Lamarque en Sonora",
         "summary": "Partido desmente rumores sobre posible candidatura en entidad para próximos comicios.",
         "source": "Sonora Presente",
@@ -50,6 +57,27 @@
     ],
     "economia": [
       {
+        "title": "Maquiladoras de Sonora crean 10 mil empleos en semestre",
+        "summary": "Industria genera empleo significativo; se proyectan mil 500 nuevas plazas al cierre de 2026.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/12/industria-maquiladora-de-sonora-suma-10-mil-60-empleos-entre-enero-y-junio-y-llega-a-155-mil-115-puestos-index-preve-hasta-mil-500-mas-al-cierre-de-2026/",
+        "_added_at": "2026-09-12T11:05:40.706458-07:00"
+      },
+      {
+        "title": "Hoteles mantienen baja ocupación en Sonora",
+        "summary": "Sector turístico enfrenta desafíos por economía, conectividad y preocupaciones de seguridad regional.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/mantienen-hoteles-baja-ocupacion-en-sonora/264368",
+        "_added_at": "2026-09-12T11:05:40.706458-07:00"
+      },
+      {
+        "title": "Hermosillo inaugura nueva línea de transporte eléctrico",
+        "summary": "Gobierno moderniza servicio público con veinte autobuses eléctricos en ruta de 22 kilómetros.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/12/hermosillo-pone-en-marcha-20-autobuses-electricos-en-nueva-linea-expres-recorrera-22-kilometros-entre-el-norte-y-centro-dara-cobertura-a-112-colonias-y-tendra-frecuencias-de-4-a-5-minutos/",
+        "_added_at": "2026-09-12T11:05:40.706458-07:00"
+      },
+      {
         "title": "Navojoa espera repunte de ventas por Fiestas Patrias",
         "summary": "Comerciantes prevén incremento de hasta 50% en ventas próximo a celebración del 15 de septiembre.",
         "source": "Expreso",
@@ -72,6 +100,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Lluvias generan afectaciones en Nogales y carreteras",
+        "summary": "Precipitaciones dejan daños en ciudad fronteriza; tráfico limitado a un carril en Cananea-Ímuris.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/09/12/lluvias-dejan-afectaciones-en-diversos-sectores-de-nogales-autoridades-despliegan-operativo-de-limpieza/",
+        "_added_at": "2026-09-12T11:05:40.706458-07:00"
+      },
+      {
+        "title": "Nogales alerta por aumento de alergias por polen",
+        "summary": "Salud Municipal advierte sobre incremento de casos alérgicos; recomienda evitar automedicación.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/12/nogales-alerta-aumento-alergias-polen-salud-municipal-pide-evitar-automedicacion.html",
+        "_added_at": "2026-09-12T11:05:40.706458-07:00"
+      },
+      {
+        "title": "Socavón en kínder aguarda reparación un año en Hermosillo",
+        "summary": "Infraestructura educativa muestra deterioro sin intervención gubernamental por período extendido.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/socavon-en-jardin-de-ninos-arcoiris-lleva-un-ano-sin-reparacion-en-hermosillo-32032068",
+        "_added_at": "2026-09-12T11:05:40.706458-07:00"
+      },
+      {
+        "title": "Comunidades de Álamos sin luz hasta 30 horas",
+        "summary": "Cortes prolongados de energía eléctrica afectan poblaciones de municipio tras eventos climáticos.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/12/hasta-30-horas-sin-energia-electrica-en-comunidades-de-alamos/",
+        "_added_at": "2026-09-12T11:05:40.706458-07:00"
+      },
       {
         "title": "Sonora registra 25 muertes por golpe de calor",
         "summary": "Estado acumula decesos causados por temperaturas extremas en última temporada.",
@@ -102,5 +158,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-12T00:18:13.143692-07:00"
+  "last_updated": "2026-09-12T11:05:40.706458-07:00"
 }
