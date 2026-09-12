@@ -1,246 +1,106 @@
 {
-  "date": "2026-09-11",
-  "run_count": 3,
+  "date": "2026-09-12",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Hombre muere en choque frontal Hermosillo-Ures",
-        "summary": "Identifican a Aarón de 37 años como víctima de accidente vehicular en carretera. Familia viajaba en caravana.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/11/identifican-a-aaron-de-37-anos-como-victima-del-choque-frontal-en-la-carretera-hermosillo-ures-su-familia-viajaba-en-caravana/",
-        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+        "title": "EU levanta alerta temporal en Nogales tras evaluación",
+        "summary": "Estados Unidos suspendió alerta de seguridad en Nogales pero mantiene advertencia de viaje para Sonora.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/eu-levanta-alerta-seguridad-nogales-sonora-n903381",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       },
       {
-        "title": "Capturan a operadora del Cártel de Sinaloa en Sonora",
-        "summary": "Aseguran a mujer con 5 mil 400 cartuchos de municiones. Operaba para organización delictiva.",
+        "title": "Balística vincula asesinato de influencer con crimen en Cócorit",
+        "summary": "Análisis forense conecta muerte de \"El Piturris\" en Obregón con homicidio ocurrido en municipio vecino.",
         "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/capturan-en-sonora-a-operadora-del-cartel-de-sinaloa-con-5-mil-400-cartuchos/",
-        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+        "url": "https://sonorapresente.com/2026/09/balistica-conecta-el-asesinato-de-el-piturris-con-otro-homicidio-en-cocorit/",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       },
       {
-        "title": "Aseguran 350 envoltorios con droga en Nogales",
-        "summary": "Operativo conjunto de PESP y Sedena incauta narcoticos. Decomiso importante en la frontera.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/11/aseguran-mas-350-envoltorios-droga-durante-operativo-nogales.html",
-        "_added_at": "2026-09-11T16:52:55.560901-07:00"
-      },
-      {
-        "title": "Capturan operadora del Cártel de Sinaloa con miles de cartuchos",
-        "summary": "Autoridades detienen a mujer relacionada con tráfico de armas del cártel, decomisando miles de cartuchos en Sonora.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/capturan-sonora-operadora-cartel-sinaloa-miles-cartuchos-n903284",
-        "_added_at": "2026-09-11T11:59:11.324702-07:00"
-      },
-      {
-        "title": "Asesinan a creador de contenido El Piturris en taquería Cajeme",
-        "summary": "Sujeto identificado como El Piturris es asesinado a balazos mientras trabajaba en su negocio en Ciudad Obregón.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/asesinan-a-balazos-al-creador-de-contenido-el-piturris-en-una-taqueria-de-cajeme/",
-        "_added_at": "2026-09-11T11:59:11.324702-07:00"
-      },
-      {
-        "title": "Suspenden clases en Masiaca y Bacabachi por crecida de arroyos",
-        "summary": "Lluvias intensas causan desborde de arroyos, obligando cierre de escuelas en dos municipios sonorenses.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/11/suspenden-clases-en-masiaca-y-bacabachi-ante-crecida-de-arroyos-por-lluvias/",
-        "_added_at": "2026-09-11T11:59:11.324702-07:00"
-      },
-      {
-        "title": "Crimen organizado ejecuta a creador de contenido en Obregón",
-        "summary": "Asesinado a balazos hombre identificado como \"El Piturris\" mientras trabajaba en su taquería en Ciudad Obregón.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/matan-a-balazos-a-el-piturris-mientras-atendia-su-taqueria-en-sonora/",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
-      },
-      {
-        "title": "Extorsión y cobro de piso persisten en Hermosillo",
-        "summary": "Concanaco confirma continuidad de extorsiones pese a negaciones oficiales; empresarios firman pacto para combatir delito.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/concanaco-contradice-fgjes-hay-cobro-piso-n903209",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
-      },
-      {
-        "title": "Detienen a tres con metanfetamina en Cajeme",
-        "summary": "Operativo policial en Ciudad Obregón aseguró droga y personas durante decomiso.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/detienen-tres-metanfetamina-cajeme-n903207",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
-      },
-      {
-        "title": "Sonorense muere en tiroteo en Phoenix",
-        "summary": "Ciudadano de Sonora fallece en incidente violento durante pelea entre mujeres en Arizona.",
+        "title": "Condenan a estadounidense por contrabando de armas en Nogales",
+        "summary": "Sujeto sentenciado a más de cuatro años prisión por introducir armas ilegalmente desde frontera.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonorense-muere-en-tiroteo-en-phoenix/264294",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/condenando-estadounidense-por-contrabando-de-armas-en-nogales/264359",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Buscadora cuestiona a Astiazarán sobre apoyo a colectivos",
-        "summary": "Joven activista desafía al gobernador sobre políticas hacia grupos de búsqueda en Hermosillo.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/joven-buscadora-cuestiona-a-antonio-astiazaran-por-apoyo-a-colectivos-en-hermosillo-31823616",
-        "_added_at": "2026-09-11T16:52:55.560901-07:00"
-      },
-      {
-        "title": "INE fija calendario electoral en Sonora rumbo a 2027",
-        "summary": "Instituto Electoral instala consejo local el 30 de septiembre y establece fechas para credenciales, precampañas y campañas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/11/elecciones-2027-en-sonora-ine-instalara-su-consejo-local-el-30-de-septiembre-y-fija-fechas-para-credencial-precampanas-y-campanas/",
-        "_added_at": "2026-09-11T11:59:11.324702-07:00"
-      },
-      {
-        "title": "Morena encuestará mil 200 hogares para definir liderazgo estatal",
-        "summary": "Partido define estrategia política en Sonora mediante consulta masiva con familias en toda la entidad.",
+        "title": "Morena desmiente candidatura de Lamarque en Sonora",
+        "summary": "Partido desmente rumores sobre posible candidatura en entidad para próximos comicios.",
         "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/morena-definira-liderazgo-en-sonora-con-encuesta-en-mil-200-hogares/",
-        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+        "url": "https://sonorapresente.com/2026/09/morena-frena-rumor-sobre-supuesta-candidatura-de-lamarque-en-sonora/",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       },
       {
-        "title": "Gobierno invierte 20 mil millones en carreteras estratégicas",
-        "summary": "Durazo y Sheinbaum impulsan inversión federal en infraestructura vial prioritaria para Sonora.",
+        "title": "Durazo presenta plan hídrico para garantizar agua futuro",
+        "summary": "Gobernador anuncia estrategia para asegurar disponibilidad de agua en próximas generaciones.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/impulsan-durazo-y-sheinbaum-mas-de-20-mil-millones-de-pesos-en-carreteras-estrategicas-para-sonora/",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
+        "url": "https://www.radarsonora.com/con-plan-hidrico-durazo-garantiza-agua-y-futuro-para-las-proximas-generaciones/",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       },
       {
-        "title": "Senador Beltrones pide incorporar Buscadoras a comisión",
-        "summary": "Iniciativa para fortalecer participación de colectivos de búsqueda en organismos de investigación estatal.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/pide-incorporar-a-buscadoras-a-comision-de-busqueda-el-senador-manlio-fabio-beltrones/",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
-      },
-      {
-        "title": "Congreso de Sonora impulsa iniciativas sobre suicidio",
-        "summary": "Turnadas a órganos internos reformas sobre transparencia, prevención de suicidio y regulación de condominios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/congreso-sonora-impulsa-iniciativas-organos-internos-control/264290",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
-      },
-      {
-        "title": "Leobardo Olmos se perfila en Morena",
-        "summary": "Político local entre nombres que suenan para posiciones dentro de estructura del partido.",
+        "title": "Durazo moderniza transporte con unidades eléctricas en Hermosillo",
+        "summary": "Gobernador implementa nuevas unidades de transporte público ecológico en capital.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/leobardo-olmos-entre-los-nombres-que-se-perfilan-en-morena/",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
+        "url": "https://www.radarsonora.com/gobernador-durazo-moderniza-transporte-publico-de-hermosillo-con-nuevas-unidades-electricas/",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Secretaría del Trabajo capacita a empresas sobre jornada laboral",
-        "summary": "Gobierno prepara al sector empresarial para reducción gradual de horas de trabajo.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/secretaria-trabajo-capacita-empresas-reduccion-gradual-jornada-laboral-n903345",
-        "_added_at": "2026-09-11T16:52:55.560901-07:00"
-      },
-      {
-        "title": "Padres demandan devolución de dinero en Secundaria 30",
-        "summary": "Familias de San Luis Río Colorado reclaman reembolso a institución educativa.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/buscan-padres-de-familia-de-secundaria-30-devolucion-de-su-dinero-32029798",
-        "_added_at": "2026-09-11T16:52:55.560901-07:00"
-      },
-      {
-        "title": "Durazo impulsa inversión histórica en carreteras de Sonora",
-        "summary": "Gobernador destina más de 20 mil millones de pesos para modernización y ampliación de infraestructura vial estatal.",
+        "title": "Navojoa espera repunte de ventas por Fiestas Patrias",
+        "summary": "Comerciantes prevén incremento de hasta 50% en ventas próximo a celebración del 15 de septiembre.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/destinan-20-mil-mdp-a-carreteras-de-sonora/264316",
-        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/esperan-repunte-de-ventas-por-15-de-septiembre-en-navojoa/264357",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       },
       {
-        "title": "Puerto Peñasco emerge como ruta para exportar carbón",
-        "summary": "Nuevo corredor comercial hacia Estados Unidos y Asia posiciona infraestructura portuaria local.",
+        "title": "ICATSON capacitará a más de 12 mil personas este año",
+        "summary": "Instituto planea entrenar amplio número de sonorenses en habilidades técnicas y laborales.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/preve-icatson-capacitar-a-mas-de-12-mil-personas-durante-este-ano/",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
+      },
+      {
+        "title": "Levantan veda de camarón para ribereños el 22 de septiembre",
+        "summary": "Se autoriza temporada de pesca de camarón para pescadores locales en fecha próxima.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/el-puerto-nueva-ruta-para-exportar-carbon-a-eu-y-asia/",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
-      },
-      {
-        "title": "Reformas impulsan uso de acero mexicano en obra pública",
-        "summary": "Cambios legislativos benefician proyectos federales en Sonora mediante priorización de materiales nacionales.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/mexico/reformas-impulsan-acero-mexicano-en-obra-publica-tendran-impacto-en-proyectos-federales-de-sonora-31847624",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
-      },
-      {
-        "title": "Sonora analiza turismo de congresos y hospedaje",
-        "summary": "Foro Conextur 2026 examina tendencias en turismo de negocios, Airbnb y cadenas hoteleras.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/conextur-2026-sonora-analizara-turismo-de-congresos-airbnb-y-hoteles-all-inclusive-32003425",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
+        "url": "https://www.radarsonora.com/levantan-la-veda-del-camaron-para-riberenos-el-22-de-septiembre/",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Dos menores trasladadas en lancha por crecida en Masiaca",
-        "summary": "Niñas enfermas cruzadas por agua hacia Navojoa. Sistema de salud activa por emergencia.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/trasladan-en-lancha-a-dos-menores-enfermas-en-masiaca-sonora/264330",
-        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+        "title": "Sonora registra 25 muertes por golpe de calor",
+        "summary": "Estado acumula decesos causados por temperaturas extremas en última temporada.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/acumula-sonora-25-defunciones-por-golpe-de-calor/143580",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       },
       {
-        "title": "53 hospitalizaciones por intento de suicidio en Nogales",
-        "summary": "Cifra preocupante de autolesiones hasta agosto. Crisis de salud mental en la frontera.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/11/53-personas-fueron-hospitalizadas-nogales-intento-suicidio-hasta-agosto.html",
-        "_added_at": "2026-09-11T16:52:55.560901-07:00"
-      },
-      {
-        "title": "Vecino rescata niño de cinco años durante incendio",
-        "summary": "Acto heroico en Nogales. Menor fue sacado de vivienda en llamas por civil.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/11/vecino-rescata-nino-5-anos-durante-incendio-nogales.html",
-        "_added_at": "2026-09-11T16:52:55.560901-07:00"
-      },
-      {
-        "title": "Preparan Megalimpieza en Bahía de Kino",
-        "summary": "Iniciativa de limpieza de playas para proteger ecosistema marino en Sonora.",
+        "title": "Tormentas y calor extremo impactarán Sonora próximamente",
+        "summary": "Meteorología advierte sobre condiciones climáticas severas en diversos puntos del estado.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/a-limpiar-playa-preparan-megalimpieza-bahia-kino-n903327",
-        "_added_at": "2026-09-11T16:52:55.560901-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/tormentas-calor-extremo-sacudiran-sonora-n903387",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       },
       {
-        "title": "Burgos promueve apoyo psicológico gratuito en Nogales",
-        "summary": "Iniciativa ofrece servicios de salud mental sin costo para familias nogalenses a través del programa Mujeres al 100.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/11/angelica-burgos-impulsa-apoyo-psicologico-gratis-familias-nogales.html",
-        "_added_at": "2026-09-11T11:59:11.324702-07:00"
+        "title": "Bienestar atiende 800 afectaciones por lluvias en municipios",
+        "summary": "Secretaría brinda asistencia a población impactada por precipitaciones en diversas regiones.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/atiende-secretaria-de-bienestar-alrededor-de-800-afectaciones-por-lluvias-en-municipios-de-sonora/",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       },
       {
-        "title": "Hermosillo abre su primera Escuela Municipal de Música",
-        "summary": "Capital sonorense inaugura centro educativo con 89 alumnos e inversión superior a tres millones de pesos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/11/tras-anos-de-ensayar-al-aire-libre-89-alumnos-estrenan-la-primera-escuela-municipal-de-musica-de-hermosillo-con-inversion-de-mas-de-3-millones-de-pesos/",
-        "_added_at": "2026-09-11T11:59:11.324702-07:00"
-      },
-      {
-        "title": "Alumna Unison gana competencia internacional de motorsport",
-        "summary": "Estudiante sonorense triunfa en evento Women in Motorsport, demostrando talento local en competencias internacionales.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/talento-sonorense-pista-alumna-unison-gana-women-in-motorsport-n903278",
-        "_added_at": "2026-09-11T11:59:11.324702-07:00"
-      },
-      {
-        "title": "Treinta colonias hermosillenses recuperan servicio de agua",
-        "summary": "Distribuidoras reactivan bombeo en La Victoria, restableciendo agua potable en sectores de capital sonorense.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/11/todavia-no-tienes-agua-estas-30-colonias-de-hermosillo-recuperaran-el-servicio-este-viernes-tras-reactivarse-el-bombeo-de-la-victoria/",
-        "_added_at": "2026-09-11T11:59:11.324702-07:00"
-      },
-      {
-        "title": "Prevención del suicidio prioridad en agenda legislativa",
-        "summary": "Lorenia Valles y Unison impulsan campañas y medidas legislativas ante alarmante cifra de muertes.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/destaca-lorenia-valles-prevencion-del-suicidio/264296",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
-      },
-      {
-        "title": "Refuerzan atención salud mental en adultos mayores",
-        "summary": "Programas específicos enfocados en bienestar psicológico de personas de tercera edad en Sonora.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/salud/refuerzan-cuidado-salud-mental-adultos-mayores-n903218",
-        "_added_at": "2026-09-11T00:25:44.607594-07:00"
+        "title": "Doctor Vagón llevará atención médica gratuita a Empalme",
+        "summary": "Programa de salud móvil prestará servicios médicos sin costo en puerto sonorense.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/llevara-doctor-vagon-atencion-medica-gratuita-a-empalme/",
+        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-11T16:52:55.560901-07:00"
+  "last_updated": "2026-09-12T00:18:13.143692-07:00"
 }
