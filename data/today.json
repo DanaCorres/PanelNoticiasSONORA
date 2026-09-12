@@ -1,8 +1,15 @@
 {
   "date": "2026-09-12",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Motociclista lesionado en choque al norte de Hermosillo",
+        "summary": "Accidente vial entre motocicleta y sedán causa heridas al conductor en zona norte de la capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/12/choque-contra-sedan-deja-un-motociclista-lesionado-al-norte-de-hermosillo/",
+        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+      },
       {
         "title": "EU levanta alerta temporal en Nogales tras evaluación",
         "summary": "Estados Unidos suspendió alerta de seguridad en Nogales pero mantiene advertencia de viaje para Sonora.",
@@ -26,6 +33,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Montiel critica gira europea de Jorge Romero",
+        "summary": "Funcionaria cuestiona viaje internacional del político tras pérdida de apoyo en México.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/12/busca-afuera-el-respaldo-que-perdieron-en-mexico-ariadna-montiel-critica-gira-de-jorge-romero-por-europa/",
+        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+      },
+      {
+        "title": "Ayuntamiento impulsa participación ciudadana con convenio",
+        "summary": "Gobierno municipal firma acuerdo para fortalecer participación de habitantes en decisiones públicas.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/impulsara-gobierno-municipal-participacion-ciudadana-firma-convenio-tono-astiazaran-y-el-iee/",
+        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+      },
       {
         "title": "Oposición gana terreno en Cajeme",
         "summary": "PAN muestra avance electoral en municipio de Cajeme durante período reciente.",
@@ -56,6 +77,34 @@
       }
     ],
     "economia": [
+      {
+        "title": "Empresas reciben orientación sobre reducción de jornada laboral",
+        "summary": "Capacitación a empresarios sonorenses sobre implementación gradual de jornada de 40 horas hasta 2030.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/capacitan-a-empresas-en-sonora-por-jornada-laboral/264385",
+        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+      },
+      {
+        "title": "Dólar cotiza cerca de 17 pesos en Sonora",
+        "summary": "Moneda estadounidense mantiene cotización cercana a 17 unidades en instituciones bancarias locales.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/finanzas/dolar-hoy-12-de-septiembre-de-2026-cotiza-cerca-de-las-17-unidades-en-bancos-y-remesadoras/143584",
+        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+      },
+      {
+        "title": "Precios de carnes suben para Fiestas Patrias en Hermosillo",
+        "summary": "Insumos para pozole y menudo incrementan costo días antes de celebraciones del 15 de septiembre.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/12/a-dias-del-15-de-septiembre-y-rumbo-a-las-fiestas-patrias-las-carnes-para-pozole-menudo-y-barbacoa-mantienen-sus-precios-en-hermosillo-mientras-el-chile-verde-y-el-limon-se-disparan-hasta-60-y-80-pesos/",
+        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+      },
+      {
+        "title": "Ventas de artículos patrios bajan en Centro de Hermosillo",
+        "summary": "Comercio de productos para festividades decae en zona céntrica poco antes de festejos patrios.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/12/bajan-ventas-de-articulos-patrios-en-centro-de-hermosillo-a-unos-dias-de-los-festejos-por-la-independencia/",
+        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+      },
       {
         "title": "Maquiladoras de Sonora crean 10 mil empleos en semestre",
         "summary": "Industria genera empleo significativo; se proyectan mil 500 nuevas plazas al cierre de 2026.",
@@ -101,6 +150,34 @@
     ],
     "sociedad": [
       {
+        "title": "ISIE invierte mil 100 millones en infraestructura educativa",
+        "summary": "Instituto de servicios educativos destina recursos para mejorar instalaciones escolares en Sonora.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/isie-destinara-mas-de-mil-100-millones-de-pesos-a-infraestructura-educativa-en-sonora-32044439",
+        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+      },
+      {
+        "title": "OOMAPAS resuelve aguas negras en Arroyo Los Nogales",
+        "summary": "Organismo acaba con problema de contaminación que afectaba a Nogales durante dos décadas.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/12/oomapas-pondra-fin-aguas-negras-arroyo-nogales-dos-decadas.html",
+        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+      },
+      {
+        "title": "Durazo presenta Plan Hídrico para garantizar agua futura",
+        "summary": "Gobernador anuncia estrategia de gestión hídrica para asegurar disponibilidad en próximas generaciones.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/con-plan-hidrico-durazo-garantiza-agua-y-futuro-para-las-proximas-generaciones/",
+        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+      },
+      {
+        "title": "Hermosillo instala energía solar en 71 viviendas",
+        "summary": "Programa de energías renovables reduce costos de electricidad para familias de la capital.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/hermosillo-lleva-energia-solar-71-viviendas-reducir-recibos-luz-n903475",
+        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+      },
+      {
         "title": "Lluvias generan afectaciones en Nogales y carreteras",
         "summary": "Precipitaciones dejan daños en ciudad fronteriza; tráfico limitado a un carril en Cananea-Ímuris.",
         "source": "El Imparcial",
@@ -141,22 +218,8 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/sociedad/tormentas-calor-extremo-sacudiran-sonora-n903387",
         "_added_at": "2026-09-12T00:18:13.143692-07:00"
-      },
-      {
-        "title": "Bienestar atiende 800 afectaciones por lluvias en municipios",
-        "summary": "Secretaría brinda asistencia a población impactada por precipitaciones en diversas regiones.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/atiende-secretaria-de-bienestar-alrededor-de-800-afectaciones-por-lluvias-en-municipios-de-sonora/",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
-      },
-      {
-        "title": "Doctor Vagón llevará atención médica gratuita a Empalme",
-        "summary": "Programa de salud móvil prestará servicios médicos sin costo en puerto sonorense.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/llevara-doctor-vagon-atencion-medica-gratuita-a-empalme/",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-12T11:05:40.706458-07:00"
+  "last_updated": "2026-09-12T16:44:30.221633-07:00"
 }
