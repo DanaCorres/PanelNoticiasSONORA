@@ -1,8 +1,29 @@
 {
   "date": "2026-09-13",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan presunto operador de Beltrán Leyva en Sonora",
+        "summary": "Autoridades detienen a \"El Canguro\", señalado como operador criminal dedicado al tráfico hacia Estados Unidos.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/13/cae-el-canguro-presunto-operador-de-los-beltran-leyva-para-llevar-drga-a-eu/",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
+      {
+        "title": "Detienen sujeto por robo en colonia Las Granjas",
+        "summary": "Aprehenden a individuo tras irrumpir en domicilio ajeno en área residencial de Hermosillo.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/se-mete-a-casa-ajena-y-lo-aprehenden-en-la-colonia-las-granjas/",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
+      {
+        "title": "Operativo de seguridad municipal para festividades patrias",
+        "summary": "Policía Municipal despliega estrategia de vigilancia durante celebraciones de Independencia en Hermosillo.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/listo-operativo-de-la-policia-municipal-para-festejos-patrios/",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
       {
         "title": "Detienen a tres jóvenes por robo en Bahía de Kino",
         "summary": "Tres individuos fueron capturados tras amenazar a un cajero y robar bebidas en Bahía de Kino.",
@@ -51,16 +72,23 @@
         "source": "Entorno Informativo",
         "url": "https://entornoinformativo.com.mx/sorprenden-a-cuatro-personas-con-drogas/",
         "_added_at": "2026-09-13T00:36:53.127344-07:00"
-      },
-      {
-        "title": "Aseguran cargamento de droga en Pueblo Yaqui",
-        "summary": "Autoridades localizan y decomisan sustancias prohibidas durante operación en comunidad yaqui.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/aseguran-droga-en-pueblo-yaqui/",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Durazo cierra quinto informe destacando austeridad gubernamental",
+        "summary": "Gobernador resalta gestión con finanzas sanas y resolución de conflictos históricos en su administración.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/13/he-gobernado-con-austeridad-sin-excentricidades-ni-lujos-durazo-destaca-resultados-y-finanzas-sanas-en-su-quinto-informe-de-gobierno/",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
+      {
+        "title": "Durazo subraya logros en demandas de pueblos originarios",
+        "summary": "Gobernador menciona resolución de conflictos con comunidades yaquis y mineros de Cananea.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/13/resolvimos-conflictos-y-agravios-sociales-historicos-durazo-destaca-soluciones-para-demandas-de-pueblos-originarios-mineros-de-cananea-y-comunidades-del-rio-sonora/",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
       {
         "title": "Durazo presenta quinto informe de gobierno",
         "summary": "Gobernador Alfonso Durazo expone cinco años de administración destacando austeridad y gobierno sin corrupción.",
@@ -106,6 +134,34 @@
     ],
     "economia": [
       {
+        "title": "Ganaderos esperan reapertura fronteriza en Nogales",
+        "summary": "Sector ganadero sonorense aguarda autorización para reanudar exportaciones desde puesto fronterizo.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ganaderos-de-sonora-esperan-pronta-reapertura-de-la-frontera-de-nogales-para-la-exportacion-32065370",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
+      {
+        "title": "Grúas portuarias navegan hacia puerto de Guaymas",
+        "summary": "Arriban equipos de carga procedentes de Manzanillo para operaciones portuarias en Guaymas.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/ya-navegan-rumbo-a-guaymas-las-dos-grandes-gruas-portuarias/",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
+      {
+        "title": "Levantarían veda del camarón en Sonora esta semana",
+        "summary": "Autoridades autorizan apertura de temporada pesquera de camarón para productores sonorenses.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/a-preparar-redes-levantarian-veda-camaron-sonora-esta-semana-n903518",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
+      {
+        "title": "Construirán hospital de alto nivel en Miguel Alemán",
+        "summary": "Proyecto sanitario previsto para iniciar construcción en 2027 beneficiará región sur de Sonora.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/miguel-aleman-tendra-hospital-alto-nivel-construccion-iniciaria-2027-n903516",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
+      {
         "title": "Precio del dólar este domingo en bancos",
         "summary": "Cotización del dólar estadounidense en instituciones financieras sonorenses del 13 de septiembre.",
         "source": "Diario del Yaqui",
@@ -142,6 +198,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora suma 25 muertes por calor extremo en 2026",
+        "summary": "Registran 486 casos de afectados por altas temperaturas, aumento de 55.8% respecto a 2025.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-registra-486-casos-por-calor-y-25-muertes-en-2026/264424",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
+      {
+        "title": "Gusano barrenador afecta sur de Sonora con 30 casos",
+        "summary": "Plaga detectada en seis municipios; autoridades intensifican medidas de contención y control.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-acumula-30-casos-de-gusano-barrenador-en-seis-municipios-31952353",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
+      {
+        "title": "Aparatoso choque deja familia lesionada en Nogales",
+        "summary": "Estructura metálica golpea vehículo; padres y menor sufren lesiones no graves.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/aparatoso-choque-deja-a-familia-lesionada-en-nogales/264423",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
+      {
+        "title": "Cajemenses pueden solicitar reparación de daños por lluvias",
+        "summary": "Autoridades municipales ofrecen trámite para reclamación de daños vehiculares causados por precipitaciones.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/pueden-cajemenses-solicitar-reparacion-de-danos-en-carros-por-lluvias-/143660",
+        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+      },
       {
         "title": "Sonora acumula mil 195 casos de dengue",
         "summary": "Epidemia del dengue continúa en estado con nueve nuevos casos y dieciocho enfermos graves.",
@@ -183,22 +267,8 @@
         "source": "Entorno Informativo",
         "url": "https://entornoinformativo.com.mx/llega-dr-vagon-a-sonora-con-atencion-medica/",
         "_added_at": "2026-09-13T00:36:53.127344-07:00"
-      },
-      {
-        "title": "Rescatan tres caninos abandonados durante cateo en Hermosillo",
-        "summary": "Fiscalía atiende bienestar animal durante operación en la capital del estado.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/rescata-fgjes-a-tres-caninos-en-condiciones-de-abandono-durante-cateo-en-hermosillo/",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
-      },
-      {
-        "title": "Familias en Miguel Alemán reciben escrituras tras años de espera",
-        "summary": "Poblado recepciona documentos de propiedad tras largo proceso de gestión estatal.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/familias-de-poblado-miguel-aleman-reciben-escrituras-tras-anos-de-espera/",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-13T11:32:25.611178-07:00"
+  "last_updated": "2026-09-13T16:53:29.484520-07:00"
 }
