@@ -1,225 +1,127 @@
 {
-  "date": "2026-09-12",
-  "run_count": 3,
+  "date": "2026-09-13",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Motociclista lesionado en choque al norte de Hermosillo",
-        "summary": "Accidente vial entre motocicleta y sedán causa heridas al conductor en zona norte de la capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/12/choque-contra-sedan-deja-un-motociclista-lesionado-al-norte-de-hermosillo/",
-        "_added_at": "2026-09-12T16:44:30.221633-07:00"
-      },
-      {
-        "title": "EU levanta alerta temporal en Nogales tras evaluación",
-        "summary": "Estados Unidos suspendió alerta de seguridad en Nogales pero mantiene advertencia de viaje para Sonora.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/eu-levanta-alerta-seguridad-nogales-sonora-n903381",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
-      },
-      {
-        "title": "Balística vincula asesinato de influencer con crimen en Cócorit",
-        "summary": "Análisis forense conecta muerte de \"El Piturris\" en Obregón con homicidio ocurrido en municipio vecino.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/balistica-conecta-el-asesinato-de-el-piturris-con-otro-homicidio-en-cocorit/",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
-      },
-      {
-        "title": "Condenan a estadounidense por contrabando de armas en Nogales",
-        "summary": "Sujeto sentenciado a más de cuatro años prisión por introducir armas ilegalmente desde frontera.",
+        "title": "Hallan vehículo sumergido en playa de San Carlos",
+        "summary": "Camioneta parcialmente hundida encontrada en zona turística; incidentes recurrentes por marea en Piedras Pintas.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/condenando-estadounidense-por-contrabando-de-armas-en-nogales/264359",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/hallan-auto-parcialmente-sumergido-en-playa-de-san-carlos/264392",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
+      },
+      {
+        "title": "Capturan sujetos con armas prohibidas en Hermosillo",
+        "summary": "Agentes preventivos detienen a dos personas portando armamento ilegal durante operativo de seguridad.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/agentes-preventivos-atrapan-a-par-de-sujetos-con-armas-prohibidas/",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
+      },
+      {
+        "title": "Detienen a cuatro individuos con drogas en Sonora",
+        "summary": "Operativo sorprende a personas transportando sustancias ilícitas en el estado.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/sorprenden-a-cuatro-personas-con-drogas/",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
+      },
+      {
+        "title": "Aseguran cargamento de droga en Pueblo Yaqui",
+        "summary": "Autoridades localizan y decomisan sustancias prohibidas durante operación en comunidad yaqui.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/aseguran-droga-en-pueblo-yaqui/",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Montiel critica gira europea de Jorge Romero",
-        "summary": "Funcionaria cuestiona viaje internacional del político tras pérdida de apoyo en México.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/12/busca-afuera-el-respaldo-que-perdieron-en-mexico-ariadna-montiel-critica-gira-de-jorge-romero-por-europa/",
-        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+        "title": "Durazo presenta su quinto informe de gobierno este domingo",
+        "summary": "Gobernador Alfonso Durazo transmitirá por plataformas digitales y medios públicos su reporte anual.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/presentara-durazo-su-quinto-informe-de-gobierno-este-domingo/",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
       },
       {
-        "title": "Ayuntamiento impulsa participación ciudadana con convenio",
-        "summary": "Gobierno municipal firma acuerdo para fortalecer participación de habitantes en decisiones públicas.",
+        "title": "Grecia Quiroz desmiente vinculación con crimen organizado",
+        "summary": "Presidenta municipal de Uruapan niega pactos y reafirma compromiso con ciudadanía.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/grecia-quiroz-garcia-niega-pactos-con-crimen-organizado/264397",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
+      },
+      {
+        "title": "Durazo y Sedatu entregan escrituras a familias sonorenses",
+        "summary": "Gobierno asegura patrimonio mediante entrega de documentos y créditos liquidados en el estado.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/durazo-y-sedatu-aseguran-el-patrimonio-de-familias-sonorenses-con-entrega-de-escrituras-y-creditos-liquidados/",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
+      },
+      {
+        "title": "Gobernador restituye derechos a pueblos originarios tras rezago",
+        "summary": "Administración estatal atiende demandas históricas de comunidades indígenas en Sonora.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/impulsara-gobierno-municipal-participacion-ciudadana-firma-convenio-tono-astiazaran-y-el-iee/",
-        "_added_at": "2026-09-12T16:44:30.221633-07:00"
-      },
-      {
-        "title": "Oposición gana terreno en Cajeme",
-        "summary": "PAN muestra avance electoral en municipio de Cajeme durante período reciente.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/12/oposicion-gana-terreno-pan-cajeme/",
-        "_added_at": "2026-09-12T11:05:40.706458-07:00"
-      },
-      {
-        "title": "Morena desmiente candidatura de Lamarque en Sonora",
-        "summary": "Partido desmente rumores sobre posible candidatura en entidad para próximos comicios.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/09/morena-frena-rumor-sobre-supuesta-candidatura-de-lamarque-en-sonora/",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
-      },
-      {
-        "title": "Durazo presenta plan hídrico para garantizar agua futuro",
-        "summary": "Gobernador anuncia estrategia para asegurar disponibilidad de agua en próximas generaciones.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/con-plan-hidrico-durazo-garantiza-agua-y-futuro-para-las-proximas-generaciones/",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
-      },
-      {
-        "title": "Durazo moderniza transporte con unidades eléctricas en Hermosillo",
-        "summary": "Gobernador implementa nuevas unidades de transporte público ecológico en capital.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/gobernador-durazo-moderniza-transporte-publico-de-hermosillo-con-nuevas-unidades-electricas/",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
+        "url": "https://entornoinformativo.com.mx/restituye-gobernador-derechos-de-pueblos-originarios-tras-decadas-de-rezago/",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Empresas reciben orientación sobre reducción de jornada laboral",
-        "summary": "Capacitación a empresarios sonorenses sobre implementación gradual de jornada de 40 horas hasta 2030.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/capacitan-a-empresas-en-sonora-por-jornada-laboral/264385",
-        "_added_at": "2026-09-12T16:44:30.221633-07:00"
-      },
-      {
-        "title": "Dólar cotiza cerca de 17 pesos en Sonora",
-        "summary": "Moneda estadounidense mantiene cotización cercana a 17 unidades en instituciones bancarias locales.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/finanzas/dolar-hoy-12-de-septiembre-de-2026-cotiza-cerca-de-las-17-unidades-en-bancos-y-remesadoras/143584",
-        "_added_at": "2026-09-12T16:44:30.221633-07:00"
-      },
-      {
-        "title": "Precios de carnes suben para Fiestas Patrias en Hermosillo",
-        "summary": "Insumos para pozole y menudo incrementan costo días antes de celebraciones del 15 de septiembre.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/12/a-dias-del-15-de-septiembre-y-rumbo-a-las-fiestas-patrias-las-carnes-para-pozole-menudo-y-barbacoa-mantienen-sus-precios-en-hermosillo-mientras-el-chile-verde-y-el-limon-se-disparan-hasta-60-y-80-pesos/",
-        "_added_at": "2026-09-12T16:44:30.221633-07:00"
-      },
-      {
-        "title": "Ventas de artículos patrios bajan en Centro de Hermosillo",
-        "summary": "Comercio de productos para festividades decae en zona céntrica poco antes de festejos patrios.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/12/bajan-ventas-de-articulos-patrios-en-centro-de-hermosillo-a-unos-dias-de-los-festejos-por-la-independencia/",
-        "_added_at": "2026-09-12T16:44:30.221633-07:00"
-      },
-      {
-        "title": "Maquiladoras de Sonora crean 10 mil empleos en semestre",
-        "summary": "Industria genera empleo significativo; se proyectan mil 500 nuevas plazas al cierre de 2026.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/12/industria-maquiladora-de-sonora-suma-10-mil-60-empleos-entre-enero-y-junio-y-llega-a-155-mil-115-puestos-index-preve-hasta-mil-500-mas-al-cierre-de-2026/",
-        "_added_at": "2026-09-12T11:05:40.706458-07:00"
-      },
-      {
-        "title": "Hoteles mantienen baja ocupación en Sonora",
-        "summary": "Sector turístico enfrenta desafíos por economía, conectividad y preocupaciones de seguridad regional.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/mantienen-hoteles-baja-ocupacion-en-sonora/264368",
-        "_added_at": "2026-09-12T11:05:40.706458-07:00"
-      },
-      {
-        "title": "Hermosillo inaugura nueva línea de transporte eléctrico",
-        "summary": "Gobierno moderniza servicio público con veinte autobuses eléctricos en ruta de 22 kilómetros.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/12/hermosillo-pone-en-marcha-20-autobuses-electricos-en-nueva-linea-expres-recorrera-22-kilometros-entre-el-norte-y-centro-dara-cobertura-a-112-colonias-y-tendra-frecuencias-de-4-a-5-minutos/",
-        "_added_at": "2026-09-12T11:05:40.706458-07:00"
-      },
-      {
-        "title": "Navojoa espera repunte de ventas por Fiestas Patrias",
-        "summary": "Comerciantes prevén incremento de hasta 50% en ventas próximo a celebración del 15 de septiembre.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/esperan-repunte-de-ventas-por-15-de-septiembre-en-navojoa/264357",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
-      },
-      {
-        "title": "ICATSON capacitará a más de 12 mil personas este año",
-        "summary": "Instituto planea entrenar amplio número de sonorenses en habilidades técnicas y laborales.",
+        "title": "Sector hotelero propone centro de convenciones en Hermosillo",
+        "summary": "Industria turística planea infraestructura para atraer eventos y potenciar economía local.",
         "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/preve-icatson-capacitar-a-mas-de-12-mil-personas-durante-este-ano/",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
+        "url": "https://www.radiosonora.com.mx/sector-hotelero-plantea-crear-un-centro-de-convenciones-en-hermosillo/",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
       },
       {
-        "title": "Levantan veda de camarón para ribereños el 22 de septiembre",
-        "summary": "Se autoriza temporada de pesca de camarón para pescadores locales en fecha próxima.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/levantan-la-veda-del-camaron-para-riberenos-el-22-de-septiembre/",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
+        "title": "Capacitan operadores de transporte ante escasez laboral",
+        "summary": "Icatson prepara personal para sector carga frente a falta de trabajadores disponibles.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/capacita-icatson-a-operadores-de-transporte-de-carga-ante-escasez-de-mano-de-obra/",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
+      },
+      {
+        "title": "Cecop invierte 300 millones en restauración de espacios públicos",
+        "summary": "Organismo destina recursos significativos para mejorar infraestructura comunitaria en Sonora.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/cecop-suma-casi-300-mdp-al-rescate-de-espacios-publicos-en-sonora-32044662",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
+      },
+      {
+        "title": "AguaH deberá pagar crédito de 120 millones antes de 2027",
+        "summary": "Alcalde advierte sobre obligación financiera pendiente de organismo de agua en Hermosillo.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/alcalde-asegura-que-aguah-debera-pagar-credito-de-120-millones-antes-de-septiembre-de-2027-31897686",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "ISIE invierte mil 100 millones en infraestructura educativa",
-        "summary": "Instituto de servicios educativos destina recursos para mejorar instalaciones escolares en Sonora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/isie-destinara-mas-de-mil-100-millones-de-pesos-a-infraestructura-educativa-en-sonora-32044439",
-        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+        "title": "Estudiantes rescatan juegos tradicionales en UPN Hermosillo",
+        "summary": "Comunidad universitaria revive actividades culturales y recreativas de carácter tradicional.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/reviven-estudiantes-juegos-tradicionales-en-la-upn-hermosillo/",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
       },
       {
-        "title": "OOMAPAS resuelve aguas negras en Arroyo Los Nogales",
-        "summary": "Organismo acaba con problema de contaminación que afectaba a Nogales durante dos décadas.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/12/oomapas-pondra-fin-aguas-negras-arroyo-nogales-dos-decadas.html",
-        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+        "title": "Dr. Vagón llega a Sonora con servicios médicos itinerantes",
+        "summary": "Programa móvil de salud inicia operaciones para atender poblaciones en el estado.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/llega-dr-vagon-a-sonora-con-atencion-medica/",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
       },
       {
-        "title": "Durazo presenta Plan Hídrico para garantizar agua futura",
-        "summary": "Gobernador anuncia estrategia de gestión hídrica para asegurar disponibilidad en próximas generaciones.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/con-plan-hidrico-durazo-garantiza-agua-y-futuro-para-las-proximas-generaciones/",
-        "_added_at": "2026-09-12T16:44:30.221633-07:00"
+        "title": "Rescatan tres caninos abandonados durante cateo en Hermosillo",
+        "summary": "Fiscalía atiende bienestar animal durante operación en la capital del estado.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/rescata-fgjes-a-tres-caninos-en-condiciones-de-abandono-durante-cateo-en-hermosillo/",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
       },
       {
-        "title": "Hermosillo instala energía solar en 71 viviendas",
-        "summary": "Programa de energías renovables reduce costos de electricidad para familias de la capital.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/hermosillo-lleva-energia-solar-71-viviendas-reducir-recibos-luz-n903475",
-        "_added_at": "2026-09-12T16:44:30.221633-07:00"
-      },
-      {
-        "title": "Lluvias generan afectaciones en Nogales y carreteras",
-        "summary": "Precipitaciones dejan daños en ciudad fronteriza; tráfico limitado a un carril en Cananea-Ímuris.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/09/12/lluvias-dejan-afectaciones-en-diversos-sectores-de-nogales-autoridades-despliegan-operativo-de-limpieza/",
-        "_added_at": "2026-09-12T11:05:40.706458-07:00"
-      },
-      {
-        "title": "Nogales alerta por aumento de alergias por polen",
-        "summary": "Salud Municipal advierte sobre incremento de casos alérgicos; recomienda evitar automedicación.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/12/nogales-alerta-aumento-alergias-polen-salud-municipal-pide-evitar-automedicacion.html",
-        "_added_at": "2026-09-12T11:05:40.706458-07:00"
-      },
-      {
-        "title": "Socavón en kínder aguarda reparación un año en Hermosillo",
-        "summary": "Infraestructura educativa muestra deterioro sin intervención gubernamental por período extendido.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/socavon-en-jardin-de-ninos-arcoiris-lleva-un-ano-sin-reparacion-en-hermosillo-32032068",
-        "_added_at": "2026-09-12T11:05:40.706458-07:00"
-      },
-      {
-        "title": "Comunidades de Álamos sin luz hasta 30 horas",
-        "summary": "Cortes prolongados de energía eléctrica afectan poblaciones de municipio tras eventos climáticos.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/12/hasta-30-horas-sin-energia-electrica-en-comunidades-de-alamos/",
-        "_added_at": "2026-09-12T11:05:40.706458-07:00"
-      },
-      {
-        "title": "Sonora registra 25 muertes por golpe de calor",
-        "summary": "Estado acumula decesos causados por temperaturas extremas en última temporada.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/acumula-sonora-25-defunciones-por-golpe-de-calor/143580",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
-      },
-      {
-        "title": "Tormentas y calor extremo impactarán Sonora próximamente",
-        "summary": "Meteorología advierte sobre condiciones climáticas severas en diversos puntos del estado.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/tormentas-calor-extremo-sacudiran-sonora-n903387",
-        "_added_at": "2026-09-12T00:18:13.143692-07:00"
+        "title": "Familias en Miguel Alemán reciben escrituras tras años de espera",
+        "summary": "Poblado recepciona documentos de propiedad tras largo proceso de gestión estatal.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/familias-de-poblado-miguel-aleman-reciben-escrituras-tras-anos-de-espera/",
+        "_added_at": "2026-09-13T00:36:53.127344-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-12T16:44:30.221633-07:00"
+  "last_updated": "2026-09-13T00:36:53.127344-07:00"
 }
