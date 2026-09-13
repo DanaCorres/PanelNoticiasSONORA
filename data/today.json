@@ -1,8 +1,36 @@
 {
   "date": "2026-09-13",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a tres jóvenes por robo en Bahía de Kino",
+        "summary": "Tres individuos fueron capturados tras amenazar a un cajero y robar bebidas en Bahía de Kino.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/13/detienen-a-tres-jovenes-tras-amenazar-a-cajero-y-robar-tres-caguamas-en-bahia-de-kino/",
+        "_added_at": "2026-09-13T11:32:25.611178-07:00"
+      },
+      {
+        "title": "Aprehenden presunto tirador en colonia Altares",
+        "summary": "Autoridades capturaron a sujeto señalado como responsable de disparos en zona residencial hermosillense.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/ponen-tras-las-rejas-a-presunto-tirador-en-la-colonia-altares/",
+        "_added_at": "2026-09-13T11:32:25.611178-07:00"
+      },
+      {
+        "title": "Sentencian a reo a cuatro años de cárcel",
+        "summary": "Sujeto recibe condena por delito cometido en colonia Los Olivos de Hermosillo.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/sentencian-a-sujeto-a-cuatro-anos-de-carcel-en-la-colonia-los-olivos/",
+        "_added_at": "2026-09-13T11:32:25.611178-07:00"
+      },
+      {
+        "title": "Detienen a hombre con narcóticos en Pueblo Yaqui",
+        "summary": "PESP aseguró a individuo portando drogas en comunidad yaqui sonorense.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/detienen-pesp-a-hombre-con-narcotico-en-pueblo-yaqui/",
+        "_added_at": "2026-09-13T11:32:25.611178-07:00"
+      },
       {
         "title": "Hallan vehículo sumergido en playa de San Carlos",
         "summary": "Camioneta parcialmente hundida encontrada en zona turística; incidentes recurrentes por marea en Piedras Pintas.",
@@ -34,6 +62,20 @@
     ],
     "politica": [
       {
+        "title": "Durazo presenta quinto informe de gobierno",
+        "summary": "Gobernador Alfonso Durazo expone cinco años de administración destacando austeridad y gobierno sin corrupción.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/13/alfonso-durazo-dara-hoy-su-quinto-informe-de-gobierno-estos-son-los-temas-que-tocara/",
+        "_added_at": "2026-09-13T11:32:25.611178-07:00"
+      },
+      {
+        "title": "Avanza restitución de derechos indígenas",
+        "summary": "Sonora continúa con proceso de reconocimiento y protección de derechos de pueblos originarios.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/avanza-restitucion-de-derechos-indigenas/264402",
+        "_added_at": "2026-09-13T11:32:25.611178-07:00"
+      },
+      {
         "title": "Durazo presenta su quinto informe de gobierno este domingo",
         "summary": "Gobernador Alfonso Durazo transmitirá por plataformas digitales y medios públicos su reporte anual.",
         "source": "Radio Sonora",
@@ -63,6 +105,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Precio del dólar este domingo en bancos",
+        "summary": "Cotización del dólar estadounidense en instituciones financieras sonorenses del 13 de septiembre.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/finanzas/precio-del-dolar-este-domingo-13-de-septiembre-si-vas-a-cambiar-consulta-en-cual-banco-esta-mas-barato/143646",
+        "_added_at": "2026-09-13T11:32:25.611178-07:00"
+      },
       {
         "title": "Sector hotelero propone centro de convenciones en Hermosillo",
         "summary": "Industria turística planea infraestructura para atraer eventos y potenciar economía local.",
@@ -94,6 +143,34 @@
     ],
     "sociedad": [
       {
+        "title": "Sonora acumula mil 195 casos de dengue",
+        "summary": "Epidemia del dengue continúa en estado con nueve nuevos casos y dieciocho enfermos graves.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-acumula-mil-195-casos-de-dengue/264403",
+        "_added_at": "2026-09-13T11:32:25.611178-07:00"
+      },
+      {
+        "title": "Familias del norte carecen de transporte directo",
+        "summary": "Habitantes de zonas norte de Hermosillo enfrentan traslados de hasta cuatro horas por falta de rutas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/13/familias-del-norte-de-hermosillo-enfrentan-traslados-de-hasta-cuatro-horas-al-dia-por-falta-de-rutas-directas-de-transporte-urbano/",
+        "_added_at": "2026-09-13T11:32:25.611178-07:00"
+      },
+      {
+        "title": "Estudiantes impulsan coro del museo yaqui",
+        "summary": "Jóvenes de Cócorit impulsan agrupación coral en museo dedicado a cultura indígena.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/13/estudiantes-impulsan-el-coro-del-museo-de-los-yaquis-en-cocorit/",
+        "_added_at": "2026-09-13T11:32:25.611178-07:00"
+      },
+      {
+        "title": "Clima con calor intenso y tormentas eléctricas",
+        "summary": "Domingo en Sonora con temperaturas elevadas, precipitaciones y actividad eléctrica atmosférica.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/preparate-sonora-asi-sera-el-clima-este-domingo-13-de-septiembre-con-calor-intenso-lluvias-y-tormentas-electricas/143645",
+        "_added_at": "2026-09-13T11:32:25.611178-07:00"
+      },
+      {
         "title": "Estudiantes rescatan juegos tradicionales en UPN Hermosillo",
         "summary": "Comunidad universitaria revive actividades culturales y recreativas de carácter tradicional.",
         "source": "Entorno Informativo",
@@ -123,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-13T00:36:53.127344-07:00"
+  "last_updated": "2026-09-13T11:32:25.611178-07:00"
 }
