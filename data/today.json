@@ -1,274 +1,70 @@
 {
-  "date": "2026-09-13",
-  "run_count": 3,
+  "date": "2026-09-14",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Capturan presunto operador de Beltrán Leyva en Sonora",
-        "summary": "Autoridades detienen a \"El Canguro\", señalado como operador criminal dedicado al tráfico hacia Estados Unidos.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/13/cae-el-canguro-presunto-operador-de-los-beltran-leyva-para-llevar-drga-a-eu/",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
-      },
-      {
-        "title": "Detienen sujeto por robo en colonia Las Granjas",
-        "summary": "Aprehenden a individuo tras irrumpir en domicilio ajeno en área residencial de Hermosillo.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/se-mete-a-casa-ajena-y-lo-aprehenden-en-la-colonia-las-granjas/",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
-      },
-      {
-        "title": "Operativo de seguridad municipal para festividades patrias",
-        "summary": "Policía Municipal despliega estrategia de vigilancia durante celebraciones de Independencia en Hermosillo.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/listo-operativo-de-la-policia-municipal-para-festejos-patrios/",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
-      },
-      {
-        "title": "Detienen a tres jóvenes por robo en Bahía de Kino",
-        "summary": "Tres individuos fueron capturados tras amenazar a un cajero y robar bebidas en Bahía de Kino.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/13/detienen-a-tres-jovenes-tras-amenazar-a-cajero-y-robar-tres-caguamas-en-bahia-de-kino/",
-        "_added_at": "2026-09-13T11:32:25.611178-07:00"
-      },
-      {
-        "title": "Aprehenden presunto tirador en colonia Altares",
-        "summary": "Autoridades capturaron a sujeto señalado como responsable de disparos en zona residencial hermosillense.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/ponen-tras-las-rejas-a-presunto-tirador-en-la-colonia-altares/",
-        "_added_at": "2026-09-13T11:32:25.611178-07:00"
-      },
-      {
-        "title": "Sentencian a reo a cuatro años de cárcel",
-        "summary": "Sujeto recibe condena por delito cometido en colonia Los Olivos de Hermosillo.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/sentencian-a-sujeto-a-cuatro-anos-de-carcel-en-la-colonia-los-olivos/",
-        "_added_at": "2026-09-13T11:32:25.611178-07:00"
-      },
-      {
-        "title": "Detienen a hombre con narcóticos en Pueblo Yaqui",
-        "summary": "PESP aseguró a individuo portando drogas en comunidad yaqui sonorense.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/detienen-pesp-a-hombre-con-narcotico-en-pueblo-yaqui/",
-        "_added_at": "2026-09-13T11:32:25.611178-07:00"
-      },
-      {
-        "title": "Hallan vehículo sumergido en playa de San Carlos",
-        "summary": "Camioneta parcialmente hundida encontrada en zona turística; incidentes recurrentes por marea en Piedras Pintas.",
+        "title": "Meteoro provoca estruendo en múltiples puntos de Sonora",
+        "summary": "Objeto celeste se desintegra sobre noroeste sonorense generando destello y fuerte ruido reportado por habitantes.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/hallan-auto-parcialmente-sumergido-en-playa-de-san-carlos/264392",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/reportan-meteoro-tras-fuerte-estruendo-en-la-costa-de-sonora/264443",
+        "_added_at": "2026-09-14T01:03:26.258557-07:00"
       },
       {
-        "title": "Capturan sujetos con armas prohibidas en Hermosillo",
-        "summary": "Agentes preventivos detienen a dos personas portando armamento ilegal durante operativo de seguridad.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/agentes-preventivos-atrapan-a-par-de-sujetos-con-armas-prohibidas/",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
+        "title": "Decomiso de 25 millones en San Carlos a grupo delictivo",
+        "summary": "Operativo de cateos genera afectación significativa a organización criminal en zona de San Carlos.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/policiaca/mas-25-millones-afectacion-grupo-delictivo-tras-cateos-san-carlos-n903523",
+        "_added_at": "2026-09-14T01:03:26.258557-07:00"
       },
       {
-        "title": "Detienen a cuatro individuos con drogas en Sonora",
-        "summary": "Operativo sorprende a personas transportando sustancias ilícitas en el estado.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/sorprenden-a-cuatro-personas-con-drogas/",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
+        "title": "Vigilancia activa en El Veranito por protección civil",
+        "summary": "Protección Civil mantiene monitoreo en zona sin reportar riesgos inmediatos en la actualidad.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/sin-riesgo-por-ahora-en-el-veranito-proteccion-civil-mantiene-vigilancia/143673",
+        "_added_at": "2026-09-14T01:03:26.258557-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Durazo cierra quinto informe destacando austeridad gubernamental",
-        "summary": "Gobernador resalta gestión con finanzas sanas y resolución de conflictos históricos en su administración.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/13/he-gobernado-con-austeridad-sin-excentricidades-ni-lujos-durazo-destaca-resultados-y-finanzas-sanas-en-su-quinto-informe-de-gobierno/",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+        "title": "Morena Sonora definirá coordinador antes de fin de septiembre",
+        "summary": "Partido espera conocer liderazgo de coordinaciones distritales mediante nuevas convocatorias en el estado.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/morena-sonora-espera-definir-a-su-coordinador-antes-de-que-termine-septiembre-32069589",
+        "_added_at": "2026-09-14T01:03:26.258557-07:00"
       },
       {
-        "title": "Durazo subraya logros en demandas de pueblos originarios",
-        "summary": "Gobernador menciona resolución de conflictos con comunidades yaquis y mineros de Cananea.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/13/resolvimos-conflictos-y-agravios-sociales-historicos-durazo-destaca-soluciones-para-demandas-de-pueblos-originarios-mineros-de-cananea-y-comunidades-del-rio-sonora/",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+        "title": "Durazo destaca gobernar sin corrupción en quinto informe",
+        "summary": "Gobernador subraya gestión limpia y reconoce que 453 mil sonorenses salieron de pobreza.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/estos-cinco-anos-he-demostrado-que-se-puede-gobernar-sin-robar-alfonso-durazo-montano-32070267",
+        "_added_at": "2026-09-14T01:03:26.258557-07:00"
       },
       {
-        "title": "Durazo presenta quinto informe de gobierno",
-        "summary": "Gobernador Alfonso Durazo expone cinco años de administración destacando austeridad y gobierno sin corrupción.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/13/alfonso-durazo-dara-hoy-su-quinto-informe-de-gobierno-estos-son-los-temas-que-tocara/",
-        "_added_at": "2026-09-13T11:32:25.611178-07:00"
-      },
-      {
-        "title": "Avanza restitución de derechos indígenas",
-        "summary": "Sonora continúa con proceso de reconocimiento y protección de derechos de pueblos originarios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/avanza-restitucion-de-derechos-indigenas/264402",
-        "_added_at": "2026-09-13T11:32:25.611178-07:00"
-      },
-      {
-        "title": "Durazo presenta su quinto informe de gobierno este domingo",
-        "summary": "Gobernador Alfonso Durazo transmitirá por plataformas digitales y medios públicos su reporte anual.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/presentara-durazo-su-quinto-informe-de-gobierno-este-domingo/",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
-      },
-      {
-        "title": "Grecia Quiroz desmiente vinculación con crimen organizado",
-        "summary": "Presidenta municipal de Uruapan niega pactos y reafirma compromiso con ciudadanía.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/grecia-quiroz-garcia-niega-pactos-con-crimen-organizado/264397",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
-      },
-      {
-        "title": "Durazo y Sedatu entregan escrituras a familias sonorenses",
-        "summary": "Gobierno asegura patrimonio mediante entrega de documentos y créditos liquidados en el estado.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/durazo-y-sedatu-aseguran-el-patrimonio-de-familias-sonorenses-con-entrega-de-escrituras-y-creditos-liquidados/",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
-      },
-      {
-        "title": "Gobernador restituye derechos a pueblos originarios tras rezago",
-        "summary": "Administración estatal atiende demandas históricas de comunidades indígenas en Sonora.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/restituye-gobernador-derechos-de-pueblos-originarios-tras-decadas-de-rezago/",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
+        "title": "Sheinbaum visitará Sonora después del 15 de septiembre",
+        "summary": "Presidenta electa realizará gira por estado pero sin fecha específica confirmada aún.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/claudia-sheinbaum-visitara-sonora-despues-del-15-de-septiembre-aun-no-hay-fecha-confirmada-31948946",
+        "_added_at": "2026-09-14T01:03:26.258557-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Ganaderos esperan reapertura fronteriza en Nogales",
-        "summary": "Sector ganadero sonorense aguarda autorización para reanudar exportaciones desde puesto fronterizo.",
+        "title": "Hermosillo estrena ruta exprés con 20 autobuses eléctricos",
+        "summary": "Capital sonorense implementa nueva línea de transporte ecológico para mejorar movilidad urbana.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ganaderos-de-sonora-esperan-pronta-reapertura-de-la-frontera-de-nogales-para-la-exportacion-32065370",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hermosillo-estrenara-ruta-expres-con-20-autobuses-electricos-por-donde-pasara-31966309",
+        "_added_at": "2026-09-14T01:03:26.258557-07:00"
       },
       {
-        "title": "Grúas portuarias navegan hacia puerto de Guaymas",
-        "summary": "Arriban equipos de carga procedentes de Manzanillo para operaciones portuarias en Guaymas.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/ya-navegan-rumbo-a-guaymas-las-dos-grandes-gruas-portuarias/",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
-      },
-      {
-        "title": "Levantarían veda del camarón en Sonora esta semana",
-        "summary": "Autoridades autorizan apertura de temporada pesquera de camarón para productores sonorenses.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/a-preparar-redes-levantarian-veda-camaron-sonora-esta-semana-n903518",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
-      },
-      {
-        "title": "Construirán hospital de alto nivel en Miguel Alemán",
-        "summary": "Proyecto sanitario previsto para iniciar construcción en 2027 beneficiará región sur de Sonora.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/miguel-aleman-tendra-hospital-alto-nivel-construccion-iniciaria-2027-n903516",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
-      },
-      {
-        "title": "Precio del dólar este domingo en bancos",
-        "summary": "Cotización del dólar estadounidense en instituciones financieras sonorenses del 13 de septiembre.",
+        "title": "Perforación de pozos amenaza acuífero en sur sonorense",
+        "summary": "Explotación de agua subterránea genera preocupación por sostenibilidad hídrica y salud pública regional.",
         "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/finanzas/precio-del-dolar-este-domingo-13-de-septiembre-si-vas-a-cambiar-consulta-en-cual-banco-esta-mas-barato/143646",
-        "_added_at": "2026-09-13T11:32:25.611178-07:00"
-      },
-      {
-        "title": "Sector hotelero propone centro de convenciones en Hermosillo",
-        "summary": "Industria turística planea infraestructura para atraer eventos y potenciar economía local.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/sector-hotelero-plantea-crear-un-centro-de-convenciones-en-hermosillo/",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
-      },
-      {
-        "title": "Capacitan operadores de transporte ante escasez laboral",
-        "summary": "Icatson prepara personal para sector carga frente a falta de trabajadores disponibles.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/capacita-icatson-a-operadores-de-transporte-de-carga-ante-escasez-de-mano-de-obra/",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
-      },
-      {
-        "title": "Cecop invierte 300 millones en restauración de espacios públicos",
-        "summary": "Organismo destina recursos significativos para mejorar infraestructura comunitaria en Sonora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/cecop-suma-casi-300-mdp-al-rescate-de-espacios-publicos-en-sonora-32044662",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
-      },
-      {
-        "title": "AguaH deberá pagar crédito de 120 millones antes de 2027",
-        "summary": "Alcalde advierte sobre obligación financiera pendiente de organismo de agua en Hermosillo.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/alcalde-asegura-que-aguah-debera-pagar-credito-de-120-millones-antes-de-septiembre-de-2027-31897686",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
+        "url": "https://diariodelyaqui.mx/sonora/perforacion-de-pozos-en-el-sur-de-sonora-una-amenaza-al-acuifero-y-a-la-salud/143675",
+        "_added_at": "2026-09-14T01:03:26.258557-07:00"
       }
     ],
-    "sociedad": [
-      {
-        "title": "Sonora suma 25 muertes por calor extremo en 2026",
-        "summary": "Registran 486 casos de afectados por altas temperaturas, aumento de 55.8% respecto a 2025.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-registra-486-casos-por-calor-y-25-muertes-en-2026/264424",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
-      },
-      {
-        "title": "Gusano barrenador afecta sur de Sonora con 30 casos",
-        "summary": "Plaga detectada en seis municipios; autoridades intensifican medidas de contención y control.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sonora-acumula-30-casos-de-gusano-barrenador-en-seis-municipios-31952353",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
-      },
-      {
-        "title": "Aparatoso choque deja familia lesionada en Nogales",
-        "summary": "Estructura metálica golpea vehículo; padres y menor sufren lesiones no graves.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/aparatoso-choque-deja-a-familia-lesionada-en-nogales/264423",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
-      },
-      {
-        "title": "Cajemenses pueden solicitar reparación de daños por lluvias",
-        "summary": "Autoridades municipales ofrecen trámite para reclamación de daños vehiculares causados por precipitaciones.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/pueden-cajemenses-solicitar-reparacion-de-danos-en-carros-por-lluvias-/143660",
-        "_added_at": "2026-09-13T16:53:29.484520-07:00"
-      },
-      {
-        "title": "Sonora acumula mil 195 casos de dengue",
-        "summary": "Epidemia del dengue continúa en estado con nueve nuevos casos y dieciocho enfermos graves.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-acumula-mil-195-casos-de-dengue/264403",
-        "_added_at": "2026-09-13T11:32:25.611178-07:00"
-      },
-      {
-        "title": "Familias del norte carecen de transporte directo",
-        "summary": "Habitantes de zonas norte de Hermosillo enfrentan traslados de hasta cuatro horas por falta de rutas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/13/familias-del-norte-de-hermosillo-enfrentan-traslados-de-hasta-cuatro-horas-al-dia-por-falta-de-rutas-directas-de-transporte-urbano/",
-        "_added_at": "2026-09-13T11:32:25.611178-07:00"
-      },
-      {
-        "title": "Estudiantes impulsan coro del museo yaqui",
-        "summary": "Jóvenes de Cócorit impulsan agrupación coral en museo dedicado a cultura indígena.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/13/estudiantes-impulsan-el-coro-del-museo-de-los-yaquis-en-cocorit/",
-        "_added_at": "2026-09-13T11:32:25.611178-07:00"
-      },
-      {
-        "title": "Clima con calor intenso y tormentas eléctricas",
-        "summary": "Domingo en Sonora con temperaturas elevadas, precipitaciones y actividad eléctrica atmosférica.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/preparate-sonora-asi-sera-el-clima-este-domingo-13-de-septiembre-con-calor-intenso-lluvias-y-tormentas-electricas/143645",
-        "_added_at": "2026-09-13T11:32:25.611178-07:00"
-      },
-      {
-        "title": "Estudiantes rescatan juegos tradicionales en UPN Hermosillo",
-        "summary": "Comunidad universitaria revive actividades culturales y recreativas de carácter tradicional.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/reviven-estudiantes-juegos-tradicionales-en-la-upn-hermosillo/",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
-      },
-      {
-        "title": "Dr. Vagón llega a Sonora con servicios médicos itinerantes",
-        "summary": "Programa móvil de salud inicia operaciones para atender poblaciones en el estado.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/llega-dr-vagon-a-sonora-con-atencion-medica/",
-        "_added_at": "2026-09-13T00:36:53.127344-07:00"
-      }
-    ]
+    "sociedad": []
   },
-  "last_updated": "2026-09-13T16:53:29.484520-07:00"
+  "last_updated": "2026-09-14T01:03:26.258557-07:00"
 }
