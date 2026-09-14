@@ -1,8 +1,36 @@
 {
   "date": "2026-09-14",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Adolescentes en ITAMA: mayoría por delitos de drogas",
+        "summary": "Seis de cada diez menores internos en el centro ingresaron acusados de delitos contra la salud.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/seis-de-cada-10-adolescentes-internos-en-itama-ingresaron-por-delitos-contra-la-salud-32078435",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      },
+      {
+        "title": "Custodios del Itama bloquean vías por falta de personal",
+        "summary": "Personal penitenciario protestó en Hermosillo exigiendo mejora en dotación de custodios.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/manifestacion-de-custodios-del-itama-por-falta-de-personal-bloquean-bulevar-de-los-ganaderos-en-hermosillo-29588480",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      },
+      {
+        "title": "Local abandonado arde en Hermosillo; sospechan intencionalidad",
+        "summary": "Incendio de origen posiblemente provocado afectó inmueble al poniente de la capital.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/policiaca/arde-local-abandonado-poniente-hermosillo-sospechan-fue-provocado-n903613",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      },
+      {
+        "title": "Adulto mayor muere en vías del tren en Nogales",
+        "summary": "Persona fue localizada sin vida en patios del ferrocarril de la fronteriza ciudad.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/14/adulto-mayor-muere-vias-tren-frente-lomas-nogales.html",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      },
       {
         "title": "Meteoro provoca estruendo en múltiples puntos de Sonora",
         "summary": "Objeto celeste se desintegra sobre noroeste sonorense generando destello y fuerte ruido reportado por habitantes.",
@@ -27,6 +55,27 @@
     ],
     "politica": [
       {
+        "title": "Durazo destaca transformación en seguridad e infraestructura",
+        "summary": "Quinto informe de gobierno resalta avances en reducción de homicidios y capacidad hospitalaria.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/consigue-durazo-la-mayor-transformacion-de-sonora/264455",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      },
+      {
+        "title": "PRD desconoce coordinaciones designadas por Maciso",
+        "summary": "Partido exige revisión de 25 acuerdos realizados por el dirigente estatal.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/prd-sonora-desconoce-25-coordinaciones-maciso-exige-revisar-acuerdos-n903619",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      },
+      {
+        "title": "Gobierno fortalece capacitación de servidores públicos municipales",
+        "summary": "Administración estatal impulsa programas de profesionalización para empleados locales.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/14/fortalece-gobierno-de-sonora-la-capacitacion-de-servidores-publicos-municipales/",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      },
+      {
         "title": "Morena Sonora definirá coordinador antes de fin de septiembre",
         "summary": "Partido espera conocer liderazgo de coordinaciones distritales mediante nuevas convocatorias en el estado.",
         "source": "El Sol de Hermosillo",
@@ -50,6 +99,27 @@
     ],
     "economia": [
       {
+        "title": "Nogales aumenta producción de agua de 47 a 62 pozos",
+        "summary": "Inversión en infraestructura hidráulica incrementa disponibilidad de mil litros por segundo.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/14/nogales-aumenta-su-produccion-agua-pasa-47-62-pozos.html",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      },
+      {
+        "title": "CANACO Obregón: desarrollo de Sonora es integral y planificado",
+        "summary": "Cámara de comercio reconoce enfoque integral del crecimiento económico estatal.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/14/desarrollo-de-sonora-esta-planeado-de-manera-integral-canaco-obregon/",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      },
+      {
+        "title": "Sonora reduce sequía severa a un solo municipio",
+        "summary": "Conagua prevé mejores condiciones para abasto de agua y riego en 2027.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/14/solo-un-municipio-de-sonora-permanece-en-sequia-severa-y-conagua-preve-mejores-condiciones-de-abasto-de-agua-y-riego-para-2027/",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      },
+      {
         "title": "Hermosillo estrena ruta exprés con 20 autobuses eléctricos",
         "summary": "Capital sonorense implementa nueva línea de transporte ecológico para mejorar movilidad urbana.",
         "source": "El Sol de Hermosillo",
@@ -64,7 +134,29 @@
         "_added_at": "2026-09-14T01:03:26.258557-07:00"
       }
     ],
-    "sociedad": []
+    "sociedad": [
+      {
+        "title": "Tormentas y lluvia se acercan al sur de Sonora; Hermosillo a 38°C",
+        "summary": "Protección Civil advierte por actividad eléctrica, vientos fuertes y precipitaciones moderadas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/zona-de-tormentas-se-acerca-al-sur-de-sonora-este-lunes/264457",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      },
+      {
+        "title": "Falla eléctrica provoca explosión en comercio del Centro Hermosillo",
+        "summary": "Incidente afectó local en zona céntrica de la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/14/falla-electrica-provoca-explosion-en-comercio-en-centro-de-hermosillo/",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      },
+      {
+        "title": "Puerto de Yavaros cierra por fuertes vientos",
+        "summary": "Autoridades clausuran operaciones del puerto debido a condiciones climáticas adversas.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/14/cierran-puerto-de-yavaros-por-fuertes-vientos/",
+        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+      }
+    ]
   },
-  "last_updated": "2026-09-14T01:03:26.258557-07:00"
+  "last_updated": "2026-09-14T13:08:58.504746-07:00"
 }
