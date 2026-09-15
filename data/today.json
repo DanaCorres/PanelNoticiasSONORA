@@ -1,8 +1,22 @@
 {
   "date": "2026-09-15",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Aseguran vehículo robado con municiones y narcóticos en Agua Prieta",
+        "summary": "Policía Estatal y Defensa decomisan auto reportado como robado con cartuchos y drogas.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/15/aseguran-policia-estatal-y-defensa-vehiculo-con-reporte-de-robo-cartuchos-y-narcotico-en-agua-prieta/",
+        "_added_at": "2026-09-15T16:57:55.907183-07:00"
+      },
+      {
+        "title": "Mujer atropellada muere en Miguel Alemán; conductor huye",
+        "summary": "Fallecimiento de mujer tras ser golpeada por vehículo cuyo conductor abandonó la escena.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/15/muere-mujer-atropellada-en-poblado-miguel-aleman-conductor-huye-del-lugar/",
+        "_added_at": "2026-09-15T16:57:55.907183-07:00"
+      },
       {
         "title": "Aseguran 275 kilos de metanfetamina en Nogales",
         "summary": "Autoridades decomisan droga oculta entre sacos de carbón en la garita de carga fronteriza.",
@@ -47,6 +61,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Steus advierte tercera huelga posible en la Unison antes de año",
+        "summary": "Sindicato toma oficinas de universidad y amenaza con emplazamiento por violaciones contractuales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com.mx/son/sonora/2026/09/15/steus-toma-oficinas-de-la-unison-y-advierte-con-emplazar-a-huelga-antes-de-que-termine-el-ano-por-violaciones-al-contrato-colectivo-de-trabajo/",
+        "_added_at": "2026-09-15T16:57:55.907183-07:00"
+      },
+      {
+        "title": "Congreso Local revisa cuentas públicas municipales de Sonora",
+        "summary": "Instituto Superior de Auditoría en espera de resultados de auditorías de municipios del estado.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/congreso-de-sonora-da-tramite-a-auditorias-y-cuentas-publicas-de-municipios-31581025",
+        "_added_at": "2026-09-15T16:57:55.907183-07:00"
+      },
+      {
+        "title": "Gobierno da histórico apoyo a magisterio con convocatoria de permutas",
+        "summary": "Secretaría de Educación firma convocatoria de permutas para docentes en ciclo 2026-2027.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/15/gobierno-de-sonora-da-historico-respaldo-al-magisterio-con-la-firma-de-convocatoria-de-permutas-para-el-ciclo-escolar-2026-2027-sec/",
+        "_added_at": "2026-09-15T16:57:55.907183-07:00"
+      },
       {
         "title": "Steus advierte tercera huelga en Unison por violaciones",
         "summary": "Sindicato acusa incumplimiento de contrato colectivo en asignación de plazas universitarias.",
@@ -129,6 +164,27 @@
     ],
     "sociedad": [
       {
+        "title": "Gusano barrenador en Sonora suma 59 casos; llega a Hermosillo",
+        "summary": "Plaga agrícola se extiende en estado con primer caso confirmado en capital.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/gusano-barrenador-extiende-sonora-suman-59-casos-detectan-primero-hermosillo-n903887",
+        "_added_at": "2026-09-15T16:57:55.907183-07:00"
+      },
+      {
+        "title": "Localizan con bien a menor desaparecida en San Luis Río Colorado",
+        "summary": "Niña reportada como desaparecida en ejido Mesa Rica 2 fue localizada sin daños.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/localizan-con-bien-a-menor-reportada-como-desaparecida-en-el-ejido-mesa-rica-2-32097063",
+        "_added_at": "2026-09-15T16:57:55.907183-07:00"
+      },
+      {
+        "title": "Más de 50 colonias de Hermosillo sufren corte de agua por ruptura",
+        "summary": "Fallas en servicio de agua potencial por rotura en línea de conducción principal.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/15/tendran-fallas-en-servicio-de-agua-mas-de-50-colonias-de-hermosillo-por-ruptura-en-linea-de-conduccion/",
+        "_added_at": "2026-09-15T16:57:55.907183-07:00"
+      },
+      {
         "title": "Iniciativa de comida abierta en Nogales ayuda vulnerables",
         "summary": "Proyecto \"Quieres Comer Dios Paga\" busca abrir comedor comunitario para familias necesitadas.",
         "source": "Nuevo Día",
@@ -176,15 +232,8 @@
         "source": "Entorno Informativo",
         "url": "https://entornoinformativo.com.mx/inicia-tono-astiazaran-nueva-etapa-de-vivienda-social-en-la-colonia-quinta-esmeralda/",
         "_added_at": "2026-09-15T00:57:42.224616-07:00"
-      },
-      {
-        "title": "H Bus refuerza horarios por regreso a clases",
-        "summary": "Empresa de transporte aumenta capacidad en rutas de mayor demanda escolar.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/h-bus-refuerza-su-servicio-regreso-clases-n903733",
-        "_added_at": "2026-09-15T00:57:42.224616-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-15T12:31:06.058983-07:00"
+  "last_updated": "2026-09-15T16:57:55.907183-07:00"
 }
