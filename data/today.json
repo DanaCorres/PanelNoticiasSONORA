@@ -1,246 +1,99 @@
 {
-  "date": "2026-09-14",
-  "run_count": 3,
+  "date": "2026-09-15",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Persecución deja dos detenidos en Ciudad Obregón",
-        "summary": "Dos individuos fueron capturados tras persecución al norte de Ciudad Obregón por autoridades locales.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/policiaca/caen-dos-tras-persecucion-al-norte-de-ciudad-obregon/143707",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
-      },
-      {
-        "title": "Hermosillo despliega 200 policías para festejos patrios",
-        "summary": "Autoridades implementan tres anillos de seguridad y más de 200 elementos para proteger celebraciones del 15 de septiembre.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/14/mas-de-200-policias-y-tres-anillos-de-seguridad-blindaran-festejos-patrios-en-hermosillo/",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
-      },
-      {
-        "title": "Hombre atropellado por tren identificado en Nogales",
-        "summary": "Autoridades identificaron a persona de 67 años que fue atropellada por ferrocarril en Nogales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/14/identifican-hombre-atropellado-tren-nogales.html",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
-      },
-      {
-        "title": "Hermosillo suma 165 corredores de seguridad",
-        "summary": "Ciudad refuerza vigilancia con despliegue de más de 165 corredores de seguridad en zonas urbanas.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/hermosillo-refuerza-su-seguridad-mas-165-corredores-n903698",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
-      },
-      {
-        "title": "Adolescentes en ITAMA: mayoría por delitos de drogas",
-        "summary": "Seis de cada diez menores internos en el centro ingresaron acusados de delitos contra la salud.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/seis-de-cada-10-adolescentes-internos-en-itama-ingresaron-por-delitos-contra-la-salud-32078435",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
-      },
-      {
-        "title": "Custodios del Itama bloquean vías por falta de personal",
-        "summary": "Personal penitenciario protestó en Hermosillo exigiendo mejora en dotación de custodios.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/manifestacion-de-custodios-del-itama-por-falta-de-personal-bloquean-bulevar-de-los-ganaderos-en-hermosillo-29588480",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
-      },
-      {
-        "title": "Local abandonado arde en Hermosillo; sospechan intencionalidad",
-        "summary": "Incendio de origen posiblemente provocado afectó inmueble al poniente de la capital.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/arde-local-abandonado-poniente-hermosillo-sospechan-fue-provocado-n903613",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
-      },
-      {
-        "title": "Adulto mayor muere en vías del tren en Nogales",
-        "summary": "Persona fue localizada sin vida en patios del ferrocarril de la fronteriza ciudad.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/14/adulto-mayor-muere-vias-tren-frente-lomas-nogales.html",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
-      },
-      {
-        "title": "Meteoro provoca estruendo en múltiples puntos de Sonora",
-        "summary": "Objeto celeste se desintegra sobre noroeste sonorense generando destello y fuerte ruido reportado por habitantes.",
+        "title": "Detienen a dos armados tras persecución en Ciudad Obregón",
+        "summary": "Capturan a dos hombres tras huida en vehículo que chocó contra auto e inmueble durante operativo.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/reportan-meteoro-tras-fuerte-estruendo-en-la-costa-de-sonora/264443",
-        "_added_at": "2026-09-14T01:03:26.258557-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/detienen-a-dos-hombres-armados-tras-persecucion-en-obregon/264505",
+        "_added_at": "2026-09-15T00:57:42.224616-07:00"
       },
       {
-        "title": "Decomiso de 25 millones en San Carlos a grupo delictivo",
-        "summary": "Operativo de cateos genera afectación significativa a organización criminal en zona de San Carlos.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/mas-25-millones-afectacion-grupo-delictivo-tras-cateos-san-carlos-n903523",
-        "_added_at": "2026-09-14T01:03:26.258557-07:00"
+        "title": "Mujer acribillada en zona de droga, Hermosillo",
+        "summary": "Hallan víctima mortal en operativo relacionado con punto de distribución de narcóticos.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/acribillan-a-mujer-en-tiradero-de-droga-en-la-colonia-jacinto-lopez/",
+        "_added_at": "2026-09-15T00:57:42.224616-07:00"
+      },
+      {
+        "title": "Aumentan a 25 muertes por calor en Sonora",
+        "summary": "Incrementa cifra de fallecidos por golpe de calor durante ola de temperaturas extremas.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/aumenta-a-25-las-defunciones-por-calor-en-sonora/",
+        "_added_at": "2026-09-15T00:57:42.224616-07:00"
       }
     ],
     "politica": [
       {
-        "title": "INE abre registro para observadores electorales 2027",
-        "summary": "Institución electoral sonorense divulga requisitos, fechas de capacitación y procedimiento para quienes deseen ser observadores.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/observador-electoral-2027-requisitos-y-fechas-para-registro/264489",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+        "title": "Sandoval presenta segundo informe de gobierno",
+        "summary": "Autoridad de San Luis Río Colorado rinde cuentas ante ciudadanía sobre acciones realizadas.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/entrega-cesar-ivan-sandoval-segundo-informe-de-gobierno-32091465",
+        "_added_at": "2026-09-15T00:57:42.224616-07:00"
       },
       {
-        "title": "Durazo destaca transformación en seguridad e infraestructura",
-        "summary": "Quinto informe de gobierno resalta avances en reducción de homicidios y capacidad hospitalaria.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/consigue-durazo-la-mayor-transformacion-de-sonora/264455",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
-      },
-      {
-        "title": "PRD desconoce coordinaciones designadas por Maciso",
-        "summary": "Partido exige revisión de 25 acuerdos realizados por el dirigente estatal.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/prd-sonora-desconoce-25-coordinaciones-maciso-exige-revisar-acuerdos-n903619",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
-      },
-      {
-        "title": "Gobierno fortalece capacitación de servidores públicos municipales",
-        "summary": "Administración estatal impulsa programas de profesionalización para empleados locales.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/14/fortalece-gobierno-de-sonora-la-capacitacion-de-servidores-publicos-municipales/",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
-      },
-      {
-        "title": "Morena Sonora definirá coordinador antes de fin de septiembre",
-        "summary": "Partido espera conocer liderazgo de coordinaciones distritales mediante nuevas convocatorias en el estado.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/morena-sonora-espera-definir-a-su-coordinador-antes-de-que-termine-septiembre-32069589",
-        "_added_at": "2026-09-14T01:03:26.258557-07:00"
-      },
-      {
-        "title": "Durazo destaca gobernar sin corrupción en quinto informe",
-        "summary": "Gobernador subraya gestión limpia y reconoce que 453 mil sonorenses salieron de pobreza.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/estos-cinco-anos-he-demostrado-que-se-puede-gobernar-sin-robar-alfonso-durazo-montano-32070267",
-        "_added_at": "2026-09-14T01:03:26.258557-07:00"
-      },
-      {
-        "title": "Sheinbaum visitará Sonora después del 15 de septiembre",
-        "summary": "Presidenta electa realizará gira por estado pero sin fecha específica confirmada aún.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/claudia-sheinbaum-visitara-sonora-despues-del-15-de-septiembre-aun-no-hay-fecha-confirmada-31948946",
-        "_added_at": "2026-09-14T01:03:26.258557-07:00"
+        "title": "Beltrones pide transparencia en financiamiento de comicios 2027",
+        "summary": "Senador sonorense demanda claridad sobre origen de recursos para próximas elecciones.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/exige-transparentar-origen-de-recursos-para-comicios-2027-el-senador-manlio-fabio-beltrones/",
+        "_added_at": "2026-09-15T00:57:42.224616-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Hermosillo crea más de 5 mil empleos en agosto",
-        "summary": "Capital sonorense rompe récord laboral con generación de empleo durante mes anterior.",
+        "title": "Duplica Durazo flota de transporte público a 768 unidades",
+        "summary": "Gobierno invierte en ampliación de transporte urbano para mejorar cobertura estatal.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-transforma-el-transporte-publico-duplica-la-flota-y-alcanza-768-unidades-en-sonora/",
+        "_added_at": "2026-09-15T00:57:42.224616-07:00"
+      },
+      {
+        "title": "Empresarios solicitan información sobre remodelación de aduana",
+        "summary": "Sector privado de San Luis Río Colorado demanda actualizaciones del proyecto de modernización.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/empresarios-piden-conocer-avances-de-remodelacion-de-la-aduana-turistica-32083110",
+        "_added_at": "2026-09-15T00:57:42.224616-07:00"
+      },
+      {
+        "title": "Levantarán veda al camarón en Sonora",
+        "summary": "Conapesca anuncia reapertura de pesca comercial tras temporada de veda.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/hermosillo-rompe-record-laboral-con-mas-de-5-mil-empleos-durante-el-mes-de-agosto/",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
-      },
-      {
-        "title": "CFE falla deja sin agua a 30 colonias hermosillenses",
-        "summary": "Falla en suministro eléctrico interrumpe servicio de agua potable en múltiples colonias de Hermosillo.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/falla-de-cfe-afecta-suministro-de-agua-en-30-colonias-de-hermosillo-32002521",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
-      },
-      {
-        "title": "Proyecto viviendas con paneles solares inicia sur Hermosillo",
-        "summary": "Ayuntamiento comienza construcción de residencias equipadas con energía solar en zona sur capital.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/14/inicia-ayuntamiento-desarrollo-de-viviendas-equipadas-con-paneles-solares-al-sur-de-hermosillo/",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
-      },
-      {
-        "title": "Uniformes del 15 de septiembre superan mil pesos en Navojoa",
-        "summary": "Vestir a menores para conmemoración patria tiene costo superior a mil pesos en comercios locales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/navojoa-cuanto-cuesta-a-vestir-ninos-este-15-de-septiembre/264482",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
-      },
-      {
-        "title": "Nogales aumenta producción de agua de 47 a 62 pozos",
-        "summary": "Inversión en infraestructura hidráulica incrementa disponibilidad de mil litros por segundo.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/14/nogales-aumenta-su-produccion-agua-pasa-47-62-pozos.html",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
-      },
-      {
-        "title": "CANACO Obregón: desarrollo de Sonora es integral y planificado",
-        "summary": "Cámara de comercio reconoce enfoque integral del crecimiento económico estatal.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/14/desarrollo-de-sonora-esta-planeado-de-manera-integral-canaco-obregon/",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
-      },
-      {
-        "title": "Sonora reduce sequía severa a un solo municipio",
-        "summary": "Conagua prevé mejores condiciones para abasto de agua y riego en 2027.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/14/solo-un-municipio-de-sonora-permanece-en-sequia-severa-y-conagua-preve-mejores-condiciones-de-abasto-de-agua-y-riego-para-2027/",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
-      },
-      {
-        "title": "Hermosillo estrena ruta exprés con 20 autobuses eléctricos",
-        "summary": "Capital sonorense implementa nueva línea de transporte ecológico para mejorar movilidad urbana.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hermosillo-estrenara-ruta-expres-con-20-autobuses-electricos-por-donde-pasara-31966309",
-        "_added_at": "2026-09-14T01:03:26.258557-07:00"
-      },
-      {
-        "title": "Perforación de pozos amenaza acuífero en sur sonorense",
-        "summary": "Explotación de agua subterránea genera preocupación por sostenibilidad hídrica y salud pública regional.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/perforacion-de-pozos-en-el-sur-de-sonora-una-amenaza-al-acuifero-y-a-la-salud/143675",
-        "_added_at": "2026-09-14T01:03:26.258557-07:00"
+        "url": "https://entornoinformativo.com.mx/levantaran-veda-al-camaron-anuncia-conapesca/",
+        "_added_at": "2026-09-15T00:57:42.224616-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Meteorito cruza cielos sonorenses con estruendo notable",
-        "summary": "Objeto espacial de tamaño inusual atravesó atmósfera estatal generando fuerte ruido, según observatorio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/14/meteorito-cruzo-sonora-por-los-cielos-y-provoco-fuerte-estruendo/",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
-      },
-      {
-        "title": "Árbol caído en Nogales deja sin luz a residentes",
-        "summary": "Lluvia provoca colapso de árbol que bloquea escalinatas y causa afectaciones en servicio eléctrico local.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/14/lluvias-arbol-colapsa-bloquea-escalinatas-deja-luz-vecinos.html",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
-      },
-      {
-        "title": "Transporte gratuito facilitará regreso tras Grito Hermosillo",
-        "summary": "Autoridades ofrecen servicio de transporte público sin costo tras celebraciones de independencia en capital.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/transporte-gratuito-facilitara-regreso-tras-grito-hermosillo-n903677",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
-      },
-      {
-        "title": "Psicólogos San Luis promueven prevención de suicidio",
-        "summary": "Asociación profesional impulsa pláticas informativas enfocadas en reducción de riesgo suicida comunitario.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/ciencia-y-salud/fomenta-asociacion-de-psicologos-platicas-para-la-prevencion-de-suicidio-32049575",
-        "_added_at": "2026-09-14T17:17:33.753221-07:00"
-      },
-      {
-        "title": "Tormentas y lluvia se acercan al sur de Sonora; Hermosillo a 38°C",
-        "summary": "Protección Civil advierte por actividad eléctrica, vientos fuertes y precipitaciones moderadas.",
+        "title": "Familia pide ayuda para trasplante de riñón a Ricky Mejía",
+        "summary": "Joven con insuficiencia renal terminal busca apoyo para acceder a nuevo órgano.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/zona-de-tormentas-se-acerca-al-sur-de-sonora-este-lunes/264457",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/ricky-necesita-un-trasplante-de-rinon-para-recuperar-su-salud/264510",
+        "_added_at": "2026-09-15T00:57:42.224616-07:00"
       },
       {
-        "title": "Falla eléctrica provoca explosión en comercio del Centro Hermosillo",
-        "summary": "Incidente afectó local en zona céntrica de la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/14/falla-electrica-provoca-explosion-en-comercio-en-centro-de-hermosillo/",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+        "title": "Durazo construye 10 hospitales durante administración",
+        "summary": "Gobierno avanza en ampliación y modernización de infraestructura sanitaria estatal.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/valles-destaca-inversion-de-durazo-en-hospitales-y-salud/264509",
+        "_added_at": "2026-09-15T00:57:42.224616-07:00"
       },
       {
-        "title": "Puerto de Yavaros cierra por fuertes vientos",
-        "summary": "Autoridades clausuran operaciones del puerto debido a condiciones climáticas adversas.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/14/cierran-puerto-de-yavaros-por-fuertes-vientos/",
-        "_added_at": "2026-09-14T13:08:58.504746-07:00"
+        "title": "Astiazarán inicia vivienda social en Quinta Esmeralda",
+        "summary": "Hermosillo inaugura nueva etapa de construcción de viviendas para familias.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/inicia-tono-astiazaran-nueva-etapa-de-vivienda-social-en-la-colonia-quinta-esmeralda/",
+        "_added_at": "2026-09-15T00:57:42.224616-07:00"
+      },
+      {
+        "title": "H Bus refuerza horarios por regreso a clases",
+        "summary": "Empresa de transporte aumenta capacidad en rutas de mayor demanda escolar.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/h-bus-refuerza-su-servicio-regreso-clases-n903733",
+        "_added_at": "2026-09-15T00:57:42.224616-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-14T17:17:33.753221-07:00"
+  "last_updated": "2026-09-15T00:57:42.224616-07:00"
 }
