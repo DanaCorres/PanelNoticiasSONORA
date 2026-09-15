@@ -1,8 +1,29 @@
 {
   "date": "2026-09-15",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Aseguran 275 kilos de metanfetamina en Nogales",
+        "summary": "Autoridades decomisan droga oculta entre sacos de carbón en la garita de carga fronteriza.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/aseguran-casi-300-kilos-de-droga-entre-carbon-en-nogales-eu/264533",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
+      {
+        "title": "Mujer muere atropellada en Costa de Hermosillo",
+        "summary": "Víctima fue atropellada y el conductor abandonó la camioneta en el lugar.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/15/muere-mujer-atropellada-en-la-costa-de-hermosillo-abandonan-camioneta-involucrada/",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
+      {
+        "title": "Descarrilamiento de tren causa muerte en Sonora",
+        "summary": "Accidente ferroviario cobra la vida de Luis Arturo en el estado.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/muere-luis-arturo-tras-descarrilarse-el-tren-en-sonora/143773",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
       {
         "title": "Detienen a dos armados tras persecución en Ciudad Obregón",
         "summary": "Capturan a dos hombres tras huida en vehículo que chocó contra auto e inmueble durante operativo.",
@@ -27,6 +48,27 @@
     ],
     "politica": [
       {
+        "title": "Steus advierte tercera huelga en Unison por violaciones",
+        "summary": "Sindicato acusa incumplimiento de contrato colectivo en asignación de plazas universitarias.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/15/steus-toma-oficinas-de-la-unison-y-advierte-con-emplazar-a-huelga-antes-de-que-termine-el-ano-por-violaciones-al-contrato-colectivo-de-trabajo/",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
+      {
+        "title": "Julia Huerta refuerza ruta de Morena en Nogales",
+        "summary": "Militante fortalece recorridos y diálogo con ciudadanía de cara a comicios 2027.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/15/julia-huerta-recorre-nogales-refuerza-ruta-morena-rumbo-2027.html",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
+      {
+        "title": "Alcalde de San Luis destaca obra social a dos años",
+        "summary": "César Iván Sandoval reporta cercanía ciudadana e impacto de proyectos en SLRC.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/destaca-alcalde-cesar-ivan-sandoval-cercania-social-y-obra-con-impacto-ciudadano-a-dos-anos-de-gobierno-en-san-luis-rio-32002855",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
+      {
         "title": "Sandoval presenta segundo informe de gobierno",
         "summary": "Autoridad de San Luis Río Colorado rinde cuentas ante ciudadanía sobre acciones realizadas.",
         "source": "Tribuna de San Luis",
@@ -42,6 +84,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Guaymas atrae cruceros con nuevo sistema arrecifal",
+        "summary": "Puerto fortalece atractivo turístico con incremento de embarcaciones y desarrollo ambiental.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/15/guaymas-fortalece-su-atractivo-turistico-con-mas-cruceros-y-sistema-arrecifal/",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
+      {
+        "title": "Conagua prevé recuperación de acuíferos con sequía",
+        "summary": "Dependencia espera mejora de mantos acuíferos sonorenses ante condiciones de sequía moderada.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/conagua-espera-recuperacion-de-mantos-acuiferos-en-sonora-con-sequia-moderada-32063562",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
+      {
+        "title": "Empresas sin respuesta de CFE por apagones",
+        "summary": "Cámaras empresariales de SLRC reclaman a compañía eléctrica ausencia de posicionamiento.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/camaras-empresariales-de-slrc-sin-respuesta-de-cfe-ante-posicionamiento-por-apagones-31990376",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
       {
         "title": "Duplica Durazo flota de transporte público a 768 unidades",
         "summary": "Gobierno invierte en ampliación de transporte urbano para mejorar cobertura estatal.",
@@ -65,6 +128,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Iniciativa de comida abierta en Nogales ayuda vulnerables",
+        "summary": "Proyecto \"Quieres Comer Dios Paga\" busca abrir comedor comunitario para familias necesitadas.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/09/15/quieres-comer-dios-paga-busca-abrir-comedor-comunitario-apoyar-personas-vulnerables.html",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
+      {
+        "title": "Tormentas avanzan en Sonora hacia Hermosillo",
+        "summary": "Protección Civil alerta sobre sistema de baja presión que traerá lluvia al estado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/tormentas-avanzan-en-sonora-podrian-llegar-hoy-a-hermosillo/264526",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
+      {
+        "title": "Angélica Burgos lleva \"Tardes de Café\" a colonias",
+        "summary": "Funcionaria promueve acercamiento con mujeres a través de actividades comunitarias en Nogales.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/09/15/angelica-burgos-promueve-acercamiento-mujeres-colonias-traves-tardes-cafe.html",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
+      {
+        "title": "Fotografía muestra rostro humano de Nogales",
+        "summary": "Imfoculta premia exposición que desafía clichés de violencia en la frontera.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/15/imfoculta-premia-vida-frontera-nogales-fotos-retan-cliches-violencia.html",
+        "_added_at": "2026-09-15T12:31:06.058983-07:00"
+      },
       {
         "title": "Familia pide ayuda para trasplante de riñón a Ricky Mejía",
         "summary": "Joven con insuficiencia renal terminal busca apoyo para acceder a nuevo órgano.",
@@ -95,5 +186,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-15T00:57:42.224616-07:00"
+  "last_updated": "2026-09-15T12:31:06.058983-07:00"
 }
