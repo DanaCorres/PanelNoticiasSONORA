@@ -1,8 +1,36 @@
 {
   "date": "2026-09-14",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Persecución deja dos detenidos en Ciudad Obregón",
+        "summary": "Dos individuos fueron capturados tras persecución al norte de Ciudad Obregón por autoridades locales.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/policiaca/caen-dos-tras-persecucion-al-norte-de-ciudad-obregon/143707",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
+      {
+        "title": "Hermosillo despliega 200 policías para festejos patrios",
+        "summary": "Autoridades implementan tres anillos de seguridad y más de 200 elementos para proteger celebraciones del 15 de septiembre.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/14/mas-de-200-policias-y-tres-anillos-de-seguridad-blindaran-festejos-patrios-en-hermosillo/",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
+      {
+        "title": "Hombre atropellado por tren identificado en Nogales",
+        "summary": "Autoridades identificaron a persona de 67 años que fue atropellada por ferrocarril en Nogales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/14/identifican-hombre-atropellado-tren-nogales.html",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
+      {
+        "title": "Hermosillo suma 165 corredores de seguridad",
+        "summary": "Ciudad refuerza vigilancia con despliegue de más de 165 corredores de seguridad en zonas urbanas.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/hermosillo-refuerza-su-seguridad-mas-165-corredores-n903698",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
       {
         "title": "Adolescentes en ITAMA: mayoría por delitos de drogas",
         "summary": "Seis de cada diez menores internos en el centro ingresaron acusados de delitos contra la salud.",
@@ -44,16 +72,16 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/policiaca/mas-25-millones-afectacion-grupo-delictivo-tras-cateos-san-carlos-n903523",
         "_added_at": "2026-09-14T01:03:26.258557-07:00"
-      },
-      {
-        "title": "Vigilancia activa en El Veranito por protección civil",
-        "summary": "Protección Civil mantiene monitoreo en zona sin reportar riesgos inmediatos en la actualidad.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/sin-riesgo-por-ahora-en-el-veranito-proteccion-civil-mantiene-vigilancia/143673",
-        "_added_at": "2026-09-14T01:03:26.258557-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "INE abre registro para observadores electorales 2027",
+        "summary": "Institución electoral sonorense divulga requisitos, fechas de capacitación y procedimiento para quienes deseen ser observadores.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/observador-electoral-2027-requisitos-y-fechas-para-registro/264489",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
       {
         "title": "Durazo destaca transformación en seguridad e infraestructura",
         "summary": "Quinto informe de gobierno resalta avances en reducción de homicidios y capacidad hospitalaria.",
@@ -99,6 +127,34 @@
     ],
     "economia": [
       {
+        "title": "Hermosillo crea más de 5 mil empleos en agosto",
+        "summary": "Capital sonorense rompe récord laboral con generación de empleo durante mes anterior.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/hermosillo-rompe-record-laboral-con-mas-de-5-mil-empleos-durante-el-mes-de-agosto/",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
+      {
+        "title": "CFE falla deja sin agua a 30 colonias hermosillenses",
+        "summary": "Falla en suministro eléctrico interrumpe servicio de agua potable en múltiples colonias de Hermosillo.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/falla-de-cfe-afecta-suministro-de-agua-en-30-colonias-de-hermosillo-32002521",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
+      {
+        "title": "Proyecto viviendas con paneles solares inicia sur Hermosillo",
+        "summary": "Ayuntamiento comienza construcción de residencias equipadas con energía solar en zona sur capital.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/14/inicia-ayuntamiento-desarrollo-de-viviendas-equipadas-con-paneles-solares-al-sur-de-hermosillo/",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
+      {
+        "title": "Uniformes del 15 de septiembre superan mil pesos en Navojoa",
+        "summary": "Vestir a menores para conmemoración patria tiene costo superior a mil pesos en comercios locales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/navojoa-cuanto-cuesta-a-vestir-ninos-este-15-de-septiembre/264482",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
+      {
         "title": "Nogales aumenta producción de agua de 47 a 62 pozos",
         "summary": "Inversión en infraestructura hidráulica incrementa disponibilidad de mil litros por segundo.",
         "source": "El Diario de Sonora",
@@ -136,6 +192,34 @@
     ],
     "sociedad": [
       {
+        "title": "Meteorito cruza cielos sonorenses con estruendo notable",
+        "summary": "Objeto espacial de tamaño inusual atravesó atmósfera estatal generando fuerte ruido, según observatorio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/14/meteorito-cruzo-sonora-por-los-cielos-y-provoco-fuerte-estruendo/",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
+      {
+        "title": "Árbol caído en Nogales deja sin luz a residentes",
+        "summary": "Lluvia provoca colapso de árbol que bloquea escalinatas y causa afectaciones en servicio eléctrico local.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/14/lluvias-arbol-colapsa-bloquea-escalinatas-deja-luz-vecinos.html",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
+      {
+        "title": "Transporte gratuito facilitará regreso tras Grito Hermosillo",
+        "summary": "Autoridades ofrecen servicio de transporte público sin costo tras celebraciones de independencia en capital.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/transporte-gratuito-facilitara-regreso-tras-grito-hermosillo-n903677",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
+      {
+        "title": "Psicólogos San Luis promueven prevención de suicidio",
+        "summary": "Asociación profesional impulsa pláticas informativas enfocadas en reducción de riesgo suicida comunitario.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/ciencia-y-salud/fomenta-asociacion-de-psicologos-platicas-para-la-prevencion-de-suicidio-32049575",
+        "_added_at": "2026-09-14T17:17:33.753221-07:00"
+      },
+      {
         "title": "Tormentas y lluvia se acercan al sur de Sonora; Hermosillo a 38°C",
         "summary": "Protección Civil advierte por actividad eléctrica, vientos fuertes y precipitaciones moderadas.",
         "source": "Expreso",
@@ -158,5 +242,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-14T13:08:58.504746-07:00"
+  "last_updated": "2026-09-14T17:17:33.753221-07:00"
 }
