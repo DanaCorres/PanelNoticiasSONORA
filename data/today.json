@@ -1,8 +1,22 @@
 {
   "date": "2026-09-16",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan sospechoso de asesinato del influencer Piturris",
+        "summary": "Detienen a presunto responsable del homicidio del creador de contenido en Ciudad Obregón. Arma asegurada lo vincula con otro crimen.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/09/16/capturan-al-presunto-responsable-del-homicidio-de-el-piturris-en-ciudad-obregon-y-el-arma-asegurada-lo-vincula-con-otro-crimen-en-cocorit/",
+        "_added_at": "2026-09-16T12:22:37.498644-07:00"
+      },
+      {
+        "title": "Desaparece menor durante festividades patrias en Cajeme",
+        "summary": "Se reporta desaparición de un niño durante celebraciones de Independencia en Ciudad Obregón. Autoridades inician búsqueda.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/desaparece-menor-en-el-grito-de-ciudad-obregon-esto-se-sabe-sobre-su-busqueda/143845",
+        "_added_at": "2026-09-16T12:22:37.498644-07:00"
+      },
       {
         "title": "Muere trabajador por inhalación de químico en descarrilamiento de tren",
         "summary": "Hombre fallece tras derrame de 59 mil litros de sustancia peligrosa en Naco, Sonora.",
@@ -34,6 +48,13 @@
     ],
     "politica": [
       {
+        "title": "López Caballero analiza competir por Hermosillo con Movimiento Ciudadano",
+        "summary": "Exalcalde considera cambiar de partido ante diferencias con PAN para recontender por alcaldía de Hermosillo.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/alejandro-lopez-caballero-quiere-ser-alcalde-de-hermosillo/264601",
+        "_added_at": "2026-09-16T12:22:37.498644-07:00"
+      },
+      {
         "title": "Durazo encabeza Grito de Independencia en Sonora",
         "summary": "Gobernador Alfonso Durazo preside ceremonia protocolaria por 216 aniversario de independencia.",
         "source": "Expreso",
@@ -63,6 +84,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Ganaderos de Sonora aumentan exportaciones a Estados Unidos",
+        "summary": "Productores sonorenses incrementan envíos de ganado hacia mercado estadounidense.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/ganaderos-de-sonora-elevan-envios-de-ganado-hacia-estados-unidos/",
+        "_added_at": "2026-09-16T12:22:37.498644-07:00"
+      },
       {
         "title": "Planta fotovoltaica en Puerto Peñasco transforma futuro energético",
         "summary": "Gobernador Durazo impulsa proyecto de energía renovable para transformación sostenible de Sonora.",
@@ -94,6 +122,27 @@
     ],
     "sociedad": [
       {
+        "title": "Lluvias causan inundaciones y rescates en zonas rurales",
+        "summary": "Precipitaciones dejan comunidades incomunicadas e inundaciones en Hermosillo, Empalme y localidades aledañas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/16/lluvias-dejan-rescates-e-inundaciones-en-zona-rural-de-hermosillo-zamora-registra-91-milimetros-y-real-del-alamito-71/",
+        "_added_at": "2026-09-16T12:22:37.498644-07:00"
+      },
+      {
+        "title": "Se cancela desfile patrio en Hermosillo por lluvia",
+        "summary": "Precipitaciones obligan cancelación de desfile del 16 de septiembre en Hermosillo.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/se-cancela-lluvias-dejan-hermosillo-desfile-16-septiembre-n903967",
+        "_added_at": "2026-09-16T12:22:37.498644-07:00"
+      },
+      {
+        "title": "Trabajadores de SNTE 54 pueden gestionar permutas escolares",
+        "summary": "Se habilitan cuatro fechas en ciclo escolar para que maestros realicen trámites de permuta laboral.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/16/trabajadores-de-la-snte-54-podran-gestionar-permutas-en-cuatro-fechas-del-ciclo-escolar/",
+        "_added_at": "2026-09-16T12:22:37.498644-07:00"
+      },
+      {
         "title": "Sonora abre histórico proceso de permutas para docentes",
         "summary": "Gobierno estatal implementa nuevo procedimiento para intercambio de plazas magisteriales.",
         "source": "Uniradio Sonora",
@@ -123,5 +172,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-16T00:50:39.402781-07:00"
+  "last_updated": "2026-09-16T12:22:37.498644-07:00"
 }
