@@ -1,8 +1,36 @@
 {
   "date": "2026-09-17",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan a presunto responsable de feminicidio en San Luis Río Colorado",
+        "summary": "Detienen en Mexicali a Mario Alberto N, señalado de feminicidio de Wendy N ocurrido en SLRC hace tiempo.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/17/capturan-en-mexicali-a-mario-alberto-n-probable-responsable-del-feminicidio-de-wendy-n-ocurrido-en-slrc/",
+        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+      },
+      {
+        "title": "Mecánico agredido con barrote en Nogales, hospitalizado grave",
+        "summary": "Trabajador de 49 años atacado mientras laboraba en taller de Nogales; lesiones ponen en riesgo su vida.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/09/17/mecanico-de-49-anos-es-atacado-con-un-barrote-mientras-trabajaba-en-nogales-y-permanece-hospitalizado-con-lesiones-que-ponen-en-riesgo-su-vida/",
+        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+      },
+      {
+        "title": "Percepción de inseguridad baja en Nogales por coordinación ciudadana",
+        "summary": "Autoridades reportan reducción en inseguridad; Gim atribuye mejora a coordinación y denuncias ciudadanas.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/17/baja-percepcion-inseguridad-nogales-gim-atribuye-avance-coordinacion-denuncias-ciudadanas.html",
+        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+      },
+      {
+        "title": "Detienen a hombre por agredir a su madre en Nogales",
+        "summary": "Sujeto detenido en colonia Pima 1 tras agredir y amenazar de muerte a su progenitora.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/09/17/detienen-hombre-senalado-agredir-amenazar-muerte-su-madre-pima-1.html",
+        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+      },
       {
         "title": "Capturan en Mexicali a responsable de feminicidio en SLRC",
         "summary": "Detienen a Mario Alberto N, probable autor del feminicidio de Wendy Stefany ocurrido en San Luis Río Colorado.",
@@ -48,6 +76,20 @@
     ],
     "politica": [
       {
+        "title": "IEE Sonora recluta 5,882 ciudadanos para consejos electorales 2027",
+        "summary": "Instituto busca integrar 21 consejos distritales y 72 municipales; registro abierto hasta 25 de septiembre.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/iee-sonora-busca-ciudadanos-para-consejos-electorales-2027/264682",
+        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+      },
+      {
+        "title": "Astiazarán mejora movilidad y conectividad en Hermosillo",
+        "summary": "Gobierno municipal implementa proyectos para mejorar transporte y accesibilidad en la capital estatal.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/mejora-tono-astiazaran-movilidad-en-hermosillo/",
+        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+      },
+      {
         "title": "Incertidumbre en Morena sobre candidatura a gubernatura de Sonora",
         "summary": "Se desconoce quién será el candidato del partido oficial para contienda electoral en el estado.",
         "source": "Proyecto Puente",
@@ -91,6 +133,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Inundaciones ponen en evidencia necesidad de revisar seguros",
+        "summary": "Recientes afectaciones en Guaymas y Empalme subrayan importancia de pólizas ante riesgos climatológicos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/tras-inundaciones-llaman-a-revisar-seguros-de-inmuebles/264674",
+        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+      },
+      {
+        "title": "Fopin proyecta parque y centro de usos múltiples en Nogales",
+        "summary": "Organización planea construcción de nuevos espacios recreativos y de servicios para la comunidad.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/09/17/fopin-proyecta-parque-centro-usos-multiples-pirinola-2027.html",
+        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+      },
       {
         "title": "Ford Hermosillo abre vacantes para operadores de producción",
         "summary": "Empresa automotriz lanza convocatoria de empleo en planta hermosillense.",
@@ -150,6 +206,27 @@
     ],
     "sociedad": [
       {
+        "title": "Sonora moviliza 164 mil personas en simulacro nacional de sismo",
+        "summary": "Centro de Gobierno en Hermosillo rompe récord evacuando más de 5 mil personas en tres minutos.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/movilizara-sonora-a-mas-de-164-mil-personas-durante-simulacro-nacional-32129894",
+        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+      },
+      {
+        "title": "Lluvia derriba 12 árboles y causa afectaciones en Hermosillo",
+        "summary": "Ayuntamiento atiende daños por copiosas lluvias; fuertes precipitaciones en sierra para próximas horas.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/lluvia-derriba-12-arboles-hermosillo-n904174",
+        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+      },
+      {
+        "title": "Sismo de magnitud 4.4 se registra en Agua Prieta sin daños reportados",
+        "summary": "Temblor sacude municipio fronterizo sin causar lesiones ni afectaciones significativas.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sismo-de-4-4-se-registra-en-agua-prieta-no-reportan-danos-31605115",
+        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+      },
+      {
         "title": "Lluvias afectan diez viviendas en Sonora, evalúan apoyos",
         "summary": "Protección Civil reporta daños por precipitaciones; autoridades evalúan medidas de asistencia.",
         "source": "Uniradio Sonora",
@@ -197,15 +274,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/tres-becas-bienestar-que-abren-registro-en-septiembre/264623",
         "_added_at": "2026-09-17T00:55:46.859730-07:00"
-      },
-      {
-        "title": "Aumenta donación altruista de sangre en Sonora",
-        "summary": "Incremento de voluntarios donantes en instituciones de salud estatal.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/aumenta-donacion-altruista-de-sangre-en-sonora/",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-17T12:32:48.926002-07:00"
+  "last_updated": "2026-09-17T16:54:26.120666-07:00"
 }
