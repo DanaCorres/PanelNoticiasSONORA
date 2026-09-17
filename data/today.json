@@ -1,253 +1,120 @@
 {
-  "date": "2026-09-16",
-  "run_count": 3,
+  "date": "2026-09-17",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Oficial penitenciaria detenida con municiones en San Luis",
-        "summary": "Autoridades de Arizona inician proceso de despido contra oficial encontrada con miles de cartuchos en San Luis Río Colorado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/sanluis/2026/09/16/arizona-inicia-proceso-para-despedir-a-yanet-oficial-penitenciaria-detenida-con-5-mil-445-cartuchos-en-slrc/",
-        "_added_at": "2026-09-16T17:05:16.202378-07:00"
+        "title": "Capturan presunto feminicida de Wendy en San Luis Río Colorado",
+        "summary": "Autoridades de Sonora y Baja California colaboraron para detener al responsable del feminicidio ocurrido el 8 de septiembre en SLRC.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/cae-presunto-feminicida-de-wendy-n-en-mexicali/264632",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       },
       {
-        "title": "Identifican homicidas del influencer 'El Piturris'",
-        "summary": "Autoridades esclarecen el homicidio del creador de contenido asesinado en Ciudad Obregón.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/policiaca/identifican-a-homicidas-de-el-piturris-creador-de-contenido-de-ciudad-obregon/143862",
-        "_added_at": "2026-09-16T17:05:16.202378-07:00"
-      },
-      {
-        "title": "Capturan contrabandista con cocaína en frontera",
-        "summary": "Patrulla Fronteriza detiene sujeto con treinta kilos de cocaína en Yuma, Sonora.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/16/patrulla-fronteriza-detiene-a-un-presunto-contrabandista-con-32-kilos-de-cocaina-en-yuma-y-las-incautaciones-se-triplican-en-2026/",
-        "_added_at": "2026-09-16T17:05:16.202378-07:00"
-      },
-      {
-        "title": "Capturan sospechoso de asesinato del influencer Piturris",
-        "summary": "Detienen a presunto responsable del homicidio del creador de contenido en Ciudad Obregón. Arma asegurada lo vincula con otro crimen.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/ciudad-obregon/2026/09/16/capturan-al-presunto-responsable-del-homicidio-de-el-piturris-en-ciudad-obregon-y-el-arma-asegurada-lo-vincula-con-otro-crimen-en-cocorit/",
-        "_added_at": "2026-09-16T12:22:37.498644-07:00"
-      },
-      {
-        "title": "Desaparece menor durante festividades patrias en Cajeme",
-        "summary": "Se reporta desaparición de un niño durante celebraciones de Independencia en Ciudad Obregón. Autoridades inician búsqueda.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/desaparece-menor-en-el-grito-de-ciudad-obregon-esto-se-sabe-sobre-su-busqueda/143845",
-        "_added_at": "2026-09-16T12:22:37.498644-07:00"
-      },
-      {
-        "title": "Muere trabajador por inhalación de químico en descarrilamiento de tren",
-        "summary": "Hombre fallece tras derrame de 59 mil litros de sustancia peligrosa en Naco, Sonora.",
+        "title": "Joven capturado por homicidio de taquero en Ciudad Obregón",
+        "summary": "Detienen a presunto responsable del asesinato de vendedor de tacos en Cajeme.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/muere-trabajador-de-naco-se-presume-a-consecuencia-del-derrame-de-toxicos-del-tren-32102458",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/capturan-a-joven-senalado-por-homicidio-de-taquero-en-ciudad-obregon-32115559",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       },
       {
-        "title": "Hermosillo reduce percepción de inseguridad en cinco años",
-        "summary": "Capital sonorense mejora indicadores de seguridad ciudadana en lustro reciente.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/hermosillo-reduce-percepcion-inseguridad-cinco-anos-n903926",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
+        "title": "Hombre asesinado en su casa en colonia Bella Vista",
+        "summary": "Víctima muere por arma de fuego en domicilio de Hermosillo.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/asesinan-a-balazos-a-un-hombre-en-su-casa-en-la-colonia-bella-vista/",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       },
       {
-        "title": "Refuerzan seguridad en San Luis Río Colorado durante festejos patrios",
-        "summary": "Autoridades despliegan operativo especial en municipio para fiestas de independencia.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/refuerzan-seguridad-durante-festejos-patrios-en-slrc-32103650",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
-      },
-      {
-        "title": "SSPC Sonora refuerza seguridad durante Fiestas Patrias estatales",
-        "summary": "Secretaría de Seguridad Pública incrementa operativos en conmemoraciones de independencia.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/refuerza-sspc-sonora-seguridad-durante-las-fiestas-patrias-2/",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
+        "title": "Mujer asesinada tras ataque armado en Jacinto López",
+        "summary": "Hombres armados irrumpen en vivienda y provocan muerte en Hermosillo.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/hombres-armados-irrumpen-en-vivienda-y-asesinan-a-mujer-en-la-jacinto-lopez-32090517",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Gobernador Durazo reporta reducción de pobreza",
-        "summary": "Políticas de bienestar estatal permitieron que más de 450 mil sonorenses superaran la pobreza.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/con-politica-de-bienestar-de-gobernador-durazo-mas-de-450-mil-sonorenses-superaron-la-pobreza/",
-        "_added_at": "2026-09-16T17:05:16.202378-07:00"
+        "title": "Astiazarán presenta avances en Segundo Informe de Gobierno",
+        "summary": "Gobernador de Hermosillo reporta logros en administración municipal.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/muestra-tono-astiazaran-avances-en-segundo-informe/",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       },
       {
-        "title": "Doctora Córdova presenta segundo informe anual",
-        "summary": "Funcionaria municipal presenta avances de su gestión y marca nuevos retos administrativos.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/presenta-doctora-karla-cordova-gonzalez-segundo-informe-anual/",
-        "_added_at": "2026-09-16T17:05:16.202378-07:00"
+        "title": "Durazo resalta apoyos a millón de sonorenses con programas",
+        "summary": "Gobernador destaca beneficiarios de iniciativas de bienestar estatal.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/resalta-durazo-apoyos-a-un-millon-de-sonorenses-con-programas-de-bienestar/",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       },
       {
-        "title": "López Caballero analiza competir por Hermosillo con Movimiento Ciudadano",
-        "summary": "Exalcalde considera cambiar de partido ante diferencias con PAN para recontender por alcaldía de Hermosillo.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/alejandro-lopez-caballero-quiere-ser-alcalde-de-hermosillo/264601",
-        "_added_at": "2026-09-16T12:22:37.498644-07:00"
-      },
-      {
-        "title": "Durazo encabeza Grito de Independencia en Sonora",
-        "summary": "Gobernador Alfonso Durazo preside ceremonia protocolaria por 216 aniversario de independencia.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/alfonso-durazo-encabeza-grito-de-independencia-en-sonora/264589",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
-      },
-      {
-        "title": "Samuel Borbón presenta logros de segundo año de gobierno",
-        "summary": "Presidente municipal de Cajeme expone avances administrativos en informe anual.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/samuel-borbon-presenta-los-logros-alcanzados-en-su-segundo-ano-de-gobierno/143837",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
-      },
-      {
-        "title": "Políticos locales califican Informe de Gobierno de SLRC como realista",
-        "summary": "Actores políticos de San Luis Río Colorado evalúan positivamente segundo informe administrativo.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/actores-politicos-locales-califican-de-realista-segundo-informe-de-gobierno-de-san-luis-rio-colorado-32102378",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
-      },
-      {
-        "title": "INE divide sección electoral 0724 en San Luis Río Colorado",
-        "summary": "Reorganización de zonas electorales requiere actualización de credenciales de votantes.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/ine-divide-la-seccion-0724-en-cuatro-nuevas-zonas-sanluisinos-deberan-actualizar-su-credencial-32101589",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
+        "title": "Nogales prepara proyectos para fortalecer abasto de agua",
+        "summary": "Municipio planea inversiones para mejorar disponibilidad hídrica.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/nogales-prepara-proyectos-para-fortalecer-abasto-de-agua-juan-gim/",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Cancelen visas a operadores de carga en Sonora",
-        "summary": "Cámara de transportistas reporta cancelación de hasta 250 visas para operadores de carga.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/16/cancelan-hasta-250-visas-a-operadores-de-carga-en-sonora-canacar/",
-        "_added_at": "2026-09-16T17:05:16.202378-07:00"
+        "title": "Programa Vivienda para Bienestar invierte fuertemente en Sonora",
+        "summary": "Plan federal prevé 1.8 millones de hogares con inversión significativa en estado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/vivienda-es-un-derecho-efectivo-en-sonora-lorenia-valles/264636",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       },
       {
-        "title": "Nuevos hospitales federales en municipios sonorenses",
-        "summary": "Paquete económico federal incluye construcción de hospitales en varios municipios de Sonora para 2027.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/paquete-economico-federal-estos-son-los-municipios-de-sonora-que-tendrian-nuevos-hospitales-en-2027-32070203",
-        "_added_at": "2026-09-16T17:05:16.202378-07:00"
+        "title": "Cancelación de visas afecta a operadores de carga sonorenses",
+        "summary": "Traileros pierden documentos por requisitos de idioma inglés.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/afecta-cancelacion-de-visas-a-operadores-de-carga/",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       },
       {
-        "title": "Hospital Regional de Ures avanza lentamente",
-        "summary": "Obra del hospital en Ures registra apenas cinco por ciento de avance según reportes oficiales.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hospital-regional-de-ures-registra-5-de-avance-de-acuerdo-con-informacion-de-la-sict-31983905",
-        "_added_at": "2026-09-16T17:05:16.202378-07:00"
-      },
-      {
-        "title": "Ganaderos de Sonora aumentan exportaciones a Estados Unidos",
-        "summary": "Productores sonorenses incrementan envíos de ganado hacia mercado estadounidense.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/ganaderos-de-sonora-elevan-envios-de-ganado-hacia-estados-unidos/",
-        "_added_at": "2026-09-16T12:22:37.498644-07:00"
-      },
-      {
-        "title": "Planta fotovoltaica en Puerto Peñasco transforma futuro energético",
-        "summary": "Gobernador Durazo impulsa proyecto de energía renovable para transformación sostenible de Sonora.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/con-planta-fotovoltaica-gobernador-durazo-transforma-el-futuro-energetico-de-sonora/",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
-      },
-      {
-        "title": "Canacar analiza revisiones estadounidenses a operadores de transporte",
-        "summary": "Delegación sonorense evalúa impacto de inspecciones fronterizas en autotransportistas locales.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/delegacion-sonora-de-canacar-analiza-situacion-de-revision-de-estados-unidos-a-operadores-32102435",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
-      },
-      {
-        "title": "Icatson recibe unidades para capacitar operadores del autotransporte",
-        "summary": "Instituto de Capacitación obtiene equipamiento para entrenar nuevos conductores federales.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/recibe-icatson-unidades-para-capacitar-a-nuevos-operadores-del-autotransporte-federal-31788459",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
-      },
-      {
-        "title": "Construcción de nueva aduana en SLRC inicia fines de 2026",
-        "summary": "Sidur confirma cronograma para inicio de obra de infraestructura aduanal fronteriza.",
+        "title": "Finaliza plazo del fideicomiso Río Colorado sin certeza",
+        "summary": "San Luis Río Colorado enfrenta incertidumbre sobre gestión futura del recurso.",
         "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/afirma-sidur-que-nueva-aduana-comenzara-su-construccion-a-fines-del-2026-32101967",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/este-sabado-finaliza-el-fideicomiso-rio-colorado-temen-por-su-futuro-32118949",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
+      },
+      {
+        "title": "Superan 450 mil sonorenses pobreza con políticas de bienestar",
+        "summary": "Gobernador Durazo reporta avances en reducción de pobreza estatal.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/con-politica-de-bienestar-de-gobernador-durazo-mas-de-450-mil-sonorenses-superaron-la-pobreza/",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Hermanas desaparecidas localizadas en Obregón",
-        "summary": "Menores reportadas desaparecidas son encontradas y trasladadas a DIF para atención especializada.",
+        "title": "Intensas lluvias suspenden clases en Empalme",
+        "summary": "Precipitaciones afectan actividades escolares en municipio costero.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-a-hermanas-reportadas-desaparecidas-en-obregon/264619",
-        "_added_at": "2026-09-16T17:05:16.202378-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/suspenden-clases-en-empalme-tras-intensas-lluvias/264638",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       },
       {
-        "title": "Lluvias dejan daños en Hermosillo y costas",
-        "summary": "Fuertes precipitaciones generan encharcamientos, daños y afectaciones en zonas de Hermosillo.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/lluvias-dejan-encharcamientos-danos-hermosillo-n904032",
-        "_added_at": "2026-09-16T17:05:16.202378-07:00"
-      },
-      {
-        "title": "Accidentes viales dejan múltiples lesionados",
-        "summary": "Varios choques y volteaduras en carreteras de Sonora resultan con lesionados durante lluvias.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/16/salida-de-camino-y-volc4miento-en-carretera-guaymas-deja-dos-lesonados/",
-        "_added_at": "2026-09-16T17:05:16.202378-07:00"
-      },
-      {
-        "title": "Abejas atacan recolector en centro de Obregón",
-        "summary": "Trabajador de limpia es atacado por enjambre de abejas en área céntrica de Ciudad Obregón.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/abejas-atacan-a-recolector-de-basura-en-pleno-centro-de-ciudad-obregon-l-video/143856",
-        "_added_at": "2026-09-16T17:05:16.202378-07:00"
-      },
-      {
-        "title": "Lluvias causan inundaciones y rescates en zonas rurales",
-        "summary": "Precipitaciones dejan comunidades incomunicadas e inundaciones en Hermosillo, Empalme y localidades aledañas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/16/lluvias-dejan-rescates-e-inundaciones-en-zona-rural-de-hermosillo-zamora-registra-91-milimetros-y-real-del-alamito-71/",
-        "_added_at": "2026-09-16T12:22:37.498644-07:00"
-      },
-      {
-        "title": "Se cancela desfile patrio en Hermosillo por lluvia",
-        "summary": "Precipitaciones obligan cancelación de desfile del 16 de septiembre en Hermosillo.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/se-cancela-lluvias-dejan-hermosillo-desfile-16-septiembre-n903967",
-        "_added_at": "2026-09-16T12:22:37.498644-07:00"
-      },
-      {
-        "title": "Trabajadores de SNTE 54 pueden gestionar permutas escolares",
-        "summary": "Se habilitan cuatro fechas en ciclo escolar para que maestros realicen trámites de permuta laboral.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/16/trabajadores-de-la-snte-54-podran-gestionar-permutas-en-cuatro-fechas-del-ciclo-escolar/",
-        "_added_at": "2026-09-16T12:22:37.498644-07:00"
-      },
-      {
-        "title": "Sonora abre histórico proceso de permutas para docentes",
-        "summary": "Gobierno estatal implementa nuevo procedimiento para intercambio de plazas magisteriales.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/sonora-abre-historico-proceso-permutas-docentes-n903908",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
-      },
-      {
-        "title": "Salud Sonora busca brigadistas voluntarios para intervención en crisis",
-        "summary": "Secretaría invita profesionales a integrarse como voluntarios en atención de emergencias emocionales.",
+        "title": "Lluvia genera 12 reportes y acumulación en Hermosillo",
+        "summary": "Autoridades atienden afectaciones por copiosas precipitaciones en capital.",
         "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/invita-salud-sonora-a-profesionales-a-sumarse-como-brigadistas-voluntarios-de-intervencion-en-crisis/",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
+        "url": "https://www.radiosonora.com.mx/lluvias-dejan-acumulacion-de-agua-y-12-reportes-en-hermosillo/",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       },
       {
-        "title": "Confirman primer caso de gusano barrenador en Hermosillo",
-        "summary": "Autoridades sanitarias detectan enfermedad parasitaria en capital sonorense.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/confirman-primer-caso-de-gusano-barrenador-en-hermosillo/",
-        "_added_at": "2026-09-16T00:50:39.402781-07:00"
+        "title": "Tres becas de bienestar abren registro en septiembre",
+        "summary": "Gobierno federal lanza convocatorias de apoyo educativo para sonorenses.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/tres-becas-bienestar-que-abren-registro-en-septiembre/264623",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
+      },
+      {
+        "title": "Aumenta donación altruista de sangre en Sonora",
+        "summary": "Incremento de voluntarios donantes en instituciones de salud estatal.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/aumenta-donacion-altruista-de-sangre-en-sonora/",
+        "_added_at": "2026-09-17T00:55:46.859730-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-16T17:05:16.202378-07:00"
+  "last_updated": "2026-09-17T00:55:46.859730-07:00"
 }
