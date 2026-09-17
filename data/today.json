@@ -1,8 +1,22 @@
 {
   "date": "2026-09-17",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan en Mexicali a responsable de feminicidio en SLRC",
+        "summary": "Detienen a Mario Alberto N, probable autor del feminicidio de Wendy Stefany ocurrido en San Luis Río Colorado.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/detienen-en-mexicali-a-probable-responsable-del-feminicidio-de-wendy-stefany-en-slrc-32119663",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
+      {
+        "title": "Accidente vial en carretera Santa Ana-Magdalena deja lesionados",
+        "summary": "Tres personas resultan heridas en percance en vía de comunicación entre municipios sonorenses.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/accidente-en-carretera-santa-ana-magdalena-deja-tres-personas-lesionadas-32116035",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
       {
         "title": "Capturan presunto feminicida de Wendy en San Luis Río Colorado",
         "summary": "Autoridades de Sonora y Baja California colaboraron para detener al responsable del feminicidio ocurrido el 8 de septiembre en SLRC.",
@@ -34,6 +48,27 @@
     ],
     "politica": [
       {
+        "title": "Incertidumbre en Morena sobre candidatura a gubernatura de Sonora",
+        "summary": "Se desconoce quién será el candidato del partido oficial para contienda electoral en el estado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/17/se-extiende-incertidumbre-en-morena-no-se-sabe-quien-sera-candidato-a-gobierno-de-sonora/",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
+      {
+        "title": "Maru Campos busca reunión con Sheinbaum en Ciudad Juárez",
+        "summary": "Gobernadora de Sonora desea entrevistarse con presidenta para abordar temas prioritarios del estado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/17/maru-campos-busca-reunirse-con-sheinbaum-en-ciudad-juarez-estos-son-los-temas-que-quiere-abordar/",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
+      {
+        "title": "Maru Campos presenta tres peticiones a Sheinbaum vía oficio",
+        "summary": "Gobernadora envía documento formal con demandas específicas al gobierno federal.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/maru-campos-envia-oficio-tres-peticiones-dirigidas-sheinbaum-n904127",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
+      {
         "title": "Astiazarán presenta avances en Segundo Informe de Gobierno",
         "summary": "Gobernador de Hermosillo reporta logros en administración municipal.",
         "source": "Entorno Informativo",
@@ -56,6 +91,34 @@
       }
     ],
     "economia": [
+      {
+        "title": "Ford Hermosillo abre vacantes para operadores de producción",
+        "summary": "Empresa automotriz lanza convocatoria de empleo en planta hermosillense.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/buscas-empleo-ford-hermosillo-abre-vacantes-operador-produccion-n904136",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
+      {
+        "title": "Salen 456 mil sonorenses de la pobreza en período reciente",
+        "summary": "Indicadores muestran reducción significativa de población en condición de pobreza en Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/salen-456-mil-sonorenses-de-la-pobreza/264646",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
+      {
+        "title": "Cartonera genera expectativa de feria de empleo masivo en Cajeme",
+        "summary": "Apertura de nueva industria en Ciudad Obregón promete oportunidades de contratación.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/17/proyectan-feria-de-contratacion-masiva-por-apertura-de-cartonera-en-cajeme/",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
+      {
+        "title": "Carretera Guaymas-Chihuahua avanza en su construcción",
+        "summary": "Obra de infraestructura progresa en conectar Sonora con estado vecino.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-suma-nuevas-conexiones-carreteras-con-estos-proyectos/264649",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
       {
         "title": "Programa Vivienda para Bienestar invierte fuertemente en Sonora",
         "summary": "Plan federal prevé 1.8 millones de hogares con inversión significativa en estado.",
@@ -87,6 +150,34 @@
     ],
     "sociedad": [
       {
+        "title": "Lluvias afectan diez viviendas en Sonora, evalúan apoyos",
+        "summary": "Protección Civil reporta daños por precipitaciones; autoridades evalúan medidas de asistencia.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/reporta-coves-diez-viviendas-afectadas-lluvias-sonora-n904113",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
+      {
+        "title": "Regresa el calor intenso a Hermosillo tras días frescos",
+        "summary": "Temperaturas subirán hasta 43 grados durante el fin de semana en la capital.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/clima-hoy-jueves-en-sonora-sube-el-calor-y-bajan-las-lluvias/264658",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
+      {
+        "title": "Suspenden clases por condiciones climáticas en municipio sonorense",
+        "summary": "Autoridades educativas cierran escuelas debido a efectos del clima extremo.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/suspenden-clases-por-condiciones-climaticas-en-este-municipio-de-sonora/143925",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
+      {
+        "title": "Onda tropical alcanza 80% de potencial ciclonico en Pacífico",
+        "summary": "Protección Civil vigila sistema meteorológico con alta probabilidad de desarrollo ciclónico.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/17/proteccion-civil-sonora-vigila-una-onda-tropical-en-el-pacifico-mientras-sube-a-80-su-probabilidad-de-desarrollo-ciclonico-en-los-proximos-7-dias/",
+        "_added_at": "2026-09-17T12:32:48.926002-07:00"
+      },
+      {
         "title": "Intensas lluvias suspenden clases en Empalme",
         "summary": "Precipitaciones afectan actividades escolares en municipio costero.",
         "source": "Expreso",
@@ -116,5 +207,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-17T00:55:46.859730-07:00"
+  "last_updated": "2026-09-17T12:32:48.926002-07:00"
 }
