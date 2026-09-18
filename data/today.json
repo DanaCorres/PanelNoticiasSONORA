@@ -1,8 +1,29 @@
 {
   "date": "2026-09-18",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fiscalía investiga asalto a adultos mayores en Santa Ana",
+        "summary": "Robo de mil 400 dólares a pareja de ancianos en falso retén. Fiscalía abrió carpeta de investigación tras denuncia en redes sociales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/fiscalia-sonora-investiga-asalto-en-falso-reten-de-santa-ana/264741",
+        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+      },
+      {
+        "title": "Motociclista pierde la vida en accidente en Ciudad Obregón",
+        "summary": "Joven identificado tras fatal accidente en vías de la ciudad. Investigación en curso sobre las causas del siniestro.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/identifican-al-motociclista-que-perdio-la-vida-tras-accidente-en-ciudad-obregon/144002",
+        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+      },
+      {
+        "title": "Fuerzas del orden aseguran casa en Puerto Peñasco",
+        "summary": "Autoridades toman control de sitio de seguridad en localidad sonorense tras intervención.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/18/intervienen-casa-de-seguridad-en-puerto-penasco-y-la-aseguran-confirma-fgje-que-el-lugar-esta-bajo-control/",
+        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+      },
       {
         "title": "Sonora registra cinco muertes por dengue",
         "summary": "Mil 176 casos confirmados de dengue en Sonora con cinco defunciones en Hermosillo, Guaymas y Ciudad Obregón.",
@@ -51,16 +72,30 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/sociedad/madre-denuncia-presunto-abuso-su-hija-guarderia-n904209",
         "_added_at": "2026-09-18T00:33:34.985590-07:00"
-      },
-      {
-        "title": "Refuerzan prevención de dengue en Empalme",
-        "summary": "Autoridades intensifican acciones preventivas ante aumento de lluvias en la región.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/refuerzan-prevencion-del-dengue-ante-lluvias-en-empalme/",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Astiazarán anuncia primer Centro de Neurodesarrollo en Hermosillo",
+        "summary": "Candidato presidencial presenta nueva infraestructura municipal dedicada a atención especializada neurológica infantil.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/18/anuncia-tono-astiazaran-primer-centro-municipal-de-neurodesarrollo-en-hermosillo/",
+        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+      },
+      {
+        "title": "Morena mantiene resultado electoral en secreto en Sonora",
+        "summary": "Judith Armenta afirma que partido ya tiene resultados pero aún no los divulga públicamente tras encuestas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/morena-sonora-por-que-aun-no-se-conoce-el-resultado/264740",
+        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+      },
+      {
+        "title": "Aspirantes de Morena rechazan ruptura interna en Sonora",
+        "summary": "Seis candidatos permanecen en proceso de selección. Afirman no abandonarán contienda si no resultan designados.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/18/rechazan-ruptura-interna-aspirantes-de-morena-a-gubernatura-de-sonora-no-abandonaremos-contienda-ni-buscaremos-otro-proyecto-si-no-somos-designados-afirman/",
+        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+      },
       {
         "title": "Diputada impulsa Día de Muertos como descanso obligatorio",
         "summary": "Alicia Gaytán promueve reforma para que Día de Muertos sea día feriado oficial en Sonora.",
@@ -106,6 +141,20 @@
     ],
     "economia": [
       {
+        "title": "Wasapraka exige información sobre Fideicomiso Río Colorado",
+        "summary": "Organización ciudadana en San Luis Río Colorado solicita transparencia estatal sobre manejo de recursos hídricos fronterizos.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/wasapraka-exhorta-al-estado-para-que-brinde-informacion-del-fideicomiso-rio-colorado-32132698",
+        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+      },
+      {
+        "title": "Gestión de recursos para renovación Hospital Ocaranza",
+        "summary": "Iniciativa en búsqueda de financiamiento para modernización y mejora de infraestructura hospitalaria estatal.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/van-recursos-renovar-hospital-ocaranza-n904349",
+        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+      },
+      {
         "title": "Viajeros sonorenses podrían pagar más por vuelos",
         "summary": "Posible incremento en tarifas aéreas en 2027 si aerolíneas trasladan aumento de costos.",
         "source": "El Imparcial",
@@ -150,6 +199,34 @@
     ],
     "sociedad": [
       {
+        "title": "Plantarán 13 mil árboles en Cerro de la Cementera",
+        "summary": "Hermosillo participa en jornada de reforestación nacional 2026 con importante proyecto ambiental comunitario.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/jornada-de-reforestacion-nacional-2026-en-hermosillo-plantaran-13-mil-arboles-en-el-cerro-de-la-cementera-31496106",
+        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+      },
+      {
+        "title": "Unison Nogales celebra 22 años con jornada cultural",
+        "summary": "Universidad del estado conmemora aniversario con actividades artísticas, musicales y de talento universitario.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/18/unison-nogales-celebra-22-anos-arte-musica-talento-universitario.html",
+        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+      },
+      {
+        "title": "Hike Macabro organiza expedición benéfica en Nogales",
+        "summary": "Actividad con causa destinada a recabar recursos para alimentación de perros callejeros locales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/18/hike-macabro-invita-expedicion-causa-nogales-alimentar-perros-callejeros.html",
+        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+      },
+      {
+        "title": "Radio Sonora cumple 44 años con celebración cultural",
+        "summary": "Estación radiofónica prepara mes especial con música, cultura y actividades tradicionales para conmemoración.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/cultura/radio-sonora-cumple-44-anos-y-prepara-un-mes-lleno-de-musica-cultura-y-tradicion-32136170",
+        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+      },
+      {
         "title": "Ciclón tropical traería lluvias a Sonora próximas semanas",
         "summary": "Expertos vigilan posible disturbio tropical en Golfo de California para últimas semanas de septiembre.",
         "source": "Expreso",
@@ -190,15 +267,8 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/sociedad/refuerzan-matematicas-espanol-secundarias-sonora-n904211",
         "_added_at": "2026-09-18T00:33:34.985590-07:00"
-      },
-      {
-        "title": "Socavón en Sahuaro Final continúa sin resolverse",
-        "summary": "Obras de reparación persisten más de treinta días después de su aparición.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/trabajos-por-socavon-en-sahuaro-final-continuan-a-mas-de-un-mes-de-su-aparicion-32115260",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-18T11:52:15.906527-07:00"
+  "last_updated": "2026-09-18T16:52:59.493545-07:00"
 }
