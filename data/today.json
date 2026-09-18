@@ -1,281 +1,120 @@
 {
-  "date": "2026-09-17",
-  "run_count": 3,
+  "date": "2026-09-18",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Capturan a presunto responsable de feminicidio en San Luis Río Colorado",
-        "summary": "Detienen en Mexicali a Mario Alberto N, señalado de feminicidio de Wendy N ocurrido en SLRC hace tiempo.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/17/capturan-en-mexicali-a-mario-alberto-n-probable-responsable-del-feminicidio-de-wendy-n-ocurrido-en-slrc/",
-        "_added_at": "2026-09-17T16:54:26.120666-07:00"
-      },
-      {
-        "title": "Mecánico agredido con barrote en Nogales, hospitalizado grave",
-        "summary": "Trabajador de 49 años atacado mientras laboraba en taller de Nogales; lesiones ponen en riesgo su vida.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/09/17/mecanico-de-49-anos-es-atacado-con-un-barrote-mientras-trabajaba-en-nogales-y-permanece-hospitalizado-con-lesiones-que-ponen-en-riesgo-su-vida/",
-        "_added_at": "2026-09-17T16:54:26.120666-07:00"
-      },
-      {
-        "title": "Percepción de inseguridad baja en Nogales por coordinación ciudadana",
-        "summary": "Autoridades reportan reducción en inseguridad; Gim atribuye mejora a coordinación y denuncias ciudadanas.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/17/baja-percepcion-inseguridad-nogales-gim-atribuye-avance-coordinacion-denuncias-ciudadanas.html",
-        "_added_at": "2026-09-17T16:54:26.120666-07:00"
-      },
-      {
-        "title": "Detienen a hombre por agredir a su madre en Nogales",
-        "summary": "Sujeto detenido en colonia Pima 1 tras agredir y amenazar de muerte a su progenitora.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/09/17/detienen-hombre-senalado-agredir-amenazar-muerte-su-madre-pima-1.html",
-        "_added_at": "2026-09-17T16:54:26.120666-07:00"
-      },
-      {
-        "title": "Capturan en Mexicali a responsable de feminicidio en SLRC",
-        "summary": "Detienen a Mario Alberto N, probable autor del feminicidio de Wendy Stefany ocurrido en San Luis Río Colorado.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/detienen-en-mexicali-a-probable-responsable-del-feminicidio-de-wendy-stefany-en-slrc-32119663",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Accidente vial en carretera Santa Ana-Magdalena deja lesionados",
-        "summary": "Tres personas resultan heridas en percance en vía de comunicación entre municipios sonorenses.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/accidente-en-carretera-santa-ana-magdalena-deja-tres-personas-lesionadas-32116035",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Capturan presunto feminicida de Wendy en San Luis Río Colorado",
-        "summary": "Autoridades de Sonora y Baja California colaboraron para detener al responsable del feminicidio ocurrido el 8 de septiembre en SLRC.",
+        "title": "Joven vinculado a proceso por homicidio en Nogales",
+        "summary": "Autoridades procesaron a Manuel N por el asesinato de su primo con prisión preventiva tras pruebas presentadas.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cae-presunto-feminicida-de-wendy-n-en-mexicali/264632",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/procesan-a-joven-por-asesinato-de-primo-en-nogales/264697",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       },
       {
-        "title": "Joven capturado por homicidio de taquero en Ciudad Obregón",
-        "summary": "Detienen a presunto responsable del asesinato de vendedor de tacos en Cajeme.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/capturan-a-joven-senalado-por-homicidio-de-taquero-en-ciudad-obregon-32115559",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
+        "title": "Detenciones de estadounidenses en San Luis Río Colorado",
+        "summary": "La frontera de San Luis registra cifras destacadas de detenciones de ciudadanos estadounidenses.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/san-luis-rio-colorado-destaca-por-detenciones-de-estadounidenses-en-la-frontera-32131921",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       },
       {
-        "title": "Hombre asesinado en su casa en colonia Bella Vista",
-        "summary": "Víctima muere por arma de fuego en domicilio de Hermosillo.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/asesinan-a-balazos-a-un-hombre-en-su-casa-en-la-colonia-bella-vista/",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
+        "title": "Denuncia presunto abuso a menor en guardería",
+        "summary": "Madre interpone denuncia por supuesto abuso de su hija dentro de guardería sonorense.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/madre-denuncia-presunto-abuso-su-hija-guarderia-n904209",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       },
       {
-        "title": "Mujer asesinada tras ataque armado en Jacinto López",
-        "summary": "Hombres armados irrumpen en vivienda y provocan muerte en Hermosillo.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/hombres-armados-irrumpen-en-vivienda-y-asesinan-a-mujer-en-la-jacinto-lopez-32090517",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
+        "title": "Refuerzan prevención de dengue en Empalme",
+        "summary": "Autoridades intensifican acciones preventivas ante aumento de lluvias en la región.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/refuerzan-prevencion-del-dengue-ante-lluvias-en-empalme/",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       }
     ],
     "politica": [
       {
-        "title": "IEE Sonora recluta 5,882 ciudadanos para consejos electorales 2027",
-        "summary": "Instituto busca integrar 21 consejos distritales y 72 municipales; registro abierto hasta 25 de septiembre.",
+        "title": "Congreso reconoce avances del Quinto Informe gubernamental",
+        "summary": "Legislatura sonorense valida logros y subraya desafíos pendientes en gobierno estatal.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/iee-sonora-busca-ciudadanos-para-consejos-electorales-2027/264682",
-        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/reconoce-congreso-avances-y-retos-tras-quinto-informe/264683",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       },
       {
-        "title": "Astiazarán mejora movilidad y conectividad en Hermosillo",
-        "summary": "Gobierno municipal implementa proyectos para mejorar transporte y accesibilidad en la capital estatal.",
+        "title": "Convocan a participar en consejos electorales de Sonora",
+        "summary": "Autoridades electorales invitan a ciudadanía a integrar órganos colegiados locales.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/mejora-tono-astiazaran-movilidad-en-hermosillo/",
-        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+        "url": "https://entornoinformativo.com.mx/invitan-a-integrar-consejos-electorales-en-sonora/",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       },
       {
-        "title": "Incertidumbre en Morena sobre candidatura a gubernatura de Sonora",
-        "summary": "Se desconoce quién será el candidato del partido oficial para contienda electoral en el estado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/17/se-extiende-incertidumbre-en-morena-no-se-sabe-quien-sera-candidato-a-gobierno-de-sonora/",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Maru Campos busca reunión con Sheinbaum en Ciudad Juárez",
-        "summary": "Gobernadora de Sonora desea entrevistarse con presidenta para abordar temas prioritarios del estado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/17/maru-campos-busca-reunirse-con-sheinbaum-en-ciudad-juarez-estos-son-los-temas-que-quiere-abordar/",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Maru Campos presenta tres peticiones a Sheinbaum vía oficio",
-        "summary": "Gobernadora envía documento formal con demandas específicas al gobierno federal.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/maru-campos-envia-oficio-tres-peticiones-dirigidas-sheinbaum-n904127",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Astiazarán presenta avances en Segundo Informe de Gobierno",
-        "summary": "Gobernador de Hermosillo reporta logros en administración municipal.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/muestra-tono-astiazaran-avances-en-segundo-informe/",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
-      },
-      {
-        "title": "Durazo resalta apoyos a millón de sonorenses con programas",
-        "summary": "Gobernador destaca beneficiarios de iniciativas de bienestar estatal.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/resalta-durazo-apoyos-a-un-millon-de-sonorenses-con-programas-de-bienestar/",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
-      },
-      {
-        "title": "Nogales prepara proyectos para fortalecer abasto de agua",
-        "summary": "Municipio planea inversiones para mejorar disponibilidad hídrica.",
+        "title": "Proponen descanso obligatorio el Día de Muertos",
+        "summary": "Iniciativa busca que el Día de Muertos sea jornada laboral de descanso obligatorio.",
         "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/nogales-prepara-proyectos-para-fortalecer-abasto-de-agua-juan-gim/",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
+        "url": "https://www.radiosonora.com.mx/proponen-descanso-obligatorio-el-dia-de-muertos/",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Inundaciones ponen en evidencia necesidad de revisar seguros",
-        "summary": "Recientes afectaciones en Guaymas y Empalme subrayan importancia de pólizas ante riesgos climatológicos.",
+        "title": "Infraestructura impulsa empleo regional en Sonora",
+        "summary": "Inversión en obras conectividad mejora actividades productivas y acceso a servicios.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/tras-inundaciones-llaman-a-revisar-seguros-de-inmuebles/264674",
-        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-resalta-obras-de-infraestructura-en-sonora/264700",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       },
       {
-        "title": "Fopin proyecta parque y centro de usos múltiples en Nogales",
-        "summary": "Organización planea construcción de nuevos espacios recreativos y de servicios para la comunidad.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/09/17/fopin-proyecta-parque-centro-usos-multiples-pirinola-2027.html",
-        "_added_at": "2026-09-17T16:54:26.120666-07:00"
-      },
-      {
-        "title": "Ford Hermosillo abre vacantes para operadores de producción",
-        "summary": "Empresa automotriz lanza convocatoria de empleo en planta hermosillense.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/buscas-empleo-ford-hermosillo-abre-vacantes-operador-produccion-n904136",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Salen 456 mil sonorenses de la pobreza en período reciente",
-        "summary": "Indicadores muestran reducción significativa de población en condición de pobreza en Sonora.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/salen-456-mil-sonorenses-de-la-pobreza/264646",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Cartonera genera expectativa de feria de empleo masivo en Cajeme",
-        "summary": "Apertura de nueva industria en Ciudad Obregón promete oportunidades de contratación.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/17/proyectan-feria-de-contratacion-masiva-por-apertura-de-cartonera-en-cajeme/",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Carretera Guaymas-Chihuahua avanza en su construcción",
-        "summary": "Obra de infraestructura progresa en conectar Sonora con estado vecino.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-suma-nuevas-conexiones-carreteras-con-estos-proyectos/264649",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Programa Vivienda para Bienestar invierte fuertemente en Sonora",
-        "summary": "Plan federal prevé 1.8 millones de hogares con inversión significativa en estado.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/vivienda-es-un-derecho-efectivo-en-sonora-lorenia-valles/264636",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
-      },
-      {
-        "title": "Cancelación de visas afecta a operadores de carga sonorenses",
-        "summary": "Traileros pierden documentos por requisitos de idioma inglés.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/afecta-cancelacion-de-visas-a-operadores-de-carga/",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
-      },
-      {
-        "title": "Finaliza plazo del fideicomiso Río Colorado sin certeza",
-        "summary": "San Luis Río Colorado enfrenta incertidumbre sobre gestión futura del recurso.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/este-sabado-finaliza-el-fideicomiso-rio-colorado-temen-por-su-futuro-32118949",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
-      },
-      {
-        "title": "Superan 450 mil sonorenses pobreza con políticas de bienestar",
-        "summary": "Gobernador Durazo reporta avances en reducción de pobreza estatal.",
+        "title": "Puerto de Guaymas se transforma en plataforma logística regional",
+        "summary": "Instalación portuaria se posiciona como eje comercial del noroeste mexicano.",
         "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/con-politica-de-bienestar-de-gobernador-durazo-mas-de-450-mil-sonorenses-superaron-la-pobreza/",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
+        "url": "https://www.radiosonora.com.mx/puerto-de-guaymas-se-transforma-en-la-plataforma-logistica-y-comercial-del-noroeste-del-pais/",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
+      },
+      {
+        "title": "Invierten 1,800 millones en carretera Sonoyta-Puerto Peñasco",
+        "summary": "Presupuesto se cuadruplica para renovación vial estratégica hacia la costa sonorense.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/incrementan-inversion-de-450-a-1-800-millones-de-pesos-renuevan-carretera-sonoyta-puerto-penasco-32131710",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
+      },
+      {
+        "title": "Productores entusiastas previo a Ruta del Dátil",
+        "summary": "Agricultores locales de San Luis muestran optimismo ante próxima celebración turística.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/productores-locales-muestran-entusiasmo-a-pocas-semanas-de-la-celebracion-de-la-ruta-del-datil-32131693",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Sonora moviliza 164 mil personas en simulacro nacional de sismo",
-        "summary": "Centro de Gobierno en Hermosillo rompe récord evacuando más de 5 mil personas en tres minutos.",
+        "title": "Lluvias dejan deslaves y viviendas afectadas en Guaymas",
+        "summary": "Temporal causa arroyos crecidos, deslaves y daños habitacionales en la zona costera.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/movilizara-sonora-a-mas-de-164-mil-personas-durante-simulacro-nacional-32129894",
-        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/lluvias-dejan-deslaves-arroyos-crecidos-y-viviendas-afectadas-en-guaymas-y-empalme-32111496",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       },
       {
-        "title": "Lluvia derriba 12 árboles y causa afectaciones en Hermosillo",
-        "summary": "Ayuntamiento atiende daños por copiosas lluvias; fuertes precipitaciones en sierra para próximas horas.",
+        "title": "Hermosillo enfrenta crisis de islas de calor urbano",
+        "summary": "Capital sonorense sufre temperaturas extremas por concentración de zonas sin vegetación.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/lluvia-derriba-12-arboles-hermosillo-n904174",
-        "_added_at": "2026-09-17T16:54:26.120666-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/las-islas-calor-asfixian-hermosillo-n904216",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       },
       {
-        "title": "Sismo de magnitud 4.4 se registra en Agua Prieta sin daños reportados",
-        "summary": "Temblor sacude municipio fronterizo sin causar lesiones ni afectaciones significativas.",
+        "title": "Refuerzan enseñanza de matemáticas y español en secundarias",
+        "summary": "Gobierno estatal implementa programa para fortalecer estas disciplinas fundamentales.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/refuerzan-matematicas-espanol-secundarias-sonora-n904211",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
+      },
+      {
+        "title": "Socavón en Sahuaro Final continúa sin resolverse",
+        "summary": "Obras de reparación persisten más de treinta días después de su aparición.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/sismo-de-4-4-se-registra-en-agua-prieta-no-reportan-danos-31605115",
-        "_added_at": "2026-09-17T16:54:26.120666-07:00"
-      },
-      {
-        "title": "Lluvias afectan diez viviendas en Sonora, evalúan apoyos",
-        "summary": "Protección Civil reporta daños por precipitaciones; autoridades evalúan medidas de asistencia.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/reporta-coves-diez-viviendas-afectadas-lluvias-sonora-n904113",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Regresa el calor intenso a Hermosillo tras días frescos",
-        "summary": "Temperaturas subirán hasta 43 grados durante el fin de semana en la capital.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/clima-hoy-jueves-en-sonora-sube-el-calor-y-bajan-las-lluvias/264658",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Suspenden clases por condiciones climáticas en municipio sonorense",
-        "summary": "Autoridades educativas cierran escuelas debido a efectos del clima extremo.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/suspenden-clases-por-condiciones-climaticas-en-este-municipio-de-sonora/143925",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Onda tropical alcanza 80% de potencial ciclonico en Pacífico",
-        "summary": "Protección Civil vigila sistema meteorológico con alta probabilidad de desarrollo ciclónico.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/17/proteccion-civil-sonora-vigila-una-onda-tropical-en-el-pacifico-mientras-sube-a-80-su-probabilidad-de-desarrollo-ciclonico-en-los-proximos-7-dias/",
-        "_added_at": "2026-09-17T12:32:48.926002-07:00"
-      },
-      {
-        "title": "Intensas lluvias suspenden clases en Empalme",
-        "summary": "Precipitaciones afectan actividades escolares en municipio costero.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/suspenden-clases-en-empalme-tras-intensas-lluvias/264638",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
-      },
-      {
-        "title": "Lluvia genera 12 reportes y acumulación en Hermosillo",
-        "summary": "Autoridades atienden afectaciones por copiosas precipitaciones en capital.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/lluvias-dejan-acumulacion-de-agua-y-12-reportes-en-hermosillo/",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
-      },
-      {
-        "title": "Tres becas de bienestar abren registro en septiembre",
-        "summary": "Gobierno federal lanza convocatorias de apoyo educativo para sonorenses.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/tres-becas-bienestar-que-abren-registro-en-septiembre/264623",
-        "_added_at": "2026-09-17T00:55:46.859730-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/trabajos-por-socavon-en-sahuaro-final-continuan-a-mas-de-un-mes-de-su-aparicion-32115260",
+        "_added_at": "2026-09-18T00:33:34.985590-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-17T16:54:26.120666-07:00"
+  "last_updated": "2026-09-18T00:33:34.985590-07:00"
 }
