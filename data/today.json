@@ -1,8 +1,36 @@
 {
   "date": "2026-09-18",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sonora registra cinco muertes por dengue",
+        "summary": "Mil 176 casos confirmados de dengue en Sonora con cinco defunciones en Hermosillo, Guaymas y Ciudad Obregón.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/18/sonora-vive-un-ano-record-de-dengue-con-mil-176-casos-y-cinco-muertes-confirmadas-en-hermosillo-guaymas-y-ciudad-obregon/",
+        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+      },
+      {
+        "title": "Motociclista muere en accidente en Ciudad Obregón",
+        "summary": "Joven pierda la vida tras accidente vial en Ciudad Obregón, identificado tras el incidente.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyajui.mx/ciudadobregon/identifican-al-motociclista-que-perdio-la-vida-tras-accidente-en-ciudad-obregon/144002",
+        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+      },
+      {
+        "title": "Operación Águila Alta decomisa cuatro drones fronterizos",
+        "summary": "Avanza operativo de seguridad en frontera sonorense con decomiso de drones utilizados para narcotráfico.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/cuatro-drones-menos-frontera-asi-avanza-operacion-aguila-alta-n904261",
+        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+      },
+      {
+        "title": "Vinculan a proceso en caso asesinato Carlos Manzo",
+        "summary": "Autoridades vinculan a procesado en homicidio de Carlos Manzo; Grecia Quiroz exige pena ejemplar.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/18/grecia-quiroz-exige-pena-ejemplar-tras-vinculado-a-proceso-en-ases1-nato-de-carlos-manzo/",
+        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+      },
       {
         "title": "Joven vinculado a proceso por homicidio en Nogales",
         "summary": "Autoridades procesaron a Manuel N por el asesinato de su primo con prisión preventiva tras pruebas presentadas.",
@@ -34,6 +62,27 @@
     ],
     "politica": [
       {
+        "title": "Diputada impulsa Día de Muertos como descanso obligatorio",
+        "summary": "Alicia Gaytán promueve reforma para que Día de Muertos sea día feriado oficial en Sonora.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/18/diputada-alicia-gaytan-impulsa-que-el-dia-de-muertos-sea-dia-de-descanso-obligatorio/",
+        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+      },
+      {
+        "title": "Durazo impulsa modernización puerto de Guaymas",
+        "summary": "Gobierno invierte 130 mil millones para ampliar y modernizar puerto, mejorando capacidad logística.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/transforma-durazo-puerto-de-guaymas/264711",
+        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+      },
+      {
+        "title": "San José Sánchez del Río elevado a parroquia",
+        "summary": "Comunidad en Nogales avanza a nueva etapa con elevación religiosa y atención sacerdotal permanente.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/18/san-jose-sanchez-rio-sera-parroquia-tendra-atencion-sacerdotal-permanente.html",
+        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+      },
+      {
         "title": "Congreso reconoce avances del Quinto Informe gubernamental",
         "summary": "Legislatura sonorense valida logros y subraya desafíos pendientes en gobierno estatal.",
         "source": "Expreso",
@@ -56,6 +105,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Viajeros sonorenses podrían pagar más por vuelos",
+        "summary": "Posible incremento en tarifas aéreas en 2027 si aerolíneas trasladan aumento de costos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/18/viajeros-de-sonora-podrian-pagar-mas-por-volar-en-2027-si-aerolineas-trasladan-el-alza-de-10-mientras-hermosillo-amplia-su-conectividad-aerea/",
+        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+      },
+      {
+        "title": "Astiazarán impulsa emprendimiento e innovación local",
+        "summary": "Gobierno promueve apoyos para emprendedores sonorenses en innovación y desarrollo empresarial.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/impulsara-tono-astiazaran-a-emprendedores-en-innovacion/",
+        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+      },
       {
         "title": "Infraestructura impulsa empleo regional en Sonora",
         "summary": "Inversión en obras conectividad mejora actividades productivas y acceso a servicios.",
@@ -87,6 +150,27 @@
     ],
     "sociedad": [
       {
+        "title": "Ciclón tropical traería lluvias a Sonora próximas semanas",
+        "summary": "Expertos vigilan posible disturbio tropical en Golfo de California para últimas semanas de septiembre.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/ciclon-en-el-golfo-de-california-traera-lluvias-a-sonora/264716",
+        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+      },
+      {
+        "title": "Bomberos retiran basura tras lluvias en Hermosillo",
+        "summary": "Limpieza de parrillas pluviales tras precipitaciones; se retira tonelada de azolve y residuos.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/retiran-una-tonelada-de-azolve-y-basura-de-parrillas-pluviales-tras-recientes-lluvias/",
+        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+      },
+      {
+        "title": "Nogales reporta saldo blanco en Fiestas Patrias",
+        "summary": "Celebración de Independencia transcurre sin incidentes en Nogales; comunidad participó activamente.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/18/nogales-reporta-saldo-blanco-fiestas-patrias-2026-agradece-comunidad.html",
+        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+      },
+      {
         "title": "Lluvias dejan deslaves y viviendas afectadas en Guaymas",
         "summary": "Temporal causa arroyos crecidos, deslaves y daños habitacionales en la zona costera.",
         "source": "El Sol de Hermosillo",
@@ -116,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-18T00:33:34.985590-07:00"
+  "last_updated": "2026-09-18T11:52:15.906527-07:00"
 }
