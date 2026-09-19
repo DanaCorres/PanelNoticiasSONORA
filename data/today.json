@@ -1,8 +1,29 @@
 {
   "date": "2026-09-19",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Joven detenido por homicidio de primo en Nogales",
+        "summary": "Detienen a joven relacionado con muerte de su primo en Nogales; investigan si fue disparo accidental.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/19/detienen-joven-homicidio-su-primo-nogales-investigan-supuesto-disparo-perdido.html",
+        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+      },
+      {
+        "title": "Consulado EU coordina seguridad con autoridades de Hermosillo",
+        "summary": "Consulado estadounidense mantiene coordinación permanente en temas de seguridad con municipio hermosillense.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/consulado-de-eu-mantendra-coordinacion-con-hermosillo-en-materia-de-seguridad-32147855",
+        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+      },
+      {
+        "title": "Aseguran armas y drogas en operativo de Hacienda de la Flor",
+        "summary": "Operativo en Hacienda de la Flor resulta en aseguramiento de armas, cartuchos y sustancias ilícitas.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/19/aseguran-arm4-cartuchos-y-sustancias-ilicitas-a-dos-sujetos-en-hacienda-de-la-flor/",
+        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+      },
       {
         "title": "Vinculan a proceso a presunto feminicida de Claudia Tacoronte",
         "summary": "Autoridades formalizaron acusación contra sospechoso del feminicidio de Claudia Tacoronte en Sonora.",
@@ -34,6 +55,20 @@
     ],
     "politica": [
       {
+        "title": "Anaya y Bours opinan sobre gestión de Astiazarán tras informe",
+        "summary": "Líderes políticos fijan postura sobre desempeño del gobernador tras segundo informe de gobierno.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ricardo-anaya-y-ricardo-bours-fijan-posturas-sobre-trabajo-de-astiazaran-tras-su-segundo-informe-32149136",
+        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+      },
+      {
+        "title": "Nación Tohono O'odham mantiene apelación por muro fronterizo",
+        "summary": "Comunidad indígena continúa batalla legal para frenar construcción de muro en tierras ancestrales de Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/09/19/nacion-tohono-oodham-mantiene-apelacion-ante-corte-de-eeuu-para-intentar-frenar-las-obras-del-muro-fronterizo-entre-sonora-y-arizona-a-dias-de-una-fecha-clave-en-la-defensa-legal-de-sus-tierras-ancestrales/",
+        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+      },
+      {
         "title": "PAN analiza alianzas políticas rumbo a elecciones 2027 en Sonora",
         "summary": "Partido Acción Nacional negocia posibles coaliciones para comicios del 2027 en Sonora.",
         "source": "El Sol de Hermosillo",
@@ -57,6 +92,27 @@
     ],
     "economia": [
       {
+        "title": "Precio de becerros en Sonora sube 19% por reapertura",
+        "summary": "Kilo de becerro alcanza 130 pesos tras apertura comercial con EE.UU.; especialistas advierten cautela.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/19/precio-de-becerros-en-sonora-sube-19-tras-la-reapertura-ganadera-con-eeuu-mientras-la-presion-sobre-el-mercado-nacional-y-los-costos-de-exportacion-ponen-a-prueba-si-el-alza-puede-sostenerse/",
+        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+      },
+      {
+        "title": "Gobierno entrega 39 mil escrituras con certeza jurídica",
+        "summary": "Durazo elimina cobro en Registro Público para facilitar trámites de propiedad sin costo a familias.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/alfonso-durazo-entrega-mas-de-39-mil-escrituras/264775",
+        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+      },
+      {
+        "title": "SIMSA niega ser propietaria de hidrocarburo asegurado",
+        "summary": "Empresa rechaza propiedad sobre 59 millones de litros de combustible incautado por autoridades.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/19/simsa-niega-ser-duena-de-los-59-millones-de-litros-de-hidrocarburo-asegurados/",
+        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+      },
+      {
         "title": "Regularización patrimonial entrega 39 mil escrituras en Sonora",
         "summary": "Gobierno federal entregó más de 39 mil escrituras en programa de regularización patrimonial sonorense.",
         "source": "Radio Sonora",
@@ -79,6 +135,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Niño de 2 años muere ahogado en alberca durante viaje",
+        "summary": "Menor fallece tras caer accidentalmente a piscina durante viaje familiar en Sonora.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/muere-nino-de-2-anos-tras-caer-a-una-alberca-durante-un-viaje-familiar-en-sonora/144058",
+        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+      },
+      {
+        "title": "Dengue en Sonora suma 5 muertes en nuevo reporte",
+        "summary": "Autoridades sanitarias reportan cinco defunciones por dengue aunque reduce casos acumulados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/19/el-nuevo-reporte-de-dengue-en-sonora-suma-cinco-muertes-pero-reduce-el-acumulado-de-casos-que-significa-el-cambio-en-las-cifras/",
+        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+      },
+      {
+        "title": "Estudiante con discapacidad visual denuncia burlas de maestro",
+        "summary": "Joven de preparatoria hermosillense reporta acoso escolar por parte de docente.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/tadeo-leal-estudiante-con-discapacidad-visual-denuncia-burlas-de-maestro-en-prepa-de-hermosillo/144061",
+        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+      },
+      {
+        "title": "Mujeres rescatan biodiversidad en Alto Golfo de California",
+        "summary": "Grupo femenino trabaja conservación de especie playero rojizo y pejerrey en área protegida.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/cuidando-al-playero-rojizo-y-al-pejerrey-el-frente-femenino-que-rescata-la-biodiversidad-del-alto-golfo-32146035",
+        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+      },
       {
         "title": "Sonora suma 48 muertes por rickettsia en lo que va del año",
         "summary": "Enfermedad transmitida por garrapatas registra 48 defunciones en el estado.",
@@ -109,5 +193,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-19T00:29:03.599438-07:00"
+  "last_updated": "2026-09-19T11:25:12.707341-07:00"
 }
