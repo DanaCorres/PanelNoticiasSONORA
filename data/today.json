@@ -1,8 +1,36 @@
 {
   "date": "2026-09-19",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Policía recupera 41 vehículos robados en operativos",
+        "summary": "Autoridades estatales recuperaron 41 automóviles durante operativos de seguridad realizados en diferentes municipios de Sonora.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/19/recupera-policia-estatal-41-vehiculos-robad0s-durante-operativos-en-sonora/",
+        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+      },
+      {
+        "title": "Capturan a 9 presuntos integrantes del Cártel de Sinaloa",
+        "summary": "Autoridades capturaron a nueve individuos presuntamente vinculados con el Cártel de Sinaloa en operativo en Sonora.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/capturan-9-presuntos-integrantes-cartel-sinaloa-n904436",
+        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+      },
+      {
+        "title": "Mujer ingresó 5 mil cartuchos ilegales a Sonora",
+        "summary": "Juez dicta prisión preventiva contra mujer detenida por introducir municiones de forma ilegal al estado.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/juez-vincula-a-proceso-a-mujer-por-ingreso-de-cartuchos/264805",
+        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+      },
+      {
+        "title": "Sentencian a 11 años por agresión grave en Hermosillo",
+        "summary": "Condenado a más de once años de cárcel responsable de ataque que puso en riesgo la vida de una persona.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/19/condenan-a-11-anos-5-meses-y-15-dias-de-prision-al-responsable-de-una-agresion-con-solera-en-hermosillo-que-puso-en-riesgo-la-vida-de-un-hombre/",
+        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+      },
       {
         "title": "Joven detenido por homicidio de primo en Nogales",
         "summary": "Detienen a joven relacionado con muerte de su primo en Nogales; investigan si fue disparo accidental.",
@@ -44,16 +72,23 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/investigan-accidente-en-juego-mecanico-de-feria-en-huatabampo/264756",
         "_added_at": "2026-09-19T00:29:03.599438-07:00"
-      },
-      {
-        "title": "Investigan supuesto retén ilegal en carretera federal 15 Santa Ana",
-        "summary": "Autoridades investigan presencia de retén clandestino en carretera federal a la altura de Santa Ana.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/investigan-supuesto-reten-en-carretera-federal-15-a-la-altura-de-santa-ana-32147984",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum se reúne con gobernadora de Chihuahua",
+        "summary": "Presidenta sostiene encuentro privado con autoridad estatal vecina para tratar temas de cooperación bilateral.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/sheinbaum-sostiene-reunion-privada-gobernadora-chihuahua-n904431",
+        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+      },
+      {
+        "title": "Astiazarán reporta avances en gobierno de Hermosillo",
+        "summary": "Autoridad municipal destaca progreso en acciones gubernamentales con resultados visibles para ciudadanía.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/se-avanza-en-la-h-con-rumbo-y-resultados-tono-astiazaran/",
+        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+      },
       {
         "title": "Anaya y Bours opinan sobre gestión de Astiazarán tras informe",
         "summary": "Líderes políticos fijan postura sobre desempeño del gobernador tras segundo informe de gobierno.",
@@ -91,6 +126,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Cursos de inglés reducen retiros de visas de choferes",
+        "summary": "Canacar reporta que capacitación en idioma disminuye cancelaciones de visas entre transportistas de carga sonorenses.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/19/canacar-reporta-menos-retiros-de-visas-a-choferes-de-carga-de-sonora-tras-cursos-de-ingles-aunque-persisten-casos-por-cabotaje-en-estados-unidos/",
+        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+      },
+      {
+        "title": "Trabajos en Acueducto Malvinas por daños de creciente",
+        "summary": "AguaH continúa reparaciones en infraestructura dañada por crecida del río San Miguel en zona de acueducto.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/19/aguah-mantiene-trabajos-para-reparar-danos-en-el-acueducto-malvinas-tras-creciente-del-rio-san-miguel-cuando-terminan/",
+        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+      },
       {
         "title": "Precio de becerros en Sonora sube 19% por reapertura",
         "summary": "Kilo de becerro alcanza 130 pesos tras apertura comercial con EE.UU.; especialistas advierten cautela.",
@@ -135,6 +184,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora será sede del ENARM 2026 con 9 mil médicos",
+        "summary": "Entidad acogerá examen nacional de aspirantes a especialidades médicas con participación de miles de profesionales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/19/sonora-sera-sede-del-enarm-2026-recibira-a-9-mil-medicas-y-medicos/",
+        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+      },
+      {
+        "title": "Premios Estatal de Juventudes ofrecerá hasta 200 mil",
+        "summary": "Iniciativa estatal reconocerá a jóvenes destacados con estímulos económicos de hasta doscientos mil pesos.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/premio-estatal-de-las-juventudes-en-sonora-ofrecera-hasta-200-mil-pesos-a-jovenes-destacados-32159595",
+        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+      },
+      {
+        "title": "Instalan tanque de agua en secundaria de Nogales",
+        "summary": "Secundaria Técnica 80 reinicia clases tras instalación de cisterna para solucionar crisis de abastecimiento.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/19/instalan-tanque-agua-secundaria-tecnica-80-nogales-reanudar-clases.html",
+        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+      },
       {
         "title": "Niño de 2 años muere ahogado en alberca durante viaje",
         "summary": "Menor fallece tras caer accidentalmente a piscina durante viaje familiar en Sonora.",
@@ -183,15 +253,8 @@
         "source": "Diario del Yaqui",
         "url": "https://diariodelyaqui.mx/ciudadobregon/confirman-5-defunciones-por-dengue-en-el-estado-de-sonora/144047",
         "_added_at": "2026-09-19T00:29:03.599438-07:00"
-      },
-      {
-        "title": "Rescatan 95 animales víctimas de tráfico ilegal",
-        "summary": "Operativos de protección ambiental liberaron fauna silvestre del comercio clandestino.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/rescatan-95-animales-trafico-ilegal-n904373",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-19T11:25:12.707341-07:00"
+  "last_updated": "2026-09-19T16:54:19.824590-07:00"
 }
