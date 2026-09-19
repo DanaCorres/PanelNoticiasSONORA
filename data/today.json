@@ -1,274 +1,113 @@
 {
-  "date": "2026-09-18",
-  "run_count": 3,
+  "date": "2026-09-19",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Fiscalía investiga asalto a adultos mayores en Santa Ana",
-        "summary": "Robo de mil 400 dólares a pareja de ancianos en falso retén. Fiscalía abrió carpeta de investigación tras denuncia en redes sociales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/fiscalia-sonora-investiga-asalto-en-falso-reten-de-santa-ana/264741",
-        "_added_at": "2026-09-18T16:52:59.493545-07:00"
-      },
-      {
-        "title": "Motociclista pierde la vida en accidente en Ciudad Obregón",
-        "summary": "Joven identificado tras fatal accidente en vías de la ciudad. Investigación en curso sobre las causas del siniestro.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/identifican-al-motociclista-que-perdio-la-vida-tras-accidente-en-ciudad-obregon/144002",
-        "_added_at": "2026-09-18T16:52:59.493545-07:00"
-      },
-      {
-        "title": "Fuerzas del orden aseguran casa en Puerto Peñasco",
-        "summary": "Autoridades toman control de sitio de seguridad en localidad sonorense tras intervención.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/18/intervienen-casa-de-seguridad-en-puerto-penasco-y-la-aseguran-confirma-fgje-que-el-lugar-esta-bajo-control/",
-        "_added_at": "2026-09-18T16:52:59.493545-07:00"
-      },
-      {
-        "title": "Sonora registra cinco muertes por dengue",
-        "summary": "Mil 176 casos confirmados de dengue en Sonora con cinco defunciones en Hermosillo, Guaymas y Ciudad Obregón.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/18/sonora-vive-un-ano-record-de-dengue-con-mil-176-casos-y-cinco-muertes-confirmadas-en-hermosillo-guaymas-y-ciudad-obregon/",
-        "_added_at": "2026-09-18T11:52:15.906527-07:00"
-      },
-      {
-        "title": "Motociclista muere en accidente en Ciudad Obregón",
-        "summary": "Joven pierda la vida tras accidente vial en Ciudad Obregón, identificado tras el incidente.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyajui.mx/ciudadobregon/identifican-al-motociclista-que-perdio-la-vida-tras-accidente-en-ciudad-obregon/144002",
-        "_added_at": "2026-09-18T11:52:15.906527-07:00"
-      },
-      {
-        "title": "Operación Águila Alta decomisa cuatro drones fronterizos",
-        "summary": "Avanza operativo de seguridad en frontera sonorense con decomiso de drones utilizados para narcotráfico.",
+        "title": "Vinculan a proceso a presunto feminicida de Claudia Tacoronte",
+        "summary": "Autoridades formalizaron acusación contra sospechoso del feminicidio de Claudia Tacoronte en Sonora.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/cuatro-drones-menos-frontera-asi-avanza-operacion-aguila-alta-n904261",
-        "_added_at": "2026-09-18T11:52:15.906527-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/vinculan-proceso-presunto-feminicida-claudia-tacoronte-n904390",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       },
       {
-        "title": "Vinculan a proceso en caso asesinato Carlos Manzo",
-        "summary": "Autoridades vinculan a procesado en homicidio de Carlos Manzo; Grecia Quiroz exige pena ejemplar.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/18/grecia-quiroz-exige-pena-ejemplar-tras-vinculado-a-proceso-en-ases1-nato-de-carlos-manzo/",
-        "_added_at": "2026-09-18T11:52:15.906527-07:00"
-      },
-      {
-        "title": "Joven vinculado a proceso por homicidio en Nogales",
-        "summary": "Autoridades procesaron a Manuel N por el asesinato de su primo con prisión preventiva tras pruebas presentadas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/procesan-a-joven-por-asesinato-de-primo-en-nogales/264697",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
-      },
-      {
-        "title": "Detenciones de estadounidenses en San Luis Río Colorado",
-        "summary": "La frontera de San Luis registra cifras destacadas de detenciones de ciudadanos estadounidenses.",
+        "title": "Operativo en Puerto Peñasco detiene a sospechosos y asegura armas",
+        "summary": "Fuerzas de seguridad realizaron operativo en Puerto Peñasco con detenciones y decomiso de armas.",
         "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/san-luis-rio-colorado-destaca-por-detenciones-de-estadounidenses-en-la-frontera-32131921",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/operativo-en-puerto-penasco-deja-detenidos-y-armas-aseguradas-32149425",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       },
       {
-        "title": "Denuncia presunto abuso a menor en guardería",
-        "summary": "Madre interpone denuncia por supuesto abuso de su hija dentro de guardería sonorense.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/madre-denuncia-presunto-abuso-su-hija-guarderia-n904209",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
+        "title": "FGJE investiga accidente en juego mecánico de feria en Huatabampo",
+        "summary": "Mujer de 34 años herida por falla mecánica en atracción de feria, hospitalizada con lesiones graves.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/investigan-accidente-en-juego-mecanico-de-feria-en-huatabampo/264756",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
+      },
+      {
+        "title": "Investigan supuesto retén ilegal en carretera federal 15 Santa Ana",
+        "summary": "Autoridades investigan presencia de retén clandestino en carretera federal a la altura de Santa Ana.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/investigan-supuesto-reten-en-carretera-federal-15-a-la-altura-de-santa-ana-32147984",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Astiazarán anuncia primer Centro de Neurodesarrollo en Hermosillo",
-        "summary": "Candidato presidencial presenta nueva infraestructura municipal dedicada a atención especializada neurológica infantil.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/18/anuncia-tono-astiazaran-primer-centro-municipal-de-neurodesarrollo-en-hermosillo/",
-        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+        "title": "PAN analiza alianzas políticas rumbo a elecciones 2027 en Sonora",
+        "summary": "Partido Acción Nacional negocia posibles coaliciones para comicios del 2027 en Sonora.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/partido-accion-nacional-sigue-en-platicas-con-posibles-alianzas-para-el-2027-incluyendo-sonora-32148354",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       },
       {
-        "title": "Morena mantiene resultado electoral en secreto en Sonora",
-        "summary": "Judith Armenta afirma que partido ya tiene resultados pero aún no los divulga públicamente tras encuestas.",
+        "title": "Ricardo Anaya respalda a Astiazarán rumbo al 2027",
+        "summary": "Anaya expresa respaldo al gobernador Astiazarán para próximas elecciones presidenciales.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/ricardo-anaya-respalda-astiazaran-rumbo-2027-n904377",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
+      },
+      {
+        "title": "Congreso de Sonora analiza regulación de anexos y adopciones",
+        "summary": "Legislatura sonorense turnó a comisiones iniciativas para regular centros de adicciones y adopciones.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/morena-sonora-por-que-aun-no-se-conoce-el-resultado/264740",
-        "_added_at": "2026-09-18T16:52:59.493545-07:00"
-      },
-      {
-        "title": "Aspirantes de Morena rechazan ruptura interna en Sonora",
-        "summary": "Seis candidatos permanecen en proceso de selección. Afirman no abandonarán contienda si no resultan designados.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/18/rechazan-ruptura-interna-aspirantes-de-morena-a-gubernatura-de-sonora-no-abandonaremos-contienda-ni-buscaremos-otro-proyecto-si-no-somos-designados-afirman/",
-        "_added_at": "2026-09-18T16:52:59.493545-07:00"
-      },
-      {
-        "title": "Diputada impulsa Día de Muertos como descanso obligatorio",
-        "summary": "Alicia Gaytán promueve reforma para que Día de Muertos sea día feriado oficial en Sonora.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/18/diputada-alicia-gaytan-impulsa-que-el-dia-de-muertos-sea-dia-de-descanso-obligatorio/",
-        "_added_at": "2026-09-18T11:52:15.906527-07:00"
-      },
-      {
-        "title": "Durazo impulsa modernización puerto de Guaymas",
-        "summary": "Gobierno invierte 130 mil millones para ampliar y modernizar puerto, mejorando capacidad logística.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/transforma-durazo-puerto-de-guaymas/264711",
-        "_added_at": "2026-09-18T11:52:15.906527-07:00"
-      },
-      {
-        "title": "San José Sánchez del Río elevado a parroquia",
-        "summary": "Comunidad en Nogales avanza a nueva etapa con elevación religiosa y atención sacerdotal permanente.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/18/san-jose-sanchez-rio-sera-parroquia-tendra-atencion-sacerdotal-permanente.html",
-        "_added_at": "2026-09-18T11:52:15.906527-07:00"
-      },
-      {
-        "title": "Congreso reconoce avances del Quinto Informe gubernamental",
-        "summary": "Legislatura sonorense valida logros y subraya desafíos pendientes en gobierno estatal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/reconoce-congreso-avances-y-retos-tras-quinto-informe/264683",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
-      },
-      {
-        "title": "Convocan a participar en consejos electorales de Sonora",
-        "summary": "Autoridades electorales invitan a ciudadanía a integrar órganos colegiados locales.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/invitan-a-integrar-consejos-electorales-en-sonora/",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
-      },
-      {
-        "title": "Proponen descanso obligatorio el Día de Muertos",
-        "summary": "Iniciativa busca que el Día de Muertos sea jornada laboral de descanso obligatorio.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/proponen-descanso-obligatorio-el-dia-de-muertos/",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/buscan-regular-anexos-y-fortalecer-apoyos-al-campo-en-sonora/264763",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Wasapraka exige información sobre Fideicomiso Río Colorado",
-        "summary": "Organización ciudadana en San Luis Río Colorado solicita transparencia estatal sobre manejo de recursos hídricos fronterizos.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/wasapraka-exhorta-al-estado-para-que-brinde-informacion-del-fideicomiso-rio-colorado-32132698",
-        "_added_at": "2026-09-18T16:52:59.493545-07:00"
-      },
-      {
-        "title": "Gestión de recursos para renovación Hospital Ocaranza",
-        "summary": "Iniciativa en búsqueda de financiamiento para modernización y mejora de infraestructura hospitalaria estatal.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/van-recursos-renovar-hospital-ocaranza-n904349",
-        "_added_at": "2026-09-18T16:52:59.493545-07:00"
-      },
-      {
-        "title": "Viajeros sonorenses podrían pagar más por vuelos",
-        "summary": "Posible incremento en tarifas aéreas en 2027 si aerolíneas trasladan aumento de costos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/18/viajeros-de-sonora-podrian-pagar-mas-por-volar-en-2027-si-aerolineas-trasladan-el-alza-de-10-mientras-hermosillo-amplia-su-conectividad-aerea/",
-        "_added_at": "2026-09-18T11:52:15.906527-07:00"
-      },
-      {
-        "title": "Astiazarán impulsa emprendimiento e innovación local",
-        "summary": "Gobierno promueve apoyos para emprendedores sonorenses en innovación y desarrollo empresarial.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/impulsara-tono-astiazaran-a-emprendedores-en-innovacion/",
-        "_added_at": "2026-09-18T11:52:15.906527-07:00"
-      },
-      {
-        "title": "Infraestructura impulsa empleo regional en Sonora",
-        "summary": "Inversión en obras conectividad mejora actividades productivas y acceso a servicios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-resalta-obras-de-infraestructura-en-sonora/264700",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
-      },
-      {
-        "title": "Puerto de Guaymas se transforma en plataforma logística regional",
-        "summary": "Instalación portuaria se posiciona como eje comercial del noroeste mexicano.",
+        "title": "Regularización patrimonial entrega 39 mil escrituras en Sonora",
+        "summary": "Gobierno federal entregó más de 39 mil escrituras en programa de regularización patrimonial sonorense.",
         "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/puerto-de-guaymas-se-transforma-en-la-plataforma-logistica-y-comercial-del-noroeste-del-pais/",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
+        "url": "https://www.radiosonora.com.mx/durazo-y-sheinbaum-hacen-realidad-la-regularizacion-patrimonial-en-sonora-con-entrega-de-mas-de-39-mil-escrituras/",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       },
       {
-        "title": "Invierten 1,800 millones en carretera Sonoyta-Puerto Peñasco",
-        "summary": "Presupuesto se cuadruplica para renovación vial estratégica hacia la costa sonorense.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/incrementan-inversion-de-450-a-1-800-millones-de-pesos-renuevan-carretera-sonoyta-puerto-penasco-32131710",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
+        "title": "Colapso comercial en Centro Hermosillo: 70 locales cerrados",
+        "summary": "Comercio en zona céntrica sufre crisis con cierre de 70 establecimientos.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/negocios/cae-comercio-centro-70-locales-cerrados-n904375",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       },
       {
-        "title": "Productores entusiastas previo a Ruta del Dátil",
-        "summary": "Agricultores locales de San Luis muestran optimismo ante próxima celebración turística.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/productores-locales-muestran-entusiasmo-a-pocas-semanas-de-la-celebracion-de-la-ruta-del-datil-32131693",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
+        "title": "Demanda de molderos para proyectos habitacionales en Hermosillo",
+        "summary": "Sector de vivienda busca contratación de molderos para proyectos en construcción.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/hay-trabajo-buscan-molderos-viviendas-hermosillo-n904385",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Plantarán 13 mil árboles en Cerro de la Cementera",
-        "summary": "Hermosillo participa en jornada de reforestación nacional 2026 con importante proyecto ambiental comunitario.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/jornada-de-reforestacion-nacional-2026-en-hermosillo-plantaran-13-mil-arboles-en-el-cerro-de-la-cementera-31496106",
-        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+        "title": "Sonora suma 48 muertes por rickettsia en lo que va del año",
+        "summary": "Enfermedad transmitida por garrapatas registra 48 defunciones en el estado.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/suma-el-estado-de-sonora-48-defunciones-por-rickettsia/144046",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       },
       {
-        "title": "Unison Nogales celebra 22 años con jornada cultural",
-        "summary": "Universidad del estado conmemora aniversario con actividades artísticas, musicales y de talento universitario.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/18/unison-nogales-celebra-22-anos-arte-musica-talento-universitario.html",
-        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+        "title": "Sonora alcanza 28 muertes por golpe de calor",
+        "summary": "Incrementan decesos por insolación y altas temperaturas en territorio sonorense.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/llega-estado-de-sonora-a-28-muertes-por-golpe-de-calor/144048",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       },
       {
-        "title": "Hike Macabro organiza expedición benéfica en Nogales",
-        "summary": "Actividad con causa destinada a recabar recursos para alimentación de perros callejeros locales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/18/hike-macabro-invita-expedicion-causa-nogales-alimentar-perros-callejeros.html",
-        "_added_at": "2026-09-18T16:52:59.493545-07:00"
+        "title": "Confirman 5 fallecidos por dengue en estado de Sonora",
+        "summary": "Autoridades sanitarias reportan defunciones por virus del dengue en Sonora.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/confirman-5-defunciones-por-dengue-en-el-estado-de-sonora/144047",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       },
       {
-        "title": "Radio Sonora cumple 44 años con celebración cultural",
-        "summary": "Estación radiofónica prepara mes especial con música, cultura y actividades tradicionales para conmemoración.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/cultura/radio-sonora-cumple-44-anos-y-prepara-un-mes-lleno-de-musica-cultura-y-tradicion-32136170",
-        "_added_at": "2026-09-18T16:52:59.493545-07:00"
-      },
-      {
-        "title": "Ciclón tropical traería lluvias a Sonora próximas semanas",
-        "summary": "Expertos vigilan posible disturbio tropical en Golfo de California para últimas semanas de septiembre.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/ciclon-en-el-golfo-de-california-traera-lluvias-a-sonora/264716",
-        "_added_at": "2026-09-18T11:52:15.906527-07:00"
-      },
-      {
-        "title": "Bomberos retiran basura tras lluvias en Hermosillo",
-        "summary": "Limpieza de parrillas pluviales tras precipitaciones; se retira tonelada de azolve y residuos.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/retiran-una-tonelada-de-azolve-y-basura-de-parrillas-pluviales-tras-recientes-lluvias/",
-        "_added_at": "2026-09-18T11:52:15.906527-07:00"
-      },
-      {
-        "title": "Nogales reporta saldo blanco en Fiestas Patrias",
-        "summary": "Celebración de Independencia transcurre sin incidentes en Nogales; comunidad participó activamente.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/18/nogales-reporta-saldo-blanco-fiestas-patrias-2026-agradece-comunidad.html",
-        "_added_at": "2026-09-18T11:52:15.906527-07:00"
-      },
-      {
-        "title": "Lluvias dejan deslaves y viviendas afectadas en Guaymas",
-        "summary": "Temporal causa arroyos crecidos, deslaves y daños habitacionales en la zona costera.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/lluvias-dejan-deslaves-arroyos-crecidos-y-viviendas-afectadas-en-guaymas-y-empalme-32111496",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
-      },
-      {
-        "title": "Hermosillo enfrenta crisis de islas de calor urbano",
-        "summary": "Capital sonorense sufre temperaturas extremas por concentración de zonas sin vegetación.",
+        "title": "Rescatan 95 animales víctimas de tráfico ilegal",
+        "summary": "Operativos de protección ambiental liberaron fauna silvestre del comercio clandestino.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/las-islas-calor-asfixian-hermosillo-n904216",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
-      },
-      {
-        "title": "Refuerzan enseñanza de matemáticas y español en secundarias",
-        "summary": "Gobierno estatal implementa programa para fortalecer estas disciplinas fundamentales.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/refuerzan-matematicas-espanol-secundarias-sonora-n904211",
-        "_added_at": "2026-09-18T00:33:34.985590-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/rescatan-95-animales-trafico-ilegal-n904373",
+        "_added_at": "2026-09-19T00:29:03.599438-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-18T16:52:59.493545-07:00"
+  "last_updated": "2026-09-19T00:29:03.599438-07:00"
 }
