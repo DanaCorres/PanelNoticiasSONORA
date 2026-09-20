@@ -1,8 +1,29 @@
 {
   "date": "2026-09-20",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Muere agente de AMIC por disparo en Hermosillo",
+        "summary": "Agente fallece por herida de arma de fuego en su domicilio en la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/20/muere-agente-de-amic-por-disparo-de-arma-de-fuego-en-su-domicilio-en-hermosillo/",
+        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+      },
+      {
+        "title": "Denuncian extorsión en retén de Santa Ana",
+        "summary": "Viajero acusa a presuntos agentes de extorsión; Fiscalía abre investigación.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/20/viajero-denuncia-extorsion-de-presuntos-agentes-en-reten-de-santa-ana-sonora-fiscalia-inicia-investigacion/",
+        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+      },
+      {
+        "title": "Choque deja cuatro heridos en Miguel Alemán",
+        "summary": "Accidente vehicular en la comisaría genera cuatro personas lesionadas.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/deja-fuerte-choque-cuatro-heridos-en-la-comisaria-miguel-aleman/",
+        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+      },
       {
         "title": "Sonora: 93.5% de delitos no se denuncian formalmente",
         "summary": "Estudio del Inegi revela cifra negra récord en delitos sonorenses, con apenas 6.5% de denuncias y 5.4% con carpeta de investigación.",
@@ -51,16 +72,23 @@
         "source": "Entorno Informativo",
         "url": "https://entornoinformativo.com.mx/vinculan-a-proceso-a-presunto-agresor-sexual-en-agua-prieta/",
         "_added_at": "2026-09-20T00:53:02.289502-07:00"
-      },
-      {
-        "title": "Prisión preventiva en feminicidio de estudiante",
-        "summary": "Ordenan prisión preventiva para acusado del feminicidio de Karla Margarita en Ciudad Obregón.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/nacional/prision-preventiva-para-eduardo-isaac-n-acusado-del-feminicidio-de-la-estudiante-karla-margarita/144099",
-        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Intervención policial obligatoria en violencia intrafamiliar",
+        "summary": "Corporaciones policiales actuarán de oficio ante reportes de violencia doméstica.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/intervendran-corporaciones-policiales-de-oficio-ante-reportes-de-violencia-intrafamiliar-en-sonora/",
+        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+      },
+      {
+        "title": "Sonora participa en Segundo Simulacro Nacional",
+        "summary": "Estado registra participación de 214 mil 774 personas en ejercicio de protección civil.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/participa-sonora-en-segundo-simulacro-nacional-con-un-registro-de-214-mil-774-personas/",
+        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+      },
       {
         "title": "Maru Campos se reúne con Sheinbaum",
         "summary": "Gobernadora de Sonora sostiene encuentro considerado necesario con presidenta nacional.",
@@ -77,6 +105,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Servicios subrogados superan 300 millones de pesos",
+        "summary": "Ocaranza rebasa los 300 mdp en gastos de servicios subcontratados.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/ocaranza-rebasa-300-mdp-servicios-subrogados-n904516",
+        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+      },
       {
         "title": "Sonora sede nacional para examen de residencias médicas",
         "summary": "Llegarán 9 mil aspirantes a Sonora como una de cinco sedes del examen nacional de especialidades.",
@@ -107,6 +142,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora cuarto lugar con menor rezago educativo",
+        "summary": "Estado avanza pero registra aún 470 mil personas sin educación básica completa.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/20/sonora-ocupa-el-cuarto-lugar-nacional-con-menor-rezago-educativo-y-suma-470-mil-personas-sin-concluir-la-educacion-basica/",
+        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+      },
+      {
+        "title": "Prepa aclara caso discriminación a estudiante invidente",
+        "summary": "Institución educativa responde sobre presunta discriminación de docente a alumno con discapacidad visual.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/hermosillo/prepa-de-sonora-responde-por-presunta-discriminacion-de-maestro-a-estudiante-con-discapacidad-visual/144118",
+        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+      },
+      {
+        "title": "Adultos mayores continúan estudios en Sonora",
+        "summary": "Personas de tercera edad participan en programas educativos estatales.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/aprender-no-tiene-edad-los-adultos-mayores-siguen-estudiando-en-sonora-31786326",
+        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+      },
+      {
+        "title": "Payaso sorprende a niña sin invitados en Guaymas",
+        "summary": "Artista llega sorpresivamente a cumpleaños de menor que no tuvo asistentes.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/payaso-alegra-a-nina-que-nadie-fue-a-su-cumpleanos-en-guaymas/264838",
+        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+      },
       {
         "title": "470 mil sonorenses enfrentan rezago educativo",
         "summary": "Gran proporción de población estatal presenta atraso significativo en nivel de escolaridad.",
@@ -148,22 +211,8 @@
         "source": "Diario del Yaqui",
         "url": "https://diariodelyaqui.mx/ciudadobregon/arranca-hoy-en-obregon-semana-nacional-de-vacunacion-antirrabica-canina-y-felina-2026/144096",
         "_added_at": "2026-09-20T00:53:02.289502-07:00"
-      },
-      {
-        "title": "UNISON identifica islas de calor en Hermosillo",
-        "summary": "Investigadores universitarios detectan zonas de temperaturas anormalmente elevadas en capital.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/investigadores-de-unison-identifican-islas-de-calor-en-hermosillo/",
-        "_added_at": "2026-09-20T00:53:02.289502-07:00"
-      },
-      {
-        "title": "Grúa se vuelca aparatosamente en San Carlos",
-        "summary": "Accidente vial importante reportado con maquinaria pesada en puerto turístico.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/protagoniza-enorme-grua-aparatoso-volcamiento-en-san-carlos/",
-        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-20T11:29:02.244266-07:00"
+  "last_updated": "2026-09-20T16:50:55.006970-07:00"
 }
