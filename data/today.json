@@ -1,8 +1,36 @@
 {
   "date": "2026-09-20",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sonora: 93.5% de delitos no se denuncian formalmente",
+        "summary": "Estudio del Inegi revela cifra negra récord en delitos sonorenses, con apenas 6.5% de denuncias y 5.4% con carpeta de investigación.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/20/en-sonora-solo-65-de-cada-100-delitos-se-denuncian-y-935-queda-sin-denuncia-formal-segun-el-inegi/",
+        "_added_at": "2026-09-20T11:29:02.244266-07:00"
+      },
+      {
+        "title": "Policías aseguran a sujetos con arma y droga en operativo",
+        "summary": "Agentes municipales detienen a dos individuos portando arma de fuego y sustancias ilícitas.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/agentes-de-la-policia-municipal-aseguran-a-dos-sujetos-con-arma-y-droga/",
+        "_added_at": "2026-09-20T11:29:02.244266-07:00"
+      },
+      {
+        "title": "Detienen a joven por amenazar con cuchillo a primo",
+        "summary": "Capturan a menor tras amenaza de muerte en Costa de Hermosillo con arma blanca.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/20/detienen-a-joven-tras-amenazar-de-muerte-con-un-cuchillo-a-su-primo-en-costa-de-hermosillo/",
+        "_added_at": "2026-09-20T11:29:02.244266-07:00"
+      },
+      {
+        "title": "Autoridades intervendrán de oficio en violencia intrafamiliar",
+        "summary": "Corporaciones policiales tendrán facultad para actuar sin denuncia ante reportes de violencia doméstica.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/intervendran-corporaciones-policiales-de-oficio-ante-reportes-de-violencia-intrafamiliar-en-sonora/",
+        "_added_at": "2026-09-20T11:29:02.244266-07:00"
+      },
       {
         "title": "Hombre asesinado a balazos en Cajeme",
         "summary": "Reportan homicidio por arma de fuego en municipio de Cajeme, Sonora.",
@@ -50,6 +78,20 @@
     ],
     "economia": [
       {
+        "title": "Sonora sede nacional para examen de residencias médicas",
+        "summary": "Llegarán 9 mil aspirantes a Sonora como una de cinco sedes del examen nacional de especialidades.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/llegaran-nueve-mil-aspirantes-a-residencias-medicas/264821",
+        "_added_at": "2026-09-20T11:29:02.244266-07:00"
+      },
+      {
+        "title": "Ventas de comercio repuntan en agosto",
+        "summary": "Asociación Nacional muestra recuperación en transacciones comerciales durante mes anterior.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/20/ventas-de-la-antad-repuntan-en-agosto/",
+        "_added_at": "2026-09-20T11:29:02.244266-07:00"
+      },
+      {
         "title": "Micro pymes generan 70% del empleo sonorense",
         "summary": "Lorenia Valles destaca que pequeñas empresas representan 97.7% de unidades económicas en estado.",
         "source": "Expreso",
@@ -65,6 +107,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "470 mil sonorenses enfrentan rezago educativo",
+        "summary": "Gran proporción de población estatal presenta atraso significativo en nivel de escolaridad.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/hay-470-mil-sonorenses-rezago-educativo-n904462",
+        "_added_at": "2026-09-20T11:29:02.244266-07:00"
+      },
+      {
+        "title": "Hermosillenses piden más simulacros de emergencia",
+        "summary": "Ciudadanía y comercios demandan mayor capacitación y ejercicios de prevención ante desastres.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/20/hermosillenses-piden-mas-simulacros-para-aprender-a-reaccionar-ante-emergencias-y-senalan-que-comercios-y-ciudadanos-necesitan-mayor-capacitacion-para-saber-como-actuar/",
+        "_added_at": "2026-09-20T11:29:02.244266-07:00"
+      },
+      {
+        "title": "Octubre: mes de prevención del cáncer",
+        "summary": "Autoridades sanitarias promocionan conciencia y detección temprana de enfermedades neoplásicas.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/octubre-llama-prevenir-cancer-n904464",
+        "_added_at": "2026-09-20T11:29:02.244266-07:00"
+      },
+      {
+        "title": "Banquetas en Hermosillo en mal estado comprometen seguridad",
+        "summary": "Infraestructura peatonal deficiente dificulta y pone en riesgo la movilidad de ciudadanos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/20/y-las-banquetas-caminar-en-hermosillo-es-un-reto/",
+        "_added_at": "2026-09-20T11:29:02.244266-07:00"
+      },
       {
         "title": "Sonora sede de ENARM para nueve mil aspirantes",
         "summary": "Estado será una de cinco sedes nacionales para examen de residencias médicas en 2026.",
@@ -95,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-20T00:53:02.289502-07:00"
+  "last_updated": "2026-09-20T11:29:02.244266-07:00"
 }
