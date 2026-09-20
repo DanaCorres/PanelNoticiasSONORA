@@ -1,260 +1,99 @@
 {
-  "date": "2026-09-19",
-  "run_count": 3,
+  "date": "2026-09-20",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Policía recupera 41 vehículos robados en operativos",
-        "summary": "Autoridades estatales recuperaron 41 automóviles durante operativos de seguridad realizados en diferentes municipios de Sonora.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/19/recupera-policia-estatal-41-vehiculos-robad0s-durante-operativos-en-sonora/",
-        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+        "title": "Hombre asesinado a balazos en Cajeme",
+        "summary": "Reportan homicidio por arma de fuego en municipio de Cajeme, Sonora.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/asesinan-a-balazos-a-hombre-en-cajeme-3/",
+        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       },
       {
-        "title": "Capturan a 9 presuntos integrantes del Cártel de Sinaloa",
-        "summary": "Autoridades capturaron a nueve individuos presuntamente vinculados con el Cártel de Sinaloa en operativo en Sonora.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/capturan-9-presuntos-integrantes-cartel-sinaloa-n904436",
-        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+        "title": "Capturan narcomenudista en Hermosillo",
+        "summary": "Detienen a persona dedicada al tráfico de drogas en colonia Mirasoles de Hermosillo.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/capturan-a-narcomenudista-en-la-colonia-mirasoles/",
+        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       },
       {
-        "title": "Mujer ingresó 5 mil cartuchos ilegales a Sonora",
-        "summary": "Juez dicta prisión preventiva contra mujer detenida por introducir municiones de forma ilegal al estado.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/juez-vincula-a-proceso-a-mujer-por-ingreso-de-cartuchos/264805",
-        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+        "title": "Vinculan a proceso por agresión sexual en Agua Prieta",
+        "summary": "Presunto agresor sexual es vinculado a proceso judicial en Agua Prieta.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/vinculan-a-proceso-a-presunto-agresor-sexual-en-agua-prieta/",
+        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       },
       {
-        "title": "Sentencian a 11 años por agresión grave en Hermosillo",
-        "summary": "Condenado a más de once años de cárcel responsable de ataque que puso en riesgo la vida de una persona.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/19/condenan-a-11-anos-5-meses-y-15-dias-de-prision-al-responsable-de-una-agresion-con-solera-en-hermosillo-que-puso-en-riesgo-la-vida-de-un-hombre/",
-        "_added_at": "2026-09-19T16:54:19.824590-07:00"
-      },
-      {
-        "title": "Joven detenido por homicidio de primo en Nogales",
-        "summary": "Detienen a joven relacionado con muerte de su primo en Nogales; investigan si fue disparo accidental.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/19/detienen-joven-homicidio-su-primo-nogales-investigan-supuesto-disparo-perdido.html",
-        "_added_at": "2026-09-19T11:25:12.707341-07:00"
-      },
-      {
-        "title": "Consulado EU coordina seguridad con autoridades de Hermosillo",
-        "summary": "Consulado estadounidense mantiene coordinación permanente en temas de seguridad con municipio hermosillense.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/consulado-de-eu-mantendra-coordinacion-con-hermosillo-en-materia-de-seguridad-32147855",
-        "_added_at": "2026-09-19T11:25:12.707341-07:00"
-      },
-      {
-        "title": "Aseguran armas y drogas en operativo de Hacienda de la Flor",
-        "summary": "Operativo en Hacienda de la Flor resulta en aseguramiento de armas, cartuchos y sustancias ilícitas.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/19/aseguran-arm4-cartuchos-y-sustancias-ilicitas-a-dos-sujetos-en-hacienda-de-la-flor/",
-        "_added_at": "2026-09-19T11:25:12.707341-07:00"
-      },
-      {
-        "title": "Vinculan a proceso a presunto feminicida de Claudia Tacoronte",
-        "summary": "Autoridades formalizaron acusación contra sospechoso del feminicidio de Claudia Tacoronte en Sonora.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/vinculan-proceso-presunto-feminicida-claudia-tacoronte-n904390",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
-      },
-      {
-        "title": "Operativo en Puerto Peñasco detiene a sospechosos y asegura armas",
-        "summary": "Fuerzas de seguridad realizaron operativo en Puerto Peñasco con detenciones y decomiso de armas.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/policiaca/operativo-en-puerto-penasco-deja-detenidos-y-armas-aseguradas-32149425",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
-      },
-      {
-        "title": "FGJE investiga accidente en juego mecánico de feria en Huatabampo",
-        "summary": "Mujer de 34 años herida por falla mecánica en atracción de feria, hospitalizada con lesiones graves.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/investigan-accidente-en-juego-mecanico-de-feria-en-huatabampo/264756",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
+        "title": "Prisión preventiva en feminicidio de estudiante",
+        "summary": "Ordenan prisión preventiva para acusado del feminicidio de Karla Margarita en Ciudad Obregón.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/nacional/prision-preventiva-para-eduardo-isaac-n-acusado-del-feminicidio-de-la-estudiante-karla-margarita/144099",
+        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Sheinbaum se reúne con gobernadora de Chihuahua",
-        "summary": "Presidenta sostiene encuentro privado con autoridad estatal vecina para tratar temas de cooperación bilateral.",
+        "title": "Maru Campos se reúne con Sheinbaum",
+        "summary": "Gobernadora de Sonora sostiene encuentro considerado necesario con presidenta nacional.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/sheinbaum-sostiene-reunion-privada-gobernadora-chihuahua-n904431",
-        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+        "url": "https://www.uniradiosonora.com/gobierno/era-encuentro-necesario-maru-campos-tras-reunion-sheinbaum-n904442",
+        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       },
       {
-        "title": "Astiazarán reporta avances en gobierno de Hermosillo",
-        "summary": "Autoridad municipal destaca progreso en acciones gubernamentales con resultados visibles para ciudadanía.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/se-avanza-en-la-h-con-rumbo-y-resultados-tono-astiazaran/",
-        "_added_at": "2026-09-19T16:54:19.824590-07:00"
-      },
-      {
-        "title": "Anaya y Bours opinan sobre gestión de Astiazarán tras informe",
-        "summary": "Líderes políticos fijan postura sobre desempeño del gobernador tras segundo informe de gobierno.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ricardo-anaya-y-ricardo-bours-fijan-posturas-sobre-trabajo-de-astiazaran-tras-su-segundo-informe-32149136",
-        "_added_at": "2026-09-19T11:25:12.707341-07:00"
-      },
-      {
-        "title": "Nación Tohono O'odham mantiene apelación por muro fronterizo",
-        "summary": "Comunidad indígena continúa batalla legal para frenar construcción de muro en tierras ancestrales de Sonora.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/09/19/nacion-tohono-oodham-mantiene-apelacion-ante-corte-de-eeuu-para-intentar-frenar-las-obras-del-muro-fronterizo-entre-sonora-y-arizona-a-dias-de-una-fecha-clave-en-la-defensa-legal-de-sus-tierras-ancestrales/",
-        "_added_at": "2026-09-19T11:25:12.707341-07:00"
-      },
-      {
-        "title": "PAN analiza alianzas políticas rumbo a elecciones 2027 en Sonora",
-        "summary": "Partido Acción Nacional negocia posibles coaliciones para comicios del 2027 en Sonora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/partido-accion-nacional-sigue-en-platicas-con-posibles-alianzas-para-el-2027-incluyendo-sonora-32148354",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
-      },
-      {
-        "title": "Ricardo Anaya respalda a Astiazarán rumbo al 2027",
-        "summary": "Anaya expresa respaldo al gobernador Astiazarán para próximas elecciones presidenciales.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/ricardo-anaya-respalda-astiazaran-rumbo-2027-n904377",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
-      },
-      {
-        "title": "Congreso de Sonora analiza regulación de anexos y adopciones",
-        "summary": "Legislatura sonorense turnó a comisiones iniciativas para regular centros de adicciones y adopciones.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/buscan-regular-anexos-y-fortalecer-apoyos-al-campo-en-sonora/264763",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
+        "title": "Nombramientos en dirigencia del PRD Cajeme",
+        "summary": "Se anuncian nuevos dirigentes del Partido de la Revolución Democrática en municipio.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/dan-nombramientos-a-dirigentes-del-prd-en-cajeme/144091",
+        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Cursos de inglés reducen retiros de visas de choferes",
-        "summary": "Canacar reporta que capacitación en idioma disminuye cancelaciones de visas entre transportistas de carga sonorenses.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/19/canacar-reporta-menos-retiros-de-visas-a-choferes-de-carga-de-sonora-tras-cursos-de-ingles-aunque-persisten-casos-por-cabotaje-en-estados-unidos/",
-        "_added_at": "2026-09-19T16:54:19.824590-07:00"
-      },
-      {
-        "title": "Trabajos en Acueducto Malvinas por daños de creciente",
-        "summary": "AguaH continúa reparaciones en infraestructura dañada por crecida del río San Miguel en zona de acueducto.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/19/aguah-mantiene-trabajos-para-reparar-danos-en-el-acueducto-malvinas-tras-creciente-del-rio-san-miguel-cuando-terminan/",
-        "_added_at": "2026-09-19T16:54:19.824590-07:00"
-      },
-      {
-        "title": "Precio de becerros en Sonora sube 19% por reapertura",
-        "summary": "Kilo de becerro alcanza 130 pesos tras apertura comercial con EE.UU.; especialistas advierten cautela.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/19/precio-de-becerros-en-sonora-sube-19-tras-la-reapertura-ganadera-con-eeuu-mientras-la-presion-sobre-el-mercado-nacional-y-los-costos-de-exportacion-ponen-a-prueba-si-el-alza-puede-sostenerse/",
-        "_added_at": "2026-09-19T11:25:12.707341-07:00"
-      },
-      {
-        "title": "Gobierno entrega 39 mil escrituras con certeza jurídica",
-        "summary": "Durazo elimina cobro en Registro Público para facilitar trámites de propiedad sin costo a familias.",
+        "title": "Micro pymes generan 70% del empleo sonorense",
+        "summary": "Lorenia Valles destaca que pequeñas empresas representan 97.7% de unidades económicas en estado.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/alfonso-durazo-entrega-mas-de-39-mil-escrituras/264775",
-        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-reconoce-apoyo-a-micro-pymes/264816",
+        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       },
       {
-        "title": "SIMSA niega ser propietaria de hidrocarburo asegurado",
-        "summary": "Empresa rechaza propiedad sobre 59 millones de litros de combustible incautado por autoridades.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/19/simsa-niega-ser-duena-de-los-59-millones-de-litros-de-hidrocarburo-asegurados/",
-        "_added_at": "2026-09-19T11:25:12.707341-07:00"
-      },
-      {
-        "title": "Regularización patrimonial entrega 39 mil escrituras en Sonora",
-        "summary": "Gobierno federal entregó más de 39 mil escrituras en programa de regularización patrimonial sonorense.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/durazo-y-sheinbaum-hacen-realidad-la-regularizacion-patrimonial-en-sonora-con-entrega-de-mas-de-39-mil-escrituras/",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
-      },
-      {
-        "title": "Colapso comercial en Centro Hermosillo: 70 locales cerrados",
-        "summary": "Comercio en zona céntrica sufre crisis con cierre de 70 establecimientos.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/negocios/cae-comercio-centro-70-locales-cerrados-n904375",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
-      },
-      {
-        "title": "Demanda de molderos para proyectos habitacionales en Hermosillo",
-        "summary": "Sector de vivienda busca contratación de molderos para proyectos en construcción.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/hay-trabajo-buscan-molderos-viviendas-hermosillo-n904385",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
+        "title": "Astiazarán consolida generación de empleo",
+        "summary": "Administración en Hermosillo destaca logros en creación de oportunidades laborales durante gestión.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/consolida-tono-astiazaran-generacion-de-empleo-durante-su-administracion/",
+        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Sonora será sede del ENARM 2026 con 9 mil médicos",
-        "summary": "Entidad acogerá examen nacional de aspirantes a especialidades médicas con participación de miles de profesionales.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/19/sonora-sera-sede-del-enarm-2026-recibira-a-9-mil-medicas-y-medicos/",
-        "_added_at": "2026-09-19T16:54:19.824590-07:00"
+        "title": "Sonora sede de ENARM para nueve mil aspirantes",
+        "summary": "Estado será una de cinco sedes nacionales para examen de residencias médicas en 2026.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/sonora-sera-sede-del-enarm-esperan-a-9-mil-aspirantes-de-medicina/",
+        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       },
       {
-        "title": "Premios Estatal de Juventudes ofrecerá hasta 200 mil",
-        "summary": "Iniciativa estatal reconocerá a jóvenes destacados con estímulos económicos de hasta doscientos mil pesos.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/premio-estatal-de-las-juventudes-en-sonora-ofrecera-hasta-200-mil-pesos-a-jovenes-destacados-32159595",
-        "_added_at": "2026-09-19T16:54:19.824590-07:00"
-      },
-      {
-        "title": "Instalan tanque de agua en secundaria de Nogales",
-        "summary": "Secundaria Técnica 80 reinicia clases tras instalación de cisterna para solucionar crisis de abastecimiento.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/19/instalan-tanque-agua-secundaria-tecnica-80-nogales-reanudar-clases.html",
-        "_added_at": "2026-09-19T16:54:19.824590-07:00"
-      },
-      {
-        "title": "Niño de 2 años muere ahogado en alberca durante viaje",
-        "summary": "Menor fallece tras caer accidentalmente a piscina durante viaje familiar en Sonora.",
+        "title": "Inicia semana de vacunación antirrábica en Obregón",
+        "summary": "Ciudad Obregón da inicio a campaña nacional de vacunación canina y felina contra rabia.",
         "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/muere-nino-de-2-anos-tras-caer-a-una-alberca-durante-un-viaje-familiar-en-sonora/144058",
-        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+        "url": "https://diariodelyaqui.mx/ciudadobregon/arranca-hoy-en-obregon-semana-nacional-de-vacunacion-antirrabica-canina-y-felina-2026/144096",
+        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       },
       {
-        "title": "Dengue en Sonora suma 5 muertes en nuevo reporte",
-        "summary": "Autoridades sanitarias reportan cinco defunciones por dengue aunque reduce casos acumulados.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/19/el-nuevo-reporte-de-dengue-en-sonora-suma-cinco-muertes-pero-reduce-el-acumulado-de-casos-que-significa-el-cambio-en-las-cifras/",
-        "_added_at": "2026-09-19T11:25:12.707341-07:00"
+        "title": "UNISON identifica islas de calor en Hermosillo",
+        "summary": "Investigadores universitarios detectan zonas de temperaturas anormalmente elevadas en capital.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/investigadores-de-unison-identifican-islas-de-calor-en-hermosillo/",
+        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       },
       {
-        "title": "Estudiante con discapacidad visual denuncia burlas de maestro",
-        "summary": "Joven de preparatoria hermosillense reporta acoso escolar por parte de docente.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/tadeo-leal-estudiante-con-discapacidad-visual-denuncia-burlas-de-maestro-en-prepa-de-hermosillo/144061",
-        "_added_at": "2026-09-19T11:25:12.707341-07:00"
-      },
-      {
-        "title": "Mujeres rescatan biodiversidad en Alto Golfo de California",
-        "summary": "Grupo femenino trabaja conservación de especie playero rojizo y pejerrey en área protegida.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/cuidando-al-playero-rojizo-y-al-pejerrey-el-frente-femenino-que-rescata-la-biodiversidad-del-alto-golfo-32146035",
-        "_added_at": "2026-09-19T11:25:12.707341-07:00"
-      },
-      {
-        "title": "Sonora suma 48 muertes por rickettsia en lo que va del año",
-        "summary": "Enfermedad transmitida por garrapatas registra 48 defunciones en el estado.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/suma-el-estado-de-sonora-48-defunciones-por-rickettsia/144046",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
-      },
-      {
-        "title": "Sonora alcanza 28 muertes por golpe de calor",
-        "summary": "Incrementan decesos por insolación y altas temperaturas en territorio sonorense.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/llega-estado-de-sonora-a-28-muertes-por-golpe-de-calor/144048",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
-      },
-      {
-        "title": "Confirman 5 fallecidos por dengue en estado de Sonora",
-        "summary": "Autoridades sanitarias reportan defunciones por virus del dengue en Sonora.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/confirman-5-defunciones-por-dengue-en-el-estado-de-sonora/144047",
-        "_added_at": "2026-09-19T00:29:03.599438-07:00"
+        "title": "Grúa se vuelca aparatosamente en San Carlos",
+        "summary": "Accidente vial importante reportado con maquinaria pesada en puerto turístico.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/protagoniza-enorme-grua-aparatoso-volcamiento-en-san-carlos/",
+        "_added_at": "2026-09-20T00:53:02.289502-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-19T16:54:19.824590-07:00"
+  "last_updated": "2026-09-20T00:53:02.289502-07:00"
 }
