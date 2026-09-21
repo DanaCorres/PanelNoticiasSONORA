@@ -1,218 +1,85 @@
 {
-  "date": "2026-09-20",
-  "run_count": 3,
+  "date": "2026-09-21",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Muere agente de AMIC por disparo en Hermosillo",
-        "summary": "Agente fallece por herida de arma de fuego en su domicilio en la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/20/muere-agente-de-amic-por-disparo-de-arma-de-fuego-en-su-domicilio-en-hermosillo/",
-        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+        "title": "Rescatan a tres personas en operativo contra casa de seguridad",
+        "summary": "Autoridades desmantelan casa de seguridad y liberan a tres personas privadas de la libertad en Sonora.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/revientan-casa-de-seguridad-y-rescatan-a-tres-personas-que-estaban-privadas-de-la-libertad/",
+        "_added_at": "2026-09-21T01:08:12.513049-07:00"
       },
       {
-        "title": "Denuncian extorsión en retén de Santa Ana",
-        "summary": "Viajero acusa a presuntos agentes de extorsión; Fiscalía abre investigación.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/20/viajero-denuncia-extorsion-de-presuntos-agentes-en-reten-de-santa-ana-sonora-fiscalia-inicia-investigacion/",
-        "_added_at": "2026-09-20T16:50:55.006970-07:00"
-      },
-      {
-        "title": "Choque deja cuatro heridos en Miguel Alemán",
-        "summary": "Accidente vehicular en la comisaría genera cuatro personas lesionadas.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/deja-fuerte-choque-cuatro-heridos-en-la-comisaria-miguel-aleman/",
-        "_added_at": "2026-09-20T16:50:55.006970-07:00"
-      },
-      {
-        "title": "Sonora: 93.5% de delitos no se denuncian formalmente",
-        "summary": "Estudio del Inegi revela cifra negra récord en delitos sonorenses, con apenas 6.5% de denuncias y 5.4% con carpeta de investigación.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/20/en-sonora-solo-65-de-cada-100-delitos-se-denuncian-y-935-queda-sin-denuncia-formal-segun-el-inegi/",
-        "_added_at": "2026-09-20T11:29:02.244266-07:00"
-      },
-      {
-        "title": "Policías aseguran a sujetos con arma y droga en operativo",
-        "summary": "Agentes municipales detienen a dos individuos portando arma de fuego y sustancias ilícitas.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/agentes-de-la-policia-municipal-aseguran-a-dos-sujetos-con-arma-y-droga/",
-        "_added_at": "2026-09-20T11:29:02.244266-07:00"
-      },
-      {
-        "title": "Detienen a joven por amenazar con cuchillo a primo",
-        "summary": "Capturan a menor tras amenaza de muerte en Costa de Hermosillo con arma blanca.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/20/detienen-a-joven-tras-amenazar-de-muerte-con-un-cuchillo-a-su-primo-en-costa-de-hermosillo/",
-        "_added_at": "2026-09-20T11:29:02.244266-07:00"
-      },
-      {
-        "title": "Autoridades intervendrán de oficio en violencia intrafamiliar",
-        "summary": "Corporaciones policiales tendrán facultad para actuar sin denuncia ante reportes de violencia doméstica.",
+        "title": "Sonora reduce percepción de inseguridad en 13.37% bajo administración actual",
+        "summary": "Estadísticas muestran disminución significativa en la percepción de inseguridad durante la gestión de Durazo.",
         "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/intervendran-corporaciones-policiales-de-oficio-ante-reportes-de-violencia-intrafamiliar-en-sonora/",
-        "_added_at": "2026-09-20T11:29:02.244266-07:00"
-      },
-      {
-        "title": "Hombre asesinado a balazos en Cajeme",
-        "summary": "Reportan homicidio por arma de fuego en municipio de Cajeme, Sonora.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/asesinan-a-balazos-a-hombre-en-cajeme-3/",
-        "_added_at": "2026-09-20T00:53:02.289502-07:00"
-      },
-      {
-        "title": "Capturan narcomenudista en Hermosillo",
-        "summary": "Detienen a persona dedicada al tráfico de drogas en colonia Mirasoles de Hermosillo.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/capturan-a-narcomenudista-en-la-colonia-mirasoles/",
-        "_added_at": "2026-09-20T00:53:02.289502-07:00"
-      },
-      {
-        "title": "Vinculan a proceso por agresión sexual en Agua Prieta",
-        "summary": "Presunto agresor sexual es vinculado a proceso judicial en Agua Prieta.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/vinculan-a-proceso-a-presunto-agresor-sexual-en-agua-prieta/",
-        "_added_at": "2026-09-20T00:53:02.289502-07:00"
+        "url": "https://www.radiosonora.com.mx/sonora-registra-reduccion-de-13-37-en-percepcion-de-inseguridad-durante-administracion-de-durazo/",
+        "_added_at": "2026-09-21T01:08:12.513049-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Intervención policial obligatoria en violencia intrafamiliar",
-        "summary": "Corporaciones policiales actuarán de oficio ante reportes de violencia doméstica.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/intervendran-corporaciones-policiales-de-oficio-ante-reportes-de-violencia-intrafamiliar-en-sonora/",
-        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+        "title": "Natalia Rivera anuncia nuevo rumbo político tras abandonar Movimiento Ciudadano",
+        "summary": "Excoordinadora estatal de MC en Sonora analiza opciones políticas después de su renuncia al partido.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/las-siglas-van-y-vienen-natalia-rivera-anuncia-su-nuevo-rumbo-politico-en-sonora-32183676",
+        "_added_at": "2026-09-21T01:08:12.513049-07:00"
       },
       {
-        "title": "Sonora participa en Segundo Simulacro Nacional",
-        "summary": "Estado registra participación de 214 mil 774 personas en ejercicio de protección civil.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/participa-sonora-en-segundo-simulacro-nacional-con-un-registro-de-214-mil-774-personas/",
-        "_added_at": "2026-09-20T16:50:55.006970-07:00"
-      },
-      {
-        "title": "Maru Campos se reúne con Sheinbaum",
-        "summary": "Gobernadora de Sonora sostiene encuentro considerado necesario con presidenta nacional.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/era-encuentro-necesario-maru-campos-tras-reunion-sheinbaum-n904442",
-        "_added_at": "2026-09-20T00:53:02.289502-07:00"
-      },
-      {
-        "title": "Nombramientos en dirigencia del PRD Cajeme",
-        "summary": "Se anuncian nuevos dirigentes del Partido de la Revolución Democrática en municipio.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/dan-nombramientos-a-dirigentes-del-prd-en-cajeme/144091",
-        "_added_at": "2026-09-20T00:53:02.289502-07:00"
+        "title": "Flor Ayala abierta a alianza opositora rumbo a elecciones de 2027",
+        "summary": "Actriz considera colaboración con fuerzas de oposición para proceso electoral próximo en Sonora.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/flor-ayala-se-abre-a-una-alianza-opositora-rumbo-a-2027-31917104",
+        "_added_at": "2026-09-21T01:08:12.513049-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Servicios subrogados superan 300 millones de pesos",
-        "summary": "Ocaranza rebasa los 300 mdp en gastos de servicios subcontratados.",
+        "title": "Millones de celulares pierden servicio por vencer plazo de registro",
+        "summary": "Usuarios sonorenses afectados por desactivación de líneas móviles tras cumplimiento de fecha límite.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/ocaranza-rebasa-300-mdp-servicios-subrogados-n904516",
-        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/millones-celulares-quedan-servicio-tras-vencer-plazo-registro-n904522",
+        "_added_at": "2026-09-21T01:08:12.513049-07:00"
       },
       {
-        "title": "Sonora sede nacional para examen de residencias médicas",
-        "summary": "Llegarán 9 mil aspirantes a Sonora como una de cinco sedes del examen nacional de especialidades.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/llegaran-nueve-mil-aspirantes-a-residencias-medicas/264821",
-        "_added_at": "2026-09-20T11:29:02.244266-07:00"
-      },
-      {
-        "title": "Ventas de comercio repuntan en agosto",
-        "summary": "Asociación Nacional muestra recuperación en transacciones comerciales durante mes anterior.",
+        "title": "Tráiler atravesado cierra momentáneamente carretera Internacional",
+        "summary": "Accidente vial causa cierre temporal en paso fronterizo de importancia en Sonora.",
         "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/20/ventas-de-la-antad-repuntan-en-agosto/",
-        "_added_at": "2026-09-20T11:29:02.244266-07:00"
-      },
-      {
-        "title": "Micro pymes generan 70% del empleo sonorense",
-        "summary": "Lorenia Valles destaca que pequeñas empresas representan 97.7% de unidades económicas en estado.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-reconoce-apoyo-a-micro-pymes/264816",
-        "_added_at": "2026-09-20T00:53:02.289502-07:00"
-      },
-      {
-        "title": "Astiazarán consolida generación de empleo",
-        "summary": "Administración en Hermosillo destaca logros en creación de oportunidades laborales durante gestión.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/consolida-tono-astiazaran-generacion-de-empleo-durante-su-administracion/",
-        "_added_at": "2026-09-20T00:53:02.289502-07:00"
+        "url": "https://mediosobson.com/2026/09/21/trailer-queda-atravesado-y-provoca-cierre-momentaneo-de-la-carretera-internacional/",
+        "_added_at": "2026-09-21T01:08:12.513049-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Sonora cuarto lugar con menor rezago educativo",
-        "summary": "Estado avanza pero registra aún 470 mil personas sin educación básica completa.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/20/sonora-ocupa-el-cuarto-lugar-nacional-con-menor-rezago-educativo-y-suma-470-mil-personas-sin-concluir-la-educacion-basica/",
-        "_added_at": "2026-09-20T16:50:55.006970-07:00"
-      },
-      {
-        "title": "Prepa aclara caso discriminación a estudiante invidente",
-        "summary": "Institución educativa responde sobre presunta discriminación de docente a alumno con discapacidad visual.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/hermosillo/prepa-de-sonora-responde-por-presunta-discriminacion-de-maestro-a-estudiante-con-discapacidad-visual/144118",
-        "_added_at": "2026-09-20T16:50:55.006970-07:00"
-      },
-      {
-        "title": "Adultos mayores continúan estudios en Sonora",
-        "summary": "Personas de tercera edad participan en programas educativos estatales.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/aprender-no-tiene-edad-los-adultos-mayores-siguen-estudiando-en-sonora-31786326",
-        "_added_at": "2026-09-20T16:50:55.006970-07:00"
-      },
-      {
-        "title": "Payaso sorprende a niña sin invitados en Guaymas",
-        "summary": "Artista llega sorpresivamente a cumpleaños de menor que no tuvo asistentes.",
+        "title": "Tormenta Tropical Polo amenaza Sonora; Protección Civil mantiene vigilancia",
+        "summary": "Sistema meteorológico se dirige hacia costas del Pacífico con posibles efectos indirectos en estado.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/payaso-alegra-a-nina-que-nadie-fue-a-su-cumpleanos-en-guaymas/264838",
-        "_added_at": "2026-09-20T16:50:55.006970-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/depresion-17-e-evoluciona-a-tormenta-tropical-polo-en-el-pacifico/264864",
+        "_added_at": "2026-09-21T01:08:12.513049-07:00"
       },
       {
-        "title": "470 mil sonorenses enfrentan rezago educativo",
-        "summary": "Gran proporción de población estatal presenta atraso significativo en nivel de escolaridad.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/hay-470-mil-sonorenses-rezago-educativo-n904462",
-        "_added_at": "2026-09-20T11:29:02.244266-07:00"
+        "title": "Otoño llega a Sonora con temperaturas máximas hasta 45 grados",
+        "summary": "Cambio de estación trae consigo condiciones de calor extremo en diferentes regiones del estado.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/el-otono-llegara-a-sonora-con-temperaturas-de-hasta-45-c-32186926",
+        "_added_at": "2026-09-21T01:08:12.513049-07:00"
       },
       {
-        "title": "Hermosillenses piden más simulacros de emergencia",
-        "summary": "Ciudadanía y comercios demandan mayor capacitación y ejercicios de prevención ante desastres.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/20/hermosillenses-piden-mas-simulacros-para-aprender-a-reaccionar-ante-emergencias-y-senalan-que-comercios-y-ciudadanos-necesitan-mayor-capacitacion-para-saber-como-actuar/",
-        "_added_at": "2026-09-20T11:29:02.244266-07:00"
+        "title": "Confirman 43 casos de Covid-19 en semana 36 en Sonora",
+        "summary": "Autoridades sanitarias reportan nuevos contagios de coronavirus durante la semana en el estado.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/confirman-43-casos-de-covid-19-en-la-semana-36-en-sonora-32185525",
+        "_added_at": "2026-09-21T01:08:12.513049-07:00"
       },
       {
-        "title": "Octubre: mes de prevención del cáncer",
-        "summary": "Autoridades sanitarias promocionan conciencia y detección temprana de enfermedades neoplásicas.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/octubre-llama-prevenir-cancer-n904464",
-        "_added_at": "2026-09-20T11:29:02.244266-07:00"
-      },
-      {
-        "title": "Banquetas en Hermosillo en mal estado comprometen seguridad",
-        "summary": "Infraestructura peatonal deficiente dificulta y pone en riesgo la movilidad de ciudadanos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/20/y-las-banquetas-caminar-en-hermosillo-es-un-reto/",
-        "_added_at": "2026-09-20T11:29:02.244266-07:00"
-      },
-      {
-        "title": "Sonora sede de ENARM para nueve mil aspirantes",
-        "summary": "Estado será una de cinco sedes nacionales para examen de residencias médicas en 2026.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/sonora-sera-sede-del-enarm-esperan-a-9-mil-aspirantes-de-medicina/",
-        "_added_at": "2026-09-20T00:53:02.289502-07:00"
-      },
-      {
-        "title": "Inicia semana de vacunación antirrábica en Obregón",
-        "summary": "Ciudad Obregón da inicio a campaña nacional de vacunación canina y felina contra rabia.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/arranca-hoy-en-obregon-semana-nacional-de-vacunacion-antirrabica-canina-y-felina-2026/144096",
-        "_added_at": "2026-09-20T00:53:02.289502-07:00"
+        "title": "Invitan a 35 edición de Siembra y Cosecha de Libros en Hermosillo",
+        "summary": "Evento cultural de promoción literaria se desarrollará en capital sonorense con actividades diversas.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/invitan-a-la-edicion-35-de-la-siembra-y-cosecha-de-libros-en-hermosillo-32186506",
+        "_added_at": "2026-09-21T01:08:12.513049-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-20T16:50:55.006970-07:00"
+  "last_updated": "2026-09-21T01:08:12.513049-07:00"
 }
