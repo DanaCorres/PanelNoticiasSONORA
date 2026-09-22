@@ -1,8 +1,36 @@
 {
   "date": "2026-09-21",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vendedora de hot dogs fallece tras ser impactada por vehículo",
+        "summary": "Mujer pierde la vida en accidente vehicular en Sonora mientras laboraba en la vía pública.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/vendedora-de-hot-dogs-pierde-la-vida-tras-ser-impactada-por-un-vehiculo-en-sonora/144152",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
+      {
+        "title": "Estudiante atropellada en campus Navojoa de Unison",
+        "summary": "Joven es golpeada por vehículo afuera de instalaciones universitarias; conductor se fuga del lugar.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/estudiante-de-unison-es-atropellada-afuera-de-campus-navojoa/264899",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
+      {
+        "title": "Motociclista sufre lesiones graves tras choque vehicular",
+        "summary": "Conductor de moto resulta gravemente herido al ser embestido por automóvil en vía pública.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/21/embiste-carro-a-motociclista-que-c0rto-circulacion-resulto-con-serias-lesi0nes/",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
+      {
+        "title": "Elemento de AMIC se suicida en Hermosillo",
+        "summary": "Policía municipal es hallado sin vida en la capital estatal; investigan las circunstancias del deceso.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/hermosillo/quien-era-fernando-elemento-de-la-amic-que-se-suicido-en-hermosillo/144180",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
       {
         "title": "Sonora lidera casos de violencia contra mujeres",
         "summary": "Sonora ocupa tercer lugar nacional en llamadas 911 por violencia contra mujeres, casi triplicando promedio del país.",
@@ -40,6 +68,34 @@
       }
     ],
     "politica": [
+      {
+        "title": "Durazo propone conurbación de San Carlos, Guaymas y Empalme",
+        "summary": "Gobernador sugiere integración de tres municipios costeros con policía y reglamentos compartidos para impulsar turismo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/21/alfonso-durazo-propone-que-san-carlos-guaymas-y-empalme-compartan-policia-y-reglamentos-para-impulsar-el-turismo-en-sonora/",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
+      {
+        "title": "Impulsan candidaturas independientes en Sonora 2027",
+        "summary": "Movimiento busca acompañar a candidatos independientes para próximos comicios estatales.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/impulsan-movimiento-para-acompanar-candidaturas-independientes-en-sonora-rumbo-a-2027-32197072",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
+      {
+        "title": "PRD desconoce acuerdos para crear Maciso en Sonora",
+        "summary": "Partido rechaza cambio de nombre propuesto; autoridad electoral aún no recibe documentación oficial.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/prd-de-sonora-desconoce-acuerdos-para-la-creacion-de-maciso-32102159",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
+      {
+        "title": "Lamarque regresa a alcaldía de Cajeme con proyecto íntegro",
+        "summary": "Presidente municipal reafirma continuidad en la ruta de trabajo establecida para el municipio.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/21/seguimos-en-la-ruta-establecida-dice-javier-lamarque-a-su-regreso-a-la-alcaldia-de-cajeme/",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
       {
         "title": "Lamarque retorna a alcaldía de Cajeme tras licencia",
         "summary": "Javier Lamarque regresa a su cargo mientras Morena define candidato para coordinación estatal.",
@@ -85,6 +141,34 @@
     ],
     "economia": [
       {
+        "title": "Puerto de Guaymas recibe grúas de alta tecnología",
+        "summary": "Gobierno dota de cuatro grúas modernas al puerto para ampliar capacidad de manejo de contenedores internacionales.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/equipan-puerto-guaymas-gruas-alta-tecnologia-n904684",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
+      {
+        "title": "Conducef recupera 5.7 millones para usuarios en Sonora",
+        "summary": "Institución obtiene devoluciones por reclamos bancarios; Hermosillo concentra dos tercios de quejas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/09/21/condusef-recupero-57-millones-de-pesos-para-usuarios-en-sonora-donde-hermosillo-acumulo-dos-tercios-de-las-quejas-bancarias/",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
+      {
+        "title": "IMSS Sonora invierte en hospitales y ambulancias",
+        "summary": "Instituto reporta avances significativos en infraestructura; adquiere 49 ambulancias nuevas para servicios.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/imss-sonora-reporta-inversiones-y-49-nuevas-ambulancias/264900",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
+      {
+        "title": "Maestros sección 54 del SNTE reciben incremento salarial",
+        "summary": "Docentes y directivos obtienen aumento adicional entre 2 y 3 por ciento en Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/21/maestros-y-directivos-de-la-seccion-54-del-snte-reciben-un-aumento-adicional-del-2-y-3-en-sonora/",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
+      {
         "title": "Hermosillo ejecuta 264 obras con presupuesto ampliado",
         "summary": "187 mil hermosillenses deciden obras mediante programa Creces con presupuesto de 100 millones.",
         "source": "Tribuna",
@@ -114,6 +198,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "187 mil hermosillenses eligen 264 obras vía programa Creces",
+        "summary": "Ciudadanos participan en decisión de inversión municipal; presupuesto crece de 40 a 100 millones de pesos.",
+        "source": "Tribuna",
+        "url": "https://tribuna.com.mx/sonora/2026/09/21/deciden-187-mil-hermosillense-264-obras-a-traves-del-programa-creces_690975/",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
+      {
+        "title": "Maratón internacional en Hermosillo y trote amistoso en SLRC",
+        "summary": "Invitan a ciudadanos a participar en actividades deportivas programadas en ambas ciudades.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/invitan-a-maraton-internacional-de-hermosillo-y-a-trote-amistoso-de-slrc-32194722",
+        "_added_at": "2026-09-21T17:35:46.787199-07:00"
+      },
       {
         "title": "Huracán Polo se intensifica, traerá lluvias a Sonora",
         "summary": "Tormenta categoría 1 avanza por Pacífico con efectos esperados en Sonora del 27 al 30.",
@@ -165,5 +263,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-21T13:15:49.459688-07:00"
+  "last_updated": "2026-09-21T17:35:46.787199-07:00"
 }
