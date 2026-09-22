@@ -1,8 +1,36 @@
 {
   "date": "2026-09-22",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fiscalía despliega operativo contra retenes ilegales en carretera 15",
+        "summary": "Sonora inicia operativo para identificar y combatir retenes falsos en la federal 15 que afectan a conductores.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/22/fiscalia-de-sonora-despliega-operativo-en-la-carretera-federal-15-para-identificar-retenes-ilegales/",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
+      {
+        "title": "Aseguran vehículo vinculado a atropellamiento de estudiante Unison",
+        "summary": "Localizan auto relacionado con atropellamiento de estudiante en Navojoa; víctima reportada en estado estable.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/amic-asegura-vehiculo-ligado-a-atropellamiento-de-estudiante/264993",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
+      {
+        "title": "Menor de 14 años detenido tras enfrentamiento en operativo",
+        "summary": "Capturan a menor durante operativo policial en Sonora tras enfrentamiento registrado.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/tiene-14-anos-menor-detenido-en-operativo-tras-enfrentamiento/",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
+      {
+        "title": "CEDH condiciona reinstalación de alcoholímetros en entidades",
+        "summary": "Comisión Estatal de Derechos Humanos pone requisitos para reanudar filtros de alcoholimetría en Sonora.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/cedh-pone-condiciones-volver-filtros-alcoholimetria-n904947",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
       {
         "title": "Caso Waldo's: sentencia esperada antes de enero",
         "summary": "Tribunal prevé fallo para hasta 20 imputados, entre funcionarios, por incendio que causó 24 muertos en Hermosillo.",
@@ -48,6 +76,27 @@
     ],
     "politica": [
       {
+        "title": "IEE abre convocatoria para candidaturas independientes 2027",
+        "summary": "Instituto Electoral de Sonora convoca a ciudadanos interesados en ser candidatos independientes con respaldo mínimo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/22/iee-sonora-abre-convocatoria-para-candidaturas-independientes-2027-con-respaldo-del-3-del-listado-nominal/",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
+      {
+        "title": "Congreso analiza iniciativas sobre violencia obstétrica y salud",
+        "summary": "Legislatura sonorense revisa propuestas sobre violencia obstétrica, salud mental, vivienda y rickettsiosis.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/congreso-sonora-tipifica-violencia-obstetrica-como-delito/264985",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
+      {
+        "title": "Durazo acompañará a Sheinbaum en segundo informe en Hermosillo",
+        "summary": "Gobernador de Sonora asistirá al segundo informe de gobierno de la presidenta en Hermosillo.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/durazo-acompanara-a-sheinbaum-en-su-segundo-informe-en-hermosillo/",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
+      {
         "title": "Proceso electoral Sonora inicia 9 de octubre",
         "summary": "Arrancan campañas electorales con mil 231 cargos de elección popular en disputa.",
         "source": "Uniradio Sonora",
@@ -77,6 +126,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Productores de trigo acceden a apoyo de mil 800 pesos por tonelada",
+        "summary": "Agricultores en San Luis Río Colorado pueden solicitar subsidio federal para producción triguera.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/productores-de-trigo-podran-solicitar-apoyo-de-mil-800-pesos-por-tonelada-32213236",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
+      {
+        "title": "Prohíben exportación de ganado por riesgo de tuberculosis bovina",
+        "summary": "San Luis Río Colorado enfrenta restricción en comercio ganadero debido a enfermedad detectada en Baja California.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/prohiben-exportacion-de-ganado-de-slrc-por-riesgo-de-tuberculosis-bovina-en-bc-32045526",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
+      {
+        "title": "Empresarios chocan con reforma aduanera federal",
+        "summary": "Sector empresarial de Sonora cuestiona los cambios implementados en política aduanal del gobierno.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/negocios/empresarios-chocan-reforma-aduanera-n904941",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
       {
         "title": "Pequeños comercios sufren presión por rentas y costos",
         "summary": "Hermosillo: comerciantes reportan dificultades por gastos de formalización y arrendamientos.",
@@ -122,6 +192,34 @@
     ],
     "sociedad": [
       {
+        "title": "Maestros de Sonora podrán cambiar plaza cuatro veces al año",
+        "summary": "SNTE 54 establece cuatro fechas anuales para que docentes soliciten permutas de adscripción.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/maestros-de-sonora-podran-permutar-su-plaza-cuatro-veces-al-ano-32213374",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
+      {
+        "title": "Reubican estudiante con discapacidad visual tras discriminación en Cobach",
+        "summary": "Joven con deficiencia visual cambia de plantel después de denuncia por trato discriminatorio en Hermosillo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/22/reubicaran-joven-con-discapacidad-visual-en-otro-plantel-tras-denuncia-por-presunta-discriminacion-en-cobach-de-hermosillo/",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
+      {
+        "title": "Lanzan taller gratuito de crochet en Nogales para jóvenes",
+        "summary": "IMFOCULTA ofrece capacitación gratuita en tejido como oportunidad económica para jóvenes nogalenses.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/09/22/imfoculta-ofrecera-taller-gratuito-crochet-jovenes-nogales.html",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
+      {
+        "title": "Estudiantes reflexionan sobre salud emocional en Nogales",
+        "summary": "Mil estudiantes participan en actividades sobre bienestar mental y prevención del suicidio en la frontera.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/09/22/cerca-mil-estudiantes-reflexionan-salud-emocional-prevencion-suicidio.html",
+        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+      },
+      {
         "title": "Agua regresa a Técnica 80 en Nogales",
         "summary": "Escuela restablece clases tras solucionar crisis hídrica con reserva de 35 mil litros.",
         "source": "El Diario de Sonora",
@@ -162,22 +260,8 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/sociedad/padres-sonora-respaldan-nueva-restriccion-escolar-n904741",
         "_added_at": "2026-09-22T00:53:28.530049-07:00"
-      },
-      {
-        "title": "Jóvenes hermosillenses aprenderán Lengua de Señas",
-        "summary": "Se abre oportunidad educativa para población hermosillense interesada en comunicación incluyente.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/jovenes-hermosillo-podran-aprender-lengua-senas-n904756",
-        "_added_at": "2026-09-22T00:53:28.530049-07:00"
-      },
-      {
-        "title": "DIF Cajeme inicia colecta de pañales",
-        "summary": "Institución asistencial de Obregón promueve campaña comunitaria de apoyo a familias vulnerables.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/dif-de-cajeme-inicia-colecta-de-panales/144178",
-        "_added_at": "2026-09-22T00:53:28.530049-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-22T12:34:20.631594-07:00"
+  "last_updated": "2026-09-22T16:59:09.893409-07:00"
 }
