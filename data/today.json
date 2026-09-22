@@ -1,8 +1,36 @@
 {
   "date": "2026-09-22",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Caso Waldo's: sentencia esperada antes de enero",
+        "summary": "Tribunal prevé fallo para hasta 20 imputados, entre funcionarios, por incendio que causó 24 muertos en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/22/caso-waldos-podria-tener-sentencia-entre-diciembre-de-2026-y-enero-de-2027-para-hasta-20-imputados-entre-ellos-funcionarios-por-el-incendio-en-hermosillo-que-dejo-24-muertos-y-15-heridos/",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
+      {
+        "title": "Adolescentes detenidos con AK-47 en Ciudad Obregón",
+        "summary": "Autoridades aseguraron arma larga y droga a dos menores durante operativo coordinado entre corporaciones.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/dos-adolescentes-detenidos-con-arma-larga-y-droga-en-obregon/264949",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
+      {
+        "title": "CBTis 106 Cananea suspende clases por amenaza armada",
+        "summary": "Joven de 24 años realizó amenazas con arma de postas, causando cierre temporal de clases.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/suspenden-clases-en-cbtis-de-cananea-tras-amenaza-con-arma/264952",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
+      {
+        "title": "Retenes alargan traslado de carga hacia Tijuana",
+        "summary": "Revisiones causan demoras de hasta 24 horas y daños a mercancías desde Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/22/retenes-alargan-hasta-24-horas-el-traslado-de-carga-de-sonora-a-tijuana-y-canacar-reporta-danos-a-mercancias-durante-revisiones/",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
       {
         "title": "Fortalecen vigilancia en colonias de Hermosillo",
         "summary": "Autoridades incrementan presencia policial para mejorar seguridad en diferentes sectores de la capital sonorense.",
@@ -20,6 +48,27 @@
     ],
     "politica": [
       {
+        "title": "Proceso electoral Sonora inicia 9 de octubre",
+        "summary": "Arrancan campañas electorales con mil 231 cargos de elección popular en disputa.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/proceso-electoral-2026-2027-sonora-arrancara-9-octubre-n904845",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
+      {
+        "title": "Tribunal Electoral revisa denuncias de actos anticipados",
+        "summary": "Organismo analiza presuntas violaciones electorales y uso indebido de recursos públicos.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/tribunal-electoral-de-sonora-revisa-denuncias-por-actos-anticipados-de-campana-y-recursos-publicos-32209963",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
+      {
+        "title": "IEEyPC prepara candidaturas independientes en Sonora",
+        "summary": "Instituto electoral prepara mecanismos para registro de candidatos independientes 2026-2027.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ieeypc-prepara-el-inicio-del-ano-electoral-y-las-candidaturas-independientes-en-sonora-32209481",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
+      {
         "title": "Natalia Rivera se suma al Partido Sonorense",
         "summary": "Funcionaria oficial su incorporación a partido político local fortaleciendo estructura partidista estatal.",
         "source": "El Sol de Hermosillo",
@@ -28,6 +77,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Pequeños comercios sufren presión por rentas y costos",
+        "summary": "Hermosillo: comerciantes reportan dificultades por gastos de formalización y arrendamientos.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/22/rentas-y-costos-de-formalidad-presionan-a-pequenos-comercios-en-hermosillo/",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
+      {
+        "title": "Invierten 3.6 millones en cruce importante de Nogales",
+        "summary": "Renuevan infraestructura vial en uno de los cruces principales fronterizos.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/22/renuevan-uno-cruces-mas-importantes-nogales-invierten-mas-36-mdp.html",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
+      {
+        "title": "Sheinbaum destaca obras hídricas para Sonora",
+        "summary": "Presidenta destaca proyectos de agua previo a visita a Hermosillo.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/destaca-sheinbaum-obras-hidricas-para-sonora-previo-a-su-visita-a-hermosillo/",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
       {
         "title": "Sonora destaca en mercado laboral nacional",
         "summary": "Estado se posiciona entre las mejores entidades con oportunidades de empleo y crecimiento económico.",
@@ -51,6 +121,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Agua regresa a Técnica 80 en Nogales",
+        "summary": "Escuela restablece clases tras solucionar crisis hídrica con reserva de 35 mil litros.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/22/regresa-agua-tambien-clases-tecnica-80.html",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
+      {
+        "title": "Nogales refuerza atención a población en situación de calle",
+        "summary": "Ayuntamiento responde a muertes de personas vulnerables con programas de apoyo.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/09/22/ayuntamiento-nogales-reforzara-atencion-personas-situacion-calle.html",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
+      {
+        "title": "Estudiantes Unison compiten en torneo de Derecho Colombia",
+        "summary": "Representantes de universidad sonorense participan en concurso internacional.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/estudiantes-unison-representaran-mexico-concurso-internacional-derecho-colombia-n904834",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
+      {
+        "title": "Cuatro vidas salvadas por donaciones en Obregón",
+        "summary": "Trasplantes permiten salvar a cuatro personas en Ciudad Obregón.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/22/cuatro-nuevas-oportunidades-de-vida-gracias-a-dos-donaciones-en-obregon/",
+        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+      },
       {
         "title": "Lorenia Valles apoya restricción de celulares en escuelas",
         "summary": "Funcionaria respalda medida para regular uso de dispositivos en primaria y secundaria sonorense.",
@@ -81,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-22T00:53:28.530049-07:00"
+  "last_updated": "2026-09-22T12:34:20.631594-07:00"
 }
