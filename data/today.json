@@ -1,267 +1,99 @@
 {
-  "date": "2026-09-22",
-  "run_count": 3,
+  "date": "2026-09-23",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Fiscalía despliega operativo contra retenes ilegales en carretera 15",
-        "summary": "Sonora inicia operativo para identificar y combatir retenes falsos en la federal 15 que afectan a conductores.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/22/fiscalia-de-sonora-despliega-operativo-en-la-carretera-federal-15-para-identificar-retenes-ilegales/",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
-      },
-      {
-        "title": "Aseguran vehículo vinculado a atropellamiento de estudiante Unison",
-        "summary": "Localizan auto relacionado con atropellamiento de estudiante en Navojoa; víctima reportada en estado estable.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/amic-asegura-vehiculo-ligado-a-atropellamiento-de-estudiante/264993",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
-      },
-      {
-        "title": "Menor de 14 años detenido tras enfrentamiento en operativo",
-        "summary": "Capturan a menor durante operativo policial en Sonora tras enfrentamiento registrado.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/tiene-14-anos-menor-detenido-en-operativo-tras-enfrentamiento/",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
-      },
-      {
-        "title": "CEDH condiciona reinstalación de alcoholímetros en entidades",
-        "summary": "Comisión Estatal de Derechos Humanos pone requisitos para reanudar filtros de alcoholimetría en Sonora.",
+        "title": "Disparos alarman a madres buscadoras cerca de FGR",
+        "summary": "Incidentes con armas de fuego cerca de oficinas federales donde madres buscadoras permanecen en protesta por atención a denuncias.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/cedh-pone-condiciones-volver-filtros-alcoholimetria-n904947",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/disparos-alarman-madres-buscadoras-cerca-fgr-n904990",
+        "_added_at": "2026-09-23T00:54:52.349854-07:00"
       },
       {
-        "title": "Caso Waldo's: sentencia esperada antes de enero",
-        "summary": "Tribunal prevé fallo para hasta 20 imputados, entre funcionarios, por incendio que causó 24 muertos en Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/22/caso-waldos-podria-tener-sentencia-entre-diciembre-de-2026-y-enero-de-2027-para-hasta-20-imputados-entre-ellos-funcionarios-por-el-incendio-en-hermosillo-que-dejo-24-muertos-y-15-heridos/",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "Adolescentes detenidos con AK-47 en Ciudad Obregón",
-        "summary": "Autoridades aseguraron arma larga y droga a dos menores durante operativo coordinado entre corporaciones.",
+        "title": "Accidente fatal en carretera Puerto Peñasco-Caborca",
+        "summary": "Mujer fallece tras volcadura de camioneta en kilómetro 31 cuando conductor perdió control del vehículo.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/dos-adolescentes-detenidos-con-arma-larga-y-droga-en-obregon/264949",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/accidente-en-tramo-puerto-penasco-caborca-deja-un-muerto/265007",
+        "_added_at": "2026-09-23T00:54:52.349854-07:00"
       },
       {
-        "title": "CBTis 106 Cananea suspende clases por amenaza armada",
-        "summary": "Joven de 24 años realizó amenazas con arma de postas, causando cierre temporal de clases.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/suspenden-clases-en-cbtis-de-cananea-tras-amenaza-con-arma/264952",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "Retenes alargan traslado de carga hacia Tijuana",
-        "summary": "Revisiones causan demoras de hasta 24 horas y daños a mercancías desde Sonora.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/22/retenes-alargan-hasta-24-horas-el-traslado-de-carga-de-sonora-a-tijuana-y-canacar-reporta-danos-a-mercancias-durante-revisiones/",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "Fortalecen vigilancia en colonias de Hermosillo",
-        "summary": "Autoridades incrementan presencia policial para mejorar seguridad en diferentes sectores de la capital sonorense.",
+        "title": "México y EU frenan drones del narcotráfico en frontera",
+        "summary": "Operativo conjunto entre países para detener uso de drones por grupos criminales en zona fronteriza.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/fortalecen-seguridad-colonias-hermosillo-n904752",
-        "_added_at": "2026-09-22T00:53:28.530049-07:00"
-      },
-      {
-        "title": "Siete lesionados en accidente vehícular en Balderrama",
-        "summary": "Vehículo impacta árbol dejando múltiples heridos en zona de Hermosillo.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/siete-lesionados-tras-choque-arbol-balderrama-n904743",
-        "_added_at": "2026-09-22T00:53:28.530049-07:00"
+        "url": "https://www.uniradiosonora.com/gobierno/mexico-eu-frenan-drones-narco-frontera-n904983",
+        "_added_at": "2026-09-23T00:54:52.349854-07:00"
       }
     ],
     "politica": [
       {
-        "title": "IEE abre convocatoria para candidaturas independientes 2027",
-        "summary": "Instituto Electoral de Sonora convoca a ciudadanos interesados en ser candidatos independientes con respaldo mínimo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/22/iee-sonora-abre-convocatoria-para-candidaturas-independientes-2027-con-respaldo-del-3-del-listado-nominal/",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
-      },
-      {
-        "title": "Congreso analiza iniciativas sobre violencia obstétrica y salud",
-        "summary": "Legislatura sonorense revisa propuestas sobre violencia obstétrica, salud mental, vivienda y rickettsiosis.",
+        "title": "Senado aprueba reforma para participación laboral femenina",
+        "summary": "Iniciativa legislativa aprobada para incrementar oportunidades de empleo para mujeres en México.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/congreso-sonora-tipifica-violencia-obstetrica-como-delito/264985",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/aprueban-reforma-para-promover-participacion-laboral-femenina/265009",
+        "_added_at": "2026-09-23T00:54:52.349854-07:00"
       },
       {
-        "title": "Durazo acompañará a Sheinbaum en segundo informe en Hermosillo",
-        "summary": "Gobernador de Sonora asistirá al segundo informe de gobierno de la presidenta en Hermosillo.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/durazo-acompanara-a-sheinbaum-en-su-segundo-informe-en-hermosillo/",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
-      },
-      {
-        "title": "Proceso electoral Sonora inicia 9 de octubre",
-        "summary": "Arrancan campañas electorales con mil 231 cargos de elección popular en disputa.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/proceso-electoral-2026-2027-sonora-arrancara-9-octubre-n904845",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "Tribunal Electoral revisa denuncias de actos anticipados",
-        "summary": "Organismo analiza presuntas violaciones electorales y uso indebido de recursos públicos.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/tribunal-electoral-de-sonora-revisa-denuncias-por-actos-anticipados-de-campana-y-recursos-publicos-32209963",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "IEEyPC prepara candidaturas independientes en Sonora",
-        "summary": "Instituto electoral prepara mecanismos para registro de candidatos independientes 2026-2027.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ieeypc-prepara-el-inicio-del-ano-electoral-y-las-candidaturas-independientes-en-sonora-32209481",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "Natalia Rivera se suma al Partido Sonorense",
-        "summary": "Funcionaria oficial su incorporación a partido político local fortaleciendo estructura partidista estatal.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/natalia-rivera-oficializa-su-incorporacion-al-partido-sonorense-32200352",
-        "_added_at": "2026-09-22T00:53:28.530049-07:00"
+        "title": "Durazo y Sheinbaum invierten tres mil millones en obras hídricas",
+        "summary": "Gobierno federal destina recursos significativos para infraestructura de agua en Sonora.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/durazo-y-sheinbaum-invierten-mas-de-3-mil-millones-en-obras-hidricas/",
+        "_added_at": "2026-09-23T00:54:52.349854-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Productores de trigo acceden a apoyo de mil 800 pesos por tonelada",
-        "summary": "Agricultores en San Luis Río Colorado pueden solicitar subsidio federal para producción triguera.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/productores-de-trigo-podran-solicitar-apoyo-de-mil-800-pesos-por-tonelada-32213236",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+        "title": "AIMMGM y CANIRAC acuerdan colaboración para Congreso Minero",
+        "summary": "Organismos minero-gastronómicos se unen para organizar evento de minería en Sonora 2026.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/aimmgm-y-canirac-acuerdan-colaboracion-para-congreso-minero/265005",
+        "_added_at": "2026-09-23T00:54:52.349854-07:00"
       },
       {
-        "title": "Prohíben exportación de ganado por riesgo de tuberculosis bovina",
-        "summary": "San Luis Río Colorado enfrenta restricción en comercio ganadero debido a enfermedad detectada en Baja California.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/prohiben-exportacion-de-ganado-de-slrc-por-riesgo-de-tuberculosis-bovina-en-bc-32045526",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
+        "title": "Minería en Sonora demanda más exploración y cambios legales",
+        "summary": "Sector industrial pide reformas a Ley Minera e incremento en actividades de exploración.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/mineria-en-sonora-piden-mas-exploracion-y-cambios-a-la-ley-minera-32068130",
+        "_added_at": "2026-09-23T00:54:52.349854-07:00"
       },
       {
-        "title": "Empresarios chocan con reforma aduanera federal",
-        "summary": "Sector empresarial de Sonora cuestiona los cambios implementados en política aduanal del gobierno.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/negocios/empresarios-chocan-reforma-aduanera-n904941",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
-      },
-      {
-        "title": "Pequeños comercios sufren presión por rentas y costos",
-        "summary": "Hermosillo: comerciantes reportan dificultades por gastos de formalización y arrendamientos.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/22/rentas-y-costos-de-formalidad-presionan-a-pequenos-comercios-en-hermosillo/",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "Invierten 3.6 millones en cruce importante de Nogales",
-        "summary": "Renuevan infraestructura vial en uno de los cruces principales fronterizos.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/22/renuevan-uno-cruces-mas-importantes-nogales-invierten-mas-36-mdp.html",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "Sheinbaum destaca obras hídricas para Sonora",
-        "summary": "Presidenta destaca proyectos de agua previo a visita a Hermosillo.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/destaca-sheinbaum-obras-hidricas-para-sonora-previo-a-su-visita-a-hermosillo/",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "Sonora destaca en mercado laboral nacional",
-        "summary": "Estado se posiciona entre las mejores entidades con oportunidades de empleo y crecimiento económico.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/esta-sonora-entre-estados-con-mejor-mercado-laboral/",
-        "_added_at": "2026-09-22T00:53:28.530049-07:00"
-      },
-      {
-        "title": "Profeco respalda cancelación de contratos",
-        "summary": "Organismo defensor del consumidor orienta a sonorenses sobre derechos para resolver disputas contractuales.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/negocios/quieres-cancelar-contrato-profeco-te-respalda-n904750",
-        "_added_at": "2026-09-22T00:53:28.530049-07:00"
-      },
-      {
-        "title": "Buscan conurbación de Empalme, Guaymas y San Carlos",
-        "summary": "Municipios costeros impulsan integración administrativa para fortalecer desarrollo regional.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/buscan-integrar-empalme-guaymas-y-san-carlos-como-zona-conurbada/",
-        "_added_at": "2026-09-22T00:53:28.530049-07:00"
+        "title": "Gobierno propone aumento presupuestal para LitioMX pese inactividad",
+        "summary": "Federal aumenta once por ciento presupuesto de empresa litiera sin extracción del mineral.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/propone-gobierno-federal-aumento-del-11-al-presupuesto-de-litiomx-para-2027-pese-a-nula-extraccion-del-metal-32005164",
+        "_added_at": "2026-09-23T00:54:52.349854-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Maestros de Sonora podrán cambiar plaza cuatro veces al año",
-        "summary": "SNTE 54 establece cuatro fechas anuales para que docentes soliciten permutas de adscripción.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/maestros-de-sonora-podran-permutar-su-plaza-cuatro-veces-al-ano-32213374",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
-      },
-      {
-        "title": "Reubican estudiante con discapacidad visual tras discriminación en Cobach",
-        "summary": "Joven con deficiencia visual cambia de plantel después de denuncia por trato discriminatorio en Hermosillo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/22/reubicaran-joven-con-discapacidad-visual-en-otro-plantel-tras-denuncia-por-presunta-discriminacion-en-cobach-de-hermosillo/",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
-      },
-      {
-        "title": "Lanzan taller gratuito de crochet en Nogales para jóvenes",
-        "summary": "IMFOCULTA ofrece capacitación gratuita en tejido como oportunidad económica para jóvenes nogalenses.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/09/22/imfoculta-ofrecera-taller-gratuito-crochet-jovenes-nogales.html",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
-      },
-      {
-        "title": "Estudiantes reflexionan sobre salud emocional en Nogales",
-        "summary": "Mil estudiantes participan en actividades sobre bienestar mental y prevención del suicidio en la frontera.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/09/22/cerca-mil-estudiantes-reflexionan-salud-emocional-prevencion-suicidio.html",
-        "_added_at": "2026-09-22T16:59:09.893409-07:00"
-      },
-      {
-        "title": "Agua regresa a Técnica 80 en Nogales",
-        "summary": "Escuela restablece clases tras solucionar crisis hídrica con reserva de 35 mil litros.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/22/regresa-agua-tambien-clases-tecnica-80.html",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "Nogales refuerza atención a población en situación de calle",
-        "summary": "Ayuntamiento responde a muertes de personas vulnerables con programas de apoyo.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/09/22/ayuntamiento-nogales-reforzara-atencion-personas-situacion-calle.html",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "Estudiantes Unison compiten en torneo de Derecho Colombia",
-        "summary": "Representantes de universidad sonorense participan en concurso internacional.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/estudiantes-unison-representaran-mexico-concurso-internacional-derecho-colombia-n904834",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "Cuatro vidas salvadas por donaciones en Obregón",
-        "summary": "Trasplantes permiten salvar a cuatro personas en Ciudad Obregón.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/22/cuatro-nuevas-oportunidades-de-vida-gracias-a-dos-donaciones-en-obregon/",
-        "_added_at": "2026-09-22T12:34:20.631594-07:00"
-      },
-      {
-        "title": "Lorenia Valles apoya restricción de celulares en escuelas",
-        "summary": "Funcionaria respalda medida para regular uso de dispositivos en primaria y secundaria sonorense.",
+        "title": "Huracán Polo bajo vigilancia con posible afectación Sonora",
+        "summary": "Fenómeno meteorológico podría impactar estado entre 27 y 30 de septiembre según modelos.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/valles-destaca-medidas-para-regular-celulares-en-escuelas/264918",
-        "_added_at": "2026-09-22T00:53:28.530049-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/polo-bajo-vigilancia-en-sonora-por-posible-trayectoria/265011",
+        "_added_at": "2026-09-23T00:54:52.349854-07:00"
       },
       {
-        "title": "Padres sonorenses respaldan restricción escolar de celulares",
-        "summary": "Familias apoyan nuevas medidas para limitar uso de tecnología en planteles educativos.",
+        "title": "Sonora recibe médicos rumbo a especialización profesional",
+        "summary": "Miles de profesionales sanitarios arriban a estado para continuar formación médica especializada.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/padres-sonora-respaldan-nueva-restriccion-escolar-n904741",
-        "_added_at": "2026-09-22T00:53:28.530049-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/sonora-recibe-miles-medicos-rumbo-una-especialidad-n904987",
+        "_added_at": "2026-09-23T00:54:52.349854-07:00"
+      },
+      {
+        "title": "Primer monumento a Mujer Minera en América Latina en Caborca",
+        "summary": "Caborca albergará obra dedicada a reconocer aporte histórico de mujeres en minería.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/se-tendra-en-caborca-el-primer-monumento-en-america-latina-dedicado-a-la-mujer-minera-32215817",
+        "_added_at": "2026-09-23T00:54:52.349854-07:00"
+      },
+      {
+        "title": "Inauguran Plaza de Buscadoras y Paseo Memoria Viva Hermosillo",
+        "summary": "Espacios públicos dedicados a madres buscadoras y desaparecidos abren al público hermosillense.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/inauguran-plaza-de-las-buscadoras-y-paseo-de-la-memoria-viva-en-hermosillo-31822874",
+        "_added_at": "2026-09-23T00:54:52.349854-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-22T16:59:09.893409-07:00"
+  "last_updated": "2026-09-23T00:54:52.349854-07:00"
 }
