@@ -1,8 +1,36 @@
 {
   "date": "2026-09-23",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Robo millonario en joyería de Ciudad Obregón por fraude y extorsión",
+        "summary": "Denuncian robo de alto valor en comercio de Ciudad Obregón tras operación de fraude y extorsión.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/denuncia-robo-millonario-tras-fraude-y-extorsion-en-joyeria-en-ciudad-obregon-l-video/144299",
+        "_added_at": "2026-09-23T12:27:03.516394-07:00"
+      },
+      {
+        "title": "Aseguran droga en pick up en Caborca",
+        "summary": "Decomisados 650 envoltorios de metanfetamina y 462 de mariguana en operativo en Caborca.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/23/aseguran-pick-up-con-650-envoltorios-de-metanfetamina-y-462-de-mariguana-en-caborca/",
+        "_added_at": "2026-09-23T12:27:03.516394-07:00"
+      },
+      {
+        "title": "Grupo criminal capturado tras enfrentamiento en Puerto Peñasco",
+        "summary": "Presuntos delincuentes quedan en prisión después de confrontación en Puerto Peñasco.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/queda-en-prision-grupo-criminal-tras-enfrentamiento-en-puerto-penasco/",
+        "_added_at": "2026-09-23T12:27:03.516394-07:00"
+      },
+      {
+        "title": "Hallan restos humanos semienterrados en Nogales",
+        "summary": "Descubren persona desarticulada en vivienda incendiada de Nogales, posible ocultamiento de crimen.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/09/23/hallan-restos-humanos-semienterrados-en-una-casa-incendiada-de-nogales-se-presume-que-el-fuego-buscaba-ocultar-el-crimen/",
+        "_added_at": "2026-09-23T12:27:03.516394-07:00"
+      },
       {
         "title": "Disparos alarman a madres buscadoras cerca de FGR",
         "summary": "Incidentes con armas de fuego cerca de oficinas federales donde madres buscadoras permanecen en protesta por atención a denuncias.",
@@ -27,6 +55,13 @@
     ],
     "politica": [
       {
+        "title": "PRI elabora plataforma electoral 2027 con participación ciudadana",
+        "summary": "Partido Revolucionario Institucional prepara propuestas para elecciones próximas con consulta social.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/pri-prepara-plataforma-electoral-2027-propuestas-ciudadanas-n905076",
+        "_added_at": "2026-09-23T12:27:03.516394-07:00"
+      },
+      {
         "title": "Senado aprueba reforma para participación laboral femenina",
         "summary": "Iniciativa legislativa aprobada para incrementar oportunidades de empleo para mujeres en México.",
         "source": "Expreso",
@@ -42,6 +77,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Invierten 3 mil mdp en obras hídricas en Sonora",
+        "summary": "Gobierno federal y estatal destinan recursos para proyectos de agua, incluyendo Presa Centenario.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/plan-integral-de-agua-en-sonora-avanza-con-inversion-millonaria/265024",
+        "_added_at": "2026-09-23T12:27:03.516394-07:00"
+      },
+      {
+        "title": "Unión de Usuarios solicita presupuesto para renovar red de agua",
+        "summary": "Organización demanda asignación de recursos en presupuesto 2027 para infraestructura hídrica.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/union-usuarios-pide-asignar-recursos-presupuesto-2027-renovar-red-agua-n905074",
+        "_added_at": "2026-09-23T12:27:03.516394-07:00"
+      },
       {
         "title": "AIMMGM y CANIRAC acuerdan colaboración para Congreso Minero",
         "summary": "Organismos minero-gastronómicos se unen para organizar evento de minería en Sonora 2026.",
@@ -65,6 +114,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Cruz Roja intensifica prevención de dengue en Nogales",
+        "summary": "Campaña \"Adiós Mosquito\" lleva acciones preventivas casa por casa en ciudad fronteriza.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/23/adios-mosquito-cruz-roja-lleva-prevencion-dengue-casa-casa-nogales.html",
+        "_added_at": "2026-09-23T12:27:03.516394-07:00"
+      },
+      {
+        "title": "Cobach revisará reglamento tras caso de alumno con discapacidad",
+        "summary": "Sistema educativo analiza protocolo de convivencia escolar por situación de estudiante vulnerable.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/tras-caso-de-alumno-con-discapacidad-cobach-revisara-su-reglamento-de-convivencia-escolar-32227741",
+        "_added_at": "2026-09-23T12:27:03.516394-07:00"
+      },
+      {
+        "title": "Huracán Polo se degradó a categoría 4, monitoreo continúa",
+        "summary": "Sistema tropical desciende en intensidad pero meteorólogos vigilan posible trayectoria hacia Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/huracan-polo-cambia-de-rumbo-y-podria-acercarse-a-sonora/265034",
+        "_added_at": "2026-09-23T12:27:03.516394-07:00"
+      },
       {
         "title": "Huracán Polo bajo vigilancia con posible afectación Sonora",
         "summary": "Fenómeno meteorológico podría impactar estado entre 27 y 30 de septiembre según modelos.",
@@ -95,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-23T00:54:52.349854-07:00"
+  "last_updated": "2026-09-23T12:27:03.516394-07:00"
 }
