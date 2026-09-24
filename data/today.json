@@ -1,8 +1,29 @@
 {
   "date": "2026-09-24",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Disparan a hombre en Hermosillo por presunta deuda",
+        "summary": "Sujeto armado ingresó a domicilio en Puerta del Rey y disparó contra un hombre de 34 años, huyendo tras reclamarle deuda.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/24/agresor-entra-a-una-casa-de-puerta-del-rey-en-hermosillo-balea-a-un-hombre-de-34-anos-y-huye-tras-reclamarle-una-presunta-deuda-por-drogas/",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
+      {
+        "title": "Incendio destruye vivienda en Ures sin víctimas",
+        "summary": "Fuego consumió casa en El Sauz durante madrugada, dejando pérdidas materiales pero sin víctimas fatales.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/fuego-consume-vivienda-durante-la-madrugada-en-el-sauz-ures/265114",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
+      {
+        "title": "Encuentran sin vida al hijo del alcalde Mateo Hernández",
+        "summary": "Cuerpo hallado a costado de carretera perteneciente a familiar del presidente municipal.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/nacional/encuentran-el-cuerpo-sin-vida-del-hijo-del-alcalde-mateo-hernandez-a-un-costado-de-la-carretera/144375",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
       {
         "title": "Alerta naranja por trayectoria del huracán Polo en Sonora",
         "summary": "Vigilancia intensificada en la entidad por posible impacto del sistema tropical con escenarios desde mar abierto hasta categoría 1.",
@@ -34,6 +55,20 @@
     ],
     "politica": [
       {
+        "title": "Ayuntamiento de Hermosillo reconoce necesidad de rescate del Centro",
+        "summary": "Autoridades admiten que zona céntrica requiere plan integral de recuperación y prometen acciones.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/24/ayuntamiento-reconoce-que-centro-de-hermosillo-necesita-plan-de-rescate-promete-trabajar-en-ello/",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
+      {
+        "title": "Poder Judicial demanda 2 mil mdp adicionales para 2027",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/poder-judicial-sonora-va-2-mil-mdp-adicionales-2027-n905270",
+        "summary": "Sector judicial de Sonora solicita presupuesto extra para próximo ejercicio fiscal.",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
+      {
         "title": "Beca Gertrudis Bocanegra universaliza apoyos educativos superiores",
         "summary": "Gobernador Durazo y Presidenta Sheinbaum impulsan programa de becas para estudiantes de educación superior.",
         "source": "Radar Sonora",
@@ -63,6 +98,34 @@
       }
     ],
     "economia": [
+      {
+        "title": "Aranceles y dólar reducen siembras agrícolas en Sonora",
+        "summary": "Productores advierten caída drástica en garbanzo, sandía y melón por factores externos y climáticos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/24/productores-advierten-que-practicamente-no-habra-garbanzo-en-sonora-y-sinaloa-mientras-en-la-costa-de-hermosillo-reducen-cultivos-por-aranceles-dolar-y-clima/",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
+      {
+        "title": "Hermosillo prepara Congreso Internacional Minero 2026",
+        "summary": "Capital sonorense se alista para recibir miles de visitantes en evento sobre minería.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hermosillo-se-prepara-para-recibir-a-miles-de-visitantes-por-congreso-internacional-minero-2026-32248177",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
+      {
+        "title": "Solo 3% de comercios hermosillenses venden por internet",
+        "summary": "Cámara de Comercio reporta que de 100 mil negocios, mínima proporción opera en plataformas digitales.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/negocios/hermosillo-tiene-100-mil-comercios-pero-3-vende-internet-canaco-n905272",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
+      {
+        "title": "Valle del Yaqui proyecta sembrar 50% de superficie",
+        "summary": "Productores planean reducción de siembras en importante zona agrícola.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/24/proyectan-sembrar-50-de-superficie-en-el-valle-del-yaqui/",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
       {
         "title": "Hasta 70 locales comerciales cerraron en Hermosillo",
         "summary": "Restaurantes y negocios diversos cierran operaciones dejando locales vacíos en la capital.",
@@ -94,6 +157,34 @@
     ],
     "sociedad": [
       {
+        "title": "Hermosillo activa comité de emergencias por huracán Polo",
+        "summary": "Autoridades implementan medidas preventivas y revisan refugios ante posible afectación.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/24/hermosillo-activa-comite-de-emergencias-por-huracan-polo-y-revisa-zonas-de-riesgo-refugios-y-equipo-ante-posibles-cambios-de-trayectoria/",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
+      {
+        "title": "Lluvias bloquean acceso a ejido en Guaymas",
+        "summary": "Precipitaciones elevan nivel del arroyo San José generando escurrimientos que cierran paso.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-aumentan-nivel-del-arroyo-san-jose-en-guaymas/265107",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
+      {
+        "title": "Beca Gertrudis Bocanegra universaliza apoyos educativos",
+        "summary": "Gobernador Durazo y Presidenta Sheinbaum expanden acceso a educación superior.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/con-beca-gertrudis-bocanegra-gobernador-durazo-y-presidenta-sheinbaum-universalizan-apoyos-en-educacion-superior/",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
+      {
+        "title": "Sector turístico lanza campaña de experiencias en Sonora",
+        "summary": "Iniciativa busca promover destinos locales enfocando en vivencias authenticas.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/impulsa-sector-turistico-de-sonora-campana-de-menos-experimento-mas-experiencia-32235292",
+        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+      },
+      {
         "title": "COBACH investiga presunta discriminación de estudiante visual",
         "summary": "Plantel VII revisa caso tras denuncia sobre trato discriminatorio hacia alumno con discapacidad.",
         "source": "Expreso",
@@ -123,5 +214,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-24T00:45:16.989832-07:00"
+  "last_updated": "2026-09-24T12:48:01.322170-07:00"
 }
