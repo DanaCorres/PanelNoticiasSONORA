@@ -1,239 +1,127 @@
 {
-  "date": "2026-09-23",
-  "run_count": 3,
+  "date": "2026-09-24",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Autoridades aseguran droga y arma en Caborca",
-        "summary": "PESP y Defensa realizan operativo en Caborca asegurando narcóticos y armas.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/23/pesp-y-defensa-aseguran-narcotico-y-arma-en-caborca/",
-        "_added_at": "2026-09-23T17:14:23.542634-07:00"
-      },
-      {
-        "title": "Vigilancia reforzada en carreteras contra retenes ilegales",
-        "summary": "Autoridades mantienen vigilancia preventiva en carreteras de Sonora tras reporte de falso retén.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/mantienen-vigilancia-en-carreteras-de-sonora-para-prevenir-retenes-ilegales/",
-        "_added_at": "2026-09-23T17:14:23.542634-07:00"
-      },
-      {
-        "title": "Robo millonario en joyería de Ciudad Obregón por fraude y extorsión",
-        "summary": "Denuncian robo de alto valor en comercio de Ciudad Obregón tras operación de fraude y extorsión.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/denuncia-robo-millonario-tras-fraude-y-extorsion-en-joyeria-en-ciudad-obregon-l-video/144299",
-        "_added_at": "2026-09-23T12:27:03.516394-07:00"
-      },
-      {
-        "title": "Aseguran droga en pick up en Caborca",
-        "summary": "Decomisados 650 envoltorios de metanfetamina y 462 de mariguana en operativo en Caborca.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/23/aseguran-pick-up-con-650-envoltorios-de-metanfetamina-y-462-de-mariguana-en-caborca/",
-        "_added_at": "2026-09-23T12:27:03.516394-07:00"
-      },
-      {
-        "title": "Grupo criminal capturado tras enfrentamiento en Puerto Peñasco",
-        "summary": "Presuntos delincuentes quedan en prisión después de confrontación en Puerto Peñasco.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/queda-en-prision-grupo-criminal-tras-enfrentamiento-en-puerto-penasco/",
-        "_added_at": "2026-09-23T12:27:03.516394-07:00"
-      },
-      {
-        "title": "Hallan restos humanos semienterrados en Nogales",
-        "summary": "Descubren persona desarticulada en vivienda incendiada de Nogales, posible ocultamiento de crimen.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/09/23/hallan-restos-humanos-semienterrados-en-una-casa-incendiada-de-nogales-se-presume-que-el-fuego-buscaba-ocultar-el-crimen/",
-        "_added_at": "2026-09-23T12:27:03.516394-07:00"
-      },
-      {
-        "title": "Disparos alarman a madres buscadoras cerca de FGR",
-        "summary": "Incidentes con armas de fuego cerca de oficinas federales donde madres buscadoras permanecen en protesta por atención a denuncias.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/disparos-alarman-madres-buscadoras-cerca-fgr-n904990",
-        "_added_at": "2026-09-23T00:54:52.349854-07:00"
-      },
-      {
-        "title": "Accidente fatal en carretera Puerto Peñasco-Caborca",
-        "summary": "Mujer fallece tras volcadura de camioneta en kilómetro 31 cuando conductor perdió control del vehículo.",
+        "title": "Alerta naranja por trayectoria del huracán Polo en Sonora",
+        "summary": "Vigilancia intensificada en la entidad por posible impacto del sistema tropical con escenarios desde mar abierto hasta categoría 1.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/accidente-en-tramo-puerto-penasco-caborca-deja-un-muerto/265007",
-        "_added_at": "2026-09-23T00:54:52.349854-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/huracan-polo-podria-impactar-sonora-en-proximos-dias/265098",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
       },
       {
-        "title": "México y EU frenan drones del narcotráfico en frontera",
-        "summary": "Operativo conjunto entre países para detener uso de drones por grupos criminales en zona fronteriza.",
+        "title": "Intoxicaciones por alcohol suben 28% en Sonora",
+        "summary": "Reportan 384 casos en semana epidemiológica 35, incremento significativo respecto al mismo periodo del año anterior.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/intoxicaciones-por-alcohol-aumentan-28-en-sonora/265068",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
+      },
+      {
+        "title": "Normalistas causan destrozos en Palacio de Gobierno",
+        "summary": "Estudiantes incendian colchones y generan daños en las instalaciones del edificio administrativo estatal.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/mexico-eu-frenan-drones-narco-frontera-n904983",
-        "_added_at": "2026-09-23T00:54:52.349854-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/normalistas-incendian-colchones-causan-destrozos-palacio-gobierno-n905154",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
+      },
+      {
+        "title": "Reportan linchamiento por presunta brujería",
+        "summary": "Incidente de violencia social registrado en la entidad relacionado con creencias populares.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/reportan-linchamiento-presunta-brujeria-n905167",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
       }
     ],
     "politica": [
       {
-        "title": "ISAF propone reprobar cuentas de 23 entes públicos",
-        "summary": "Instituto Superior de Auditoría Fiscal solicita reprobación de informes financieros de organismos estatales.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/isaf-propone-reprobar-cuentas-23-entes-publicos-n905144",
-        "_added_at": "2026-09-23T17:14:23.542634-07:00"
-      },
-      {
-        "title": "Partido Sonorense rechaza llegada de Natalia Rivera",
-        "summary": "Partido Sonorense expresa inconformidad por incorporación de figura política nacional.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/23/partido-sonorense-inconforme-por-la-llegada-de-natalia-rivera/",
-        "_added_at": "2026-09-23T17:14:23.542634-07:00"
-      },
-      {
-        "title": "PRI elabora plataforma electoral 2027 con participación ciudadana",
-        "summary": "Partido Revolucionario Institucional prepara propuestas para elecciones próximas con consulta social.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/pri-prepara-plataforma-electoral-2027-propuestas-ciudadanas-n905076",
-        "_added_at": "2026-09-23T12:27:03.516394-07:00"
-      },
-      {
-        "title": "Senado aprueba reforma para participación laboral femenina",
-        "summary": "Iniciativa legislativa aprobada para incrementar oportunidades de empleo para mujeres en México.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/aprueban-reforma-para-promover-participacion-laboral-femenina/265009",
-        "_added_at": "2026-09-23T00:54:52.349854-07:00"
-      },
-      {
-        "title": "Durazo y Sheinbaum invierten tres mil millones en obras hídricas",
-        "summary": "Gobierno federal destina recursos significativos para infraestructura de agua en Sonora.",
+        "title": "Beca Gertrudis Bocanegra universaliza apoyos educativos superiores",
+        "summary": "Gobernador Durazo y Presidenta Sheinbaum impulsan programa de becas para estudiantes de educación superior.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/durazo-y-sheinbaum-invierten-mas-de-3-mil-millones-en-obras-hidricas/",
-        "_added_at": "2026-09-23T00:54:52.349854-07:00"
+        "url": "https://www.radarsonora.com/con-beca-gertrudis-bocanegra-gobernador-durazo-y-presidenta-sheinbaum-universalizan-apoyos-en-educacion-superior/",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
+      },
+      {
+        "title": "Inicia Parlamento Juvenil 2026 en Congreso de Sonora",
+        "summary": "Jóvenes participantes proponen legislación sobre regulación de redes sociales ante cuerpo legislativo.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/parlamento-juvenil-2026-proponen-ley-para-redes-sociales/265071",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
+      },
+      {
+        "title": "ISAF detecta 619 observaciones al Gobierno estatal",
+        "summary": "Auditoría identifica irregularidades en gobierno estatal y mil 352 en administraciones municipales.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/el-isaf-detecta-619-observaciones-al-gobierno-de-sonora-y-mil-352-a-municipios-31771751",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
+      },
+      {
+        "title": "Seis organismos estatales reprobados en Cuenta Pública 2025",
+        "summary": "17 municipios también resultan sin aprobación en evaluación de cuentas del ejercicio fiscal anterior.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/seis-organismos-estatales-y-17-municipios-quedan-no-aprueban-en-cuenta-publica-2025-32234769",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Estación cuarentenaria ganadera avanza hacia reapertura",
-        "summary": "Progreso favorable en tramitación para reabrir estación de sanidad animal en Nogales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/23/avances-favorables-reabrir-estacion-cuarentenaria-ganadera-nogales-sonora.html",
-        "_added_at": "2026-09-23T17:14:23.542634-07:00"
-      },
-      {
-        "title": "Gobierno amplía opciones de vivienda para familias sonorenses",
-        "summary": "Administración estatal expande programas de acceso a vivienda para población.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/23/amplia-gobierno-de-sonora-oportunidades-de-vivienda-para-las-familias/",
-        "_added_at": "2026-09-23T17:14:23.542634-07:00"
-      },
-      {
-        "title": "Cajeme busca recursos adicionales para infraestructura vial",
-        "summary": "Presidente municipal solicita fondos extra para mejorar calles de Ciudad Obregón.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/23/busca-lamarque-recurso-adicional-para-calles-de-cajeme/",
-        "_added_at": "2026-09-23T17:14:23.542634-07:00"
-      },
-      {
-        "title": "Invierten 3 mil mdp en obras hídricas en Sonora",
-        "summary": "Gobierno federal y estatal destinan recursos para proyectos de agua, incluyendo Presa Centenario.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/plan-integral-de-agua-en-sonora-avanza-con-inversion-millonaria/265024",
-        "_added_at": "2026-09-23T12:27:03.516394-07:00"
-      },
-      {
-        "title": "Unión de Usuarios solicita presupuesto para renovar red de agua",
-        "summary": "Organización demanda asignación de recursos en presupuesto 2027 para infraestructura hídrica.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/union-usuarios-pide-asignar-recursos-presupuesto-2027-renovar-red-agua-n905074",
-        "_added_at": "2026-09-23T12:27:03.516394-07:00"
-      },
-      {
-        "title": "AIMMGM y CANIRAC acuerdan colaboración para Congreso Minero",
-        "summary": "Organismos minero-gastronómicos se unen para organizar evento de minería en Sonora 2026.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/aimmgm-y-canirac-acuerdan-colaboracion-para-congreso-minero/265005",
-        "_added_at": "2026-09-23T00:54:52.349854-07:00"
-      },
-      {
-        "title": "Minería en Sonora demanda más exploración y cambios legales",
-        "summary": "Sector industrial pide reformas a Ley Minera e incremento en actividades de exploración.",
+        "title": "Hasta 70 locales comerciales cerraron en Hermosillo",
+        "summary": "Restaurantes y negocios diversos cierran operaciones dejando locales vacíos en la capital.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/mineria-en-sonora-piden-mas-exploracion-y-cambios-a-la-ley-minera-32068130",
-        "_added_at": "2026-09-23T00:54:52.349854-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/restaurantes-y-otros-negocios-cierran-en-hermosillo-ya-suman-hasta-70-locales-vacios-32147058",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
       },
       {
-        "title": "Gobierno propone aumento presupuestal para LitioMX pese inactividad",
-        "summary": "Federal aumenta once por ciento presupuesto de empresa litiera sin extracción del mineral.",
+        "title": "Hospital Universitario arranca construcción en Etchojoa",
+        "summary": "Gobernador Durazo inicia obra en sur de Sonora cumpliendo compromiso de infraestructura de salud.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/gobernador-durazo-cumple-compromiso-con-el-sur-de-sonora-arranca-construccion-de-hospital-universitario-de-etchojoa/",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
+      },
+      {
+        "title": "Campaña turística impulsa experiencias en Sonora",
+        "summary": "Sector turístico lanza iniciativa \"Menos Experimento, Más Experiencia\" para atraer visitantes.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/propone-gobierno-federal-aumento-del-11-al-presupuesto-de-litiomx-para-2027-pese-a-nula-extraccion-del-metal-32005164",
-        "_added_at": "2026-09-23T00:54:52.349854-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/impulsa-sector-turistico-de-sonora-campana-de-menos-experimento-mas-experiencia-32235292",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
+      },
+      {
+        "title": "Reducen costos de trámites municipales: Canaco",
+        "summary": "Cámara de Comercio reporta disminución en tarifas administrativas para gestiones en municipios.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/logran-reducir-costo-de-tramites-municipales-canaco/144353",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Lluvia extraordinaria provoca desbordamientos en Hermosillo",
-        "summary": "Precipitación intensa causa arroyos desbordados, autos varados y cierre de vías.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/23/lluvia-extraordinaria-en-hermosillo-deja-arroyos-desbordados-carros-varados-y-el-cierre-del-bulevar-navarrete/",
-        "_added_at": "2026-09-23T17:14:23.542634-07:00"
-      },
-      {
-        "title": "Protección Civil alerta sobre precauciones ante lluvias",
-        "summary": "Dependencia emite recomendaciones de seguridad ante eventos hidrometeorológicos en Hermosillo.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/proteccion-civil-pide-extremar-precauciones-ante-lluvias-en-hermosillo-32231592",
-        "_added_at": "2026-09-23T17:14:23.542634-07:00"
-      },
-      {
-        "title": "Ganaderos de Nogales se capacitan contra gusano barrenador",
-        "summary": "Sector ganadero recibe entrenamiento preventivo contra plaga que afecta ganado.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/23/alerta-ranchos-ganaderos-nogales-capacitan-gusano-barrenador.html",
-        "_added_at": "2026-09-23T17:14:23.542634-07:00"
-      },
-      {
-        "title": "Isssteson realiza primer cirugía cardiaca en Hospital Chávez",
-        "summary": "Instituto logra hito médico con intervención quirúrgica cardíaca en nuevo hospital.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/23/isssteson-suma-23-especialistas-y-logra-la-primera-cirugia-de-corazon-en-el-hospital-chavez-habra-nuevas-unidades-quirurgicas-en-2027/",
-        "_added_at": "2026-09-23T17:14:23.542634-07:00"
-      },
-      {
-        "title": "Cruz Roja intensifica prevención de dengue en Nogales",
-        "summary": "Campaña \"Adiós Mosquito\" lleva acciones preventivas casa por casa en ciudad fronteriza.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/23/adios-mosquito-cruz-roja-lleva-prevencion-dengue-casa-casa-nogales.html",
-        "_added_at": "2026-09-23T12:27:03.516394-07:00"
-      },
-      {
-        "title": "Cobach revisará reglamento tras caso de alumno con discapacidad",
-        "summary": "Sistema educativo analiza protocolo de convivencia escolar por situación de estudiante vulnerable.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/tras-caso-de-alumno-con-discapacidad-cobach-revisara-su-reglamento-de-convivencia-escolar-32227741",
-        "_added_at": "2026-09-23T12:27:03.516394-07:00"
-      },
-      {
-        "title": "Huracán Polo se degradó a categoría 4, monitoreo continúa",
-        "summary": "Sistema tropical desciende en intensidad pero meteorólogos vigilan posible trayectoria hacia Sonora.",
+        "title": "COBACH investiga presunta discriminación de estudiante visual",
+        "summary": "Plantel VII revisa caso tras denuncia sobre trato discriminatorio hacia alumno con discapacidad.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/huracan-polo-cambia-de-rumbo-y-podria-acercarse-a-sonora/265034",
-        "_added_at": "2026-09-23T12:27:03.516394-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/cobach-sonora-revisa-caso-de-estudiantes-con-discapacidad/265083",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
       },
       {
-        "title": "Huracán Polo bajo vigilancia con posible afectación Sonora",
-        "summary": "Fenómeno meteorológico podría impactar estado entre 27 y 30 de septiembre según modelos.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/polo-bajo-vigilancia-en-sonora-por-posible-trayectoria/265011",
-        "_added_at": "2026-09-23T00:54:52.349854-07:00"
+        "title": "Reubican a Tadeo tras controversia por discriminación",
+        "summary": "CEDH se pronuncia tras caso viral de presunta discriminación en institución educativa sonorense.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/reubican-a-tadeo-tras-controversia-viral-por-presunta-discriminacion-cedh-habla-sobre-lo-sucedido/144313",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
       },
       {
-        "title": "Sonora recibe médicos rumbo a especialización profesional",
-        "summary": "Miles de profesionales sanitarios arriban a estado para continuar formación médica especializada.",
+        "title": "Unison y Fiscalía atienden víctimas en coordinación",
+        "summary": "Universidad y autoridades crean alianza para brindar apoyo integral a personas afectadas.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/sonora-recibe-miles-medicos-rumbo-una-especialidad-n904987",
-        "_added_at": "2026-09-23T00:54:52.349854-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/unison-fiscalia-unen-esfuerzos-atender-victimas-n905161",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
       },
       {
-        "title": "Primer monumento a Mujer Minera en América Latina en Caborca",
-        "summary": "Caborca albergará obra dedicada a reconocer aporte histórico de mujeres en minería.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/se-tendra-en-caborca-el-primer-monumento-en-america-latina-dedicado-a-la-mujer-minera-32215817",
-        "_added_at": "2026-09-23T00:54:52.349854-07:00"
+        "title": "Población sonorense supera tres millones en 2026",
+        "summary": "INEGI reporta crecimiento demográfico significativo alcanzando nuevo hito poblacional.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-afirma-que-sonora-crece-y-mejora/265085",
+        "_added_at": "2026-09-24T00:45:16.989832-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-23T17:14:23.542634-07:00"
+  "last_updated": "2026-09-24T00:45:16.989832-07:00"
 }
