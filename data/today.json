@@ -1,8 +1,22 @@
 {
   "date": "2026-09-23",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Autoridades aseguran droga y arma en Caborca",
+        "summary": "PESP y Defensa realizan operativo en Caborca asegurando narcóticos y armas.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/23/pesp-y-defensa-aseguran-narcotico-y-arma-en-caborca/",
+        "_added_at": "2026-09-23T17:14:23.542634-07:00"
+      },
+      {
+        "title": "Vigilancia reforzada en carreteras contra retenes ilegales",
+        "summary": "Autoridades mantienen vigilancia preventiva en carreteras de Sonora tras reporte de falso retén.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/mantienen-vigilancia-en-carreteras-de-sonora-para-prevenir-retenes-ilegales/",
+        "_added_at": "2026-09-23T17:14:23.542634-07:00"
+      },
       {
         "title": "Robo millonario en joyería de Ciudad Obregón por fraude y extorsión",
         "summary": "Denuncian robo de alto valor en comercio de Ciudad Obregón tras operación de fraude y extorsión.",
@@ -55,6 +69,20 @@
     ],
     "politica": [
       {
+        "title": "ISAF propone reprobar cuentas de 23 entes públicos",
+        "summary": "Instituto Superior de Auditoría Fiscal solicita reprobación de informes financieros de organismos estatales.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/isaf-propone-reprobar-cuentas-23-entes-publicos-n905144",
+        "_added_at": "2026-09-23T17:14:23.542634-07:00"
+      },
+      {
+        "title": "Partido Sonorense rechaza llegada de Natalia Rivera",
+        "summary": "Partido Sonorense expresa inconformidad por incorporación de figura política nacional.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/23/partido-sonorense-inconforme-por-la-llegada-de-natalia-rivera/",
+        "_added_at": "2026-09-23T17:14:23.542634-07:00"
+      },
+      {
         "title": "PRI elabora plataforma electoral 2027 con participación ciudadana",
         "summary": "Partido Revolucionario Institucional prepara propuestas para elecciones próximas con consulta social.",
         "source": "Uniradio Sonora",
@@ -77,6 +105,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Estación cuarentenaria ganadera avanza hacia reapertura",
+        "summary": "Progreso favorable en tramitación para reabrir estación de sanidad animal en Nogales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/23/avances-favorables-reabrir-estacion-cuarentenaria-ganadera-nogales-sonora.html",
+        "_added_at": "2026-09-23T17:14:23.542634-07:00"
+      },
+      {
+        "title": "Gobierno amplía opciones de vivienda para familias sonorenses",
+        "summary": "Administración estatal expande programas de acceso a vivienda para población.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/23/amplia-gobierno-de-sonora-oportunidades-de-vivienda-para-las-familias/",
+        "_added_at": "2026-09-23T17:14:23.542634-07:00"
+      },
+      {
+        "title": "Cajeme busca recursos adicionales para infraestructura vial",
+        "summary": "Presidente municipal solicita fondos extra para mejorar calles de Ciudad Obregón.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/23/busca-lamarque-recurso-adicional-para-calles-de-cajeme/",
+        "_added_at": "2026-09-23T17:14:23.542634-07:00"
+      },
       {
         "title": "Invierten 3 mil mdp en obras hídricas en Sonora",
         "summary": "Gobierno federal y estatal destinan recursos para proyectos de agua, incluyendo Presa Centenario.",
@@ -114,6 +163,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Lluvia extraordinaria provoca desbordamientos en Hermosillo",
+        "summary": "Precipitación intensa causa arroyos desbordados, autos varados y cierre de vías.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/23/lluvia-extraordinaria-en-hermosillo-deja-arroyos-desbordados-carros-varados-y-el-cierre-del-bulevar-navarrete/",
+        "_added_at": "2026-09-23T17:14:23.542634-07:00"
+      },
+      {
+        "title": "Protección Civil alerta sobre precauciones ante lluvias",
+        "summary": "Dependencia emite recomendaciones de seguridad ante eventos hidrometeorológicos en Hermosillo.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/proteccion-civil-pide-extremar-precauciones-ante-lluvias-en-hermosillo-32231592",
+        "_added_at": "2026-09-23T17:14:23.542634-07:00"
+      },
+      {
+        "title": "Ganaderos de Nogales se capacitan contra gusano barrenador",
+        "summary": "Sector ganadero recibe entrenamiento preventivo contra plaga que afecta ganado.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/23/alerta-ranchos-ganaderos-nogales-capacitan-gusano-barrenador.html",
+        "_added_at": "2026-09-23T17:14:23.542634-07:00"
+      },
+      {
+        "title": "Isssteson realiza primer cirugía cardiaca en Hospital Chávez",
+        "summary": "Instituto logra hito médico con intervención quirúrgica cardíaca en nuevo hospital.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/23/isssteson-suma-23-especialistas-y-logra-la-primera-cirugia-de-corazon-en-el-hospital-chavez-habra-nuevas-unidades-quirurgicas-en-2027/",
+        "_added_at": "2026-09-23T17:14:23.542634-07:00"
+      },
       {
         "title": "Cruz Roja intensifica prevención de dengue en Nogales",
         "summary": "Campaña \"Adiós Mosquito\" lleva acciones preventivas casa por casa en ciudad fronteriza.",
@@ -155,15 +232,8 @@
         "source": "El Sol de Hermosillo",
         "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/se-tendra-en-caborca-el-primer-monumento-en-america-latina-dedicado-a-la-mujer-minera-32215817",
         "_added_at": "2026-09-23T00:54:52.349854-07:00"
-      },
-      {
-        "title": "Inauguran Plaza de Buscadoras y Paseo Memoria Viva Hermosillo",
-        "summary": "Espacios públicos dedicados a madres buscadoras y desaparecidos abren al público hermosillense.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/inauguran-plaza-de-las-buscadoras-y-paseo-de-la-memoria-viva-en-hermosillo-31822874",
-        "_added_at": "2026-09-23T00:54:52.349854-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-23T12:27:03.516394-07:00"
+  "last_updated": "2026-09-23T17:14:23.542634-07:00"
 }
