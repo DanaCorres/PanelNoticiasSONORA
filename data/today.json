@@ -1,8 +1,29 @@
 {
   "date": "2026-09-24",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan prófugo buscado 30 años en San Luis Río Colorado",
+        "summary": "Autoridades detienen a fugitivo de Jalisco con tres décadas de búsqueda en San Luis Río Colorado.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/capturan-en-san-luis-rio-colorado-a-profugo-buscado-durante-30-anos-32252205",
+        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+      },
+      {
+        "title": "Detienen operadores con 18 kilos de drogas en Hermosillo",
+        "summary": "Aseguran fentanilo y heroína ocultados en autobús en la capital sonorense.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/detienen-a-dos-operadores-con-18-kilos-de-fentanilo-y-heroina-ocultos-en-un-autobus-en-hermosillo-31749322",
+        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+      },
+      {
+        "title": "Detienen a dos con armas prohibidas en Nogales",
+        "summary": "Operativo en colonia Héroes asegura armamento ilegal durante vigilancia reforzada.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/24/refuerzan-vigilancia-colonia-heroes-detienen-dos-armas-prohibidas.html",
+        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+      },
       {
         "title": "Disparan a hombre en Hermosillo por presunta deuda",
         "summary": "Sujeto armado ingresó a domicilio en Puerta del Rey y disparó contra un hombre de 34 años, huyendo tras reclamarle deuda.",
@@ -55,6 +76,20 @@
     ],
     "politica": [
       {
+        "title": "Congreso impulsa reformas en salud, seguridad y agua",
+        "summary": "Legisladores presentan propuestas sobre protección de menores y seguridad carretera.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/impulsa-congreso-de-sonora-propuestas-en-salud/265137",
+        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+      },
+      {
+        "title": "García Rojo propone cambios en ley de agua sonorense",
+        "summary": "Legislador solicita informes puntuales de organismos operadores a usuarios.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/rene-garcia-rojo-propone-cambios-ley-de-agua/265138",
+        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+      },
+      {
         "title": "Ayuntamiento de Hermosillo reconoce necesidad de rescate del Centro",
         "summary": "Autoridades admiten que zona céntrica requiere plan integral de recuperación y prometen acciones.",
         "source": "Proyecto Puente",
@@ -98,6 +133,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Dólar sube y peso mexicano cae en Sonora",
+        "summary": "Tipo de cambio adverso afecta cotizaciones de compra y venta.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/finanzas/dolar-sube-y-el-peso-mexicano-cae-este-jueves-24-de-septiembre-revisa-la-compra-y-venta-hoy/144365",
+        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+      },
+      {
+        "title": "Se acaba subsidio de luz en México",
+        "summary": "Ciudadanos deben prepararse para cambios en tarifa eléctrica próximamente.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/se-acaba-subsidio-luz-preparense-cambio-n905323",
+        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+      },
       {
         "title": "Aranceles y dólar reducen siembras agrícolas en Sonora",
         "summary": "Productores advierten caída drástica en garbanzo, sandía y melón por factores externos y climáticos.",
@@ -157,6 +206,34 @@
     ],
     "sociedad": [
       {
+        "title": "Huracán Polo amenaza costas de Sonora con lluvias intensas",
+        "summary": "Protección Civil alerta sobre lluvia mayor a 100 mm y oleaje de 3 metros.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/24/huracan-polo-amenaza-a-sonora-con-lluvias-de-mas-de-100-milimetros-rachas-de-120-kilometros-por-hora-y-oleaje-de-hasta-3-metros/",
+        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+      },
+      {
+        "title": "Nogales firma convenios para mejorar atención médica",
+        "summary": "Ayuntamiento e IMSS Bienestar amplían servicios gratuitos y reducen gastos catastróficos.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/24/ayuntamiento-nogales-firma-convenios-mejorar-atencion-medica-mitigar-gastos-catastroficos.html",
+        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+      },
+      {
+        "title": "Docentes reciben capacitación para detectar crisis emocionales",
+        "summary": "Programa entrena educadores en identificación de problemas mentales estudiantiles.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/docentes-reciben-capacitacion-detectar-crisis-emocionales-n905319",
+        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+      },
+      {
+        "title": "Facilitan trámites y servicios para adultos mayores",
+        "summary": "Autoridades ofrecen atención prioritaria y simplificada a población de tercera edad.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/facilitan-tramites-servicios-adultos-mayores-n905321",
+        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+      },
+      {
         "title": "Hermosillo activa comité de emergencias por huracán Polo",
         "summary": "Autoridades implementan medidas preventivas y revisan refugios ante posible afectación.",
         "source": "El Imparcial",
@@ -197,22 +274,8 @@
         "source": "Diario del Yaqui",
         "url": "https://diariodelyaqui.mx/sonora/reubican-a-tadeo-tras-controversia-viral-por-presunta-discriminacion-cedh-habla-sobre-lo-sucedido/144313",
         "_added_at": "2026-09-24T00:45:16.989832-07:00"
-      },
-      {
-        "title": "Unison y Fiscalía atienden víctimas en coordinación",
-        "summary": "Universidad y autoridades crean alianza para brindar apoyo integral a personas afectadas.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/unison-fiscalia-unen-esfuerzos-atender-victimas-n905161",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
-      },
-      {
-        "title": "Población sonorense supera tres millones en 2026",
-        "summary": "INEGI reporta crecimiento demográfico significativo alcanzando nuevo hito poblacional.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-afirma-que-sonora-crece-y-mejora/265085",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-24T12:48:01.322170-07:00"
+  "last_updated": "2026-09-24T17:16:44.562548-07:00"
 }
