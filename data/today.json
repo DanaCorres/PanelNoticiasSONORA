@@ -1,281 +1,113 @@
 {
-  "date": "2026-09-24",
-  "run_count": 3,
+  "date": "2026-09-25",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Capturan prófugo buscado 30 años en San Luis Río Colorado",
-        "summary": "Autoridades detienen a fugitivo de Jalisco con tres décadas de búsqueda en San Luis Río Colorado.",
+        "title": "Hermosillo registra 449 accidentes viales en 2026",
+        "summary": "Bomberos de Hermosillo atendieron 449 accidentes viales durante el año, mostrando alta incidencia en siniestros viales.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/capturan-en-san-luis-rio-colorado-a-profugo-buscado-durante-30-anos-32252205",
-        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/bomberos-de-hermosillo-intervienen-en-449-accidentes-viales-durante-2026-32256502",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       },
       {
-        "title": "Detienen operadores con 18 kilos de drogas en Hermosillo",
-        "summary": "Aseguran fentanilo y heroína ocultados en autobús en la capital sonorense.",
+        "title": "Aumentan incendios en casas y vehículos durante agosto",
+        "summary": "Se reportó incremento en atenciones por incendios en viviendas y automóviles en Hermosillo durante el mes de agosto.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/detienen-a-dos-operadores-con-18-kilos-de-fentanilo-y-heroina-ocultos-en-un-autobus-en-hermosillo-31749322",
-        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/aumentan-atenciones-por-incendios-de-casas-y-vehiculos-durante-agosto-31983942",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       },
       {
-        "title": "Detienen a dos con armas prohibidas en Nogales",
-        "summary": "Operativo en colonia Héroes asegura armamento ilegal durante vigilancia reforzada.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/24/refuerzan-vigilancia-colonia-heroes-detienen-dos-armas-prohibidas.html",
-        "_added_at": "2026-09-24T17:16:44.562548-07:00"
-      },
-      {
-        "title": "Disparan a hombre en Hermosillo por presunta deuda",
-        "summary": "Sujeto armado ingresó a domicilio en Puerta del Rey y disparó contra un hombre de 34 años, huyendo tras reclamarle deuda.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/24/agresor-entra-a-una-casa-de-puerta-del-rey-en-hermosillo-balea-a-un-hombre-de-34-anos-y-huye-tras-reclamarle-una-presunta-deuda-por-drogas/",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
-      },
-      {
-        "title": "Incendio destruye vivienda en Ures sin víctimas",
-        "summary": "Fuego consumió casa en El Sauz durante madrugada, dejando pérdidas materiales pero sin víctimas fatales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/fuego-consume-vivienda-durante-la-madrugada-en-el-sauz-ures/265114",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
-      },
-      {
-        "title": "Encuentran sin vida al hijo del alcalde Mateo Hernández",
-        "summary": "Cuerpo hallado a costado de carretera perteneciente a familiar del presidente municipal.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/nacional/encuentran-el-cuerpo-sin-vida-del-hijo-del-alcalde-mateo-hernandez-a-un-costado-de-la-carretera/144375",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
-      },
-      {
-        "title": "Alerta naranja por trayectoria del huracán Polo en Sonora",
-        "summary": "Vigilancia intensificada en la entidad por posible impacto del sistema tropical con escenarios desde mar abierto hasta categoría 1.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/huracan-polo-podria-impactar-sonora-en-proximos-dias/265098",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
-      },
-      {
-        "title": "Intoxicaciones por alcohol suben 28% en Sonora",
-        "summary": "Reportan 384 casos en semana epidemiológica 35, incremento significativo respecto al mismo periodo del año anterior.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/intoxicaciones-por-alcohol-aumentan-28-en-sonora/265068",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
-      },
-      {
-        "title": "Normalistas causan destrozos en Palacio de Gobierno",
-        "summary": "Estudiantes incendian colchones y generan daños en las instalaciones del edificio administrativo estatal.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/normalistas-incendian-colchones-causan-destrozos-palacio-gobierno-n905154",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
-      },
-      {
-        "title": "Reportan linchamiento por presunta brujería",
-        "summary": "Incidente de violencia social registrado en la entidad relacionado con creencias populares.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/reportan-linchamiento-presunta-brujeria-n905167",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
+        "title": "Choque frontal fatal en carretera Hermosillo-Ures",
+        "summary": "Un accidente vial entre dos vehículos en la carretera Hermosillo-Ures dejó una persona fallecida.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/policiaca/choque-frontal-en-la-carretera-hermosillo-ures-deja-una-persona-sin-vida-32004020",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Congreso impulsa reformas en salud, seguridad y agua",
-        "summary": "Legisladores presentan propuestas sobre protección de menores y seguridad carretera.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/impulsa-congreso-de-sonora-propuestas-en-salud/265137",
-        "_added_at": "2026-09-24T17:16:44.562548-07:00"
-      },
-      {
-        "title": "García Rojo propone cambios en ley de agua sonorense",
-        "summary": "Legislador solicita informes puntuales de organismos operadores a usuarios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/rene-garcia-rojo-propone-cambios-ley-de-agua/265138",
-        "_added_at": "2026-09-24T17:16:44.562548-07:00"
-      },
-      {
-        "title": "Ayuntamiento de Hermosillo reconoce necesidad de rescate del Centro",
-        "summary": "Autoridades admiten que zona céntrica requiere plan integral de recuperación y prometen acciones.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/24/ayuntamiento-reconoce-que-centro-de-hermosillo-necesita-plan-de-rescate-promete-trabajar-en-ello/",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
-      },
-      {
-        "title": "Poder Judicial demanda 2 mil mdp adicionales para 2027",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/poder-judicial-sonora-va-2-mil-mdp-adicionales-2027-n905270",
-        "summary": "Sector judicial de Sonora solicita presupuesto extra para próximo ejercicio fiscal.",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
-      },
-      {
-        "title": "Beca Gertrudis Bocanegra universaliza apoyos educativos superiores",
-        "summary": "Gobernador Durazo y Presidenta Sheinbaum impulsan programa de becas para estudiantes de educación superior.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/con-beca-gertrudis-bocanegra-gobernador-durazo-y-presidenta-sheinbaum-universalizan-apoyos-en-educacion-superior/",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
-      },
-      {
-        "title": "Inicia Parlamento Juvenil 2026 en Congreso de Sonora",
-        "summary": "Jóvenes participantes proponen legislación sobre regulación de redes sociales ante cuerpo legislativo.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/parlamento-juvenil-2026-proponen-ley-para-redes-sociales/265071",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
-      },
-      {
-        "title": "ISAF detecta 619 observaciones al Gobierno estatal",
-        "summary": "Auditoría identifica irregularidades en gobierno estatal y mil 352 en administraciones municipales.",
+        "title": "IEEyPC declara improcedente reforma estatutaria del PRD",
+        "summary": "El instituto electoral desestimó la reforma integral a estatutos que buscaba transformar al PRD en Sonora.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/el-isaf-detecta-619-observaciones-al-gobierno-de-sonora-y-mil-352-a-municipios-31771751",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ieeypc-declara-improcedente-reforma-integral-a-estatutos-del-prd-en-sonora-32257334",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       },
       {
-        "title": "Seis organismos estatales reprobados en Cuenta Pública 2025",
-        "summary": "17 municipios también resultan sin aprobación en evaluación de cuentas del ejercicio fiscal anterior.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/seis-organismos-estatales-y-17-municipios-quedan-no-aprueban-en-cuenta-publica-2025-32234769",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
+        "title": "PRD Sonora rechaza cambio a MACISO",
+        "summary": "Militantes del PRD en Sonora se oponen a la transformación del partido hacia la nueva agrupación MACISO.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/rechazan-el-cambio-de-prd-sonora-a-maciso/",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
+      },
+      {
+        "title": "Espera por candidatos diputados federales en Morena",
+        "summary": "Continúa la incertidumbre sobre los resultados de la convocatoria para candidatos a diputados federales de Morena.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/continua-la-espera-para-resultados-de-la-convocatoria-para-candidatos-a-diputados-federales-en-morena-32234407",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Dólar sube y peso mexicano cae en Sonora",
-        "summary": "Tipo de cambio adverso afecta cotizaciones de compra y venta.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/finanzas/dolar-sube-y-el-peso-mexicano-cae-este-jueves-24-de-septiembre-revisa-la-compra-y-venta-hoy/144365",
-        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+        "title": "Valles destaca beneficios de Ley de Economía Digital",
+        "summary": "La funcionaria promociona los beneficios de la nueva ley que apoya pagos móviles sin comisiones para pequeños negocios.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-beneficios-de-ley-economia-digital/265169",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       },
       {
-        "title": "Se acaba subsidio de luz en México",
-        "summary": "Ciudadanos deben prepararse para cambios en tarifa eléctrica próximamente.",
+        "title": "Sonora amplía oportunidades para empresas constructoras",
+        "summary": "Se abren nuevas oportunidades y proyectos para que empresas constructoras locales participen en desarrollo de infraestructura.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/se-acaba-subsidio-luz-preparense-cambio-n905323",
-        "_added_at": "2026-09-24T17:16:44.562548-07:00"
+        "url": "https://www.uniradiosonora.com/negocios/abre-sonora-mas-oportunidades-empresas-constructoras-n905377",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       },
       {
-        "title": "Aranceles y dólar reducen siembras agrícolas en Sonora",
-        "summary": "Productores advierten caída drástica en garbanzo, sandía y melón por factores externos y climáticos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/24/productores-advierten-que-practicamente-no-habra-garbanzo-en-sonora-y-sinaloa-mientras-en-la-costa-de-hermosillo-reducen-cultivos-por-aranceles-dolar-y-clima/",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+        "title": "Solo 3% de comercios sonorenses venden en línea",
+        "summary": "Estudio muestra baja adopción del comercio electrónico entre pequeños comerciantes de Sonora.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/solo-tres-por-ciento-de-comercios-venden-en-linea/",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       },
       {
-        "title": "Hermosillo prepara Congreso Internacional Minero 2026",
-        "summary": "Capital sonorense se alista para recibir miles de visitantes en evento sobre minería.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hermosillo-se-prepara-para-recibir-a-miles-de-visitantes-por-congreso-internacional-minero-2026-32248177",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
-      },
-      {
-        "title": "Solo 3% de comercios hermosillenses venden por internet",
-        "summary": "Cámara de Comercio reporta que de 100 mil negocios, mínima proporción opera en plataformas digitales.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/negocios/hermosillo-tiene-100-mil-comercios-pero-3-vende-internet-canaco-n905272",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
-      },
-      {
-        "title": "Valle del Yaqui proyecta sembrar 50% de superficie",
-        "summary": "Productores planean reducción de siembras en importante zona agrícola.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/24/proyectan-sembrar-50-de-superficie-en-el-valle-del-yaqui/",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
-      },
-      {
-        "title": "Hasta 70 locales comerciales cerraron en Hermosillo",
-        "summary": "Restaurantes y negocios diversos cierran operaciones dejando locales vacíos en la capital.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/restaurantes-y-otros-negocios-cierran-en-hermosillo-ya-suman-hasta-70-locales-vacios-32147058",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
-      },
-      {
-        "title": "Hospital Universitario arranca construcción en Etchojoa",
-        "summary": "Gobernador Durazo inicia obra en sur de Sonora cumpliendo compromiso de infraestructura de salud.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/gobernador-durazo-cumple-compromiso-con-el-sur-de-sonora-arranca-construccion-de-hospital-universitario-de-etchojoa/",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
-      },
-      {
-        "title": "Campaña turística impulsa experiencias en Sonora",
-        "summary": "Sector turístico lanza iniciativa \"Menos Experimento, Más Experiencia\" para atraer visitantes.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/impulsa-sector-turistico-de-sonora-campana-de-menos-experimento-mas-experiencia-32235292",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
-      },
-      {
-        "title": "Reducen costos de trámites municipales: Canaco",
-        "summary": "Cámara de Comercio reporta disminución en tarifas administrativas para gestiones en municipios.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/logran-reducir-costo-de-tramites-municipales-canaco/144353",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
+        "title": "Coves realiza obras de infraestructura habitacional",
+        "summary": "La organización avanza en proyectos de infraestructura para vivienda en la entidad.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/realiza-coves-obras-de-infraestructura-para-vivienda/",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Huracán Polo amenaza costas de Sonora con lluvias intensas",
-        "summary": "Protección Civil alerta sobre lluvia mayor a 100 mm y oleaje de 3 metros.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/24/huracan-polo-amenaza-a-sonora-con-lluvias-de-mas-de-100-milimetros-rachas-de-120-kilometros-por-hora-y-oleaje-de-hasta-3-metros/",
-        "_added_at": "2026-09-24T17:16:44.562548-07:00"
-      },
-      {
-        "title": "Nogales firma convenios para mejorar atención médica",
-        "summary": "Ayuntamiento e IMSS Bienestar amplían servicios gratuitos y reducen gastos catastróficos.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/24/ayuntamiento-nogales-firma-convenios-mejorar-atencion-medica-mitigar-gastos-catastroficos.html",
-        "_added_at": "2026-09-24T17:16:44.562548-07:00"
-      },
-      {
-        "title": "Docentes reciben capacitación para detectar crisis emocionales",
-        "summary": "Programa entrena educadores en identificación de problemas mentales estudiantiles.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/docentes-reciben-capacitacion-detectar-crisis-emocionales-n905319",
-        "_added_at": "2026-09-24T17:16:44.562548-07:00"
-      },
-      {
-        "title": "Facilitan trámites y servicios para adultos mayores",
-        "summary": "Autoridades ofrecen atención prioritaria y simplificada a población de tercera edad.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/facilitan-tramites-servicios-adultos-mayores-n905321",
-        "_added_at": "2026-09-24T17:16:44.562548-07:00"
-      },
-      {
-        "title": "Hermosillo activa comité de emergencias por huracán Polo",
-        "summary": "Autoridades implementan medidas preventivas y revisan refugios ante posible afectación.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/24/hermosillo-activa-comite-de-emergencias-por-huracan-polo-y-revisa-zonas-de-riesgo-refugios-y-equipo-ante-posibles-cambios-de-trayectoria/",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
-      },
-      {
-        "title": "Lluvias bloquean acceso a ejido en Guaymas",
-        "summary": "Precipitaciones elevan nivel del arroyo San José generando escurrimientos que cierran paso.",
+        "title": "Población de Sonora envejece, crecen hogares unipersonales",
+        "summary": "Datos del INEGI muestran envejecimiento demográfico y aumento de viviendas de una sola persona en la entidad.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lluvias-aumentan-nivel-del-arroyo-san-jose-en-guaymas/265107",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/la-poblacion-de-sonora-envejece-revela-el-inegi/265148",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       },
       {
-        "title": "Beca Gertrudis Bocanegra universaliza apoyos educativos",
-        "summary": "Gobernador Durazo y Presidenta Sheinbaum expanden acceso a educación superior.",
+        "title": "Durazo amplía atención a personas con discapacidad",
+        "summary": "El gobernador implementa unidades especializadas para mejorar movilidad y atención de personas con discapacidad.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/con-beca-gertrudis-bocanegra-gobernador-durazo-y-presidenta-sheinbaum-universalizan-apoyos-en-educacion-superior/",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+        "url": "https://www.radarsonora.com/con-unidades-especializadas-gobernador-durazo-amplia-atencion-y-movilidad-para-personas-con-discapacidad/",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       },
       {
-        "title": "Sector turístico lanza campaña de experiencias en Sonora",
-        "summary": "Iniciativa busca promover destinos locales enfocando en vivencias authenticas.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/impulsa-sector-turistico-de-sonora-campana-de-menos-experimento-mas-experiencia-32235292",
-        "_added_at": "2026-09-24T12:48:01.322170-07:00"
+        "title": "Sonorenses participan en Olimpiada Mexicana de Matemáticas",
+        "summary": "Estudiantes sonorenses compiten en la olimpiada nacional de matemáticas representando a la entidad.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/participan-sonorenses-en-olimpiada-mexicana-de-matematicas/",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       },
       {
-        "title": "COBACH investiga presunta discriminación de estudiante visual",
-        "summary": "Plantel VII revisa caso tras denuncia sobre trato discriminatorio hacia alumno con discapacidad.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cobach-sonora-revisa-caso-de-estudiantes-con-discapacidad/265083",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
-      },
-      {
-        "title": "Reubican a Tadeo tras controversia por discriminación",
-        "summary": "CEDH se pronuncia tras caso viral de presunta discriminación en institución educativa sonorense.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/reubican-a-tadeo-tras-controversia-viral-por-presunta-discriminacion-cedh-habla-sobre-lo-sucedido/144313",
-        "_added_at": "2026-09-24T00:45:16.989832-07:00"
+        "title": "Legado del periodista Jesús Gutiérrez perdura en San Luis",
+        "summary": "A tres años de su muerte, se reconoce la contribución del comunicador a la información local en San Luis Río Colorado.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/a-tres-anos-de-su-muerte-el-legado-del-periodista-jesus-gutierrez-permanece-presente-32249323",
+        "_added_at": "2026-09-25T01:06:13.267175-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-24T17:16:44.562548-07:00"
+  "last_updated": "2026-09-25T01:06:13.267175-07:00"
 }
