@@ -1,8 +1,36 @@
 {
   "date": "2026-09-25",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Alerta azul activada en 14 municipios por huracán Polo",
+        "summary": "Protección Civil emite alerta preventiva ante categoría 5 del ciclón en el Pacífico para municipios costeros.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/25/sonora-activa-alerta-azul-por-huracan-polo-categoria-5-que-significa-y-cual-es-la-situacion-actual-del-ciclon-en-el-pacifico-mientras-proteccion-civil-vigila-su-evolucion/",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
+      {
+        "title": "Desapariciones concentradas en colonias de Hermosillo",
+        "summary": "Análisis de registros de personas desaparecidas en 2026 identifica zonas con mayor incidencia en capital estatal.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/desaparecidos-en-hermosillo-estas-son-las-colonias-con-mas-registros-en-2026-32265135",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
+      {
+        "title": "35 mil sonorenses migraron por violencia e inseguridad",
+        "summary": "Censo Inegi documenta desplazamiento masivo de residentes por condiciones de seguridad adversas.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/mas-de-35-mil-sonorenses-cambiaron-de-residencia-por-inseguridad-o-violencia-inegi-32253385",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
+      {
+        "title": "Menor se ahoga en represo de Costa de Hermosillo",
+        "summary": "Incidente fatal en zona acuática durante fin de semana registra muerte de persona menor de edad.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/25/muere-menor-ahogado-en-represo-de-la-costa-de-hermosillo/",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
       {
         "title": "Hermosillo registra 449 accidentes viales en 2026",
         "summary": "Bomberos de Hermosillo atendieron 449 accidentes viales durante el año, mostrando alta incidencia en siniestros viales.",
@@ -27,6 +55,20 @@
     ],
     "politica": [
       {
+        "title": "Gobernador amplía servicios para personas con discapacidad",
+        "summary": "Durazo expande cobertura de atención y transporte especializado con unidades nuevas.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/con-unidades-especializadas-gobernador-durazo-amplia-atencion-y-movilidad-para-personas-con-discapacidad/",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
+      {
+        "title": "Julia Huerta se reúne con pastores en Nogales",
+        "summary": "Autoridad local convoca encuentro religioso previo a informe presidencial de Sheinbaum.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/25/julia-huerta-reune-pastores-nogales-previo-informe-sheinbaum-sonora.html",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
+      {
         "title": "IEEyPC declara improcedente reforma estatutaria del PRD",
         "summary": "El instituto electoral desestimó la reforma integral a estatutos que buscaba transformar al PRD en Sonora.",
         "source": "El Sol de Hermosillo",
@@ -49,6 +91,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Impulsan acciones para fortalecer comercio del Centro",
+        "summary": "Hermosillo implementa iniciativas para reactivar actividad económica en zona céntrica.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/impulsan-acciones-fortalecer-actividad-comercial-centro-hermosillo-n905442",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
+      {
+        "title": "Entregan vehículos y equipo al Distrito de Riego 014",
+        "summary": "San Luis Río Colorado recibe maquinaria para mejorar operaciones agrícolas regionales.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/entregan-vehiculos-y-equipo-a-distrito-de-riego-014-32267945",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
+      {
+        "title": "Pescadores del Golfo capacitados en regulación ambiental",
+        "summary": "Santa Clara implementa formación obligatoria en normas de sustentabilidad para sector pesquero.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/capacitan-a-pescadores-del-golfo-de-santa-clara-en-regulacion-ambiental-32266957",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
       {
         "title": "Valles destaca beneficios de Ley de Economía Digital",
         "summary": "La funcionaria promociona los beneficios de la nueva ley que apoya pagos móviles sin comisiones para pequeños negocios.",
@@ -80,6 +143,34 @@
     ],
     "sociedad": [
       {
+        "title": "Peregrinos se reúnen en Magdalena para San Francisco",
+        "summary": "Autoridades emiten recomendaciones de seguridad para viaje de 85 kilómetros anual.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/25/inician-las-peregrinaciones-por-san-francisco-hacia-magdalena-de-kino-y-autoridades-emiten-recomendaciones-para-recorrer-85-kilometros-con-seguridad/",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
+      {
+        "title": "Jornada gratuita de esterilización en Nogales",
+        "summary": "CABA ofrece vacunación antirrábica y servicios para mascotas de comunidades vulnerables.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/09/25/caba-realiza-jornada-gratuita-esterilizacion-vacunacion-pueblitos.html",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
+      {
+        "title": "Elevan iglesia de San José Sánchez del Río a parroquia",
+        "summary": "Nogales celebra elevación de status de templo histórico dedicado a santo mártir.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/25/elevan-parroquia-iglesia-san-jose-sanchez-rio-nogales.html",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
+      {
+        "title": "Liberan 44 bisontes en rancho San Bernardino",
+        "summary": "Agua Prieta recupera especies tras más de 200 años de ausencia en ecosistema regional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/25/liberan-44-bisontes-americanos-en-el-rancho-san-bernardino-de-agua-prieta-tras-mas-de-200-anos-de-ausencia-en-sonora/",
+        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+      },
+      {
         "title": "Población de Sonora envejece, crecen hogares unipersonales",
         "summary": "Datos del INEGI muestran envejecimiento demográfico y aumento de viviendas de una sola persona en la entidad.",
         "source": "Expreso",
@@ -109,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-25T01:06:13.267175-07:00"
+  "last_updated": "2026-09-25T12:49:39.984942-07:00"
 }
