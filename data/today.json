@@ -1,281 +1,106 @@
 {
-  "date": "2026-09-25",
-  "run_count": 3,
+  "date": "2026-09-26",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detienen sospechoso por restos humanos hallados en Nogales",
-        "summary": "Autoridades capturaron a un presunto responsable tras encontrar restos humanos en un domicilio de Nogales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/25/detienen-presunto-responsable-hallazgo-restos-humanos-nogales.html",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
+        "title": "Huracán Polo amenaza Sonora con lluvias y vientos fuertes",
+        "summary": "Gobierno activa comité de emergencia. Se esperan lluvias de hasta 120 mm en San Carlos, Guaymas y regiones serranas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-instala-comite-de-emergencia-por-huracan-polo/265229",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       },
       {
-        "title": "Hombre baleado tras confrontación con sujetos armados en Nogales",
-        "summary": "Un hombre resultó herido de bala durante un enfrentamiento con individuos armados en la ciudad de Nogales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/25/balean-hombre-confrontado-sujetos-armados-nogales.html",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
+        "title": "Policía captura cinco presuntos tiradores en Sonora",
+        "summary": "Agentes de Policía Estatal aprehenden a cinco sujetos implicados en disparos en distintas zonas del estado.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/agentes-de-la-policia-estatal-aprehenden-a-cinco-presuntos-tiradores/",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       },
       {
-        "title": "Detienen dos sujetos por robo de cable de Telmex en Nogales",
-        "summary": "Policías capturaron en flagrancia a dos hombres acusados de robar cableado de Telmex en Nogales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/25/agarran-robando-cable-telmex-nogales-dos-detenidos-flagrancia.html",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
+        "title": "Cinco detenidos con drogas en operativos preventivos",
+        "summary": "Agentes capturan a cinco personas portando sustancias ilícitas en diferentes sectores del estado.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/agentes-preventivos-capturan-a-cinco-personas-con-droga/",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       },
       {
-        "title": "Gobierno refuerza acciones preventivas ante alerta azul por huracán Polo",
-        "summary": "Hermosillo intensifica medidas de protección civil ante la alerta azul activada por el huracán Polo en Sonora.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/25/refuerza-gobierno-acciones-preventivas-ante-alerta-azul-del-huracan-polo-en-hermosillo/",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
-      },
-      {
-        "title": "Alerta azul activada en 14 municipios por huracán Polo",
-        "summary": "Protección Civil emite alerta preventiva ante categoría 5 del ciclón en el Pacífico para municipios costeros.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/25/sonora-activa-alerta-azul-por-huracan-polo-categoria-5-que-significa-y-cual-es-la-situacion-actual-del-ciclon-en-el-pacifico-mientras-proteccion-civil-vigila-su-evolucion/",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
-      },
-      {
-        "title": "Desapariciones concentradas en colonias de Hermosillo",
-        "summary": "Análisis de registros de personas desaparecidas en 2026 identifica zonas con mayor incidencia en capital estatal.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/desaparecidos-en-hermosillo-estas-son-las-colonias-con-mas-registros-en-2026-32265135",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
-      },
-      {
-        "title": "35 mil sonorenses migraron por violencia e inseguridad",
-        "summary": "Censo Inegi documenta desplazamiento masivo de residentes por condiciones de seguridad adversas.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/mas-de-35-mil-sonorenses-cambiaron-de-residencia-por-inseguridad-o-violencia-inegi-32253385",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
-      },
-      {
-        "title": "Menor se ahoga en represo de Costa de Hermosillo",
-        "summary": "Incidente fatal en zona acuática durante fin de semana registra muerte de persona menor de edad.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/25/muere-menor-ahogado-en-represo-de-la-costa-de-hermosillo/",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
-      },
-      {
-        "title": "Hermosillo registra 449 accidentes viales en 2026",
-        "summary": "Bomberos de Hermosillo atendieron 449 accidentes viales durante el año, mostrando alta incidencia en siniestros viales.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/bomberos-de-hermosillo-intervienen-en-449-accidentes-viales-durante-2026-32256502",
-        "_added_at": "2026-09-25T01:06:13.267175-07:00"
-      },
-      {
-        "title": "Aumentan incendios en casas y vehículos durante agosto",
-        "summary": "Se reportó incremento en atenciones por incendios en viviendas y automóviles en Hermosillo durante el mes de agosto.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/aumentan-atenciones-por-incendios-de-casas-y-vehiculos-durante-agosto-31983942",
-        "_added_at": "2026-09-25T01:06:13.267175-07:00"
+        "title": "Muere estudiante arrollado por pick up en San Pedro El Saucito",
+        "summary": "Vehículo golpea a estudiante y conductor se da a la fuga en Hermosillo.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/arrolla-pick-up-a-estudiante-y-se-da-a-la-fuga-en-san-pedro-el-saucito/",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Lamarque niega resultado de encuesta y mantiene apoyo a Morena",
-        "summary": "Javier Lamarque rechazó resultado de encuesta pero reafirmó su respaldo al partido Morena.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lamarque-niega-resultado-de-encuesta-y-descarta-dejar-morena/265208",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
-      },
-      {
-        "title": "Sheinbaum visitará Hermosillo este sábado para presentar obras",
-        "summary": "Presidenta Sheinbaum llegará a Hermosillo este fin de semana para inaugurar proyectos clave en Sonora.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/25/sheinbaum-viene-a-hermosillo-este-sabado-presentara-obras-clave-para-sonora/",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
-      },
-      {
-        "title": "Gobernador Durazo fortalece relaciones con Estados Unidos",
-        "summary": "Paulina Ocaña se reunió con embajador Ronald Johnson para reforzar interlocución Sonora-EE.UU.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/paulina-ocana-reunion-embajador-ronald-johnson-en-sonora/265199",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
-      },
-      {
-        "title": "ASF audita municipios de Sonora por recursos federales 2025",
-        "summary": "Auditoria Superior de la Federación inicia proceso de auditorías a municipios sonorenses por uso de fondos.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/25/asf-e-isaf-arrancan-proceso-de-auditorias-a-municipios-de-sonora-por-recursos-federales-de-2025/",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
-      },
-      {
-        "title": "Gobernador amplía servicios para personas con discapacidad",
-        "summary": "Durazo expande cobertura de atención y transporte especializado con unidades nuevas.",
+        "title": "Gobernador Durazo respalda restricción de celulares en escuelas",
+        "summary": "Autoridad estatal apoya regulación del uso de dispositivos móviles en planteles educativos de Sonora.",
         "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/con-unidades-especializadas-gobernador-durazo-amplia-atencion-y-movilidad-para-personas-con-discapacidad/",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+        "url": "https://www.radarsonora.com/respalda-gobernador-durazo-regulacion-del-uso-de-celulares-en-escuelas-de-sonora/",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       },
       {
-        "title": "Julia Huerta se reúne con pastores en Nogales",
-        "summary": "Autoridad local convoca encuentro religioso previo a informe presidencial de Sheinbaum.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/25/julia-huerta-reune-pastores-nogales-previo-informe-sheinbaum-sonora.html",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
+        "title": "Morena Sonora desmente versiones sobre encuesta interna",
+        "summary": "Comité Ejecutivo Estatal reafirma que solo CNE puede procesar y difundir resultados de sondeo interno.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/morena-sonora-desmiente-versiones-de-resultados-de-encuesta/265225",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       },
       {
-        "title": "IEEyPC declara improcedente reforma estatutaria del PRD",
-        "summary": "El instituto electoral desestimó la reforma integral a estatutos que buscaba transformar al PRD en Sonora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ieeypc-declara-improcedente-reforma-integral-a-estatutos-del-prd-en-sonora-32257334",
-        "_added_at": "2026-09-25T01:06:13.267175-07:00"
+        "title": "Lorenia Valles destaca proyectos federales ante Sheinbaum",
+        "summary": "Funcionaria local destaca programas sociales e infraestructura durante visita de Presidenta a Sonora.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-visita-de-sheinbaum-a-sonora/265226",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       },
       {
-        "title": "PRD Sonora rechaza cambio a MACISO",
-        "summary": "Militantes del PRD en Sonora se oponen a la transformación del partido hacia la nueva agrupación MACISO.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/rechazan-el-cambio-de-prd-sonora-a-maciso/",
-        "_added_at": "2026-09-25T01:06:13.267175-07:00"
-      },
-      {
-        "title": "Espera por candidatos diputados federales en Morena",
-        "summary": "Continúa la incertidumbre sobre los resultados de la convocatoria para candidatos a diputados federales de Morena.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/continua-la-espera-para-resultados-de-la-convocatoria-para-candidatos-a-diputados-federales-en-morena-32234407",
-        "_added_at": "2026-09-25T01:06:13.267175-07:00"
+        "title": "Cajeme aprueba lineamientos del Fondo de Seguridad Pública",
+        "summary": "Ciudad Obregón autoriza normas de uso del fondo destinado a tareas de prevención y seguridad.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/aprueban-lineamientos-de-fondo-de-seguridad-publica-en-cajeme/144458",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Red de drenes en Río Yaqui limpia y lista para temporada",
-        "summary": "Distrito de Riego del Río Yaqui reporta cien por ciento de limpieza en canales y drenes.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/25/red-de-drenes-y-canales-estan-al-cien-por-ciento-limpios-distrito-de-riego-del-rio-yaqui/",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
-      },
-      {
-        "title": "Quintero Arce reabre tras conclusión de asfaltado y señalización",
-        "summary": "Vialidad Quintero Arce en Hermosillo reemplazó pavimento y señalización completando trabajos de mejora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/quintero-arce-reabre-por-completo-tras-concluir-trabajos-de-asfaltado-y-senalizacion-32267642",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
-      },
-      {
-        "title": "Impulsan acciones para fortalecer comercio del Centro",
-        "summary": "Hermosillo implementa iniciativas para reactivar actividad económica en zona céntrica.",
+        "title": "Mujeres operan nueva línea eléctrica en Sonora",
+        "summary": "Inician operaciones femeninas en nuevo servicio de transporte eléctrico en el estado.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/impulsan-acciones-fortalecer-actividad-comercial-centro-hermosillo-n905442",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
-      },
-      {
-        "title": "Entregan vehículos y equipo al Distrito de Riego 014",
-        "summary": "San Luis Río Colorado recibe maquinaria para mejorar operaciones agrícolas regionales.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/entregan-vehiculos-y-equipo-a-distrito-de-riego-014-32267945",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
-      },
-      {
-        "title": "Pescadores del Golfo capacitados en regulación ambiental",
-        "summary": "Santa Clara implementa formación obligatoria en normas de sustentabilidad para sector pesquero.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/capacitan-a-pescadores-del-golfo-de-santa-clara-en-regulacion-ambiental-32266957",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
-      },
-      {
-        "title": "Valles destaca beneficios de Ley de Economía Digital",
-        "summary": "La funcionaria promociona los beneficios de la nueva ley que apoya pagos móviles sin comisiones para pequeños negocios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/lorenia-valles-destaca-beneficios-de-ley-economia-digital/265169",
-        "_added_at": "2026-09-25T01:06:13.267175-07:00"
-      },
-      {
-        "title": "Sonora amplía oportunidades para empresas constructoras",
-        "summary": "Se abren nuevas oportunidades y proyectos para que empresas constructoras locales participen en desarrollo de infraestructura.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/negocios/abre-sonora-mas-oportunidades-empresas-constructoras-n905377",
-        "_added_at": "2026-09-25T01:06:13.267175-07:00"
-      },
-      {
-        "title": "Solo 3% de comercios sonorenses venden en línea",
-        "summary": "Estudio muestra baja adopción del comercio electrónico entre pequeños comerciantes de Sonora.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/solo-tres-por-ciento-de-comercios-venden-en-linea/",
-        "_added_at": "2026-09-25T01:06:13.267175-07:00"
-      },
-      {
-        "title": "Coves realiza obras de infraestructura habitacional",
-        "summary": "La organización avanza en proyectos de infraestructura para vivienda en la entidad.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/realiza-coves-obras-de-infraestructura-para-vivienda/",
-        "_added_at": "2026-09-25T01:06:13.267175-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/mujeres-toman-volante-nueva-linea-electrica-n905536",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Más de cuatro mil personas reciben lentes en jornada solidaria",
-        "summary": "Raúl \"El Pollo\" Castelo realizó jornada de distribución de lentes beneficiando a más de cuatro mil personas.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/25/mas-de-4-mil-personas-beneficiadas-con-la-jornada-de-lentes-de-raul-el-pollo-castelo/",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
+        "title": "IMSS ofrece disculpas tras muerte de cinco bebés",
+        "summary": "Instituto emite comunicado de pésame a familias por fallecimiento de menores en sus instalaciones.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/imss-ofrece-disculpas-familias-tras-muerte-cinco-bebes-n905560",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       },
       {
-        "title": "Congreso de Sonora concluye Parlamento Juvenil con propuestas",
-        "summary": "Evento juvenil en Congreso estatal propone medidas sobre entornos virtuales seguros para menores.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/congreso-sonora-impulsa-parlamento-juvenil-2026/265214",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
+        "title": "Rickettsia suma 50 muertes en Sonora",
+        "summary": "Incremento de fallecimientos por enfermedad transmitida por garrapata en Ciudad Obregón y región.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/suben-a-50-las-defunciones-por-rickettsia-en-sonora/144456",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       },
       {
-        "title": "Volcamiento en carretera a Guaymas deja dos heridos",
-        "summary": "Accidente vehicular en vía hacia Guaymas resultó en dos personas lesionadas.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/deja-volcamiento-dos-heridos-en-la-carretera-a-guaymas-2/",
-        "_added_at": "2026-09-25T17:22:05.934180-07:00"
+        "title": "Convocatoria Premio Municipal del Deporte 2026 en Hermosillo",
+        "summary": "Ayuntamiento abre inscripciones para reconocer a deportistas destacados del municipio.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/abren-convocatoria-para-el-premio-municipal-del-deporte-2026-en-hermosillo-32271945",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       },
       {
-        "title": "Peregrinos se reúnen en Magdalena para San Francisco",
-        "summary": "Autoridades emiten recomendaciones de seguridad para viaje de 85 kilómetros anual.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/25/inician-las-peregrinaciones-por-san-francisco-hacia-magdalena-de-kino-y-autoridades-emiten-recomendaciones-para-recorrer-85-kilometros-con-seguridad/",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
-      },
-      {
-        "title": "Jornada gratuita de esterilización en Nogales",
-        "summary": "CABA ofrece vacunación antirrábica y servicios para mascotas de comunidades vulnerables.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/09/25/caba-realiza-jornada-gratuita-esterilizacion-vacunacion-pueblitos.html",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
-      },
-      {
-        "title": "Elevan iglesia de San José Sánchez del Río a parroquia",
-        "summary": "Nogales celebra elevación de status de templo histórico dedicado a santo mártir.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/25/elevan-parroquia-iglesia-san-jose-sanchez-rio-nogales.html",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
-      },
-      {
-        "title": "Liberan 44 bisontes en rancho San Bernardino",
-        "summary": "Agua Prieta recupera especies tras más de 200 años de ausencia en ecosistema regional.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/25/liberan-44-bisontes-americanos-en-el-rancho-san-bernardino-de-agua-prieta-tras-mas-de-200-anos-de-ausencia-en-sonora/",
-        "_added_at": "2026-09-25T12:49:39.984942-07:00"
-      },
-      {
-        "title": "Población de Sonora envejece, crecen hogares unipersonales",
-        "summary": "Datos del INEGI muestran envejecimiento demográfico y aumento de viviendas de una sola persona en la entidad.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/la-poblacion-de-sonora-envejece-revela-el-inegi/265148",
-        "_added_at": "2026-09-25T01:06:13.267175-07:00"
-      },
-      {
-        "title": "Durazo amplía atención a personas con discapacidad",
-        "summary": "El gobernador implementa unidades especializadas para mejorar movilidad y atención de personas con discapacidad.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/con-unidades-especializadas-gobernador-durazo-amplia-atencion-y-movilidad-para-personas-con-discapacidad/",
-        "_added_at": "2026-09-25T01:06:13.267175-07:00"
-      },
-      {
-        "title": "Sonorenses participan en Olimpiada Mexicana de Matemáticas",
-        "summary": "Estudiantes sonorenses compiten en la olimpiada nacional de matemáticas representando a la entidad.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/participan-sonorenses-en-olimpiada-mexicana-de-matematicas/",
-        "_added_at": "2026-09-25T01:06:13.267175-07:00"
+        "title": "Lanzan convocatoria Juventud Solar 2026 en Sonora",
+        "summary": "Programa busca impulsar proyectos y capacitación en energía renovable para jóvenes sonorenses.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/lanzan-convocatoria-juventud-solar-2026-n905538",
+        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-25T17:22:05.934180-07:00"
+  "last_updated": "2026-09-26T00:56:18.749045-07:00"
 }
