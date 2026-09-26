@@ -1,8 +1,29 @@
 {
   "date": "2026-09-26",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen supervisor de casino por robo en Hermosillo",
+        "summary": "Arrestan a empleado por sustracción de 460 mil pesos y depósitos bancarios irregulares.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/26/detienen-a-un-supervisor-de-casino-en-hermosillo-por-robar-460-mil-pesos-y-depositar-parte-en-un-banco/",
+        "_added_at": "2026-09-26T12:00:26.780564-07:00"
+      },
+      {
+        "title": "Choque frontal en Empalme deja tres lesionados",
+        "summary": "Accidente vial con múltiples vehículos genera heridos en carretera costera.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/26/choque-frontal-en-carretera-deja-tres-personas-lesionadas-en-empalme/",
+        "_added_at": "2026-09-26T12:00:26.780564-07:00"
+      },
+      {
+        "title": "Huracán Polo categoría 4 se aproxima a Sonora",
+        "summary": "Fenómeno meteorológico intenso se dirige hacia Baja California Sur y Sonora.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/26/huracan-polo-sigue-su-trayectoria-rumbo-a-bcs-y-sonora/",
+        "_added_at": "2026-09-26T12:00:26.780564-07:00"
+      },
       {
         "title": "Huracán Polo amenaza Sonora con lluvias y vientos fuertes",
         "summary": "Gobierno activa comité de emergencia. Se esperan lluvias de hasta 120 mm en San Carlos, Guaymas y regiones serranas.",
@@ -34,6 +55,20 @@
     ],
     "politica": [
       {
+        "title": "Sheinbaum encabeza informe en Hermosillo ante miles",
+        "summary": "Presidenta presenta rendición de cuentas con énfasis en honestidad y resultados.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/26/claudia-sheinbaum-encabeza-el-informe-honestidad-y-resultados-en-sonora-en-el-cum-ante-miles-de-sonorenses/",
+        "_added_at": "2026-09-26T12:00:26.780564-07:00"
+      },
+      {
+        "title": "Trabajadores se manifiestan previo a visita presidencial",
+        "summary": "ISSSTE, guarderías y maestros protestan en Hermosillo durante evento de Sheinbaum.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/26/trabajadores-del-issste-guarderias-y-maestros-se-manifiestan-por-fuera-del-cum-previo-a-visita-de-sheinbaum-en-hermosillo/",
+        "_added_at": "2026-09-26T12:00:26.780564-07:00"
+      },
+      {
         "title": "Gobernador Durazo respalda restricción de celulares en escuelas",
         "summary": "Autoridad estatal apoya regulación del uso de dispositivos móviles en planteles educativos de Sonora.",
         "source": "Radar Sonora",
@@ -64,6 +99,27 @@
     ],
     "economia": [
       {
+        "title": "Sheinbaum anuncia 67 mil viviendas del Bienestar",
+        "summary": "Presidenta presenta programa habitacional y múltiples proyectos carreteros e infraestructura.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/sheinbaum-anuncia-obras-y-67-mil-100-viviendas-del-bienestar/265262",
+        "_added_at": "2026-09-26T12:00:26.780564-07:00"
+      },
+      {
+        "title": "Feria del Algodón destaca riqueza agrícola en San Luis",
+        "summary": "Evento exhibe productos agrícolas con alta asistencia y participación local.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/la-feria-del-algodon-nacio-para-mostrar-la-riqueza-agricola-de-san-luis-32272998",
+        "_added_at": "2026-09-26T12:00:26.780564-07:00"
+      },
+      {
+        "title": "Meta construirá cable submarino de internet",
+        "summary": "Empresa tecnológica anuncia proyecto de infraestructura de conectividad.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/26/meta-anuncia-construccion-de-cable-submarino-de-internet/",
+        "_added_at": "2026-09-26T12:00:26.780564-07:00"
+      },
+      {
         "title": "Mujeres operan nueva línea eléctrica en Sonora",
         "summary": "Inician operaciones femeninas en nuevo servicio de transporte eléctrico en el estado.",
         "source": "Uniradio Sonora",
@@ -72,6 +128,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Éxito de Fiesta del Béisbol abre ampliación de estadio",
+        "summary": "Evento exitoso en Nogales impulsa proyecto de expansión del Alberto Hoeffer.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/09/26/exito-fiesta-mexicana-beisbol-abre-paso-posible-ampliacion-estadio-alberto-hoeffer.html",
+        "_added_at": "2026-09-26T12:00:26.780564-07:00"
+      },
+      {
+        "title": "Hermosillo será sede de L'Étape Tour de France",
+        "summary": "Evento ciclístico internacional elige capital con más de 510 inscritos confirmados.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hermosillo-sera-sede-de-l-etape-by-tour-de-france-ya-hay-mas-de-510-inscritos-31642338",
+        "_added_at": "2026-09-26T12:00:26.780564-07:00"
+      },
+      {
+        "title": "Sonorense de 17 años compite en Mundial de Fitness",
+        "summary": "Joven atleta viaja a Escocia para participar en campeonato internacional.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/deportes/joven-sonorense-de-17-anos-va-a-escocia-por-su-pase-al-mundial-de-functional-fitness-32255219",
+        "_added_at": "2026-09-26T12:00:26.780564-07:00"
+      },
       {
         "title": "IMSS ofrece disculpas tras muerte de cinco bebés",
         "summary": "Instituto emite comunicado de pésame a familias por fallecimiento de menores en sus instalaciones.",
@@ -102,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-26T00:56:18.749045-07:00"
+  "last_updated": "2026-09-26T12:00:26.780564-07:00"
 }
