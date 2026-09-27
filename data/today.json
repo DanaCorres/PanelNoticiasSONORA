@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -34,6 +34,20 @@
     ],
     "politica": [
       {
+        "title": "Durazo y Sheinbaum destacan avances de transformación",
+        "summary": "Gobernador y presidenta reconocen resultados en Sonora tras políticas de cambio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/27/destacan-durazo-y-sheinbaum-resultados-de-la-transformacion/",
+        "_added_at": "2026-09-27T12:32:04.241426-07:00"
+      },
+      {
+        "title": "Continúa proceso contra Ruffo Appel pese a domiciliaria",
+        "summary": "FGR avanza investigación contra exfuncionario en prisión preventiva domiciliaria.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/proceso-ruffo-appel-detiene-pese-prision-domiciliaria-fgr-n905633",
+        "_added_at": "2026-09-27T12:32:04.241426-07:00"
+      },
+      {
         "title": "Lamarque tranquilo ante definición de Morena",
         "summary": "Candidato se muestra seguro respecto a decisiones internas de Morena en Sonora.",
         "source": "El Sol de Hermosillo",
@@ -64,6 +78,13 @@
     ],
     "economia": [
       {
+        "title": "Hospital Etchojoa incluirá medicina tradicional mayo",
+        "summary": "Nueva instalación sanitaria ofrecerá atención con enfoque intercultural para indígenas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/hospital-de-etchojoa-tendra-medicina-tradicional-mayo/265294",
+        "_added_at": "2026-09-27T12:32:04.241426-07:00"
+      },
+      {
         "title": "Escasez de pescados y mariscos en Cajeme",
         "summary": "Persiste falta de productos del mar en mercados de Ciudad Obregón.",
         "source": "Diario del Yaqui",
@@ -86,6 +107,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Huracán Polo trae lluvias torrenciales a Sonora martes",
+        "summary": "Sistema meteorológico generará hasta 250 mm de lluvia y vientos de 170 km/h.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/27/sonora-podria-recibir-entre-150-y-250-milimetros-de-lluvia-el-martes-29-de-septiembre-mientras-las-rachas-de-viento-alcanzarian-de-150-a-170-kmh-en-la-costa-y-el-sur-del-estado/",
+        "_added_at": "2026-09-27T12:32:04.241426-07:00"
+      },
+      {
+        "title": "Cierra navegación Yavaros ante aproximación de Polo",
+        "summary": "Autoridades portuarias suspendieron operaciones por condiciones meteorológicas adversas.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/cierran-navegacion-en-yavaros-ante-cercania-del-huracan-polo/265299",
+        "_added_at": "2026-09-27T12:32:04.241426-07:00"
+      },
+      {
+        "title": "Choque fatal en avenida Sufragio Efectivo Obregón",
+        "summary": "Accidente vehicular causó dos muertes en Cajeme.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/policiaca/mueren-dos-tras-fuerte-choque-en-la-sufragio-efectivo/144520",
+        "_added_at": "2026-09-27T12:32:04.241426-07:00"
+      },
+      {
+        "title": "Durazo pide seguir recomendaciones ante huracán",
+        "summary": "Gobernador exhorta a población a acatar indicaciones de Protección Civil durante evento.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/27/pide-durazo-seguir-indicaciones-de-proteccion-civil-ante-llegada-de-fuertes-lluvias-a-sonora/",
+        "_added_at": "2026-09-27T12:32:04.241426-07:00"
+      },
       {
         "title": "Sonora mantiene alerta azul por huracán Polo",
         "summary": "Estado activa protocolo de emergencia ante ciclón tropical que afecta región.",
@@ -116,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-27T01:28:16.991666-07:00"
+  "last_updated": "2026-09-27T12:32:04.241426-07:00"
 }
