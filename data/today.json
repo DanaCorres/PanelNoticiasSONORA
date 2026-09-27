@@ -1,8 +1,22 @@
 {
   "date": "2026-09-26",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Agresión armada en comercio de Ciudad Obregón",
+        "summary": "Reportan enfrentamiento armado dentro de un negocio en la zona de la Cuauhtémoc.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/26/se-registra-agres10n-armad4-al-interior-de-un-comercio-en-la-cuauhtemoc/",
+        "_added_at": "2026-09-26T17:14:25.298505-07:00"
+      },
+      {
+        "title": "FGR refuerza operativos contra falsos retenes en Sonora",
+        "summary": "Fiscalía mantiene patrullajes en carreteras estatales para combatir fraude a automovilistas.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/26/mantiene-fgr-operativos-contra-fals0s-reten3s-en-carreteras-de-sonora/",
+        "_added_at": "2026-09-26T17:14:25.298505-07:00"
+      },
       {
         "title": "Detienen supervisor de casino por robo en Hermosillo",
         "summary": "Arrestan a empleado por sustracción de 460 mil pesos y depósitos bancarios irregulares.",
@@ -55,6 +69,20 @@
     ],
     "politica": [
       {
+        "title": "Sheinbaum presenta reforma sobre nacionalidad presidencial",
+        "summary": "Presidenta anuncia propuesta que limitaría doble nacionalidad en candidatos presidenciales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/09/26/sheinbaum-defiende-reforma-que-limitaria-la-doble-nacionalidad-ningun-presidente-puede-tener-dos-banderas-o-dos-pueblos/",
+        "_added_at": "2026-09-26T17:14:25.298505-07:00"
+      },
+      {
+        "title": "Sheinbaum anuncia rehabilitación del Ocaranza en Hermosillo",
+        "summary": "Presidenta confirma proyecto de infraestructura vial en la capital sonorense.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/sheinbaum-anuncia-rehabilitacion-ocaranza-hermosillo-n905594",
+        "_added_at": "2026-09-26T17:14:25.298505-07:00"
+      },
+      {
         "title": "Sheinbaum encabeza informe en Hermosillo ante miles",
         "summary": "Presidenta presenta rendición de cuentas con énfasis en honestidad y resultados.",
         "source": "El Imparcial",
@@ -99,6 +127,20 @@
     ],
     "economia": [
       {
+        "title": "Pescadores de San Luis se preparan para temporada de camarón",
+        "summary": "Oficina de Pesca brinda orientación a productores para próxima campaña extractiva.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/orienta-oficina-de-pesca-a-pescadores-para-temporada-de-camaron-32288031",
+        "_added_at": "2026-09-26T17:14:25.298505-07:00"
+      },
+      {
+        "title": "San Luis celebra 50 años de cultivo de cebollín",
+        "summary": "Región destaca tradición agrícola en producción de hortaliza de exportación.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/cumple-el-cebollin-50-anos-de-ser-sembrado-en-san-luis-32287815",
+        "_added_at": "2026-09-26T17:14:25.298505-07:00"
+      },
+      {
         "title": "Sheinbaum anuncia 67 mil viviendas del Bienestar",
         "summary": "Presidenta presenta programa habitacional y múltiples proyectos carreteros e infraestructura.",
         "source": "Expreso",
@@ -128,6 +170,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Nogales organiza carrera por conciencia de salud mental",
+        "summary": "Cientos de participantes en evento 5K para promover prevención del suicidio.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/26/nogales-corre-vida-cientos-unen-suicidio.html",
+        "_added_at": "2026-09-26T17:14:25.298505-07:00"
+      },
+      {
+        "title": "Hermosillo se prepara para huracán Polo con refugios",
+        "summary": "Autoridades habilitan centros de albergue y refuerzan vigilancia en zonas vulnerables.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/26/el-huracan-polo-se-acerca-al-golfo-de-california-y-hermosillo-activa-un-operativo-con-refugio-atencion-medica-24-horas-y-limpieza-de-canales-en-bahia-de-kino-y-miguel-aleman/",
+        "_added_at": "2026-09-26T17:14:25.298505-07:00"
+      },
+      {
+        "title": "Guaymas inspecciona arroyos tras paso del huracán Polo",
+        "summary": "Autoridades revisan más de 20 cauces para evaluar daños e identificar riesgos.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/huracan-polo-inspeccionan-arroyos-en-guaymas-y-empalme/265270",
+        "_added_at": "2026-09-26T17:14:25.298505-07:00"
+      },
+      {
+        "title": "Maestros de Cobach demandan mayor capacitación pedagógica",
+        "summary": "Docentes solicitan formación para atender mejor necesidades de estudiantes.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/maestros-de-cobach-piden-mayor-capacitacion-para-atender-a-estudiantes-32288722",
+        "_added_at": "2026-09-26T17:14:25.298505-07:00"
+      },
       {
         "title": "Éxito de Fiesta del Béisbol abre ampliación de estadio",
         "summary": "Evento exitoso en Nogales impulsa proyecto de expansión del Alberto Hoeffer.",
@@ -169,15 +239,8 @@
         "source": "El Sol de Hermosillo",
         "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/abren-convocatoria-para-el-premio-municipal-del-deporte-2026-en-hermosillo-32271945",
         "_added_at": "2026-09-26T00:56:18.749045-07:00"
-      },
-      {
-        "title": "Lanzan convocatoria Juventud Solar 2026 en Sonora",
-        "summary": "Programa busca impulsar proyectos y capacitación en energía renovable para jóvenes sonorenses.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/lanzan-convocatoria-juventud-solar-2026-n905538",
-        "_added_at": "2026-09-26T00:56:18.749045-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-26T12:00:26.780564-07:00"
+  "last_updated": "2026-09-26T17:14:25.298505-07:00"
 }
