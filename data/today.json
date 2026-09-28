@@ -1,8 +1,15 @@
 {
   "date": "2026-09-27",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Dos fallecen en choque en Sufragio Efectivo",
+        "summary": "Accidente vial fatal en avenida Sufragio Efectivo deja dos víctimas mortales.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/policiaca/mueren-dos-tras-fuerte-choque-en-la-sufragio-efectivo/144520",
+        "_added_at": "2026-09-27T17:17:46.647371-07:00"
+      },
       {
         "title": "Hallan cuerpo de mujer en Miguel Alemán",
         "summary": "Descubren cuerpo de mujer en la comisaría Miguel Alemán de Sonora.",
@@ -33,6 +40,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Catorce municipios en Alerta Azul por Polo",
+        "summary": "Autoridades mantienen alerta en 14 municipios sonorenses ante llegada del huracán Polo.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/permanecen-en-alerta-azul-14-municipios-de-sonora-por-huracan-polo-32302705",
+        "_added_at": "2026-09-27T17:17:46.647371-07:00"
+      },
+      {
+        "title": "Gobernador Durazo mantiene despliegue preventivo",
+        "summary": "Gobierno estatal coordina operativo de protección civil ante amenaza del ciclón tropical.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-mantiene-despliegue-preventivo-ante-llegada-de-huracan-polo/",
+        "_added_at": "2026-09-27T17:17:46.647371-07:00"
+      },
+      {
+        "title": "Sonora alista 144 refugios temporales",
+        "summary": "Estado prepara albergues en diversos municipios para resguardo de población vulnerable.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/huracan-polo-albergues-y-operativo-preventivo-en-sonora/265307",
+        "_added_at": "2026-09-27T17:17:46.647371-07:00"
+      },
       {
         "title": "Durazo y Sheinbaum destacan avances de transformación",
         "summary": "Gobernador y presidenta reconocen resultados en Sonora tras políticas de cambio.",
@@ -78,6 +106,13 @@
     ],
     "economia": [
       {
+        "title": "Cierran navegación en Yavaros por Polo",
+        "summary": "Capitanía de Puerto suspende operaciones marítimas para proteger embarcaciones pesqueras.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/cierran-navegacion-en-yavaros-ante-cercania-del-huracan-polo/265299",
+        "_added_at": "2026-09-27T17:17:46.647371-07:00"
+      },
+      {
         "title": "Hospital Etchojoa incluirá medicina tradicional mayo",
         "summary": "Nueva instalación sanitaria ofrecerá atención con enfoque intercultural para indígenas.",
         "source": "Expreso",
@@ -107,6 +142,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Navojoa habilita 13 albergues ante Polo",
+        "summary": "Municipio activa refugios temporales como medida preventiva ante llegada del huracán.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/27/habilitan-13-albergues-en-navojoa-ante-llegada-de-polo/",
+        "_added_at": "2026-09-27T17:17:46.647371-07:00"
+      },
+      {
+        "title": "Carrera por los Bomberos 2026 en Hermosillo",
+        "summary": "Evento benéfico reúne 800 participantes y 40 bomberos en celebración del aniversario.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/27/la-carrera-por-los-bomberos-2026-en-hermosillo-reune-a-800-corredores-y-40-elementos-corren-con-traje-por-el-80-aniversario/",
+        "_added_at": "2026-09-27T17:17:46.647371-07:00"
+      },
+      {
+        "title": "Gobierno impulsa viveros escolares en Hermosillo",
+        "summary": "Estado promueve red de viveros con plantas nativas en escuelas de la capital.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/27/impulsa-gobierno-de-sonora-red-de-viveros-escolares-de-plantas-nativas-en-hermosillo-ues/",
+        "_added_at": "2026-09-27T17:17:46.647371-07:00"
+      },
       {
         "title": "Huracán Polo trae lluvias torrenciales a Sonora martes",
         "summary": "Sistema meteorológico generará hasta 250 mm de lluvia y vientos de 170 km/h.",
@@ -155,15 +211,8 @@
         "source": "Expreso",
         "url": "https://www.expreso.com.mx/noticias/sonora/senador-heriberto-aguilar-destaca-avances-sociales-en-sonora/265280",
         "_added_at": "2026-09-27T01:28:16.991666-07:00"
-      },
-      {
-        "title": "Exposición fotográfica llega a Musas",
-        "summary": "\"El México de los mexicanos III\" abre sus puertas en museo hermosillense.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/llega-a-musas-la-exposicion-fotografica-el-mexico-de-los-mexicanos-iii/",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-27T12:32:04.241426-07:00"
+  "last_updated": "2026-09-27T17:17:46.647371-07:00"
 }
