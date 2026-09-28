@@ -1,218 +1,92 @@
 {
-  "date": "2026-09-27",
-  "run_count": 3,
+  "date": "2026-09-28",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Dos fallecen en choque en Sufragio Efectivo",
-        "summary": "Accidente vial fatal en avenida Sufragio Efectivo deja dos víctimas mortales.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/policiaca/mueren-dos-tras-fuerte-choque-en-la-sufragio-efectivo/144520",
-        "_added_at": "2026-09-27T17:17:46.647371-07:00"
+        "title": "Capturan cinco personas con armas prohibidas",
+        "summary": "Autoridades detienen a cinco individuos en posesión de armas no permitidas en distintos sectores del estado.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/capturan-a-cinco-personas-con-armas-prohibidas-en-distintos-sectores/",
+        "_added_at": "2026-09-28T01:53:16.974661-07:00"
       },
       {
-        "title": "Hallan cuerpo de mujer en Miguel Alemán",
-        "summary": "Descubren cuerpo de mujer en la comisaría Miguel Alemán de Sonora.",
+        "title": "Sonora registra más casos de dengue que cualquier estado",
+        "summary": "Sonora mantiene el primer lugar nacional en casos de dengue confirmados durante el período.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/hallan-cuerpo-de-mujer-entamalado-en-la-comisaria-miguel-aleman/",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
+        "url": "https://entornoinformativo.com.mx/se-mantiene-sonora-en-primer-lugar-en-casos-de-dengue-en-el-pais/",
+        "_added_at": "2026-09-28T01:53:16.974661-07:00"
       },
       {
-        "title": "Asesinan a comerciante en Ciudad Obregón",
-        "summary": "Comerciante muere por disparos en Ciudad Obregón, Sonora.",
+        "title": "Restringen navegación en litoral sonorense por huracán",
+        "summary": "Autoridades cierran zona de navegación entre Bahía de Kino y Huatabampito por efectos de Polo.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/asesinan-a-balazos-a-comerciante-en-ciudad-obregon/",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
-      },
-      {
-        "title": "Localizan dos osamentas en Nogales",
-        "summary": "Encuentran dos restos óseos en zona El Bellotoso de Nogales.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/localizan-dos-osamentas-en-la-zona-el-bellotoso-en-nogales/",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
-      },
-      {
-        "title": "Capturan narcomenudista en Caborca",
-        "summary": "Detienen a distribuidor de drogas con mercancía en Caborca.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/capturan-a-narcomenudista-bien-surtido-en-caborca/",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
+        "url": "https://entornoinformativo.com.mx/restringen-navegacion-en-litoral-sonorense-entre-bahia-de-kino-y-huatabampito/",
+        "_added_at": "2026-09-28T01:53:16.974661-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Catorce municipios en Alerta Azul por Polo",
-        "summary": "Autoridades mantienen alerta en 14 municipios sonorenses ante llegada del huracán Polo.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/permanecen-en-alerta-azul-14-municipios-de-sonora-por-huracan-polo-32302705",
-        "_added_at": "2026-09-27T17:17:46.647371-07:00"
+        "title": "Morena anuncia coordinadores estatales este lunes",
+        "summary": "Movimiento Morena definirá coordinadores en siete estados incluyendo Sonora en evento nacional.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/morena-definira-este-lunes-a-sus-coordinadores-en-siete-estados-sonora-sera-uno-de-los-anuncios/144543",
+        "_added_at": "2026-09-28T01:53:16.974661-07:00"
       },
       {
-        "title": "Gobernador Durazo mantiene despliegue preventivo",
-        "summary": "Gobierno estatal coordina operativo de protección civil ante amenaza del ciclón tropical.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/gobernador-durazo-mantiene-despliegue-preventivo-ante-llegada-de-huracan-polo/",
-        "_added_at": "2026-09-27T17:17:46.647371-07:00"
-      },
-      {
-        "title": "Sonora alista 144 refugios temporales",
-        "summary": "Estado prepara albergues en diversos municipios para resguardo de población vulnerable.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/huracan-polo-albergues-y-operativo-preventivo-en-sonora/265307",
-        "_added_at": "2026-09-27T17:17:46.647371-07:00"
-      },
-      {
-        "title": "Durazo y Sheinbaum destacan avances de transformación",
-        "summary": "Gobernador y presidenta reconocen resultados en Sonora tras políticas de cambio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/27/destacan-durazo-y-sheinbaum-resultados-de-la-transformacion/",
-        "_added_at": "2026-09-27T12:32:04.241426-07:00"
-      },
-      {
-        "title": "Continúa proceso contra Ruffo Appel pese a domiciliaria",
-        "summary": "FGR avanza investigación contra exfuncionario en prisión preventiva domiciliaria.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/proceso-ruffo-appel-detiene-pese-prision-domiciliaria-fgr-n905633",
-        "_added_at": "2026-09-27T12:32:04.241426-07:00"
-      },
-      {
-        "title": "Lamarque tranquilo ante definición de Morena",
-        "summary": "Candidato se muestra seguro respecto a decisiones internas de Morena en Sonora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/javier-lamarque-se-muestra-tranquilo-ante-definicion-de-morena-en-sonora-32289440",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
-      },
-      {
-        "title": "Durazo adelanta visita de Sheinbaum a Sonora",
-        "summary": "Gobernador prepara agenda para que presidenta revise obras estratégicas en estado.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/alfonso-durazo-adelanta-agenda-de-claudia-sheinbaum-en-sonora-revisara-obras-estrategicas-32215641",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
-      },
-      {
-        "title": "Morena espera definir coordinador antes de septiembre",
-        "summary": "Partido busca concretar nombramiento de coordinador estatal antes de fin de mes.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/morena-sonora-espera-definir-a-su-coordinador-antes-de-que-termine-septiembre-32069589",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
-      },
-      {
-        "title": "Sheinbaum y Durazo hacen historia en Sonora",
-        "summary": "Presidenta y gobernador realizan acciones significativas en transformación estatal.",
+        "title": "Senador pide vigilancia en casillas electorales",
+        "summary": "Manlio Fabio Beltrones hace llamado a supervisar casillas para respetar resultados electorales.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/sheinbaum-y-durazo-hacen-historia-en-sonora/",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
+        "url": "https://entornoinformativo.com.mx/pide-vigilar-casillas-para-que-se-respeten-resultados-el-senador-manlio-fabio-beltrones/",
+        "_added_at": "2026-09-28T01:53:16.974661-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Cierran navegación en Yavaros por Polo",
-        "summary": "Capitanía de Puerto suspende operaciones marítimas para proteger embarcaciones pesqueras.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cierran-navegacion-en-yavaros-ante-cercania-del-huracan-polo/265299",
-        "_added_at": "2026-09-27T17:17:46.647371-07:00"
+        "title": "Mineros y restauranteros preparan Congreso Internacional",
+        "summary": "Sectores locales se unen para participar en congreso internacional con perspectiva comercial.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/hacen-mancuerna-mineros-y-restauranteros-locales-con-miras-a-congreso-internacional/",
+        "_added_at": "2026-09-28T01:53:16.974661-07:00"
       },
       {
-        "title": "Hospital Etchojoa incluirá medicina tradicional mayo",
-        "summary": "Nueva instalación sanitaria ofrecerá atención con enfoque intercultural para indígenas.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/hospital-de-etchojoa-tendra-medicina-tradicional-mayo/265294",
-        "_added_at": "2026-09-27T12:32:04.241426-07:00"
-      },
-      {
-        "title": "Escasez de pescados y mariscos en Cajeme",
-        "summary": "Persiste falta de productos del mar en mercados de Ciudad Obregón.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/persiste-escasez-de-pescados-y-mariscos-en-cajeme/144502",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
-      },
-      {
-        "title": "Lluvias afectan a tiangueros de Cajeme",
-        "summary": "Comerciantes de mercadillos en Ciudad Obregón sufren impacto por precipitaciones.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/afectan-lluvias-a-tiangueros-de-cajeme/144504",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
-      },
-      {
-        "title": "Esperan repunte de turismo en Guaymas-San Carlos",
-        "summary": "Proyectan aumento en llegada de visitantes a destino costero de Sonora.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/esperan-repunte-movimiento-de-pajaros-de-la-nieve-en-guaymas-san-carlos/",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
+        "title": "Deficiencias continúan en transporte público estatal",
+        "summary": "Persisten problemas en servicios de transporte público de Sonora según reportes recientes.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/continuan-deficiencias-en-el-transporte-publico/",
+        "_added_at": "2026-09-28T01:53:16.974661-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Navojoa habilita 13 albergues ante Polo",
-        "summary": "Municipio activa refugios temporales como medida preventiva ante llegada del huracán.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/27/habilitan-13-albergues-en-navojoa-ante-llegada-de-polo/",
-        "_added_at": "2026-09-27T17:17:46.647371-07:00"
-      },
-      {
-        "title": "Carrera por los Bomberos 2026 en Hermosillo",
-        "summary": "Evento benéfico reúne 800 participantes y 40 bomberos en celebración del aniversario.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/27/la-carrera-por-los-bomberos-2026-en-hermosillo-reune-a-800-corredores-y-40-elementos-corren-con-traje-por-el-80-aniversario/",
-        "_added_at": "2026-09-27T17:17:46.647371-07:00"
-      },
-      {
-        "title": "Gobierno impulsa viveros escolares en Hermosillo",
-        "summary": "Estado promueve red de viveros con plantas nativas en escuelas de la capital.",
-        "source": "Despierta Sonora",
-        "url": "https://despiertasonora.com/2026/09/27/impulsa-gobierno-de-sonora-red-de-viveros-escolares-de-plantas-nativas-en-hermosillo-ues/",
-        "_added_at": "2026-09-27T17:17:46.647371-07:00"
-      },
-      {
-        "title": "Huracán Polo trae lluvias torrenciales a Sonora martes",
-        "summary": "Sistema meteorológico generará hasta 250 mm de lluvia y vientos de 170 km/h.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/27/sonora-podria-recibir-entre-150-y-250-milimetros-de-lluvia-el-martes-29-de-septiembre-mientras-las-rachas-de-viento-alcanzarian-de-150-a-170-kmh-en-la-costa-y-el-sur-del-estado/",
-        "_added_at": "2026-09-27T12:32:04.241426-07:00"
-      },
-      {
-        "title": "Cierra navegación Yavaros ante aproximación de Polo",
-        "summary": "Autoridades portuarias suspendieron operaciones por condiciones meteorológicas adversas.",
+        "title": "Suspenden clases en Sonora por huracán Polo",
+        "summary": "Actividades escolares se pausan desde lunes en 25 municipios y martes-miércoles en 72 municipios.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/cierran-navegacion-en-yavaros-ante-cercania-del-huracan-polo/265299",
-        "_added_at": "2026-09-27T12:32:04.241426-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/huracan-polo-suspenden-clases-en-72-municipios-de-sonora/265313",
+        "_added_at": "2026-09-28T01:53:16.974661-07:00"
       },
       {
-        "title": "Choque fatal en avenida Sufragio Efectivo Obregón",
-        "summary": "Accidente vehicular causó dos muertes en Cajeme.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/policiaca/mueren-dos-tras-fuerte-choque-en-la-sufragio-efectivo/144520",
-        "_added_at": "2026-09-27T12:32:04.241426-07:00"
+        "title": "Hermosillo pasa a Alerta Verde por huracán Polo",
+        "summary": "Capital estatal activa nivel de alerta máximo ante aproximación de fenómeno meteorológico.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hermosillo-pasa-a-alerta-verde-por-acercamiento-del-huracan-polo-32312363",
+        "_added_at": "2026-09-28T01:53:16.974661-07:00"
       },
       {
-        "title": "Durazo pide seguir recomendaciones ante huracán",
-        "summary": "Gobernador exhorta a población a acatar indicaciones de Protección Civil durante evento.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/27/pide-durazo-seguir-indicaciones-de-proteccion-civil-ante-llegada-de-fuertes-lluvias-a-sonora/",
-        "_added_at": "2026-09-27T12:32:04.241426-07:00"
-      },
-      {
-        "title": "Sonora mantiene alerta azul por huracán Polo",
-        "summary": "Estado activa protocolo de emergencia ante ciclón tropical que afecta región.",
+        "title": "Polo genera vientos de 150 km/h en costas sonorenses",
+        "summary": "Guaymas y San Carlos enfrentarán vientos extremos y olas de hasta 8 metros según pronósticos.",
         "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-mantiene-alerta-azul-por-huracan-polo/265281",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
+        "url": "https://www.expreso.com.mx/noticias/sonora/huracan-polo-asi-seran-sus-efectos-en-las-playas-sonorenses/265325",
+        "_added_at": "2026-09-28T01:53:16.974661-07:00"
       },
       {
-        "title": "Lluvias de Polo elevan alerta por dengue",
-        "summary": "Precipitaciones del ciclón incrementan riesgo de propagación del virus en Sonora.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/salud/lluvias-polo-elevan-alerta-dengue-sonora-n905618",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
-      },
-      {
-        "title": "Senador destaca inversión en programas sociales",
-        "summary": "Heriberto Aguilar resalta más de 20 mil millones en beneficios sociales estatales.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/senador-heriberto-aguilar-destaca-avances-sociales-en-sonora/265280",
-        "_added_at": "2026-09-27T01:28:16.991666-07:00"
+        "title": "Aplican casi 12 mil vacunas contra sarampión",
+        "summary": "Campaña de vacunación contra sarampión avanza en Sonora con cobertura significativa.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/aplican-casi-12-mil-vacunas-contra-sarampion/",
+        "_added_at": "2026-09-28T01:53:16.974661-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-27T17:17:46.647371-07:00"
+  "last_updated": "2026-09-28T01:53:16.974661-07:00"
 }
