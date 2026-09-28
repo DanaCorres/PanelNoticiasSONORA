@@ -1,8 +1,22 @@
 {
   "date": "2026-09-28",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Localizan dos fosas clandestinas en Nogales",
+        "summary": "Descubren dos fosas clandestinas en Nogales tras denuncia anónima. Madre espera confirmar identidad de restos.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/28/localizan-dos-fosas-clandestinas-nogales-madre-espera-confirmar-si-uno-restos-es-su-hijo.html",
+        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+      },
+      {
+        "title": "Identifican ejecutados afuera de funeraria en Ciudad Obregón",
+        "summary": "Identifican cuerpos de personas ejecutadas halladas en el exterior de una funeraria en Ciudad Obregón.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/policiaca/identifican-a-ejecutados-afuera-de-funeraria-en-ciudad-obregon/144558",
+        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+      },
       {
         "title": "Capturan cinco personas con armas prohibidas",
         "summary": "Autoridades detienen a cinco individuos en posesión de armas no permitidas en distintos sectores del estado.",
@@ -27,6 +41,20 @@
     ],
     "politica": [
       {
+        "title": "Morena define coordinador en Sonora para 2027",
+        "summary": "Morena define este lunes quién encabezará la coordinación partidista en Sonora y seis estados más rumbo a elecciones 2027.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/09/28/morena-definira-hoy-quien-encabezara-la-coordinacion-en-sonora-y-otros-seis-estados-rumbo-a-las-elecciones-de-2027-en-medio-de-reclamos-por-las-encuestas/",
+        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+      },
+      {
+        "title": "Julia Huerta destaca informe de Sheinbaum en Nogales",
+        "summary": "Funcionaria destaca segundo informe de Sheinbaum y respaldo a transformación durante gira en Nogales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/28/julia-huerta-destaca-informe-sheinbaum-respaldo-transformacion-nogales.html",
+        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+      },
+      {
         "title": "Morena anuncia coordinadores estatales este lunes",
         "summary": "Movimiento Morena definirá coordinadores en siete estados incluyendo Sonora en evento nacional.",
         "source": "Diario del Yaqui",
@@ -43,6 +71,27 @@
     ],
     "economia": [
       {
+        "title": "Reducen transporte en Hermosillo y Cajeme por lluvia",
+        "summary": "IMTES reduce unidades de transporte en Hermosillo y Cajeme por efectos de lluvias del huracán Polo.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/28/reduciran-unidades-de-transporte-en-hermosillo-y-cajeme-por-lluvias-de-polo-imtes/",
+        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+      },
+      {
+        "title": "Comercio refuerza medidas de seguridad por Polo",
+        "summary": "Sector comercial de Sonora llama a reforzar medidas de seguridad ante impacto del huracán Polo.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/28/llama-sector-comercial-a-reforzar-medidas-de-seguridad-ante-lluvias-por-polo/",
+        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+      },
+      {
+        "title": "Alerta sobre fraudes cibernéticos a beneficiarios",
+        "summary": "Secretaría de Bienestar advierte sobre estafas electrónicas dirigidas a beneficiarios en Sonora.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/alerta-la-secretaria-de-bienestar-en-sonora-sobre-fraudes-ciberneticos-a-beneficiarios-32307959",
+        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+      },
+      {
         "title": "Mineros y restauranteros preparan Congreso Internacional",
         "summary": "Sectores locales se unen para participar en congreso internacional con perspectiva comercial.",
         "source": "Entorno Informativo",
@@ -58,6 +107,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Hermosillo y 13 municipios en Alerta Amarilla por Polo",
+        "summary": "Alerta amarilla por peligro medio en catorce municipios de Sonora por acercamiento del huracán Polo.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/eleva-alerta-amarilla-hermosillo-y-otros-municipios-por-polo/265358",
+        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+      },
+      {
+        "title": "Suspenden clases presenciales en universidades de Sonora",
+        "summary": "Universidades de Sonora cierran en clases presenciales por efectos del huracán Polo.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/universidades-de-sonora-suspenderan-clases-presenciales-por-efectos-de-polo-32321498",
+        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+      },
+      {
+        "title": "Guaymas y Cajeme activan medidas preventivas por Polo",
+        "summary": "Guaymas y Cajeme implementan medidas preventivas ante avance del huracán Polo hacia la región.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/guaymas-y-cajeme-se-preparan-ante-el-impacto-de-huracan-polo/265350",
+        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+      },
+      {
+        "title": "Junta de Caminos despliega operativo por emergencias",
+        "summary": "Junta de Caminos activa operativo carretero de emergencia con 200 trabajadores para atender daños por Polo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/28/huracan-polo-en-sonora-junta-de-caminos-despliega-a-mas-de-200-trabajadores-para-atender-emergencias-en-carreteras-para-atender-posibles-derrumbes-y-crecidas-de-arroyos/",
+        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+      },
       {
         "title": "Suspenden clases en Sonora por huracán Polo",
         "summary": "Actividades escolares se pausan desde lunes en 25 municipios y martes-miércoles en 72 municipios.",
@@ -88,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-28T01:53:16.974661-07:00"
+  "last_updated": "2026-09-28T14:36:04.032805-07:00"
 }
