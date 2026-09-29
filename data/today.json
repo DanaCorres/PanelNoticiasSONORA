@@ -1,239 +1,113 @@
 {
-  "date": "2026-09-28",
-  "run_count": 3,
+  "date": "2026-09-29",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Nogales ajusta operativos ante hechos violentos recientes",
-        "summary": "Autoridades locales revisan estrategias de seguridad en Mesa de Seguridad por incremento delictivo.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/09/28/nogales-analiza-hechos-violentos-mesa-seguridad-ajusta-operativos.html",
-        "_added_at": "2026-09-28T18:29:06.653002-07:00"
+        "title": "Hermosillo en Alerta Naranja por huracán Polo",
+        "summary": "Autoridades activan albergues y evacuaciones preventivas en zonas de alto riesgo ante llegada del huracán Polo a Sonora.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/esta-hermosillo-en-alerta-naranja-por-huracan/",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       },
       {
-        "title": "Denuncian presunto robo en retén de FGR en Nogales",
-        "summary": "Ciudadano de 76 años ratifica denuncia por presunto robo durante revisión en punto de control federal.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/28/mis-76-anos-no-dejo-pisotear-manuel-ratifica-denuncia-presunto-robo-reten-fgr.html",
-        "_added_at": "2026-09-28T18:29:06.653002-07:00"
-      },
-      {
-        "title": "Alerta sobre fraudes cibernéticos a beneficiarios en Sonora",
-        "summary": "Secretaría de Bienestar advierte a ciudadanos sobre estafas dirigidas a receptores de apoyos sociales.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/alerta-la-secretaria-de-bienestar-en-sonora-sobre-fraudes-ciberneticos-a-beneficiarios-32307959",
-        "_added_at": "2026-09-28T18:29:06.653002-07:00"
-      },
-      {
-        "title": "Localizan dos fosas clandestinas en Nogales",
-        "summary": "Descubren dos fosas clandestinas en Nogales tras denuncia anónima. Madre espera confirmar identidad de restos.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/28/localizan-dos-fosas-clandestinas-nogales-madre-espera-confirmar-si-uno-restos-es-su-hijo.html",
-        "_added_at": "2026-09-28T14:36:04.032805-07:00"
-      },
-      {
-        "title": "Identifican ejecutados afuera de funeraria en Ciudad Obregón",
-        "summary": "Identifican cuerpos de personas ejecutadas halladas en el exterior de una funeraria en Ciudad Obregón.",
+        "title": "Cajeme y Navojoa en alerta naranja por huracán",
+        "summary": "Municipios suben nivel de alerta ante cercanía del huracán Polo que afecta región de Ciudad Obregón.",
         "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/policiaca/identifican-a-ejecutados-afuera-de-funeraria-en-ciudad-obregon/144558",
-        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+        "url": "https://diariodelyaqui.mx/sonora/cajeme-y-navojoa-suben-a-alerta-naranja-por-cercania-del-huracan-polo/144621",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       },
       {
-        "title": "Capturan cinco personas con armas prohibidas",
-        "summary": "Autoridades detienen a cinco individuos en posesión de armas no permitidas en distintos sectores del estado.",
+        "title": "Hombre asesinado a balazos en colonia Eusebio Kino",
+        "summary": "Víctima fatal en ataque armado registrado en vivienda de Hermosillo.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/capturan-a-cinco-personas-con-armas-prohibidas-en-distintos-sectores/",
-        "_added_at": "2026-09-28T01:53:16.974661-07:00"
+        "url": "https://entornoinformativo.com.mx/asesinan-a-balazos-a-hombre-en-su-vivienda-en-la-colonia-eusebio-kino/",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       },
       {
-        "title": "Sonora registra más casos de dengue que cualquier estado",
-        "summary": "Sonora mantiene el primer lugar nacional en casos de dengue confirmados durante el período.",
+        "title": "Camionazo en Costa de Hermosillo deja víctimas",
+        "summary": "Un muerto y 46 heridos tras vuelco de camión en zona costera de Hermosillo.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/se-mantiene-sonora-en-primer-lugar-en-casos-de-dengue-en-el-pais/",
-        "_added_at": "2026-09-28T01:53:16.974661-07:00"
-      },
-      {
-        "title": "Restringen navegación en litoral sonorense por huracán",
-        "summary": "Autoridades cierran zona de navegación entre Bahía de Kino y Huatabampito por efectos de Polo.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/restringen-navegacion-en-litoral-sonorense-entre-bahia-de-kino-y-huatabampito/",
-        "_added_at": "2026-09-28T01:53:16.974661-07:00"
+        "url": "https://entornoinformativo.com.mx/deja-camionazo-un-muerto-y-46-heridos-en-la-costa-de-hermosillo/",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Lorenia Valles coordinadora de Defensa de Transformación Sonora",
-        "summary": "Senadora con licencia es designada para encabezar movimiento político en el estado.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com.mx/son/sonora/2026/09/28/lorenia-valles-es-elegida-como-la-coordinador-de-la-defensa-de-la-transformacion-para-sonora/",
-        "_added_at": "2026-09-28T18:29:06.653002-07:00"
-      },
-      {
-        "title": "Alí Camacho denuncia amenaza de muerte por liderazgo partidista",
-        "summary": "Dirigente del Partido Sonorense reporta presuntas amenazas para abandonar cargo directivo.",
+        "title": "Lorenia Valles designada Coordinadora en Sonora",
+        "summary": "Morena designa a Valles como Coordinadora de la Defensa de la Transformación para Sonora rumbo a 2027.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ali-camacho-denuncia-presunta-amenaza-de-muerte-para-dejar-dirigencia-del-partido-sonorense-32327268",
-        "_added_at": "2026-09-28T18:29:06.653002-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/lorenia-valles-sampedro-es-designada-como-coordinadora-de-la-defensa-de-la-transformacion-en-sonora-32330083",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       },
       {
-        "title": "PRI Sonora presenta plataforma electoral rumbo 2027",
-        "summary": "Institución política lanza iniciativa \"Primero Sonora\" para próximos comicios.",
+        "title": "Líderes locales respaldan a Lorenia Valles",
+        "summary": "Javier Lamarque y Froylán Gámez destacan unidad en apoyo a la designación de Valles.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/exaspirantes-respaldan-designacion-de-lorenia-valles/265393",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
+      },
+      {
+        "title": "Gobernador reconoce designación de Lorenia Valles",
+        "summary": "Mandatario estatal respalda decisión de Morena para coordinación de campaña en Sonora.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/pri-sonora-lanza-primero-sonora-rumbo-a-la-plataforma-electoral-2027-32231442",
-        "_added_at": "2026-09-28T18:29:06.653002-07:00"
-      },
-      {
-        "title": "PAN presenta programa nacional de soluciones en Sonora",
-        "summary": "Partido Acción Nacional difunde su propuesta electoral en el estado.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/presentan-en-sonora-programa-nacional-del-pan-soluciones-para-mexico-32257670",
-        "_added_at": "2026-09-28T18:29:06.653002-07:00"
-      },
-      {
-        "title": "Morena define coordinador en Sonora para 2027",
-        "summary": "Morena define este lunes quién encabezará la coordinación partidista en Sonora y seis estados más rumbo a elecciones 2027.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/09/28/morena-definira-hoy-quien-encabezara-la-coordinacion-en-sonora-y-otros-seis-estados-rumbo-a-las-elecciones-de-2027-en-medio-de-reclamos-por-las-encuestas/",
-        "_added_at": "2026-09-28T14:36:04.032805-07:00"
-      },
-      {
-        "title": "Julia Huerta destaca informe de Sheinbaum en Nogales",
-        "summary": "Funcionaria destaca segundo informe de Sheinbaum y respaldo a transformación durante gira en Nogales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/28/julia-huerta-destaca-informe-sheinbaum-respaldo-transformacion-nogales.html",
-        "_added_at": "2026-09-28T14:36:04.032805-07:00"
-      },
-      {
-        "title": "Morena anuncia coordinadores estatales este lunes",
-        "summary": "Movimiento Morena definirá coordinadores en siete estados incluyendo Sonora en evento nacional.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/morena-definira-este-lunes-a-sus-coordinadores-en-siete-estados-sonora-sera-uno-de-los-anuncios/144543",
-        "_added_at": "2026-09-28T01:53:16.974661-07:00"
-      },
-      {
-        "title": "Senador pide vigilancia en casillas electorales",
-        "summary": "Manlio Fabio Beltrones hace llamado a supervisar casillas para respetar resultados electorales.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/pide-vigilar-casillas-para-que-se-respeten-resultados-el-senador-manlio-fabio-beltrones/",
-        "_added_at": "2026-09-28T01:53:16.974661-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/reconoce-gobernador-de-sonora-designacion-de-lorenia-valles-de-morena-32332683",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Gobernador Durazo invierte 300 millones en infraestructura municipal",
-        "summary": "Recursos destinados a obras sociales y deportivas en municipios del estado.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/gobernador-durazo-transforma-municipios-con-inversion-de-300-millones-en-infraestructura-social-y-deportiva/",
-        "_added_at": "2026-09-28T18:29:06.653002-07:00"
+        "title": "Protección Civil suspende actividades en 14 municipios",
+        "summary": "Actividades no esenciales paralizadas en municipios sonorenses por efectos del huracán Polo.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/proteccion-civil-suspende-actividades-no-esenciales-en-14-municipios-de-sonora/",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       },
       {
-        "title": "Reducen transporte en Hermosillo y Cajeme por lluvia",
-        "summary": "IMTES reduce unidades de transporte en Hermosillo y Cajeme por efectos de lluvias del huracán Polo.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/28/reduciran-unidades-de-transporte-en-hermosillo-y-cajeme-por-lluvias-de-polo-imtes/",
-        "_added_at": "2026-09-28T14:36:04.032805-07:00"
+        "title": "H Bus suspende servicios por huracán Polo",
+        "summary": "Transporte público detiene operaciones en Hermosillo por impacto del fenómeno climático.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/h-bus-suspende-polo-n905834",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       },
       {
-        "title": "Comercio refuerza medidas de seguridad por Polo",
-        "summary": "Sector comercial de Sonora llama a reforzar medidas de seguridad ante impacto del huracán Polo.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/28/llama-sector-comercial-a-reforzar-medidas-de-seguridad-ante-lluvias-por-polo/",
-        "_added_at": "2026-09-28T14:36:04.032805-07:00"
-      },
-      {
-        "title": "Alerta sobre fraudes cibernéticos a beneficiarios",
-        "summary": "Secretaría de Bienestar advierte sobre estafas electrónicas dirigidas a beneficiarios en Sonora.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/alerta-la-secretaria-de-bienestar-en-sonora-sobre-fraudes-ciberneticos-a-beneficiarios-32307959",
-        "_added_at": "2026-09-28T14:36:04.032805-07:00"
-      },
-      {
-        "title": "Mineros y restauranteros preparan Congreso Internacional",
-        "summary": "Sectores locales se unen para participar en congreso internacional con perspectiva comercial.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/hacen-mancuerna-mineros-y-restauranteros-locales-con-miras-a-congreso-internacional/",
-        "_added_at": "2026-09-28T01:53:16.974661-07:00"
-      },
-      {
-        "title": "Deficiencias continúan en transporte público estatal",
-        "summary": "Persisten problemas en servicios de transporte público de Sonora según reportes recientes.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/continuan-deficiencias-en-el-transporte-publico/",
-        "_added_at": "2026-09-28T01:53:16.974661-07:00"
+        "title": "Negocios cierran preventivamente por Polo",
+        "summary": "Kowi, Caffenio y Smart Fit anuncian cierre de sucursales ante llegada del huracán.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/huracan-polo-kowi-caffenio-y-smart-fit-anuncian-suspension-de-actividades-y-cierres-preventivos/144619",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Huracán Polo suspende actividades en 14 municipios sonorenses",
-        "summary": "Autoridades paralizan operaciones comerciales, escolares y laborales no esenciales por precaución.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/sonora-suspende-actividades-por-polo-en-14-municipios/265378",
-        "_added_at": "2026-09-28T18:29:06.653002-07:00"
+        "title": "Albergues activados en Hermosillo por Polo",
+        "summary": "Autoridades habilitan refugios temporales para atender a población desplazada por fenómeno climático.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/hermosillo-activa-albergues-paso-polo-n905832",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       },
       {
-        "title": "Suspenden clases martes y miércoles en San Luis Río Colorado",
-        "summary": "Sistema educativo cierra por riesgos climatológicos derivados del huracán Polo.",
+        "title": "San Luis verifica albergues ante huracán",
+        "summary": "Protección Civil inspecciona refugios temporales en San Luis Río Colorado y El Golfo.",
         "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/suspenden-clases-martes-y-miercoles-en-san-luis-rio-colorado-32321064",
-        "_added_at": "2026-09-28T18:29:06.653002-07:00"
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/verifican-albergues-temporales-en-san-luis-y-el-golfo-ante-el-paso-del-huracan-polo-32324765",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       },
       {
-        "title": "Empalme activa tres albergues por huracán Polo",
-        "summary": "Municipio de Guaymas habilita refugios temporales para proteger población vulnerable.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/28/activa-empalme-tres-albergues-por-hucan-polo/",
-        "_added_at": "2026-09-28T18:29:06.653002-07:00"
+        "title": "Apoyos alimentarios llegan a comunidades yaquis",
+        "summary": "Ramón Flores distribuye recursos alimentarios en territorio de pueblos indígenas.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/ramon-flores-acerca-apoyos-alimentarios-a-comunidades-del-territorio-yaqui/",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       },
       {
-        "title": "Nogales restringe celulares en escuelas a partir de noviembre",
-        "summary": "Municipio implementa nueva regulación sobre uso de dispositivos móviles en planteles educativos.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/09/28/nogales-respalda-regulacion-uso-celulares-escuelas-partir-noviembre.html",
-        "_added_at": "2026-09-28T18:29:06.653002-07:00"
-      },
-      {
-        "title": "Hermosillo y 13 municipios en Alerta Amarilla por Polo",
-        "summary": "Alerta amarilla por peligro medio en catorce municipios de Sonora por acercamiento del huracán Polo.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/eleva-alerta-amarilla-hermosillo-y-otros-municipios-por-polo/265358",
-        "_added_at": "2026-09-28T14:36:04.032805-07:00"
-      },
-      {
-        "title": "Suspenden clases presenciales en universidades de Sonora",
-        "summary": "Universidades de Sonora cierran en clases presenciales por efectos del huracán Polo.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/universidades-de-sonora-suspenderan-clases-presenciales-por-efectos-de-polo-32321498",
-        "_added_at": "2026-09-28T14:36:04.032805-07:00"
-      },
-      {
-        "title": "Guaymas y Cajeme activan medidas preventivas por Polo",
-        "summary": "Guaymas y Cajeme implementan medidas preventivas ante avance del huracán Polo hacia la región.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/guaymas-y-cajeme-se-preparan-ante-el-impacto-de-huracan-polo/265350",
-        "_added_at": "2026-09-28T14:36:04.032805-07:00"
-      },
-      {
-        "title": "Junta de Caminos despliega operativo por emergencias",
-        "summary": "Junta de Caminos activa operativo carretero de emergencia con 200 trabajadores para atender daños por Polo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/28/huracan-polo-en-sonora-junta-de-caminos-despliega-a-mas-de-200-trabajadores-para-atender-emergencias-en-carreteras-para-atender-posibles-derrumbes-y-crecidas-de-arroyos/",
-        "_added_at": "2026-09-28T14:36:04.032805-07:00"
-      },
-      {
-        "title": "Suspenden clases en Sonora por huracán Polo",
-        "summary": "Actividades escolares se pausan desde lunes en 25 municipios y martes-miércoles en 72 municipios.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/huracan-polo-suspenden-clases-en-72-municipios-de-sonora/265313",
-        "_added_at": "2026-09-28T01:53:16.974661-07:00"
-      },
-      {
-        "title": "Hermosillo pasa a Alerta Verde por huracán Polo",
-        "summary": "Capital estatal activa nivel de alerta máximo ante aproximación de fenómeno meteorológico.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hermosillo-pasa-a-alerta-verde-por-acercamiento-del-huracan-polo-32312363",
-        "_added_at": "2026-09-28T01:53:16.974661-07:00"
+        "title": "Enfermera muere al volcar cuatrimoto",
+        "summary": "Accidente fatal en carretera a Ures deja una víctima mortal.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/muere-enfermera-al-volcar-cuatrimoto-en-la-carretera-a-ures/",
+        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-28T18:29:06.653002-07:00"
+  "last_updated": "2026-09-29T01:54:03.812135-07:00"
 }
