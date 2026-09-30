@@ -1,8 +1,36 @@
 {
   "date": "2026-09-29",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Huracán Polo causa daños en caminos y servicios en Sonora",
+        "summary": "El huracán Polo afectó carreteras, energía eléctrica y servicios en comunidades como Suaqui Grande. Autoridades activaron protocolos de emergencia.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/29/huracan-polo-causa-danos-en-caminos-y-afectaciones-en-la-energia-en-suaqui/",
+        "_added_at": "2026-09-29T18:04:25.024211-07:00"
+      },
+      {
+        "title": "COE ordena evacuación de zonas de alto riesgo por Polo",
+        "summary": "Centro de Operaciones de Emergencia llamó a evacuar áreas vulnerables ante efectos del huracán Polo en el estado.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/llama-coe-a-evacuar-zonas-de-alto-riesgo-ante-efectos-del-huracan-polo/",
+        "_added_at": "2026-09-29T18:04:25.024211-07:00"
+      },
+      {
+        "title": "Nogales bajo alerta por lluvias e inundaciones de Polo",
+        "summary": "Huracán Polo mantiene en alerta a Nogales con pronóstico de lluvias intensas e inundaciones en la región.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/29/polo-golpea-sonora-lluvias-inundaciones-alerta-extienden-hasta-nogales.html",
+        "_added_at": "2026-09-29T18:04:25.024211-07:00"
+      },
+      {
+        "title": "Aseguran máquinas tragamonedas en operativo en Cajeme",
+        "summary": "AMIC y Defensa aseguraron seis máquinas tragamonedas durante cateo realizado en Ciudad Obregón.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/29/aseguran-amic-y-defensa-seis-maquinas-tragamonedas-durante-cateo-en-cajeme/",
+        "_added_at": "2026-09-29T18:04:25.024211-07:00"
+      },
       {
         "title": "Asesinan a dos personas en sector noreste de Ciudad Obregón",
         "summary": "Dos homicidios registrados en el sector noreste de Ciudad Obregón durante contingencia del huracán Polo.",
@@ -44,16 +72,23 @@
         "source": "Entorno Informativo",
         "url": "https://entornoinformativo.com.mx/asesinan-a-balazos-a-hombre-en-su-vivienda-en-la-colonia-eusebio-kino/",
         "_added_at": "2026-09-29T01:54:03.812135-07:00"
-      },
-      {
-        "title": "Camionazo en Costa de Hermosillo deja víctimas",
-        "summary": "Un muerto y 46 heridos tras vuelco de camión en zona costera de Hermosillo.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/deja-camionazo-un-muerto-y-46-heridos-en-la-costa-de-hermosillo/",
-        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Partido Verde rechaza acusación contra Maloro Acosta",
+        "summary": "Partido Verde niega acusaciones de Alí Camacho sobre amenaza de muerte a Maloro Acosta y analiza acciones legales.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/29/partido-verde-rechaza-acusacion-de-ali-camacho-contra-maloro-acosta-por-amenaza-de-muerte-analiza-acciones-legales/",
+        "_added_at": "2026-09-29T18:04:25.024211-07:00"
+      },
+      {
+        "title": "Astiazarán supervisa trabajos preventivos por Polo",
+        "summary": "El gobernador supervisa labores preventivas de autoridades ante efectos del huracán Polo en Sonora.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/supervisa-tono-astiazaran-trabajos-preventivos-por-polo/",
+        "_added_at": "2026-09-29T18:04:25.024211-07:00"
+      },
       {
         "title": "Lorenia Valles designada coordinadora con respaldo político local",
         "summary": "Líderes como Julia Huerta y Javier Lamarque respaldan designación de Lorenia Valles para coordinar en Sonora.",
@@ -143,6 +178,34 @@
     ],
     "sociedad": [
       {
+        "title": "Hermosillo en alerta naranja por huracán Polo",
+        "summary": "Hermosillo mantiene operativo preventivo con 50 personas en albergues ante amenaza del huracán Polo.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/hermosillo-mantiene-operativo-preventivo-50-personas-ya-estan-en-albergues-32347204",
+        "_added_at": "2026-09-29T18:04:25.024211-07:00"
+      },
+      {
+        "title": "Secretaría de Salud atiende afectados en Guaymas y Empalme",
+        "summary": "Autoridades sanitarias brindan atención a población impactada por Polo en Guaymas y Empalme.",
+        "source": "Despierta Sonora",
+        "url": "https://despiertasonora.com/2026/09/29/atiende-secretaria-de-salud-a-poblacion-afectada-por-polo-en-guaymas-y-empalme/",
+        "_added_at": "2026-09-29T18:04:25.024211-07:00"
+      },
+      {
+        "title": "Frente frío llega a Hermosillo con descensos de temperatura",
+        "summary": "Primer frente frío de la temporada afectará Sonora a partir del viernes con temperaturas hasta 17 grados.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/primer-frente-frio-de-la-temporada-tendra-mas-efectos-en-sonora-a-partir-del-viernes-32346092",
+        "_added_at": "2026-09-29T18:04:25.024211-07:00"
+      },
+      {
+        "title": "Refuerzan operativo para proteger peregrinos a Magdalena",
+        "summary": "Autoridades activan medidas de seguridad para 25 mil peregrinos que viajan hacia Magdalena.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/29/mas-25-mil-peregrinos-van-rumbo-magdalena-refuerzan-operativo-carretera.html",
+        "_added_at": "2026-09-29T18:04:25.024211-07:00"
+      },
+      {
         "title": "Huracán Polo toca tierra segunda vez en Sonora por Guaymas",
         "summary": "Sistema reentra como categoría 1 entre Cajeme y Guaymas generando lluvias intensas en región.",
         "source": "El Imparcial",
@@ -183,22 +246,8 @@
         "source": "Tribuna de San Luis",
         "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/verifican-albergues-temporales-en-san-luis-y-el-golfo-ante-el-paso-del-huracan-polo-32324765",
         "_added_at": "2026-09-29T01:54:03.812135-07:00"
-      },
-      {
-        "title": "Apoyos alimentarios llegan a comunidades yaquis",
-        "summary": "Ramón Flores distribuye recursos alimentarios en territorio de pueblos indígenas.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/ramon-flores-acerca-apoyos-alimentarios-a-comunidades-del-territorio-yaqui/",
-        "_added_at": "2026-09-29T01:54:03.812135-07:00"
-      },
-      {
-        "title": "Enfermera muere al volcar cuatrimoto",
-        "summary": "Accidente fatal en carretera a Ures deja una víctima mortal.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/muere-enfermera-al-volcar-cuatrimoto-en-la-carretera-a-ures/",
-        "_added_at": "2026-09-29T01:54:03.812135-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-29T13:27:30.052775-07:00"
+  "last_updated": "2026-09-29T18:04:25.024211-07:00"
 }
