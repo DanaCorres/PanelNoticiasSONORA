@@ -1,8 +1,29 @@
 {
   "date": "2026-09-30",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fraude criminal alcanza máximo histórico en Sonora",
+        "summary": "Delitos de fraude aumentan significativamente en la entidad, registrando la tasa más alta documentada en el último reporte de victimización.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/fraude-aumenta-en-sonora-y-alcanza-su-mayor-tasa-en-la-envipe-2026-32151545",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
+      {
+        "title": "DEA localiza a buscado Mayito Flaco en Ciudad de México",
+        "summary": "Autoridades estadounidenses ubican al criminal y actualizan ficha de búsqueda con información reciente de paradero.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/dea-ubica-mayito-flaco-cdmx-difunde-ficha-busqueda-actualizada-n906091",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
+      {
+        "title": "Gobernador mantiene atención a damnificados por Polo",
+        "summary": "Alfonso Durazo coordina apoyo continuo para afectados por daños ocasionados por paso del huracán en el estado.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/30/mantiene-sonora-atencion-a-afectados-por-huracan-polo-informa-alfonso-durazo/",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
       {
         "title": "Ejecutado en vivienda de colonia Eusebio Kino",
         "summary": "Identifican a persona fallecida tras ataque en su domicilio en Hermosillo.",
@@ -34,6 +55,20 @@
     ],
     "politica": [
       {
+        "title": "Julia Huerta respalda a Lorenia Valles como coordinadora",
+        "summary": "Funcionaria estatal confirma que Sonora tiene coordinadora designada y expresa apoyo a la nueva autoridad.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/30/julia-huerta-respalda-lorenia-valles-sonora-tiene-coordinadora.html",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
+      {
+        "title": "Lorenia Valles inicia nueva etapa como coordinadora estatal",
+        "summary": "Funcionaria anuncia inicio de gestión tras su designación oficial en cargo de coordinación en Sonora.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/sonora/2026/09/30/lorenia-valles-habla-su-designacion-hoy-comienza-nueva-etapa.html",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
+      {
         "title": "Valles respalda a Sheinbaum y Durazo para beneficios sonorenses",
         "summary": "Funcionaria reafirma coordinación entre gobiernos federal y estatal.",
         "source": "Expreso",
@@ -57,6 +92,34 @@
     ],
     "economia": [
       {
+        "title": "Presa Punta de Agua llega a capacidad máxima tras lluvias",
+        "summary": "Embalse en Guaymas recupera 100 por ciento de almacenamiento gracias a precipitaciones del huracán Polo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/30/despues-de-meses-con-poca-agua-la-presa-punta-de-agua-en-guaymas-alcanza-su-maxima-capacidad-tras-las-lluvias-de-polo-que-significa-esto-para-las-comunidades-que-dependen-de-su-almacenamiento/",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
+      {
+        "title": "Huracán Polo reduce actividad comercial en Hermosillo",
+        "summary": "Paso del ciclón genera impacto negativo en operaciones comerciales de la capital estatal.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/09/30/huracan-polo-reduce-actividad-comercial-en-hermosillo/",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
+      {
+        "title": "Bacanora sonorense busca expansión a nuevos mercados",
+        "summary": "Productores locales trabajan en profesionalización e impulsan certificación para fortalecer marcas nacionales e internacionales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/30/sonora-impulsa-la-certificacion-del-bacanora-productores-buscan-profesionalizar-la-industria-y-llegar-a-nuevos-mercados-para-fortalecer-sus-marcas-dentro-y-fuera-de-mexico/",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
+      {
+        "title": "Rastro de Grupo Kowi se inunda en Navojoa por tormentas",
+        "summary": "Infraestructura ganadera sufre daños severos tras fuertes precipitaciones causadas por huracán Polo.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/09/30/se-inunda-rastro-de-grupo-kowi-tras-fuertes-lluvias-en-navojoa-por-huracan-polo/",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
+      {
         "title": "Ventas caen 90% en Mercado Municipal por resguardo",
         "summary": "Comerciantes reportan crisis económica tras confinamiento por Polo.",
         "source": "Entorno Informativo",
@@ -72,6 +135,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Alerta por falso calendario de pensiones en octubre",
+        "summary": "Autoridades advierten sobre información fraudulenta sobre registros de trámites de pensiones.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/bienestar-sonora-alerta-por-falso-calendario-de-registro-para-pensiones-en-octubre-32359743",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
+      {
+        "title": "Guaymas y Empalme quedan inundadas tras paso de Polo",
+        "summary": "Comunidades costeras sufren inundaciones severas; familias evacúan viviendas con apoyo de autoridades.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/09/30/tras-el-paso-de-polo-comunidades-de-guaymas-y-empalme-quedan-bajo-el-agua-familias-salen-de-sus-viviendas-inundadas-entre-calles-de-dificil-acceso-y-reciben-apoyo-de-la-secretaria-de-marina/",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
+      {
+        "title": "Servicios de salud mantienen operación durante huracán Polo",
+        "summary": "Instituciones médicas en Sonora continúan funcionando y ateniendo a población durante emergencia climatológica.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/instituciones-de-salud-en-sonora-continuaran-en-operacion-ante-la-trayectoria-de-polo-32324183",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
+      {
+        "title": "CBTIS 33 firma convenios con universidades de San Luis",
+        "summary": "Institución educativa establece acuerdos académicos para fortalecer opciones de formación profesional regional.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/cbtis-33-realiza-convenios-con-universidades-de-slrc-32346640",
+        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+      },
       {
         "title": "Tormenta Polo afecta 14 municipios con alerta amarilla",
         "summary": "Sistema meteorológico genera inundaciones en sur de Sonora con saldo blanco.",
@@ -102,5 +193,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-30T01:53:36.371073-07:00"
+  "last_updated": "2026-09-30T13:32:39.334658-07:00"
 }
