@@ -1,267 +1,106 @@
 {
-  "date": "2026-09-30",
-  "run_count": 3,
+  "date": "2026-10-01",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Hallan cuerpo semienterrado en Nogales",
-        "summary": "Localizan restos humanos en zona La Escondida al surponiente de Nogales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/30/hallazgo-escondida-localizan-cuerpo-semienterrado-surponiente-nogales.html",
-        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+        "title": "Feminicidio en Miguel Alemán: detienen al responsable",
+        "summary": "Hombre queda en prisión acusado de feminicidio contra su pareja en la comisaría Miguel Alemán.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/queda-en-prision-por-feminicidio-de-su-pareja-en-la-comisaria-miguel-aleman/",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
       },
       {
-        "title": "Cateo en Nogales termina con detención",
-        "summary": "Operación de cateo en Fundo Legal resulta en una persona detenida y trasladada.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/30/cateo-nogales-termina-persona-detenida-trasladada-hermosillo.html",
-        "_added_at": "2026-09-30T18:04:15.910771-07:00"
-      },
-      {
-        "title": "Evacuan a 45 trabajadores por gases tóxicos",
-        "summary": "Intoxicación química en pastelería de Nogales requiere evacuación y hospitalizaciones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/09/30/evacuan-a-45-trabajadores-de-una-pasteleria-en-nogales-por-gases-toxicos-de-productos-de-limpieza-cuatro-estan-hospitalizados/",
-        "_added_at": "2026-09-30T18:04:15.910771-07:00"
-      },
-      {
-        "title": "Fraude criminal alcanza máximo histórico en Sonora",
-        "summary": "Delitos de fraude aumentan significativamente en la entidad, registrando la tasa más alta documentada en el último reporte de victimización.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/fraude-aumenta-en-sonora-y-alcanza-su-mayor-tasa-en-la-envipe-2026-32151545",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
-      },
-      {
-        "title": "DEA localiza a buscado Mayito Flaco en Ciudad de México",
-        "summary": "Autoridades estadounidenses ubican al criminal y actualizan ficha de búsqueda con información reciente de paradero.",
+        "title": "Tres bebés mueren por brotes infecciosos en IMSS",
+        "summary": "Fallecen tres menores de edad tras brotes infecciosos registrados en instalaciones del IMSS.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/dea-ubica-mayito-flaco-cdmx-difunde-ficha-busqueda-actualizada-n906091",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/tres-bebes-mueren-tras-brotes-infecciosos-imss-n906217",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
       },
       {
-        "title": "Gobernador mantiene atención a damnificados por Polo",
-        "summary": "Alfonso Durazo coordina apoyo continuo para afectados por daños ocasionados por paso del huracán en el estado.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/30/mantiene-sonora-atencion-a-afectados-por-huracan-polo-informa-alfonso-durazo/",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
-      },
-      {
-        "title": "Ejecutado en vivienda de colonia Eusebio Kino",
-        "summary": "Identifican a persona fallecida tras ataque en su domicilio en Hermosillo.",
+        "title": "Detienen a presunto agresor en Cinco de Mayo",
+        "summary": "Arrestan a individuo acusado de violencia doméstica en colonia Cinco de Mayo.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/identifican-a-ejecutado-en-su-vivienda-en-la-colonia-eusebio-kino/",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
-      },
-      {
-        "title": "Dos hombres asesinados en Ciudad Obregón",
-        "summary": "Reportan dos homicidios en municipio de Cajeme durante últimas horas.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/arrebatan-la-vida-a-dos-hombres-en-ciudad-obregon/",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
-      },
-      {
-        "title": "Detienen a septuagenario por feminicidio en San Ignacio",
-        "summary": "Capturan adulto mayor acusado de homicidio en localidad de Sonora.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/arrestan-a-septuagenario-por-feminicidio-en-san-ignacio-cohuirimpo/",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
-      },
-      {
-        "title": "Aprehenden a tres por narcomenudeo en sectores distintos",
-        "summary": "Capturan presuntos vendedores de drogas en operativo policial estatal.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/aprehenden-a-tres-sujetos-por-presunto-narcomenudeo-en-distintos-sectores/",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
+        "url": "https://entornoinformativo.com.mx/arrestan-a-presunto-golpeador-de-su-mujer-en-la-colonia-cinco-de-mayo/",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Arlene Cabral toma dirección del INE en Sonora",
-        "summary": "Nueva titular del Instituto Nacional Electoral asume funciones en la entidad.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/arlene-cabral-toma-riendas-ine-sonora-n906191",
-        "_added_at": "2026-09-30T18:04:15.910771-07:00"
-      },
-      {
-        "title": "Primarias registran ausentismo del 75 por ciento",
-        "summary": "Proceso electoral en San Luis Río Colorado muestra baja participación ciudadana.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/reportan-primarias-ausentismo-del-75-32348283",
-        "_added_at": "2026-09-30T18:04:15.910771-07:00"
-      },
-      {
-        "title": "Julia Huerta respalda a Lorenia Valles como coordinadora",
-        "summary": "Funcionaria estatal confirma que Sonora tiene coordinadora designada y expresa apoyo a la nueva autoridad.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/30/julia-huerta-respalda-lorenia-valles-sonora-tiene-coordinadora.html",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
-      },
-      {
-        "title": "Lorenia Valles inicia nueva etapa como coordinadora estatal",
-        "summary": "Funcionaria anuncia inicio de gestión tras su designación oficial en cargo de coordinación en Sonora.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/sonora/2026/09/30/lorenia-valles-habla-su-designacion-hoy-comienza-nueva-etapa.html",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
-      },
-      {
-        "title": "Valles respalda a Sheinbaum y Durazo para beneficios sonorenses",
-        "summary": "Funcionaria reafirma coordinación entre gobiernos federal y estatal.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/a-partir-de-hoy-somos-un-solo-equipo-lorenia-valles/265481",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
-      },
-      {
-        "title": "Verde desconoce acusaciones contra Maloro Acosta",
-        "summary": "Partido Verde rechaza señalamientos y pide esclarecer denuncias.",
+        "title": "Congreso aprueba nacionalidad única para cargos electivos",
+        "summary": "Legislatura estatal reforma requisitos para candidatos a puestos de elección popular en Sonora.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/rechaza-partido-verde-acusaciones-contra-maloro-acosta-y-pide-esclarecer-senalamientos-32352225",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/congreso-de-sonora-aprueba-reforma-sobre-unica-nacionalidad-para-cargos-de-eleccion-popular-32370399",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
       },
       {
-        "title": "Morena abre registro para coordinaciones distritales 2027",
-        "summary": "Partido inicia proceso de selección para candidatos a diputaciones federales.",
+        "title": "INE Sonora inicia proceso electoral federal",
+        "summary": "Instituto Nacional Electoral pone en marcha operativo para elecciones federales en la entidad.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/ine-sonora-pone-en-marcha-el-proceso-electoral-federal-32007598",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
+      },
+      {
+        "title": "Lorenia Valles asume coordinación de Morena Sonora",
+        "summary": "Nueva coordinadora de Morena llega a Hermosillo tras asumir responsabilidades en la entidad.",
         "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/nacional/morena-abre-registro-para-coordinaciones-distritales-rumbo-a-diputaciones-federales-de-2027/144702",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
+        "url": "https://diariodelyaqui.mx/sonora/lorenia-valles-llega-a-hermosillo-entre-simpatizantes-tras-asumir-coordinacion-de-morena-en-sonora/144784",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
+      },
+      {
+        "title": "Marisa Cabral asume Vocalía Ejecutiva del INE",
+        "summary": "Funcionaria toma posesión de cargo en órgano electoral estatal de Sonora.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/marisa-arlene-cabral-porchas-asume-vocalia-ejecutiva-del-ine-en-sonora-32367769",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
       }
     ],
     "economia": [
       {
-        "title": "CFE recupera servicio eléctrico tras huracán Polo",
-        "summary": "Empresa restablece 97.1 por ciento del suministro afectado en Sonora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/cfe-restablece-97-1-del-servicio-electrico-afectado-por-huracan-polo-en-sonora-32359820",
-        "_added_at": "2026-09-30T18:04:15.910771-07:00"
-      },
-      {
-        "title": "Junta de Caminos invierte presupuesto en carreteras",
-        "summary": "Aplicación de recursos para conservación y mantenimiento de vías estatales.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/junta-de-caminos-aplica-presupuesto-anual-para-la-conservacion-de-carreteras-estatales-32361270",
-        "_added_at": "2026-09-30T18:04:15.910771-07:00"
-      },
-      {
-        "title": "Promueven Guaymas-San Carlos para congresos",
-        "summary": "Estrategia para posicionar región como destino de eventos y convenciones.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/promueven-a-guaymas-san-carlos-como-destino-ideal-para-congresos-y-convenciones/",
-        "_added_at": "2026-09-30T18:04:15.910771-07:00"
-      },
-      {
-        "title": "Presa Punta de Agua llega a capacidad máxima tras lluvias",
-        "summary": "Embalse en Guaymas recupera 100 por ciento de almacenamiento gracias a precipitaciones del huracán Polo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/30/despues-de-meses-con-poca-agua-la-presa-punta-de-agua-en-guaymas-alcanza-su-maxima-capacidad-tras-las-lluvias-de-polo-que-significa-esto-para-las-comunidades-que-dependen-de-su-almacenamiento/",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
-      },
-      {
-        "title": "Huracán Polo reduce actividad comercial en Hermosillo",
-        "summary": "Paso del ciclón genera impacto negativo en operaciones comerciales de la capital estatal.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/09/30/huracan-polo-reduce-actividad-comercial-en-hermosillo/",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
-      },
-      {
-        "title": "Bacanora sonorense busca expansión a nuevos mercados",
-        "summary": "Productores locales trabajan en profesionalización e impulsan certificación para fortalecer marcas nacionales e internacionales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/09/30/sonora-impulsa-la-certificacion-del-bacanora-productores-buscan-profesionalizar-la-industria-y-llegar-a-nuevos-mercados-para-fortalecer-sus-marcas-dentro-y-fuera-de-mexico/",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
-      },
-      {
-        "title": "Rastro de Grupo Kowi se inunda en Navojoa por tormentas",
-        "summary": "Infraestructura ganadera sufre daños severos tras fuertes precipitaciones causadas por huracán Polo.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/09/30/se-inunda-rastro-de-grupo-kowi-tras-fuertes-lluvias-en-navojoa-por-huracan-polo/",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
-      },
-      {
-        "title": "Ventas caen 90% en Mercado Municipal por resguardo",
-        "summary": "Comerciantes reportan crisis económica tras confinamiento por Polo.",
+        "title": "Tesorería inicia octubre con recargos a cero pesos",
+        "summary": "Municipio ofrece jornada de condonación de recargos e intereses para contribuyentes.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/caen-90-por-ciento-las-ventas-en-mercado-municipal-tras-resguardo-de-familias-por-polo/",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
+        "url": "https://entornoinformativo.com.mx/inicia-octubre-con-recargos-a-cero-pesos-tesoreria-municipal/",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
       },
       {
-        "title": "Tiangueros de Cajeme esperan repunte en octubre",
-        "summary": "Comerciantes informales anticipan recuperación de actividad comercial.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/esperan-tiangueros-de-cajeme-repunte-en-octubre/144692",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
+        "title": "Vence plazo para registrar líneas móviles terminación 3",
+        "summary": "Fecha límite para activar trámite de regularización de números telefónicos en Sonora.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/vence-plazo-registro-lineas-terminacion-3-n906228",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Huracán Polo destruye puente en Suaqui Grande",
-        "summary": "Colapso deja incomunicados a mil 500 habitantes por paso del fenómeno.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/huracan-polo-destruye-puente-y-deja-incomunicado-a-suaqui-grande-32362625",
-        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+        "title": "Huracán Polo causa daños graves en Sonora",
+        "summary": "Gobernador despliega acciones de remediación y rescate en zonas afectadas por fenómeno.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-despliega-acciones-de-remediacion-por-huracan-polo/",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
       },
       {
-        "title": "Lluvia de Polo afecta escuelas y caminos en Sonora",
-        "summary": "Comité de Emergencia da seguimiento a comunidades dañadas por precipitaciones.",
+        "title": "Escuelas seguirán como refugios tras huracán Polo",
+        "summary": "Planteles educativos en Sonora continúan hospedando a damnificados tras fenómeno natural.",
         "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/lluvias-en-sonora-comite-de-emergencia-da-seguimiento-a-comunidades-afectadas-32363659",
-        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/regreso-a-clases-en-sonora-estas-escuelas-seguiran-como-refugios-tras-el-huracan-polo-32366533",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
       },
       {
-        "title": "Rescatan a embarazada durante emergencia climática",
-        "summary": "Operación de evacuación en el valle por complicaciones durante trabajo de parto.",
+        "title": "Puente aéreo entrega víveres en Guaymas afectado",
+        "summary": "Autoridades activan operativo de abastecimiento aéreo para municipio damnificado por lluvia.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/activan-puente-aereo-para-entregar-viveres-en-guaymas/",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
+      },
+      {
+        "title": "Retiran 20 toneladas de cacharros contra dengue",
+        "summary": "Jornada de limpieza elimina basura acumulada en zonas de Sonora para reducir focos de infección.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/rescatan-embarazada-durante-emergencia-polo-n906183",
-        "_added_at": "2026-09-30T18:04:15.910771-07:00"
-      },
-      {
-        "title": "Bomberos de Nogales refuerzan capacitación internacional",
-        "summary": "Participación en congreso fortalece técnicas de rescate e incendios.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/30/bomberos-nogales-capacitan-tijuana-refuerzan-tecnicas-incendios-rescates.html",
-        "_added_at": "2026-09-30T18:04:15.910771-07:00"
-      },
-      {
-        "title": "Alerta por falso calendario de pensiones en octubre",
-        "summary": "Autoridades advierten sobre información fraudulenta sobre registros de trámites de pensiones.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/bienestar-sonora-alerta-por-falso-calendario-de-registro-para-pensiones-en-octubre-32359743",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
-      },
-      {
-        "title": "Guaymas y Empalme quedan inundadas tras paso de Polo",
-        "summary": "Comunidades costeras sufren inundaciones severas; familias evacúan viviendas con apoyo de autoridades.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/09/30/tras-el-paso-de-polo-comunidades-de-guaymas-y-empalme-quedan-bajo-el-agua-familias-salen-de-sus-viviendas-inundadas-entre-calles-de-dificil-acceso-y-reciben-apoyo-de-la-secretaria-de-marina/",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
-      },
-      {
-        "title": "Servicios de salud mantienen operación durante huracán Polo",
-        "summary": "Instituciones médicas en Sonora continúan funcionando y ateniendo a población durante emergencia climatológica.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/instituciones-de-salud-en-sonora-continuaran-en-operacion-ante-la-trayectoria-de-polo-32324183",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
-      },
-      {
-        "title": "CBTIS 33 firma convenios con universidades de San Luis",
-        "summary": "Institución educativa establece acuerdos académicos para fortalecer opciones de formación profesional regional.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/cbtis-33-realiza-convenios-con-universidades-de-slrc-32346640",
-        "_added_at": "2026-09-30T13:32:39.334658-07:00"
-      },
-      {
-        "title": "Tormenta Polo afecta 14 municipios con alerta amarilla",
-        "summary": "Sistema meteorológico genera inundaciones en sur de Sonora con saldo blanco.",
-        "source": "Tribuna de San Luis",
-        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/continua-alerta-amarilla-por-tormenta-tropical-polo-en-14-municipios-de-sonora-32345125",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
-      },
-      {
-        "title": "Centros de Comando móviles atienden familias afectadas",
-        "summary": "Gobierno instala centros operativos para asistencia ante efectos de Polo.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/instalan-centros-comando-control-moviles-apoyar-familias-efectos-polo-n906003",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/retiran-20-toneladas-cacharros-frenar-dengue-n906198",
+        "_added_at": "2026-10-01T02:17:52.419442-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-30T18:04:15.910771-07:00"
+  "last_updated": "2026-10-01T02:17:52.419442-07:00"
 }
