@@ -1,8 +1,36 @@
 {
   "date": "2026-10-01",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Activistas denuncian agresiones en protesta fronteriza",
+        "summary": "Manifestantes contra construcción del muro reportan agresiones de trabajadores de empresa subcontratada en Nogales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/10/01/activistas-contra-el-muro-fronterizo-denuncian-agresiones-de-trabajadores-de-una-empresa-subcontratada-para-su-construccion-en-arizona-mientras-la-nacion-tohono-oodham-defiende-sus-tierras-ancestrales-en-tribunales-y-en-lochiel-protegen-el-ultimo-alamo-ante-el-impacto-ambiental-y-cultural-de-las-obras/",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
+      {
+        "title": "Reanudan fumigación y descacharre contra dengue",
+        "summary": "Nogales intensifica acciones preventivas contra dengue mediante campaña de fumigación y limpieza de espacios.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/01/adios-mosquito-reanudan-fumigacion-descacharre-nogales-prevenir-dengue.html",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
+      {
+        "title": "Muere oficial de Policía Municipal de Hermosillo",
+        "summary": "Fallece Griselda Astorga Pardo, integrante de la corporación hermosillense.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/muere-griselda-astorga-pardo-oficial-de-la-policia-municipal-de-hermosillo/144804",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
+      {
+        "title": "Aumentan falsas alarmas de bomberos en Hermosillo",
+        "summary": "Cuerpo de bomberos registra incremento en llamadas falsas en la capital sonorense.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/01/registran-bomberos-incremento-de-falsas-alarmas-en-hermosillo/",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
       {
         "title": "Feminicidio en Miguel Alemán: detienen al responsable",
         "summary": "Hombre queda en prisión acusado de feminicidio contra su pareja en la comisaría Miguel Alemán.",
@@ -26,6 +54,34 @@
       }
     ],
     "politica": [
+      {
+        "title": "Morena abre registros para coordinadores de delegaciones",
+        "summary": "Partido abre inscripciones para siete coordinaciones federales en delegaciones sonorenses.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/10/01/abre-morena-registro-para-coordinadores-de-siete-delegaciones-federales-en-sonora/",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
+      {
+        "title": "Gim Nogales confirma intención para coordinación federal",
+        "summary": "Juan Francisco Gim anuncia participación en registro para coordinación de distrito federal.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/01/confirma-juan-francisco-gim-intencion-participar-coordinacion-distrito-federal.html",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
+      {
+        "title": "Cabildo Nogales aprueba paquete de pensiones",
+        "summary": "Cabildo nogalense aprueba beneficios pensionarios y analiza modificaciones normativas municipales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/01/cabildo-nogales-aprueba-paquete-pensiones-tambien-analiza-cambios-reglamentos-municipales.html",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
+      {
+        "title": "IEE Sonora presenta propuesta presupuestaria para 2027",
+        "summary": "Instituto Electoral Estatal detalla distribución de recursos para próximo año fiscal.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/en-gastara-iee-sonora-su-presupuesto-2027-esta-propuesta-n906309",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
       {
         "title": "Congreso aprueba nacionalidad única para cargos electivos",
         "summary": "Legislatura estatal reforma requisitos para candidatos a puestos de elección popular en Sonora.",
@@ -57,6 +113,34 @@
     ],
     "economia": [
       {
+        "title": "Gobernador despliega acciones tras huracán Polo",
+        "summary": "Durazo coordina remediación y recuperación por daños causados por fenómeno meteorológico.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-despliega-acciones-de-remediacion-por-huracan-polo/",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
+      {
+        "title": "Hoteles hermosillenses llegan a 90% ocupación",
+        "summary": "Hospedajes capitales registran alta ocupación durante examen profesional nacional en medicina.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/01/hoteles-de-hermosillo-llegan-al-90-por-el-enarm/",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
+      {
+        "title": "Porcicultores afectados por lluvia e inundaciones",
+        "summary": "Criadores de cerdos registran daños significativos; Rastro de la zona queda inundado.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/01/porcicultores-registran-afectaciones-por-lluvia-rastro-se-encuentra-inundado/",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
+      {
+        "title": "Coves levanta censo de viviendas dañadas",
+        "summary": "Institución contabiliza hogares afectados por efectos del huracán Polo en Sonora.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/coves-levanta-censo-viviendas-danadas-huracan-polo-sonora-n906318",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
+      {
         "title": "Tesorería inicia octubre con recargos a cero pesos",
         "summary": "Municipio ofrece jornada de condonación de recargos e intereses para contribuyentes.",
         "source": "Entorno Informativo",
@@ -72,6 +156,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Alertan sobre diabetes y obesidad en indígenas",
+        "summary": "Organismos reportan aumento de enfermedades metabólicas en población originaria sonorense.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/alertan-aumento-diabetes-obesidad-personas-indigenas-afromexicanas-sonora-n906312",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
+      {
+        "title": "Hermosillo inicia campaña contra cáncer de mama",
+        "summary": "Capital sonorense promueve prevención tras registrar 457 nuevos diagnósticos en 2025.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/inicia-hermosillo-campana-contra-el-cancer-de-mama-tras-sumar-457-nuevos-casos-en-2025/",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
+      {
+        "title": "Peregrinos enfrentarán más calor hacia Magdalena",
+        "summary": "Temperaturas aumentarán durante trayecto de caminata religiosa hacia santuario sonorense.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/01/peregrinos-enfrentaran-mas-calor-rumbo-magdalena-subiran-temperaturas-durante-caminata.html",
+        "_added_at": "2026-10-01T13:47:58.141142-07:00"
+      },
       {
         "title": "Huracán Polo causa daños graves en Sonora",
         "summary": "Gobernador despliega acciones de remediación y rescate en zonas afectadas por fenómeno.",
@@ -102,5 +207,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-01T02:17:52.419442-07:00"
+  "last_updated": "2026-10-01T13:47:58.141142-07:00"
 }
