@@ -1,8 +1,29 @@
 {
   "date": "2026-09-30",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallan cuerpo semienterrado en Nogales",
+        "summary": "Localizan restos humanos en zona La Escondida al surponiente de Nogales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/30/hallazgo-escondida-localizan-cuerpo-semienterrado-surponiente-nogales.html",
+        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+      },
+      {
+        "title": "Cateo en Nogales termina con detención",
+        "summary": "Operación de cateo en Fundo Legal resulta en una persona detenida y trasladada.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/30/cateo-nogales-termina-persona-detenida-trasladada-hermosillo.html",
+        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+      },
+      {
+        "title": "Evacuan a 45 trabajadores por gases tóxicos",
+        "summary": "Intoxicación química en pastelería de Nogales requiere evacuación y hospitalizaciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/09/30/evacuan-a-45-trabajadores-de-una-pasteleria-en-nogales-por-gases-toxicos-de-productos-de-limpieza-cuatro-estan-hospitalizados/",
+        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+      },
       {
         "title": "Fraude criminal alcanza máximo histórico en Sonora",
         "summary": "Delitos de fraude aumentan significativamente en la entidad, registrando la tasa más alta documentada en el último reporte de victimización.",
@@ -55,6 +76,20 @@
     ],
     "politica": [
       {
+        "title": "Arlene Cabral toma dirección del INE en Sonora",
+        "summary": "Nueva titular del Instituto Nacional Electoral asume funciones en la entidad.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/arlene-cabral-toma-riendas-ine-sonora-n906191",
+        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+      },
+      {
+        "title": "Primarias registran ausentismo del 75 por ciento",
+        "summary": "Proceso electoral en San Luis Río Colorado muestra baja participación ciudadana.",
+        "source": "Tribuna de San Luis",
+        "url": "https://www.tribunadesanluis.com.mx/tribunadesanluis/local/reportan-primarias-ausentismo-del-75-32348283",
+        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+      },
+      {
         "title": "Julia Huerta respalda a Lorenia Valles como coordinadora",
         "summary": "Funcionaria estatal confirma que Sonora tiene coordinadora designada y expresa apoyo a la nueva autoridad.",
         "source": "El Diario de Sonora",
@@ -91,6 +126,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "CFE recupera servicio eléctrico tras huracán Polo",
+        "summary": "Empresa restablece 97.1 por ciento del suministro afectado en Sonora.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/cfe-restablece-97-1-del-servicio-electrico-afectado-por-huracan-polo-en-sonora-32359820",
+        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+      },
+      {
+        "title": "Junta de Caminos invierte presupuesto en carreteras",
+        "summary": "Aplicación de recursos para conservación y mantenimiento de vías estatales.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/junta-de-caminos-aplica-presupuesto-anual-para-la-conservacion-de-carreteras-estatales-32361270",
+        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+      },
+      {
+        "title": "Promueven Guaymas-San Carlos para congresos",
+        "summary": "Estrategia para posicionar región como destino de eventos y convenciones.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/promueven-a-guaymas-san-carlos-como-destino-ideal-para-congresos-y-convenciones/",
+        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+      },
       {
         "title": "Presa Punta de Agua llega a capacidad máxima tras lluvias",
         "summary": "Embalse en Guaymas recupera 100 por ciento de almacenamiento gracias a precipitaciones del huracán Polo.",
@@ -136,6 +192,34 @@
     ],
     "sociedad": [
       {
+        "title": "Huracán Polo destruye puente en Suaqui Grande",
+        "summary": "Colapso deja incomunicados a mil 500 habitantes por paso del fenómeno.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/huracan-polo-destruye-puente-y-deja-incomunicado-a-suaqui-grande-32362625",
+        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+      },
+      {
+        "title": "Lluvia de Polo afecta escuelas y caminos en Sonora",
+        "summary": "Comité de Emergencia da seguimiento a comunidades dañadas por precipitaciones.",
+        "source": "El Sol de Hermosillo",
+        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/lluvias-en-sonora-comite-de-emergencia-da-seguimiento-a-comunidades-afectadas-32363659",
+        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+      },
+      {
+        "title": "Rescatan a embarazada durante emergencia climática",
+        "summary": "Operación de evacuación en el valle por complicaciones durante trabajo de parto.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/rescatan-embarazada-durante-emergencia-polo-n906183",
+        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+      },
+      {
+        "title": "Bomberos de Nogales refuerzan capacitación internacional",
+        "summary": "Participación en congreso fortalece técnicas de rescate e incendios.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/09/30/bomberos-nogales-capacitan-tijuana-refuerzan-tecnicas-incendios-rescates.html",
+        "_added_at": "2026-09-30T18:04:15.910771-07:00"
+      },
+      {
         "title": "Alerta por falso calendario de pensiones en octubre",
         "summary": "Autoridades advierten sobre información fraudulenta sobre registros de trámites de pensiones.",
         "source": "El Sol de Hermosillo",
@@ -176,22 +260,8 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/sociedad/instalan-centros-comando-control-moviles-apoyar-familias-efectos-polo-n906003",
         "_added_at": "2026-09-30T01:53:36.371073-07:00"
-      },
-      {
-        "title": "Hermosillo gana segundo premio en acción climática WWF",
-        "summary": "Capital sonorense reconocida internacionalmente por iniciativas ambientales.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/consolida-tono-astiazaran-a-hermosillo-lider-en-accion-climatica-gana-segundo-premio-de-la-wwf/",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
-      },
-      {
-        "title": "Mujeres conducirán nueva Línea Eléctrica Exprés",
-        "summary": "Hermosillo implementa sistema de transporte con operarias en ruta principal.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/mujeres-tomaran-volante-nueva-linea-electrica-expres-hermosillo-n905994",
-        "_added_at": "2026-09-30T01:53:36.371073-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-30T13:32:39.334658-07:00"
+  "last_updated": "2026-09-30T18:04:15.910771-07:00"
 }
