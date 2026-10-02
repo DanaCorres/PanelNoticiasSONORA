@@ -1,8 +1,29 @@
 {
   "date": "2026-10-01",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Adulto mayor muere tras asalto en Nogales",
+        "summary": "Hombre fallece por lesiones recibidas durante robo en Nogales. Autoridades investigan el homicidio derivado del asalto violento.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/01/adulto-mayor-muere-recibir-golpe-durante-asalto-nogales.html",
+        "_added_at": "2026-10-01T18:17:15.950548-07:00"
+      },
+      {
+        "title": "Dos hermanos sentenciados por desaparición en Nogales",
+        "summary": "Tribunal condena a dos hermanos a más de 29 años de cárcel por caso de desaparición en Nogales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/01/sentencian-dos-hermanos-mas-29-anos-prision-desaparicion-nogales.html",
+        "_added_at": "2026-10-01T18:17:15.950548-07:00"
+      },
+      {
+        "title": "CBP confisca 32 kilos de metanfetamina en frontera",
+        "summary": "Patrulla Fronteriza incauta droga durante revisión vehicular en operativo de seguridad fronteriza.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/10/01/patrulla-fronteriza-incauta-32-kilos-de-metanfetamina-durante-detencion-de-vehiculo/",
+        "_added_at": "2026-10-01T18:17:15.950548-07:00"
+      },
       {
         "title": "Activistas denuncian agresiones en protesta fronteriza",
         "summary": "Manifestantes contra construcción del muro reportan agresiones de trabajadores de empresa subcontratada en Nogales.",
@@ -55,6 +76,27 @@
     ],
     "politica": [
       {
+        "title": "Astiazarán presenta modelo de gestión en Nogales",
+        "summary": "Funcionario comparte propuestas sobre agua, transporte y seguridad en reunión con comunidad nogalense.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/01/nuevas-soluciones-viejos-problemas-antonio-astiazaran-comparte-nogales-modelo-gestion.html",
+        "_added_at": "2026-10-01T18:17:15.950548-07:00"
+      },
+      {
+        "title": "Lorenia Valles gana contienda interna de Morena",
+        "summary": "Lamarque acepta resultado y ratifica apoyo a continuidad de la administración actual.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/10/01/aceptamos-el-resultado-y-vamos-a-apoyar-la-continuidad-de-la-4t-afirma-lamarque-sobre-triunfo-de-lorenia-valles-en-morena/",
+        "_added_at": "2026-10-01T18:17:15.950548-07:00"
+      },
+      {
+        "title": "Gobernador Durazo despliega acciones tras huracán",
+        "summary": "Autoridad estatal activa medidas de remediación y apoyo para comunidades afectadas por Polo.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-despliega-acciones-de-remediacion-por-huracan-polo/",
+        "_added_at": "2026-10-01T18:17:15.950548-07:00"
+      },
+      {
         "title": "Morena abre registros para coordinadores de delegaciones",
         "summary": "Partido abre inscripciones para siete coordinaciones federales en delegaciones sonorenses.",
         "source": "Proyecto Puente",
@@ -102,16 +144,23 @@
         "source": "Diario del Yaqui",
         "url": "https://diariodelyaqui.mx/sonora/lorenia-valles-llega-a-hermosillo-entre-simpatizantes-tras-asumir-coordinacion-de-morena-en-sonora/144784",
         "_added_at": "2026-10-01T02:17:52.419442-07:00"
-      },
-      {
-        "title": "Marisa Cabral asume Vocalía Ejecutiva del INE",
-        "summary": "Funcionaria toma posesión de cargo en órgano electoral estatal de Sonora.",
-        "source": "El Sol de Hermosillo",
-        "url": "https://www.elsoldehermosillo.com.mx/elsoldehermosillo/local/marisa-arlene-cabral-porchas-asume-vocalia-ejecutiva-del-ine-en-sonora-32367769",
-        "_added_at": "2026-10-01T02:17:52.419442-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Sonora lidera producción nacional de oro y cobre",
+        "summary": "Estado ocupa primer lugar en minería bajo liderazgo del Gobernador Durazo en producción regional.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/con-liderazgo-de-gobernador-durazo-sonora-es-primer-lugar-nacional-en-produccion-de-oro-y-cobre/",
+        "_added_at": "2026-10-01T18:17:15.950548-07:00"
+      },
+      {
+        "title": "Hermosillo suma 159 cuartos adicionales",
+        "summary": "Autoridades entregan nuevas habitaciones para incrementar infraestructura hotelera en la capital.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/suma-hermosillo-159-cuartos-adicionales-n906413",
+        "_added_at": "2026-10-01T18:17:15.950548-07:00"
+      },
       {
         "title": "Gobernador despliega acciones tras huracán Polo",
         "summary": "Durazo coordina remediación y recuperación por daños causados por fenómeno meteorológico.",
@@ -156,6 +205,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora regula uso de celular en secundarias",
+        "summary": "Entidad implementa política para reducir dependencia de dispositivos móviles en escuelas.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/sonora-pone-freno-celular-secundarias-n906384",
+        "_added_at": "2026-10-01T18:17:15.950548-07:00"
+      },
+      {
+        "title": "Capacitan operadores 9-1-1 en atención a discapacitados",
+        "summary": "Personal de emergencias recibe entrenamiento especializado para mejorar servicio a personas con discapacidad.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/01/capacitan-operadores-9-1-1-089-mejorar-atencion-personas-discapacidad.html",
+        "_added_at": "2026-10-01T18:17:15.950548-07:00"
+      },
+      {
+        "title": "Refuerzan prevención contra cáncer de mama",
+        "summary": "Sector salud intensifica campañas de detección y conciencia para octubre rosa en Sonora.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/salud/refuerzan-prevencion-cancer-mama-n906406",
+        "_added_at": "2026-10-01T18:17:15.950548-07:00"
+      },
       {
         "title": "Alertan sobre diabetes y obesidad en indígenas",
         "summary": "Organismos reportan aumento de enfermedades metabólicas en población originaria sonorense.",
@@ -207,5 +277,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-01T13:47:58.141142-07:00"
+  "last_updated": "2026-10-01T18:17:15.950548-07:00"
 }
