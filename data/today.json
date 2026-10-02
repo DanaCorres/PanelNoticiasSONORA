@@ -1,8 +1,36 @@
 {
   "date": "2026-10-02",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Empleada del hospital enfrenta juicio por sustracción de medicamentos",
+        "summary": "Fiscalía lleva ante juez a trabajadora del Isssteson acusada de robar antibióticos del Hospital Chávez en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/10/02/fiscalia-de-sonora-prepara-llevar-ante-un-juez-a-empleada-del-isssteson-tras-ser-detectada-por-un-vigilante-cuando-presuntamente-sustraia-medicamentos-del-hospital-chavez-de-hermosillo/",
+        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+      },
+      {
+        "title": "Investigan agresión a estudiante de preparatoria en parada de camión",
+        "summary": "Autoridades abren investigación por ataque a alumno de educación media superior en zona de transporte público.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/policiaca/investigan-agresion-estudiante-preparatoria-parada-camion-n906515",
+        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+      },
+      {
+        "title": "Fiscalía investiga agresión contra alumna del Cecyte",
+        "summary": "Dependencia abre indagatoria por violencia contra estudiante de institución de educación técnica en Sonora.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/10/02/fgje-investiga-agresion-contra-alumna-del-cecyte-en-sonora/",
+        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+      },
+      {
+        "title": "Hallan cadáver en casa de colonia Balderrama en Hermosillo",
+        "summary": "Descubren hombre sin vida en domicilio ubicado en zona residencial de la capital sonorense.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/policiaca/hallan-hombre-vida-casa-colonia-balderrama-n906502",
+        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+      },
       {
         "title": "Violencia se intensifica en Ciudad Obregón",
         "summary": "Cajeme experimenta recrudecimiento de hechos delictivos según reportes locales.",
@@ -27,6 +55,20 @@
     ],
     "politica": [
       {
+        "title": "Morena confía en repetir gubernatura en 2027, afirma Valles",
+        "summary": "Dirigente morenista defiende legado de Durazo y asegura continuidad del partido en próxima elección estatal.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/10/02/morena-repetira-gubernatura-en-2027-afirma-lorenia-valles-defiende-a-durazo-y-su-legado/",
+        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+      },
+      {
+        "title": "UIF abre investigación contra Amílcar Olán",
+        "summary": "Unidad de Inteligencia Financiera inicia pesquisa sobre figura política sonorense por presuntas irregularidades.",
+        "source": "Sonora Presente",
+        "url": "https://sonorapresente.com/2026/10/la-uif-investiga-a-amilcar-olan/",
+        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+      },
+      {
         "title": "Lorenia Valles coordina continuidad de transformación",
         "summary": "Nueva coordinadora visitará 72 municipios de Sonora bajo bandera de la 4T.",
         "source": "Radio Sonora",
@@ -50,6 +92,20 @@
     ],
     "economia": [
       {
+        "title": "Oro y cobre de Sonora lideran producción nacional",
+        "summary": "Estado produce ocho de cada diez toneladas de cobre mexicano y encabeza oro en nivel nacional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/10/02/sonora-produjo-casi-ocho-de-cada-10-toneladas-de-cobre-de-mexico-y-ocupo-el-primer-lugar-nacional-en-oro/",
+        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+      },
+      {
+        "title": "Incertidumbre en familias por suspensión laboral",
+        "summary": "Trabajadores y sus familias enfrentan preocupación tras cierre temporal de actividades empresariales.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/02/incertidumbre-en-familias-de-trabajadores-tras-suspension-de-actividades/",
+        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+      },
+      {
         "title": "Sonora lidera producción nacional de oro y cobre",
         "summary": "Estado se posiciona en primer lugar en extracción de metales preciosos a nivel nacional.",
         "source": "Radio Sonora",
@@ -65,6 +121,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Localizan a joven desaparecida en Magdalena de Kino",
+        "summary": "Raquel Constanza fue hallada tras seis días de ausencia; se encontraba con su novio.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-a-joven-reportada-desaparecida-en-magdalena-de-kino/265634",
+        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+      },
+      {
+        "title": "Rescatan más de veinte perros abandonados en Nogales",
+        "summary": "Autoridades localizan animales maltratados que se atacaban mutuamente en domicilio de la ciudad fronteriza.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/02/mas-20-perros-abandonados-atacaban-si-domicilio-nogales.html",
+        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+      },
+      {
+        "title": "DIF Nogales formaliza testamentos y protege patrimonios",
+        "summary": "Institución asistencial realiza jornada gratuita formalizando veinte testamentos ológrafos para familias.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/02/dif-nogales-formaliza-20-testamentos-ayuda-familias-proteger-su-patrimonio.html",
+        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+      },
+      {
+        "title": "Hermosillenses participan en jornada de árboles nativos",
+        "summary": "Ciudadanos aprovechan programa para llevar flora endémica a sus viviendas durante actividad ambiental.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/hermosillenses-aprovechan-jornada-llevar-arboles-nativos-sus-hogares-n906504",
+        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+      },
       {
         "title": "Protección Civil atiende municipios afectados por huracán",
         "summary": "Refuerzan asistencia en Navojoa, Guaymas y Empalme tras paso de fenómeno meteorológico.",
@@ -95,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-02T01:50:30.407542-07:00"
+  "last_updated": "2026-10-02T13:21:46.348249-07:00"
 }

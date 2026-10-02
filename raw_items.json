@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-02T08:50:29.476531+00:00",
+  "generated_at": "2026-10-02T20:21:45.306584+00:00",
   "items": [
+    {
+      "source": "El Imparcial",
+      "title": "Caso de empleada del Hospital Chávez avanza hacia un juez",
+      "url": "https://www.elimparcial.com/son/hermosillo/2026/10/02/fiscalia-de-sonora-prepara-llevar-ante-un-juez-a-empleada-del-isssteson-tras-ser-detectada-por-un-vigilante-cuando-presuntamente-sustraia-medicamentos-del-hospital-chavez-de-hermosillo/",
+      "published": ""
+    },
     {
       "source": "Expreso",
       "title": "SonoraLocalizan a joven reportada desaparecida en Magdalena; se fue con el novioRaquel Constanza ‘N’ fue encontrada tras seis días de ausencia en Magdalena de Kino.octubre 1, 2026",
@@ -8,33 +14,333 @@
       "published": ""
     },
     {
-      "source": "Entorno Informativo",
-      "title": "Impulsan Toño Astiazarán y Patty Ruibal propuestas de Cabildo Infantil",
-      "url": "https://entornoinformativo.com.mx/impulsan-tono-astiazaran-y-patty-ruibal-propuestas-de-cabildo-infantil/",
+      "source": "Diario del Yaqui",
+      "title": "Horóscopos de Mhoni Vidente, viernes 2 de octubre: Conoce cómo iniciarás el fin de semana",
+      "url": "https://diariodelyaqui.mx/viral/horoscopos-de-mhoni-vidente-viernes-2-de-octubre-conoce-como-iniciaras-el-fin-de-semana/144853",
+      "published": ""
+    },
+    {
+      "source": "El Diario de Sonora",
+      "title": "Más de 20 perros abandonados se atacaban entre sí en un domicilio de Nogales",
+      "url": "https://eldiariodesonora.com.mx/nogales/2026/10/02/mas-20-perros-abandonados-atacaban-si-domicilio-nogales.html",
+      "published": ""
+    },
+    {
+      "source": "Nuevo Día",
+      "title": "Localizan a más de 20 perros abandonados en domicilio de la colonia Héroes",
+      "url": "https://www.nuevodia.mx/nogales/2026/10/02/localizan-mas-20-perros-abandonados-domicilio-colonia-heroes.html",
       "published": ""
     },
     {
       "source": "Uniradio Sonora",
-      "title": "México y EU acercan posiciones rumbo a revisión del T-MEC",
-      "url": "https://www.uniradiosonora.com/negocios/mexico-eu-acercan-posiciones-rumbo-revision-t-mec-n906438",
+      "title": "Confirman detención de enfermera del Isssteson por presunta sustracción de medicamento",
+      "url": "https://www.uniradiosonora.com/policiaca/confirman-detencion-enfermera-isssteson-presunta-sustraccion-medicamento-n906513",
+      "published": ""
+    },
+    {
+      "source": "Radar Sonora",
+      "title": "Cielo despejado sin posibilidad de lluvia, este día",
+      "url": "https://www.radarsonora.com/cielo-despejado-sin-posibilidad-de-lluvia-este-dia/",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Inicia campaña preventiva de cáncer de mama",
-      "url": "https://entornoinformativo.com.mx/inicia-campana-preventiva-de-cancer-de-mama/",
+      "title": "La Bebeshita protagonizó momento incómodo",
+      "url": "https://entornoinformativo.com.mx/la-bebeshita-protagonizo-momento-incomodo/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Llevará UMPAM y ATKINSON música a adolescentes para fortalecer sus proyectos de vida",
+      "url": "https://mediosobson.com/2026/10/02/llevara-umpam-y-atkinson-musica-a-adolescentes-para-fortalecer-sus-proyectos-de-vida/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "La investigación apunta a la presunta sustracción de 18 frascos de antibiótico de la farmacia, mientras el fiscal anticipó que revelará más detalles una vez formulada la imputación.",
+      "url": "https://www.elimparcial.com/son/hermosillo/2026/10/02/fiscalia-de-sonora-prepara-llevar-ante-un-juez-a-empleada-del-isssteson-tras-ser-detectada-por-un-vigilante-cuando-presuntamente-sustraia-medicamentos-del-hospital-chavez-de-hermosillo/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "Harfuch revela detalles del ataque en secundaria de TorreÃ³n; investigan a dos exalumnos",
+      "url": "https://proyectopuente.com.mx/2026/10/02/harfuch-revela-detalles-del-ataque-en-secundaria-de-torreon-investigan-a-dos-exalumnos/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "Encuentran muerto al prometido de Gypsy Rose con quien tuvo una hija: tenía 34 años",
+      "url": "https://diariodelyaqui.mx/internacional/encuentran-muerto-al-prometido-de-gypsy-rose-con-quien-tuvo-una-hija-tenia-34-anos/144857",
+      "published": ""
+    },
+    {
+      "source": "El Diario de Sonora",
+      "title": "¡DIF Nogales formaliza 20 testamentos y ayuda a familias a proteger su patrimonio!",
+      "url": "https://eldiariodesonora.com.mx/nogales/2026/10/02/dif-nogales-formaliza-20-testamentos-ayuda-familias-proteger-su-patrimonio.html",
+      "published": ""
+    },
+    {
+      "source": "Nuevo Día",
+      "title": "DIF Nogales formaliza 20 testamentos ológrafos dur...",
+      "url": "https://www.nuevodia.mx/nogales/2026/10/02/dif-nogales-formaliza-20-testamentos-olografos-durante-jornada-gratuita.html",
       "published": ""
     },
     {
       "source": "Uniradio Sonora",
-      "title": "Piden retirar escombros tras restaurar tumbas",
-      "url": "https://www.uniradiosonora.com/sociedad/piden-retirar-escombros-tras-restaurar-tumbas-n906429",
+      "title": "Investigan agresión contra estudiante de preparatoria en parada de camión",
+      "url": "https://www.uniradiosonora.com/policiaca/investigan-agresion-estudiante-preparatoria-parada-camion-n906515",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Ayuntamiento de Hermosillo ofrece recorridos del Trolebús y minibús",
-      "url": "https://entornoinformativo.com.mx/ayuntamiento-de-hermosillo-ofrece-recorridos-del-trolebus-y-minibus/",
+      "title": "Muere novio de Gypsy Rose",
+      "url": "https://entornoinformativo.com.mx/muere-novio-de-gypsy-rose/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Pafas pide a automovilistas circular con seguro y documentación vigente",
+      "url": "https://mediosobson.com/2026/10/02/pafas-pide-a-automovilistas-circular-con-seguro-y-documentacion-vigente/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Oro y cobre de Sonora encabezan producción nacional",
+      "url": "https://www.elimparcial.com/son/sonora/2026/10/02/sonora-produjo-casi-ocho-de-cada-10-toneladas-de-cobre-de-mexico-y-ocupo-el-primer-lugar-nacional-en-oro/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "Morena repetirÃ¡ gubernatura en 2027, afirma Lorenia Valles; defiende a Durazo y su legado",
+      "url": "https://proyectopuente.com.mx/2026/10/02/morena-repetira-gubernatura-en-2027-afirma-lorenia-valles-defiende-a-durazo-y-su-legado/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "Joven reportada como desaparecida en Sonora ya fue localizada: Estaba con el novio",
+      "url": "https://diariodelyaqui.mx/sonora/joven-reportada-como-desaparecida-en-sonora-ya-fue-localizada-estaba-con-el-novio/144865",
+      "published": ""
+    },
+    {
+      "source": "El Diario de Sonora",
+      "title": "DIF Nogales abre inscripciones para que niñas y niños aprendan a controlar la ira y sus impulsos",
+      "url": "https://eldiariodesonora.com.mx/nogales/2026/10/02/dif-nogales-abre-inscripciones-ninas-ninos-aprendan-controlar-ira-sus-impulsos.html",
+      "published": ""
+    },
+    {
+      "source": "Nuevo Día",
+      "title": "DIF Nogales abre inscripciones al programa Monster...",
+      "url": "https://www.nuevodia.mx/nogales/2026/10/02/dif-nogales-abre-inscripciones-programa-monster-ninas-ninos-6-12-anos.html",
+      "published": ""
+    },
+    {
+      "source": "Uniradio Sonora",
+      "title": "Hermosillenses aprovechan jornada para llevar árboles nativos a sus hogares",
+      "url": "https://www.uniradiosonora.com/gobierno/hermosillenses-aprovechan-jornada-llevar-arboles-nativos-sus-hogares-n906504",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Jacky Bracamontes celebra 15 años de matrimonio",
+      "url": "https://entornoinformativo.com.mx/jacky-bracamontes-celebra-15-anos-de-matrimonio/",
+      "published": ""
+    },
+    {
+      "source": "Sonora Presente",
+      "title": "Tercera llamada: Van por Andy",
+      "url": "https://sonorapresente.com/2026/10/tercera-llamada-van-por-andy/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Incertidumbre en familias de trabajadores tras suspensión de actividades",
+      "url": "https://mediosobson.com/2026/10/02/incertidumbre-en-familias-de-trabajadores-tras-suspension-de-actividades/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "FGJE investiga agresión contra alumna del Cecyte en Sonora",
+      "url": "https://www.elimparcial.com/son/sonora/2026/10/02/fgje-investiga-agresion-contra-alumna-del-cecyte-en-sonora/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "CalderÃ³n responde a daÃ±os en su estatua y llama âmiserablesâ a responsables",
+      "url": "https://proyectopuente.com.mx/2026/10/02/calderon-responde-a-danos-en-su-estatua-y-llama-miserables-a-responsables/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "La actriz que interpretó a Tormenta en X-Men es acusada de ahorcar a su hijo de 12 años",
+      "url": "https://diariodelyaqui.mx/farandula/la-actriz-que-interpreto-a-tormenta-en-x-men-es-acusada-de-ahorcar-a-su-hijo-de-12-anos/144859",
+      "published": ""
+    },
+    {
+      "source": "Radio Sonora",
+      "title": "Prepara Gobierno federal decreto para obligar a plataformas digitales a retirar contenido violento",
+      "url": "https://www.radiosonora.com.mx/prepara-gobierno-federal-decreto-para-obligar-a-plataformas-digitales-a-retirar-contenido-violento/",
+      "published": ""
+    },
+    {
+      "source": "El Diario de Sonora",
+      "title": "¡La vida en la frontera llega al MUAN! Muestran en fotografías la esencia de Nogales",
+      "url": "https://eldiariodesonora.com.mx/nogales/2026/10/02/vida-frontera-llega-muan-muestran-fotografias-esencia-nogales.html",
+      "published": ""
+    },
+    {
+      "source": "Nuevo Día",
+      "title": "Fundación Beatriz Beltrones impulsa Octubre Rosa 2...",
+      "url": "https://www.nuevodia.mx/nogales/2026/10/02/fundacion-beatriz-beltrones-impulsa-octubre-rosa-2026.html",
+      "published": ""
+    },
+    {
+      "source": "Uniradio Sonora",
+      "title": "Hallan a hombre sin vida en casa de la colonia Balderrama",
+      "url": "https://www.uniradiosonora.com/policiaca/hallan-hombre-vida-casa-colonia-balderrama-n906502",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "“Nunca más” una masacre como la de Tlatelolco, subraya Sheinbaum",
+      "url": "https://entornoinformativo.com.mx/nunca-mas-una-masacre-como-la-de-tlatelolco-subraya-sheinbaum/",
+      "published": ""
+    },
+    {
+      "source": "Sonora Presente",
+      "title": "La UIF investiga a Amílcar Olán",
+      "url": "https://sonorapresente.com/2026/10/la-uif-investiga-a-amilcar-olan/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Padres exigen agilizar reparación eléctrica en primaria Benito Juárez",
+      "url": "https://mediosobson.com/2026/10/02/padres-exigen-agilizar-reparacion-electrica-en-primaria-benito-juarez/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Arroyo de San Javier crece como hace 40 años tras Polo",
+      "url": "https://www.elimparcial.com/son/sonora/2026/10/02/arroyo-de-san-javier-sonora-registra-una-creciente-como-no-se-veia-desde-hace-cerca-de-40-anos-tras-las-lluvias-del-huracan-polo-que-hicieron-correr-agua-por-veredas-y-cerros/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "Zar de la frontera advierte que las deportaciones se intensificarÃ¡n en 2027: âVamos a seguir rompiendo rÃ©cordsâ",
+      "url": "https://proyectopuente.com.mx/2026/10/02/zar-de-la-frontera-advierte-que-las-deportaciones-se-intensificaran-en-2027-vamos-a-seguir-rompiendo-records/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "Mexicanos podrían renovar su visa de EU sin entrevista: estos son los requisitos",
+      "url": "https://diariodelyaqui.mx/viral/mexicanos-podrian-renovar-su-visa-de-eu-sin-entrevista-estos-son-los-requisitos/144877",
+      "published": ""
+    },
+    {
+      "source": "Radio Sonora",
+      "title": "Expresa Claudia Sheinbaum solidaridad con víctimas de Tlatelolco",
+      "url": "https://www.radiosonora.com.mx/expresa-claudia-sheinbaum-solidaridad-con-victimas-de-tlatelolco/",
+      "published": ""
+    },
+    {
+      "source": "El Diario de Sonora",
+      "title": "¡Fundación Beatriz Beltrones pinta de rosa a Sonora con causa contra el cáncer!",
+      "url": "https://eldiariodesonora.com.mx/sonora/2026/10/02/fundacion-beatriz-beltrones-pinta-rosa-sonora-causa-cancer.html",
+      "published": ""
+    },
+    {
+      "source": "Uniradio Sonora",
+      "title": "Venta de autos nuevos crece 8% en septiembre",
+      "url": "https://www.uniradiosonora.com/negocios/venta-autos-nuevos-crece-8-septiembre-n906500",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Aseguran 60 toneladas de cigarros apócrifos y detienen a tres personas en Huixquilucan",
+      "url": "https://entornoinformativo.com.mx/aseguran-60-toneladas-de-cigarros-apocrifos-y-detienen-a-tres-personas-en-huixquilucan/",
+      "published": ""
+    },
+    {
+      "source": "Sonora Presente",
+      "title": "Pemex: seguros millonarios y el desastre en Dos Bocas",
+      "url": "https://sonorapresente.com/2026/10/pemex-seguros-millonarios-y-el-desastre-en-dos-bocas/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Localizan os4menta en Las Cuevitas tras llamada anónima",
+      "url": "https://mediosobson.com/2026/10/02/localizan-os4menta-en-las-cuevitas-tras-llamada-anonima/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Perche Fest y aniversario de Radio La H: acceso libre en HMO",
+      "url": "https://www.elimparcial.com/son/hermosillo/2026/10/02/perche-fest-2026-llega-a-plaza-zaragoza-este-domingo-con-burros-percherones-musica-y-un-concurso-para-demostrar-cuanto-conoces-de-hermosillo/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "NaciÃ³n Comca’ac mantiene vivas sus tradiciones y abre sus puertas a visitantes",
+      "url": "https://proyectopuente.com.mx/2026/10/02/nacion-comcaac-mantiene-vivas-sus-tradiciones-y-abre-sus-puertas-a-visitantes/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "Anuncian festejos por aniversario de Esperanza",
+      "url": "https://diariodelyaqui.mx/ciudadobregon/anuncian-festejos-por-aniversario-de-esperanza/144880",
+      "published": ""
+    },
+    {
+      "source": "Radio Sonora",
+      "title": "Presenta Secretaría de Cultura informe de resultados: destaca inversión de 1,850 mdp y gratuidad en escuelas de arte",
+      "url": "https://www.radiosonora.com.mx/presenta-secretaria-de-cultura-informe-de-resultados-destaca-inversion-de-1850-mdp-y-gratuidad-en-escuelas-de-arte/",
+      "published": ""
+    },
+    {
+      "source": "El Diario de Sonora",
+      "title": "Gobierno de Sonora coordina acciones de apoyo y recuperación tras el huracán “Polo”",
+      "url": "https://eldiariodesonora.com.mx/sonora/2026/10/02/gobierno-sonora-coordina-acciones-apoyo-recuperacion-huracan-polo.html",
+      "published": ""
+    },
+    {
+      "source": "Uniradio Sonora",
+      "title": "Anuncian actividades por el 46 aniversario de la Casa de la Cultura",
+      "url": "https://www.uniradiosonora.com/gobierno/anuncian-actividades-46-aniversario-casa-cultura-n906497",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Los Javis alistan serie sobre los crímenes de Tor",
+      "url": "https://entornoinformativo.com.mx/los-javis-alistan-serie-sobre-los-crimenes-de-tor/",
+      "published": ""
+    },
+    {
+      "source": "Sonora Presente",
+      "title": "Marina del Pilar, un caso perdido",
+      "url": "https://sonorapresente.com/2026/10/marina-del-pilar-un-caso-perdido/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Bomberos de Cajeme rescatan a bebé y a su familia",
+      "url": "https://mediosobson.com/2026/10/02/bomberos-de-cajeme-rescatan-a-bebe-y-a-su-familia/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Abejas del Desierto propone viveros escolares en Hermosillo",
+      "url": "https://www.elimparcial.com/son/hermosillo/2026/10/02/abejas-del-desierto-una-iniciativa-nacida-en-cetmar-hermosillo-impulsa-una-propuesta-de-red-de-viveros-escolares-que-busca-producir-100-mil-plantas-nativas-al-ano-para-reforestar-la-ciudad/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "Detienen a joven por robo de cuatro metros de cable en escuela primaria de Hermosillo",
+      "url": "https://proyectopuente.com.mx/2026/10/02/detienen-a-joven-por-robo-de-cuatro-metros-de-cable-en-escuela-primaria-de-hermosillo/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "Nadie Nos Va A Extrañar confirma tercera temporada: Nueva etapa, elenco y producción",
+      "url": "https://diariodelyaqui.mx/farandula/nadie-nos-va-a-extranar-confirma-tercera-temporada-nueva-etapa-elenco-y-produccion/144879",
       "published": ""
     },
     {
@@ -44,105 +350,171 @@
       "published": ""
     },
     {
-      "source": "Uniradio Sonora",
-      "title": "Preparan primer Festival de Cine de Sonora",
-      "url": "https://www.uniradiosonora.com/sociedad/preparan-primer-festival-cine-sonora-n906421",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "Agente municipal traslada a tortuga a un humedal",
-      "url": "https://entornoinformativo.com.mx/agente-municipal-traslada-a-tortuga-a-un-humedal/",
+      "source": "El Diario de Sonora",
+      "title": "¡Sonora lidera la producción minera de México! Ocupa primer lugar en cobre y oro",
+      "url": "https://eldiariodesonora.com.mx/sonora/2026/10/02/sonora-lidera-produccion-minera-mexico-ocupa-primer-lugar-cobre-oro.html",
       "published": ""
     },
     {
       "source": "Uniradio Sonora",
-      "title": "¿Tu celular termina en 4?",
-      "url": "https://www.uniradiosonora.com/sociedad/tu-celular-termina-4-n906419",
+      "title": "Después de 20 años, Amaia Montero y La Oreja de Van Gogh vuelven a México",
+      "url": "https://www.uniradiosonora.com/fama/despues-20-anos-amaia-montero-oreja-van-gogh-vuelven-mexico-n906511",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Invita Fundación Beatriz Beltrones a sumarse a Octubre Rosa para apoyar a mujeres afectadas por cáncer",
-      "url": "https://entornoinformativo.com.mx/invita-fundacion-beatriz-beltrones-a-sumarse-a-octubre-rosa-para-apoyar-a-mujeres-afectadas-por-cancer/",
+      "title": "Llega la segunda temporada de ‘Reina Roja’",
+      "url": "https://entornoinformativo.com.mx/llega-la-segunda-temporada-de-reina-roja/",
+      "published": ""
+    },
+    {
+      "source": "Sonora Presente",
+      "title": "Tercera llamada, tercera, para Audomaro",
+      "url": "https://sonorapresente.com/2026/10/tercera-llamada-tercera-para-audomaro/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Llevan despensas a Bahía de Lobos, comunidad afectada por Polo",
+      "url": "https://mediosobson.com/2026/10/02/llevan-despensas-a-bahia-de-lobos-comunidad-afectada-por-polo/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Muere hombre de 54 años tras caer de una escalera",
+      "url": "https://www.elimparcial.com/son/hermosillo/2026/10/02/un-hombre-de-54-anos-murio-al-caer-de-una-escalera-mientras-instalaba-internet-en-una-empresa-de-la-carretera-pesqueira-zamora/",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Recrudece la violencia en Cajeme",
-      "url": "https://diariodelyaqui.mx/policiaca/recrudece-la-violencia-en-cajeme/144849",
+      "title": "Tecate Comuna cambia de sede en Puebla y desata polémica; usuarios reclaman ante Profeco",
+      "url": "https://diariodelyaqui.mx/nacional/tecate-comuna-cambia-de-sede-en-puebla-y-desata-polemica-usuarios-reclaman-ante-profeco/144878",
+      "published": ""
+    },
+    {
+      "source": "El Diario de Sonora",
+      "title": "Congreso analiza refugios, hidratación y alertas",
+      "url": "https://eldiariodesonora.com.mx/sonora/2026/10/02/sonora-busca-proteger-su-poblacion-calor-extremo-congreso-analiza-refugios-hidratacion.html",
       "published": ""
     },
     {
       "source": "Uniradio Sonora",
-      "title": "\"Rachel\" se fortalece a huracán categoría 3",
-      "url": "https://www.uniradiosonora.com/sociedad/rachel-fortalece-huracan-categoria-3-n906416",
+      "title": "Ingresan a penal del Altiplano a \"Capitán Sol\"",
+      "url": "https://www.uniradiosonora.com/sociedad/ingresan-penal-altiplano-capitan-sol-n906484",
+      "published": ""
+    },
+    {
+      "source": "Radar Sonora",
+      "title": "Avanzan preparativos del FAOT 2027",
+      "url": "https://www.radarsonora.com/avanzan-preparativos-del-faot-2027/",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Confía Lorenia Valles en lograr continuidad de la 4T",
-      "url": "https://entornoinformativo.com.mx/confia-lorenia-valles-en-lograr-continuidad-de-la-4t/",
+      "title": "Prenden fuego a pandillero durante pelea entre grupos rivales en Yucatán",
+      "url": "https://entornoinformativo.com.mx/prenden-fuego-a-pandillero-durante-pelea-entre-grupos-rivales-en-yucatan/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Invitan a jornada de reforestación",
+      "url": "https://mediosobson.com/2026/10/02/invitan-a-jornada-de-reforestacion/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Avanza pensión por viudez en concubinatos en el Senado",
+      "url": "https://www.elimparcial.com/mexico/2026/10/02/avanza-en-el-senado-la-reforma-para-que-concubinos-reclamen-pension-por-viudez/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "Lluvias llegarÃ¡n a Sonora; ProtecciÃ³n Civil pide extremar precauciones",
+      "url": "https://proyectopuente.com.mx/2026/10/02/lluvias-llegaran-a-sonora-proteccion-civil-pide-extremar-precauciones/",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Investigan influencias de los gemelos que mataron a la subdirectora de la secundaria 13 en Torreón",
-      "url": "https://diariodelyaqui.mx/nacional/investigan-influencias-de-los-gemelos-que-mataron-a-la-subdirectora-de-la-secundaria-13-en-torreon/144850",
+      "title": "Condusef recomienda revisar validez de abonos tras fin de huelga en Monte de Piedad",
+      "url": "https://diariodelyaqui.mx/ciudadobregon/condusef-recomienda-revisar-validez-de-abonos-tras-fin-de-huelga-en-monte-de-piedad/144875",
+      "published": ""
+    },
+    {
+      "source": "El Diario de Sonora",
+      "title": "Reportera Alma de la Rosa y su camarógrafo son impactados por una camioneta en vivo",
+      "url": "https://eldiariodesonora.com.mx/mexico/2026/10/02/reportera-alma-rosa-su-camarografo-son-impactados-camioneta-vivo.html",
+      "published": ""
+    },
+    {
+      "source": "Nuevo Día",
+      "title": "Sonora mantiene operativo de recuperación tras paso de ‘Polo’",
+      "url": "https://www.nuevodia.mx/sonora/2026/10/02/sonora-mantiene-operativo-recuperacion-paso-polo.html",
       "published": ""
     },
     {
       "source": "Uniradio Sonora",
-      "title": "Guillermo Ochoa recibirá homenaje con el Tri en Los Ángeles",
-      "url": "https://www.uniradiosonora.com/deportes/guillermo-ochoa-recibira-homenaje-tri-angeles-n906435",
+      "title": "Gloria Trevi enfrenta a la prensa y responde a acusaciones de censura por libro de Karla de la Cuesta: \"Amo la libertad de expresión\"",
+      "url": "https://www.uniradiosonora.com/fama/gloria-trevi-enfrenta-prensa-responde-acusaciones-censura-libro-karla-cuesta-amo-libertad-expresion-n906481",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Pedirá Coves recursos extraordinarios por “Polo”",
-      "url": "https://entornoinformativo.com.mx/pedira-coves-recursos-extraordinarios-por-polo/",
+      "title": "Loki se vuelve la serie más vista en Disney+",
+      "url": "https://entornoinformativo.com.mx/loki-se-vuelve-la-serie-mas-vista-en-disney/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Psicooncología: apoyo para afrontar el cáncer",
+      "url": "https://www.elimparcial.com/estilos/2026/10/02/cancer-de-mama-y-apoyo-emocional-especialistas-explican-como-la-psicooncologia-ayuda-a-pacientes-y-familias-a-afrontar-el-diagnostico-y-el-tratamiento/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "RealizarÃ¡n paseo masivo de perritos en Hermosillo: conoce cuÃ¡ndo y dÃ³nde serÃ¡",
+      "url": "https://proyectopuente.com.mx/2026/10/02/realizaran-paseo-masivo-de-perritos-en-hermosillo-conoce-cuando-y-donde-sera/",
       "published": ""
     },
     {
       "source": "Diario del Yaqui",
-      "title": "Protección Civil refuerza apoyo a comunidades afectadas de Navojoa, Guaymas y Empalme",
-      "url": "https://diariodelyaqui.mx/sonora/proteccion-civil-refuerza-apoyo-a-comunidades-afectadas-de-navojoa-guaymas-y-empalme/144848",
+      "title": "Recuerdan 2 de octubre en la UPN Obregón: Imparten conferencia de vivencias",
+      "url": "https://diariodelyaqui.mx/ciudadobregon/recuerdan-2-de-octubre-en-la-upn-obregon-imparten-conferencia-de-vivencias/144874",
+      "published": ""
+    },
+    {
+      "source": "El Diario de Sonora",
+      "title": "Claudia Sheinbaum anuncia aumento al presupuesto de salud mental juvenil y exige responsabilidades",
+      "url": "https://eldiariodesonora.com.mx/mexico/2026/10/02/claudia-sheinbaum-anuncia-aumento-presupuesto-salud-mental-juvenil-exige-responsabilidades.html",
+      "published": ""
+    },
+    {
+      "source": "Nuevo Día",
+      "title": "Sonora ocupa primer lugar nacional en producción d...",
+      "url": "https://www.nuevodia.mx/sonora/2026/10/02/sonora-ocupa-primer-lugar-nacional-produccion-cobre-oro-durante-julio.html",
       "published": ""
     },
     {
       "source": "Uniradio Sonora",
-      "title": "Haaland lleva a Norwegian a tribunales por usar su imagen",
-      "url": "https://www.uniradiosonora.com/deportes/haaland-lleva-norwegian-tribunales-usar-su-imagen-n906432",
+      "title": "Muere mecánico en taller de la colonia Balderrama",
+      "url": "https://www.uniradiosonora.com/policiaca/muere-mecanico-taller-colonia-balderrama-n906471",
       "published": ""
     },
     {
       "source": "Entorno Informativo",
-      "title": "Plantea fortalecer presupuesto a universidades públicas; La rectora de Unison, Dena María Camarena",
-      "url": "https://entornoinformativo.com.mx/plantea-fortalecer-presupuesto-a-universidades-publicas-la-rectora-de-unison-dena-maria-camarena/",
+      "title": "Impulsan Toño Astiazarán y Patty Ruibal propuestas de Cabildo Infantil",
+      "url": "https://entornoinformativo.com.mx/impulsan-tono-astiazaran-y-patty-ruibal-propuestas-de-cabildo-infantil/",
       "published": ""
     },
     {
-      "source": "Diario del Yaqui",
-      "title": "Expo Fest Cajeme 2026: Esta es la cartelera de los artistas que estarán presentes",
-      "url": "https://diariodelyaqui.mx/sonora/expo-fest-cajeme-2026-esta-es-la-cartelera-de-los-artistas-que-estaran-presentes-/144847",
+      "source": "El Imparcial",
+      "title": "El mexicano Anwar Hernández jugará la UEFA Conference League",
+      "url": "https://www.elimparcial.com/deporte/2026/10/02/quien-es-anwar-hernandez-el-mexicano-que-jugara-la-conference-league-y-enfrentara-a-rodrigo-huescas/",
       "published": ""
     },
     {
-      "source": "Radio Sonora",
-      "title": "«El tiempo de mujeres llegó para quedarse»: Lorenia Valles recorrerá los 72 municipios tras asumir coordinación de la Transformación",
-      "url": "https://www.radiosonora.com.mx/lorenia-valles-recorrido-72-municipios-sonora-coordinacion-morena/",
-      "published": ""
-    },
-    {
-      "source": "Uniradio Sonora",
-      "title": "El misterioso y sombrío regreso de Johnny Depp a los grandes estudios con \"Ebenezer: Los fantasmas de Navidad\"",
-      "url": "https://www.uniradiosonora.com/fama/el-misterioso-sombrio-regreso-johnny-depp-grandes-estudios-ebenezer-fantasmas-navidad-n906427",
-      "published": ""
-    },
-    {
-      "source": "Entorno Informativo",
-      "title": "¿Has visto a: Jessica Alejandra García Valenzuela?",
-      "url": "https://entornoinformativo.com.mx/has-visto-a-jessica-alejandra-garcia-valenzuela/",
+      "source": "Proyecto Puente",
+      "title": "Atacantes de secundaria en TorreÃ³n son mayores de edad: Â¿QuÃ© pena podrÃ­an recibir los hermanos?",
+      "url": "https://proyectopuente.com.mx/2026/10/02/atacantes-de-secundaria-en-torreon-son-mayores-de-edad-que-pena-podrian-recibir-los-hermanos/",
       "published": ""
     },
     {
@@ -152,9 +524,51 @@
       "published": ""
     },
     {
+      "source": "El Diario de Sonora",
+      "title": "Claudia Sheinbaum anuncia grupo interinstitucional para frenar la violencia digital",
+      "url": "https://eldiariodesonora.com.mx/mexico/2026/10/02/claudia-sheinbaum-anuncia-grupo-interinstitucional-frenar-violencia-digital.html",
+      "published": ""
+    },
+    {
+      "source": "Nuevo Día",
+      "title": "Congreso de Sonora analiza iniciativas sobre calor...",
+      "url": "https://www.nuevodia.mx/sonora/2026/10/02/congreso-sonora-analiza-iniciativas-calor-extremo-becas-ia-atencion-psicologica.html",
+      "published": ""
+    },
+    {
       "source": "Uniradio Sonora",
-      "title": "Sia habría vendido la mitad de su catálogo por 180 mdd",
-      "url": "https://www.uniradiosonora.com/fama/sia-habria-vendido-mitad-su-catalogo-180-mdd-n906424",
+      "title": "Piden retirar escombros tras restaurar tumbas",
+      "url": "https://www.uniradiosonora.com/sociedad/piden-retirar-escombros-tras-restaurar-tumbas-n906429",
+      "published": ""
+    },
+    {
+      "source": "Radar Sonora",
+      "title": "Confiscan cocaína y un vehículo, sin detenido",
+      "url": "https://www.radarsonora.com/confiscan-cocaina-y-un-vehiculo-sin-detenido/",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Evacuan a pacientes de hospital Chávez por conato de incendio",
+      "url": "https://entornoinformativo.com.mx/evacuan-a-pacientes-de-hospital-chavez-por-conato-de-incendio/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Aceleró ventas de autos en México",
+      "url": "https://mediosobson.com/2026/10/02/acelero-ventas-de-autos-en-mexico/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "En Cuba operan más de 16 mil empresas pero no es capitalismo",
+      "url": "https://www.elimparcial.com/mundo/2026/10/02/en-cuba-operan-mas-de-16-mil-empresas-privadas-pero-no-es-un-giro-al-capitalismo-sino-reformas-economicas-aclara-gobierno-cubano/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "Detienen al operador fiscal de huachicol que hablÃ³ con ‘Andy’ para liberar buque en Guaymas",
+      "url": "https://proyectopuente.com.mx/2026/10/02/detienen-al-operador-fiscal-de-huachicol-que-hablo-con-andy-para-liberar-buque-en-guaymas/",
       "published": ""
     },
     {
@@ -164,9 +578,93 @@
       "published": ""
     },
     {
+      "source": "Radio Sonora",
+      "title": "«El tiempo de mujeres llegó para quedarse»: Lorenia Valles recorrerá los 72 municipios tras asumir coordinación de la Transformación",
+      "url": "https://www.radiosonora.com.mx/lorenia-valles-recorrido-72-municipios-sonora-coordinacion-morena/",
+      "published": ""
+    },
+    {
+      "source": "El Diario de Sonora",
+      "title": "Ataque en secundaria de Torreón: Investigan cuenta de TikTok con simbología satánica",
+      "url": "https://eldiariodesonora.com.mx/mexico/2026/10/02/ataque-secundaria-torreon-investigan-cuenta-tiktok-simbologia-satanica.html",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Acribillan a pareja de ciclistas en Cajeme",
+      "url": "https://entornoinformativo.com.mx/acribillan-a-pareja-de-ciclistas-en-cajeme/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "¿Quién es el “Capitán Sol”? Excapitán de la Marina detenido por caso de huachicol",
+      "url": "https://mediosobson.com/2026/10/02/quien-es-el-capitan-sol-excapitan-de-la-marina-detenido-por-caso-de-huachicol/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Morena tiene un proyecto que ningún partido tiene: Valles",
+      "url": "https://www.elimparcial.com/son/hermosillo/2026/10/02/lorenia-valles-afirma-que-morena-tiene-un-proyecto-que-ningun-otro-partido-ofrece-y-habla-sobre-sus-aspiraciones-para-gobernar-sonora/",
+      "published": ""
+    },
+    {
+      "source": "Proyecto Puente",
+      "title": "Orlando pone manos a la obra y ayuda a sus amigos a elaborar coronas de DÃ­a de Muertos en Hermosillo",
+      "url": "https://proyectopuente.com.mx/2026/10/02/orlando-pone-manos-a-la-obra-y-ayuda-a-sus-amigos-a-elaborar-coronas-de-dia-de-muertos-en-hermosillo/",
+      "published": ""
+    },
+    {
+      "source": "Diario del Yaqui",
+      "title": "Noticiero Sonora a Diario, con Joel Gutiérrez y Enrique Delgadillo; viernes 2 de octubre de 2026",
+      "url": "https://diariodelyaqui.mx/noticiero/noticiero-sonora-a-diario-con-joel-gutierrez-y-enrique-delgadillo-viernes-2-de-octubre-de-2026/144854",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Confía Lorenia Valles en lograr continuidad de la 4T",
+      "url": "https://entornoinformativo.com.mx/confia-lorenia-valles-en-lograr-continuidad-de-la-4t/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Separan a directivos del IMSS por caso de recién nacidos",
+      "url": "https://mediosobson.com/2026/10/02/separan-a-directivos-del-imss-por-caso-de-recien-nacidos/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial",
+      "title": "Chocolates artesanales de Arizona: sabores del desierto con raíces mexicanasHace 4 horas",
+      "url": "https://www.elimparcial.com/son/arizona/2026/10/02/chocolates-artesanales-de-arizona-sabores-del-desierto-con-raices-mexicanas/",
+      "published": ""
+    },
+    {
       "source": "Radar Sonora",
       "title": "Impulsan Toño Astiazarán y Patty Ruibal propuestas de Cabildo Infantil para...",
       "url": "https://www.radarsonora.com/impulsan-tono-astiazaran-y-patty-ruibal-propuestas-de-cabildo-infantil-para-el-uso-responsable-de-pantallas/",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Inicia campaña preventiva de cáncer de mama",
+      "url": "https://entornoinformativo.com.mx/inicia-campana-preventiva-de-cancer-de-mama/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Identifican a mujer ultimada en la Sochiloa",
+      "url": "https://mediosobson.com/2026/10/02/identifican-a-mujer-ultimada-en-la-sochiloa/",
+      "published": ""
+    },
+    {
+      "source": "Entorno Informativo",
+      "title": "Ayuntamiento de Hermosillo ofrece recorridos del Trolebús y minibús",
+      "url": "https://entornoinformativo.com.mx/ayuntamiento-de-hermosillo-ofrece-recorridos-del-trolebus-y-minibus/",
+      "published": ""
+    },
+    {
+      "source": "Medios OBSON",
+      "title": "Con aporte sonorense, México conquista plata en final Six Femenil de Volibol de Sala",
+      "url": "https://mediosobson.com/2026/10/02/con-aporte-sonorense-mexico-conquista-plata-en-final-six-femenil-de-volibol-de-sala/",
       "published": ""
     }
   ]
