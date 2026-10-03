@@ -1,8 +1,36 @@
 {
   "date": "2026-10-03",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Joven herido por agresión armada en Hermosillo",
+        "summary": "Persona lesionada tras ataque con armas de fuego dentro de vivienda al sur de la capital sonorense.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/10/03/agresion-armada-deja-a-joven-lesionado-dentro-de-vivienda-al-sur-de-hermosillo/",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
+      {
+        "title": "Cuerpo de mujer hallado en Miguel Alemán",
+        "summary": "Localizan víctima de feminicidio; autoridades tienen un detenido relacionado con el caso.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/03/localizan-cu3rpo-de-mujer-en-miguel-aleman-hay-un-det3nido-por-femi-nic1dio/",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
+      {
+        "title": "Precaución extrema para peregrinos Nogales-Magdalena",
+        "summary": "Autoridades recomiendan medidas de seguridad durante peregrinación; habrá vigilancia policial hasta el lunes.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/10/03/ante-el-cierre-de-las-fiestas-de-san-francisco-javier-peregrinos-de-nogales-a-magdalena-deben-extremar-precauciones-por-el-aumento-del-transito-habra-vigilancia-hasta-el-lunes-5-de-octubre/",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
+      {
+        "title": "Canadiense reportado desaparecido reaparece en San Carlos",
+        "summary": "Persona extranjera desaparecida en Mar de Cortés regresa sano a puerto de Guaymas.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/canadiense-regresa-a-san-carlos-tras-ser-reportado-como-desaparecido-en-el-mar-de-cortes/144919",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
       {
         "title": "Rickettsia causa 51 muertes en Sonora",
         "summary": "La enfermedad transmitida por garrapatas ha provocado 51 fallecimientos en la entidad, escalando la crisis sanitaria.",
@@ -34,6 +62,20 @@
     ],
     "politica": [
       {
+        "title": "FGR presenta pruebas contra Ruffo Appel e Ingemar",
+        "summary": "Fiscalía respalda acusaciones contra empresario y empresa con evidencia contundente.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/hay-pruebas-contundentes-ruffo-appel-empresa-ingemar-fgr-n906611",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
+      {
+        "title": "Senado actúa contra explotación laboral de menores",
+        "summary": "Legisladores impulsan medidas para combatir trata y trabajo infantil en las calles.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/senado-va-explotacion-laboral-trata-menores-calles-n906629",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
+      {
         "title": "PT permanece con Morena rumbo a 2027",
         "summary": "Partido del Trabajo mantiene alianza electoral con Morena; Guaymas emerge como punto clave de negociación.",
         "source": "Sonora Presente",
@@ -57,6 +99,27 @@
     ],
     "economia": [
       {
+        "title": "Nogales planea reconstrucción integral de calles",
+        "summary": "Municipio abandona reparaciones temporales para ejecutar restauración completa tras daños de lluvias.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/03/adios-puro-bacheo-nogales-prepara-reconstruccion-calles-danadas-lluvias.html",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
+      {
+        "title": "Regulación Sanitaria intensifica inspecciones en Cajeme",
+        "summary": "Refuerzan supervisión a vendedores de alimentos en Ciudad Obregón.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/refuerza-regulacion-sanitaria-inspecciones-a-vendedores-de-alimentos-en-ciudad-obregon/",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
+      {
+        "title": "Ayuda sanitaria para ganado afectado por gusano",
+        "summary": "Autoridades ofrecen tratamiento gratuito contra barrenador del ganado en la región.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/03/apoyaran-con-tratamiento-contra-gusano-barrenador/",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
+      {
         "title": "Amigo LNG impulsa expansión portuaria sonorense",
         "summary": "Proyecto de infraestructura gasífera representa base fundamental para desarrollo portuario estatal.",
         "source": "Radar Sonora",
@@ -65,6 +128,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Piden justicia restaurativa tras agresión a estudiante trans",
+        "summary": "Caso de violencia en Hermosillo genera demanda de enfoque restaurador y protección estudiantil.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/piden-justicia-restaurativa-tras-agresion-estudiante-trans-hermosillo-n906626",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
+      {
+        "title": "Nogales logra 80% supervivencia en reforestación urbana",
+        "summary": "Más de cinco mil árboles sobreviven en programa de bosques urbanos municipales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/03/nogales-logra-80-supervivencia-arboles-reforestados-ya-suman-mas-5-mil.html",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
+      {
+        "title": "Seguridad Pública acerca programas preventivos a jóvenes",
+        "summary": "Jornada de prevención dirigida a estudiantes de preparatoria en Nogales.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/03/seguridad-publica-acerca-sus-programas-jovenes-nogales.html",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
+      {
+        "title": "Delfín Moana muere en delfinario de Guaymas",
+        "summary": "Cetáceo de ocho años fallece; causa desconocida. Recinto permanece cerrado por daños huracán.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/10/03/muere-moana-delfin-de-8-anos-del-delfinario-sonora-en-guaymas-aun-no-se-sabe-que-causo-su-muerte-y-el-recinto-permanece-cerrado-por-danos-del-huracan-polo/",
+        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+      },
       {
         "title": "Buscadoras presentan fichas ante Comisión de Derechos",
         "summary": "Organización por la Paz entrega documentos de desaparecidos a CEDH en búsqueda de justicia.",
@@ -95,5 +186,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-03T01:28:36.286652-07:00"
+  "last_updated": "2026-10-03T12:00:10.684076-07:00"
 }
