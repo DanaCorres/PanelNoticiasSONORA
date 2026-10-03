@@ -1,246 +1,99 @@
 {
-  "date": "2026-10-02",
-  "run_count": 3,
+  "date": "2026-10-03",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Vinculan a proceso a imputado por delito contra libertad",
-        "summary": "Fiscalía obtiene vinculación a proceso contra persona acusada de delito contra la libertad en grado de tentativa en Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/10/02/fiscalia-obtiene-vinculacion-a-proceso-a-imputado-por-delito-contra-la-libertad-en-grado-de-tentativa-en-hermosillo/",
-        "_added_at": "2026-10-02T17:56:01.761575-07:00"
-      },
-      {
-        "title": "Joven desaparecida en Sonora fue localizada con novio",
-        "summary": "Adolescente reportada como desaparecida fue encontrada con su pareja; no hay indicios de delito.",
+        "title": "Rickettsia causa 51 muertes en Sonora",
+        "summary": "La enfermedad transmitida por garrapatas ha provocado 51 fallecimientos en la entidad, escalando la crisis sanitaria.",
         "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/joven-reportada-como-desaparecida-en-sonora-ya-fue-localizada-estaba-con-el-novio/144865",
-        "_added_at": "2026-10-02T17:56:01.761575-07:00"
+        "url": "https://diariodelyaqui.mx/ciudadobregon/se-elevan-a-51-las-muertes-por-rickettsia-en-sonora/144910",
+        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       },
       {
-        "title": "Empleada del hospital enfrenta juicio por sustracción de medicamentos",
-        "summary": "Fiscalía lleva ante juez a trabajadora del Isssteson acusada de robar antibióticos del Hospital Chávez en Hermosillo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/10/02/fiscalia-de-sonora-prepara-llevar-ante-un-juez-a-empleada-del-isssteson-tras-ser-detectada-por-un-vigilante-cuando-presuntamente-sustraia-medicamentos-del-hospital-chavez-de-hermosillo/",
-        "_added_at": "2026-10-02T13:21:46.348249-07:00"
-      },
-      {
-        "title": "Investigan agresión a estudiante de preparatoria en parada de camión",
-        "summary": "Autoridades abren investigación por ataque a alumno de educación media superior en zona de transporte público.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/investigan-agresion-estudiante-preparatoria-parada-camion-n906515",
-        "_added_at": "2026-10-02T13:21:46.348249-07:00"
-      },
-      {
-        "title": "Fiscalía investiga agresión contra alumna del Cecyte",
-        "summary": "Dependencia abre indagatoria por violencia contra estudiante de institución de educación técnica en Sonora.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/10/02/fgje-investiga-agresion-contra-alumna-del-cecyte-en-sonora/",
-        "_added_at": "2026-10-02T13:21:46.348249-07:00"
-      },
-      {
-        "title": "Hallan cadáver en casa de colonia Balderrama en Hermosillo",
-        "summary": "Descubren hombre sin vida en domicilio ubicado en zona residencial de la capital sonorense.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/hallan-hombre-vida-casa-colonia-balderrama-n906502",
-        "_added_at": "2026-10-02T13:21:46.348249-07:00"
-      },
-      {
-        "title": "Violencia se intensifica en Ciudad Obregón",
-        "summary": "Cajeme experimenta recrudecimiento de hechos delictivos según reportes locales.",
+        "title": "Dengue suma mil 364 casos en la entidad",
+        "summary": "Sonora registra incremento significativo de contagios de dengue, promoviendo campañas de prevención en municipios.",
         "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/policiaca/recrudece-la-violencia-en-cajeme/144849",
-        "_added_at": "2026-10-02T01:50:30.407542-07:00"
+        "url": "https://diariodelyaqui.mx/ciudadobregon/llega-sonora-a-mil-364-casos-de-dengue/144912",
+        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       },
       {
-        "title": "Joven desaparecida localizada en Magdalena de Kino",
-        "summary": "Raquel Constanza fue encontrada tras seis días de ausencia; se marchó con su novio.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-a-joven-reportada-desaparecida-en-magdalena-de-kino/265634",
-        "_added_at": "2026-10-02T01:50:30.407542-07:00"
+        "title": "Hombre lesionado en ataque armado en Vista Real",
+        "summary": "Enfrentamiento deja víctima con heridas de bala en colonia de la capital sonorense.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/ataque-armado-deja-a-un-hombre-lesionado-en-la-colonia-vista-real/",
+        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       },
       {
-        "title": "Detienen a presunto líder de secta en Sonora",
-        "summary": "Capturan a \"El Maestro\" acusado de abuso mediante yoga y engaños a sus víctimas.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/internacional/detienen-a-el-maestro-presunto-lider-de-secta-que-abusaba-personas-atrayendolas-con-yoga/144846",
-        "_added_at": "2026-10-02T01:50:30.407542-07:00"
+        "title": "Hallan cuerpo en descomposición en Las Cuevitas",
+        "summary": "Descubrimiento de cadáver en avanzado estado de putrefacción activa investigación de autoridades.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/hallan-cuerpo-en-descomposicion-en-las-cuevitas/",
+        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Nogales duplica presupuesto para becas educativas",
-        "summary": "Municipio aumenta inversión en programa de becas, consolidando estrategia educativa con apoyo histórico.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/10/02/nogales-duplica-presupuesto-becas-alcanza-162-millones-pesos.html",
-        "_added_at": "2026-10-02T17:56:01.761575-07:00"
-      },
-      {
-        "title": "Sonora supera meta con 67 mil nuevas viviendas",
-        "summary": "Entidad logra objetivo de construcción de hogares bajo administración estatal actual.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/sonora-supera-meta-de-vivienda-con-67-mil-nuevos-hogares-impulsados-por-sheinbaum-y-durazo/",
-        "_added_at": "2026-10-02T17:56:01.761575-07:00"
-      },
-      {
-        "title": "Parque Centenario lleva más de año en rehabilitación",
-        "summary": "Obra de mejora en espacio público hermosillense continúa en ejecución.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/10/02/lleva-mas-de-ano-y-medio-obra-rehabilitacion-del-parque-de-centenario-en-hermosillo-karla-estrella/",
-        "_added_at": "2026-10-02T17:56:01.761575-07:00"
-      },
-      {
-        "title": "Morena confía en repetir gubernatura en 2027, afirma Valles",
-        "summary": "Dirigente morenista defiende legado de Durazo y asegura continuidad del partido en próxima elección estatal.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/10/02/morena-repetira-gubernatura-en-2027-afirma-lorenia-valles-defiende-a-durazo-y-su-legado/",
-        "_added_at": "2026-10-02T13:21:46.348249-07:00"
-      },
-      {
-        "title": "UIF abre investigación contra Amílcar Olán",
-        "summary": "Unidad de Inteligencia Financiera inicia pesquisa sobre figura política sonorense por presuntas irregularidades.",
+        "title": "PT permanece con Morena rumbo a 2027",
+        "summary": "Partido del Trabajo mantiene alianza electoral con Morena; Guaymas emerge como punto clave de negociación.",
         "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/10/la-uif-investiga-a-amilcar-olan/",
-        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+        "url": "https://sonorapresente.com/2026/10/pt-se-queda-con-morena-en-sonora-pero-guaymas-entra-al-centro-de-la-negociacion-rumbo-a-2027/",
+        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       },
       {
-        "title": "Lorenia Valles coordina continuidad de transformación",
-        "summary": "Nueva coordinadora visitará 72 municipios de Sonora bajo bandera de la 4T.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/lorenia-valles-recorrido-72-municipios-sonora-coordinacion-morena/",
-        "_added_at": "2026-10-02T01:50:30.407542-07:00"
+        "title": "Gobernador Durazo encabeza recuperación post-huracán",
+        "summary": "Autoridad coordina acciones de reconstrucción en comunidades y carreteras dañadas tras paso de Polo.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/encabeza-gobernador-durazo-acciones-de-recuperacion-de-comunidades-y-carreteras-tras-paso-de-polo/",
+        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       },
       {
-        "title": "Hermosillo impulsa Cabildo Infantil con Astiazarán",
-        "summary": "Funcionarios municipales promueven participación de menores en decisiones del gobierno.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/impulsan-tono-astiazaran-y-patty-ruibal-propuestas-de-cabildo-infantil/",
-        "_added_at": "2026-10-02T01:50:30.407542-07:00"
-      },
-      {
-        "title": "Rectora de Unison pide fortalecer presupuestos",
-        "summary": "Dena María Camarena plantea aumentar recursos para universidades públicas sonorenses.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/plantea-fortalecer-presupuesto-a-universidades-publicas-la-rectora-de-unison-dena-maria-camarena/",
-        "_added_at": "2026-10-02T01:50:30.407542-07:00"
+        "title": "Astiazarán destaca cambio en Cajeme",
+        "summary": "Funcionario local subraya fuerzas de transformación en el municipio durante acto público.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/tiene-cajeme-la-fuerza-del-cambio-tono-astiazaran/144913",
+        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Alertan en Nogales sobre riesgos de inteligencia artificial",
-        "summary": "Empresas reciben alerta sobre vulnerabilidades en ciberseguridad relacionadas con nuevas tecnologías.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/10/02/alertan-nogales-riesgos-inteligencia-artificial-ciberseguridad.html",
-        "_added_at": "2026-10-02T17:56:01.761575-07:00"
-      },
-      {
-        "title": "Buscan alternativas para resolver abasto de agua norte",
-        "summary": "Autoridades trabajan en soluciones para mejorar distribución de agua potable en zona norte de Hermosillo.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/buscan-alternativas-resolver-abasto-agua-norte-hermosillo-n906517",
-        "_added_at": "2026-10-02T17:56:01.761575-07:00"
-      },
-      {
-        "title": "Oro y cobre de Sonora lideran producción nacional",
-        "summary": "Estado produce ocho de cada diez toneladas de cobre mexicano y encabeza oro en nivel nacional.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/10/02/sonora-produjo-casi-ocho-de-cada-10-toneladas-de-cobre-de-mexico-y-ocupo-el-primer-lugar-nacional-en-oro/",
-        "_added_at": "2026-10-02T13:21:46.348249-07:00"
-      },
-      {
-        "title": "Incertidumbre en familias por suspensión laboral",
-        "summary": "Trabajadores y sus familias enfrentan preocupación tras cierre temporal de actividades empresariales.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/10/02/incertidumbre-en-familias-de-trabajadores-tras-suspension-de-actividades/",
-        "_added_at": "2026-10-02T13:21:46.348249-07:00"
-      },
-      {
-        "title": "Sonora lidera producción nacional de oro y cobre",
-        "summary": "Estado se posiciona en primer lugar en extracción de metales preciosos a nivel nacional.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/sonora-se-ubica-en-primer-lugar-nacional-en-produccion-de-oro-y-cobre/",
-        "_added_at": "2026-10-02T01:50:30.407542-07:00"
-      },
-      {
-        "title": "Gobernador solicita recursos extraordinarios por huracán",
-        "summary": "Coves busca fondos federales adicionales para atender daños causados por \"Polo\".",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/pedira-coves-recursos-extraordinarios-por-polo/",
-        "_added_at": "2026-10-02T01:50:30.407542-07:00"
+        "title": "Amigo LNG impulsa expansión portuaria sonorense",
+        "summary": "Proyecto de infraestructura gasífera representa base fundamental para desarrollo portuario estatal.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/base-de-la-expansion-portuaria-el-proyecto-de-amigo-lng/",
+        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Border Fashion Week convierte pasarelas en lucha anticáncer",
-        "summary": "Evento de moda en Nogales alcanza edición 14 y se dedica a recaudación para causas de salud.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/02/border-fashion-week-convierte-pasarelas-esperanza-cancer.html",
-        "_added_at": "2026-10-02T17:56:01.761575-07:00"
-      },
-      {
-        "title": "Nogales lanza jornada gratuita de prevención del cáncer",
-        "summary": "Salud Municipal invita a mujeres a participar en actividades preventivas durante mes de concientización.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/02/nogales-pinta-rosa-invitan-mujeres-jornada-gratuita-prevencion-cancer.html",
-        "_added_at": "2026-10-02T17:56:01.761575-07:00"
-      },
-      {
-        "title": "Ayudan a familias afectadas por huracán Polo",
-        "summary": "Autoridades brindan apoyo a pobladores de Guaymas y Empalme impactados por evento climático.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/ayudan-a-familias-afectadas-en-guaymas-y-empalme-por-huracan-polo/",
-        "_added_at": "2026-10-02T17:56:01.761575-07:00"
-      },
-      {
-        "title": "Teletón 2026 en CRIT Sonora con música y actividades",
-        "summary": "Evento de recaudación se realizará en Hermosillo con entretenimiento y participación comunitaria.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/10/02/teleton-2026-en-el-crit-sonora-tendra-musica-juegos-y-actividades-el-sabado-10-de-octubre-en-hermosillo/",
-        "_added_at": "2026-10-02T17:56:01.761575-07:00"
-      },
-      {
-        "title": "Localizan a joven desaparecida en Magdalena de Kino",
-        "summary": "Raquel Constanza fue hallada tras seis días de ausencia; se encontraba con su novio.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/localizan-a-joven-reportada-desaparecida-en-magdalena-de-kino/265634",
-        "_added_at": "2026-10-02T13:21:46.348249-07:00"
-      },
-      {
-        "title": "Rescatan más de veinte perros abandonados en Nogales",
-        "summary": "Autoridades localizan animales maltratados que se atacaban mutuamente en domicilio de la ciudad fronteriza.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/02/mas-20-perros-abandonados-atacaban-si-domicilio-nogales.html",
-        "_added_at": "2026-10-02T13:21:46.348249-07:00"
-      },
-      {
-        "title": "DIF Nogales formaliza testamentos y protege patrimonios",
-        "summary": "Institución asistencial realiza jornada gratuita formalizando veinte testamentos ológrafos para familias.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/02/dif-nogales-formaliza-20-testamentos-ayuda-familias-proteger-su-patrimonio.html",
-        "_added_at": "2026-10-02T13:21:46.348249-07:00"
-      },
-      {
-        "title": "Hermosillenses participan en jornada de árboles nativos",
-        "summary": "Ciudadanos aprovechan programa para llevar flora endémica a sus viviendas durante actividad ambiental.",
+        "title": "Buscadoras presentan fichas ante Comisión de Derechos",
+        "summary": "Organización por la Paz entrega documentos de desaparecidos a CEDH en búsqueda de justicia.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/hermosillenses-aprovechan-jornada-llevar-arboles-nativos-sus-hogares-n906504",
-        "_added_at": "2026-10-02T13:21:46.348249-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/buscadoras-paz-llevan-fichas-desaparecidos-cedh-n906603",
+        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       },
       {
-        "title": "Protección Civil atiende municipios afectados por huracán",
-        "summary": "Refuerzan asistencia en Navojoa, Guaymas y Empalme tras paso de fenómeno meteorológico.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/proteccion-civil-refuerza-apoyo-a-comunidades-afectadas-de-navojoa-guaymas-y-empalme/144848",
-        "_added_at": "2026-10-02T01:50:30.407542-07:00"
+        "title": "Lluvias dejan afectados en Cajeme y Cruz de Piedra",
+        "summary": "Gobiernos locales distribuyen despensas y agua a familias impactadas por precipitaciones intensas.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/llevan-despensas-agua-afectados-lluvias-cajeme-n906596",
+        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       },
       {
-        "title": "Campaña Octubre Rosa busca prevenir cáncer de mama",
-        "summary": "Fundación Beatriz Beltrones invita a sumarse a iniciativa de detección temprana.",
+        "title": "Campaña \"Adiós al Mosquito\" arranca en Nogales",
+        "summary": "Iniciativa municipal busca frenar propagación de dengue mediante control de vectores.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/arranca-en-nogales-la-campana-adios-al-mosquito-para-frenar-contagios-de-dengue/",
+        "_added_at": "2026-10-03T01:28:36.286652-07:00"
+      },
+      {
+        "title": "Casa de la Cultura celebra 46 aniversario",
+        "summary": "Institución cultural conmemora su fundación con actividades programadas durante el mes.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/invita-fundacion-beatriz-beltrones-a-sumarse-a-octubre-rosa-para-apoyar-a-mujeres-afectadas-por-cancer/",
-        "_added_at": "2026-10-02T01:50:30.407542-07:00"
+        "url": "https://entornoinformativo.com.mx/celebraran-46-aniversario-de-la-casa-de-la-cultura-durante-todo-este-mes/",
+        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-02T17:56:01.761575-07:00"
+  "last_updated": "2026-10-03T01:28:36.286652-07:00"
 }
