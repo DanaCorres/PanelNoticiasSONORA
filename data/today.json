@@ -1,253 +1,91 @@
 {
-  "date": "2026-10-03",
-  "run_count": 3,
+  "date": "2026-10-04",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Ofrecen recompensa por tres homicidas en Sonora",
-        "summary": "FGJES ofrece hasta 500 mil pesos por información para localizar a tres personas con órdenes de aprehensión.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/10/03/fgjes-ofrece-hasta-500-mil-pesos-por-informacion-para-localizar-a-tres-personas-con-ordenes-de-aprehension-en-sonora/",
-        "_added_at": "2026-10-03T17:21:40.800580-07:00"
-      },
-      {
-        "title": "Hombre muere en agresión armada en Nogales",
-        "summary": "Persona entre 30 y 35 años fallece tras ataque en colonia Del Valle; sin detenidos hasta el momento.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/nogales/2026/10/03/hombre-de-entre-30-y-35-anos-muere-tras-agresion-armada-en-la-colonia-del-valle-de-nogales-no-hay-detenidos/",
-        "_added_at": "2026-10-03T17:21:40.800580-07:00"
-      },
-      {
-        "title": "Trailer se incendia en carretera Empalme-Ciudad Obregón",
-        "summary": "Cierre de vialidad tras incendio de unidad de transporte en la carretera regional.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/10/03/se-incendia-trailer-en-la-carretera-empalme-ciudad-obregon-cierran-vialidad/",
-        "_added_at": "2026-10-03T17:21:40.800580-07:00"
-      },
-      {
-        "title": "Joven herido por agresión armada en Hermosillo",
-        "summary": "Persona lesionada tras ataque con armas de fuego dentro de vivienda al sur de la capital sonorense.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/10/03/agresion-armada-deja-a-joven-lesionado-dentro-de-vivienda-al-sur-de-hermosillo/",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
-      },
-      {
-        "title": "Cuerpo de mujer hallado en Miguel Alemán",
-        "summary": "Localizan víctima de feminicidio; autoridades tienen un detenido relacionado con el caso.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/10/03/localizan-cu3rpo-de-mujer-en-miguel-aleman-hay-un-det3nido-por-femi-nic1dio/",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
-      },
-      {
-        "title": "Precaución extrema para peregrinos Nogales-Magdalena",
-        "summary": "Autoridades recomiendan medidas de seguridad durante peregrinación; habrá vigilancia policial hasta el lunes.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/10/03/ante-el-cierre-de-las-fiestas-de-san-francisco-javier-peregrinos-de-nogales-a-magdalena-deben-extremar-precauciones-por-el-aumento-del-transito-habra-vigilancia-hasta-el-lunes-5-de-octubre/",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
-      },
-      {
-        "title": "Canadiense reportado desaparecido reaparece en San Carlos",
-        "summary": "Persona extranjera desaparecida en Mar de Cortés regresa sano a puerto de Guaymas.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/sonora/canadiense-regresa-a-san-carlos-tras-ser-reportado-como-desaparecido-en-el-mar-de-cortes/144919",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
-      },
-      {
-        "title": "Rickettsia causa 51 muertes en Sonora",
-        "summary": "La enfermedad transmitida por garrapatas ha provocado 51 fallecimientos en la entidad, escalando la crisis sanitaria.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/se-elevan-a-51-las-muertes-por-rickettsia-en-sonora/144910",
-        "_added_at": "2026-10-03T01:28:36.286652-07:00"
-      },
-      {
-        "title": "Dengue suma mil 364 casos en la entidad",
-        "summary": "Sonora registra incremento significativo de contagios de dengue, promoviendo campañas de prevención en municipios.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/llega-sonora-a-mil-364-casos-de-dengue/144912",
-        "_added_at": "2026-10-03T01:28:36.286652-07:00"
-      },
-      {
-        "title": "Hombre lesionado en ataque armado en Vista Real",
-        "summary": "Enfrentamiento deja víctima con heridas de bala en colonia de la capital sonorense.",
+        "title": "Asesinato en ataque armado en Ciudad Obregón",
+        "summary": "Peatón muere en tiroteo registrado en Ciudad Obregón durante incidente de violencia armada.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/ataque-armado-deja-a-un-hombre-lesionado-en-la-colonia-vista-real/",
-        "_added_at": "2026-10-03T01:28:36.286652-07:00"
+        "url": "https://entornoinformativo.com.mx/asesinan-a-peaton-en-ataque-armado-en-ciudad-obregon/",
+        "_added_at": "2026-10-04T01:40:07.421207-07:00"
+      },
+      {
+        "title": "Fiscalía ofrece recompensa por tres homicidas buscados",
+        "summary": "FGJES pone precio a información para capturar a tres personas acusadas de homicidio.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/policiaca/fgjes-pone-precio-informacion-capturar-tres-personas-buscadas-n906663",
+        "_added_at": "2026-10-04T01:40:07.421207-07:00"
+      },
+      {
+        "title": "Detienen a sospechoso con arma prohibida en La Cholla",
+        "summary": "Capturan presunto delincuente portando arma ilegal en colonia de Hermosillo.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/cae-presunto-maleante-con-arma-prohibida-en-la-colonia-la-cholla/",
+        "_added_at": "2026-10-04T01:40:07.421207-07:00"
+      },
+      {
+        "title": "Sorprenden a individuo con droga en Centro de Hermosillo",
+        "summary": "Autoridades encuentran a peatón en posesión de sustancias ilícitas en zona céntrica.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/sorprenden-a-peaton-con-cura-de-droga-en-el-centro-de-hermosillo/",
+        "_added_at": "2026-10-04T01:40:07.421207-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Nogales crea tres nuevas mesas de coordinación municipal",
-        "summary": "Gobierno refuerza coordinación interna con nuevas mesas de trabajo para acelerar resultados.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/03/nogales-refuerza-coordinacion-municipal-crean-tres-nuevas-mesas-acelerar-resultados.html",
-        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+        "title": "Lamarque respalda candidatura de Lorenia Valles",
+        "summary": "Javier Lamarque convoca a apoyar la candidatura de Lorenia Valles en proceso electoral.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/llama-javier-lamarque-a-apoyar-a-lorenia-valles/",
+        "_added_at": "2026-10-04T01:40:07.421207-07:00"
       },
       {
-        "title": "Lamarque respalda triunfo de Lorenia Valles en Sonora",
-        "summary": "Reconoce victoria electoral y llama a fortalecer la continuidad de políticas estatales.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/reconoce-lamarque-triunfo-lorenia-valles-llama-fortalecer-4t-n906661",
-        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+        "title": "Astiazarán permite participación ciudadana en presupuesto de obras",
+        "summary": "Toño Astiazarán implementa presupuesto Creces para que población decida sobre proyectos.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/tono-astiazaran-da-poder-a-poblacion-sobre-obras-a-traves-del-presupuesto-creces/",
+        "_added_at": "2026-10-04T01:40:07.421207-07:00"
       },
       {
-        "title": "Centro Coordinador de Salud refuerza emergencias médicas",
-        "summary": "Gobernador Durazo fortalece respuesta sanitaria con primer centro coordinador en México.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/con-el-primer-centro-coordinador-de-salud-en-mexico-gobernador-durazo-fortalece-respuesta-a-emergencias-medicas/",
-        "_added_at": "2026-10-03T17:21:40.800580-07:00"
-      },
-      {
-        "title": "FGR presenta pruebas contra Ruffo Appel e Ingemar",
-        "summary": "Fiscalía respalda acusaciones contra empresario y empresa con evidencia contundente.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/hay-pruebas-contundentes-ruffo-appel-empresa-ingemar-fgr-n906611",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
-      },
-      {
-        "title": "Senado actúa contra explotación laboral de menores",
-        "summary": "Legisladores impulsan medidas para combatir trata y trabajo infantil en las calles.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/senado-va-explotacion-laboral-trata-menores-calles-n906629",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
-      },
-      {
-        "title": "PT permanece con Morena rumbo a 2027",
-        "summary": "Partido del Trabajo mantiene alianza electoral con Morena; Guaymas emerge como punto clave de negociación.",
-        "source": "Sonora Presente",
-        "url": "https://sonorapresente.com/2026/10/pt-se-queda-con-morena-en-sonora-pero-guaymas-entra-al-centro-de-la-negociacion-rumbo-a-2027/",
-        "_added_at": "2026-10-03T01:28:36.286652-07:00"
-      },
-      {
-        "title": "Gobernador Durazo encabeza recuperación post-huracán",
-        "summary": "Autoridad coordina acciones de reconstrucción en comunidades y carreteras dañadas tras paso de Polo.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/encabeza-gobernador-durazo-acciones-de-recuperacion-de-comunidades-y-carreteras-tras-paso-de-polo/",
-        "_added_at": "2026-10-03T01:28:36.286652-07:00"
-      },
-      {
-        "title": "Astiazarán destaca cambio en Cajeme",
-        "summary": "Funcionario local subraya fuerzas de transformación en el municipio durante acto público.",
+        "title": "Bajan 17.49% trámites del INE en Cajeme",
+        "summary": "Disminución significativa en gestiones ante Instituto Nacional Electoral en Ciudad Obregón.",
         "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/tiene-cajeme-la-fuerza-del-cambio-tono-astiazaran/144913",
-        "_added_at": "2026-10-03T01:28:36.286652-07:00"
+        "url": "https://diariodelyaqui.mx/ciudadobregon/bajan-1749-tramites-de-ine-en-cajeme/144958",
+        "_added_at": "2026-10-04T01:40:07.421207-07:00"
       }
     ],
-    "economia": [
-      {
-        "title": "Durazo encabeza recuperación de comunidades tras huracán Polo",
-        "summary": "Gobernador coordina acciones de reconstrucción de infraestructura vial y comunitaria.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/encabeza-gobernador-durazo-acciones-de-recuperacion-de-comunidades-y-carreteras-tras-paso-de-polo/",
-        "_added_at": "2026-10-03T17:21:40.800580-07:00"
-      },
-      {
-        "title": "Salud refuerza acciones contra dengue tras huracán Polo",
-        "summary": "Secretaría intensifica campañas preventivas tras paso del huracán.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/10/03/refuerza-secretaria-de-salud-acciones-contra-el-dengue-tras-paso-de-polo/",
-        "_added_at": "2026-10-03T17:21:40.800580-07:00"
-      },
-      {
-        "title": "Nogales planea reconstrucción integral de calles",
-        "summary": "Municipio abandona reparaciones temporales para ejecutar restauración completa tras daños de lluvias.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/03/adios-puro-bacheo-nogales-prepara-reconstruccion-calles-danadas-lluvias.html",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
-      },
-      {
-        "title": "Regulación Sanitaria intensifica inspecciones en Cajeme",
-        "summary": "Refuerzan supervisión a vendedores de alimentos en Ciudad Obregón.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/refuerza-regulacion-sanitaria-inspecciones-a-vendedores-de-alimentos-en-ciudad-obregon/",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
-      },
-      {
-        "title": "Ayuda sanitaria para ganado afectado por gusano",
-        "summary": "Autoridades ofrecen tratamiento gratuito contra barrenador del ganado en la región.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/10/03/apoyaran-con-tratamiento-contra-gusano-barrenador/",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
-      },
-      {
-        "title": "Amigo LNG impulsa expansión portuaria sonorense",
-        "summary": "Proyecto de infraestructura gasífera representa base fundamental para desarrollo portuario estatal.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/base-de-la-expansion-portuaria-el-proyecto-de-amigo-lng/",
-        "_added_at": "2026-10-03T01:28:36.286652-07:00"
-      }
-    ],
+    "economia": [],
     "sociedad": [
       {
-        "title": "Nogales inicia colecta contra el cáncer con donativo",
-        "summary": "Arranca campaña solidaria con donación inicial de 50 mil pesos para lucha oncológica.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/03/nogales-une-cancer-arranca-colecta-donativo-50-mil-pesos.html",
-        "_added_at": "2026-10-03T17:21:40.800580-07:00"
-      },
-      {
-        "title": "CEDH responde a protesta de Buscadoras por la Paz",
-        "summary": "Comisión de Derechos Humanos convocará reunión en octubre con familias de desaparecidos.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/cedh-responde-protesta-buscadoras-paz-habra-reunion-octubre-n906655",
-        "_added_at": "2026-10-03T17:21:40.800580-07:00"
-      },
-      {
-        "title": "Presentan queja ante CEDH por agresión a estudiante trans",
-        "summary": "Denuncia de violencia contra menor estudiante en institución educativa de Hermosillo.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/presentan-queja-cedh-agresion-estudiante-trans-hermosillo-n906657",
-        "_added_at": "2026-10-03T17:21:40.800580-07:00"
-      },
-      {
-        "title": "IEE Sonora detecta barreras para personas con discapacidad",
-        "summary": "Instituto Electoral consulta para identificar obstáculos en acceso de población vulnerable.",
+        "title": "Sonora mejora atención de emergencias médicas con nuevo centro",
+        "summary": "Centro Coordinador de Salud fortalece capacidad de respuesta en emergencias médicas estatal.",
         "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/consulta-iee-sonora-busca-detectar-barreras-para-personas-con-discapacidad/",
-        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+        "url": "https://www.radiosonora.com.mx/sonora-fortalece-atencion-a-emergencias-medicas-con-centro-coordinador-de-salud/",
+        "_added_at": "2026-10-04T01:40:07.421207-07:00"
       },
       {
-        "title": "Piden justicia restaurativa tras agresión a estudiante trans",
-        "summary": "Caso de violencia en Hermosillo genera demanda de enfoque restaurador y protección estudiantil.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/piden-justicia-restaurativa-tras-agresion-estudiante-trans-hermosillo-n906626",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+        "title": "SNTE capacitará escuelas para prevenir violencia",
+        "summary": "Sindicato y Fuerzas Armadas entrenan instituciones educativas en protocolos de seguridad.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/nacional/snte-y-fuerzas-armadas-capacitaran-a-escuelas-para-prevenir-hechos-de-violencia/144967",
+        "_added_at": "2026-10-04T01:40:07.421207-07:00"
       },
       {
-        "title": "Nogales logra 80% supervivencia en reforestación urbana",
-        "summary": "Más de cinco mil árboles sobreviven en programa de bosques urbanos municipales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/03/nogales-logra-80-supervivencia-arboles-reforestados-ya-suman-mas-5-mil.html",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
+        "title": "Ofrecen cursos gratuitos a adultos mayores en municipio",
+        "summary": "Autoridades invitan a personas mayores de 55 años a participar en capacitaciones gratuitas.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/autoridades-municipales-invitan-a-cursos-gratuitos-a-personas-de-mas-de-55-anos/",
+        "_added_at": "2026-10-04T01:40:07.421207-07:00"
       },
       {
-        "title": "Seguridad Pública acerca programas preventivos a jóvenes",
-        "summary": "Jornada de prevención dirigida a estudiantes de preparatoria en Nogales.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/03/seguridad-publica-acerca-sus-programas-jovenes-nogales.html",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
-      },
-      {
-        "title": "Delfín Moana muere en delfinario de Guaymas",
-        "summary": "Cetáceo de ocho años fallece; causa desconocida. Recinto permanece cerrado por daños huracán.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/10/03/muere-moana-delfin-de-8-anos-del-delfinario-sonora-en-guaymas-aun-no-se-sabe-que-causo-su-muerte-y-el-recinto-permanece-cerrado-por-danos-del-huracan-polo/",
-        "_added_at": "2026-10-03T12:00:10.684076-07:00"
-      },
-      {
-        "title": "Buscadoras presentan fichas ante Comisión de Derechos",
-        "summary": "Organización por la Paz entrega documentos de desaparecidos a CEDH en búsqueda de justicia.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/buscadoras-paz-llevan-fichas-desaparecidos-cedh-n906603",
-        "_added_at": "2026-10-03T01:28:36.286652-07:00"
-      },
-      {
-        "title": "Lluvias dejan afectados en Cajeme y Cruz de Piedra",
-        "summary": "Gobiernos locales distribuyen despensas y agua a familias impactadas por precipitaciones intensas.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/llevan-despensas-agua-afectados-lluvias-cajeme-n906596",
-        "_added_at": "2026-10-03T01:28:36.286652-07:00"
+        "title": "Astrofísico dicta conferencia en Universidad de Sonora",
+        "summary": "Reconocido investigador presenta charla sobre astrofísica en UNISON.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/ofrecera-reconocido-astrofisico-conferencia-en-unison/",
+        "_added_at": "2026-10-04T01:40:07.421207-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-03T17:21:40.800580-07:00"
+  "last_updated": "2026-10-04T01:40:07.421207-07:00"
 }
