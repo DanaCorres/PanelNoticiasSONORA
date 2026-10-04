@@ -1,8 +1,29 @@
 {
   "date": "2026-10-04",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Acribillan a transeúnte en Nogales",
+        "summary": "Persona fallece en ataque armado en Nogales. Autoridades investigan el incidente.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/acribillan-a-transeunte-en-nogales/",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      },
+      {
+        "title": "Apresan a allanador de vivienda en Nogales",
+        "summary": "Capturan a sujeto acusado de robo a domicilio en Nogales.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/apresan-a-allanador-de-vivienda-en-nogales/",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a dos por posesión de drogas",
+        "summary": "Dos individuos presentados ante juez por delito de narcotráfico.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/vinculan-a-proceso-a-dos-por-posesion-de-drogas/",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      },
       {
         "title": "Asesinato en ataque armado en Ciudad Obregón",
         "summary": "Peatón muere en tiroteo registrado en Ciudad Obregón durante incidente de violencia armada.",
@@ -34,6 +55,20 @@
     ],
     "politica": [
       {
+        "title": "Reforma judicial impacta la inversión en Sonora",
+        "summary": "COPARMEX advierte efectos negativos de cambios constitucionales en negocios.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/04/coparmex-la-reforma-judicial-impacta-la-inversion/",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      },
+      {
+        "title": "Agresión a estudiante trans señala falta de inclusión",
+        "summary": "Sonora Trans denuncia violencia contra alumno y demanda políticas inclusivas en escuelas.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/04/agr3sion-a-estudiante-trans-evidencia-retos-de-inclusion-en-escuelas-sonora-trans/",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      },
+      {
         "title": "Lamarque respalda candidatura de Lorenia Valles",
         "summary": "Javier Lamarque convoca a apoyar la candidatura de Lorenia Valles en proceso electoral.",
         "source": "Entorno Informativo",
@@ -55,8 +90,65 @@
         "_added_at": "2026-10-04T01:40:07.421207-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Ventas repuntan en Centro Histórico de Hermosillo",
+        "summary": "Comerciantes reportan aumento en movimiento en zona céntrica.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/10/04/empiezan-a-repuntar-las-ventas-en-el-centro/",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      },
+      {
+        "title": "Sonora lidera producción nacional de papa",
+        "summary": "Estado destaca como principal productor de tubérculo en México.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/04/sonora-encabeza-la-produccion-de-papa-2/",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      },
+      {
+        "title": "Aumentan precios de alimentos en el estado",
+        "summary": "Inflación en canasta básica afecta economía familiar de sonorenses.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/04/aumentan-precios-de-los-alimentos/",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      },
+      {
+        "title": "Sistema de presas supera escurrimiento promedio",
+        "summary": "Lluvias de huracán Polo benefician recarga de almacenes de agua.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/04/supera-sistema-de-presas-su-media-de-escurrimiento/",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Hermosillo realiza primer foro de salud mental",
+        "summary": "Expertos abordan suicidio, infancia y neurodivergencia el 6 de octubre.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/10/04/hermosillo-realizara-su-primer-foro-de-salud-mental-este-6-de-octubre-expertos-abordaran-suicidio-infancia-neurodivergencia-y-riesgos-del-autodiagnostico/",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      },
+      {
+        "title": "Huracán Polo afecta 514 viviendas en Navojoa",
+        "summary": "COVES evalúa daños y brinda apoyo a familias afectadas tras meteoro.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/10/04/tras-el-huracan-polo-gobierno-de-sonora-evalua-danos-en-514-viviendas-de-navojoa/",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      },
+      {
+        "title": "Marina abastece zonas aisladas tras huracán Polo",
+        "summary": "Aviones de la Armada llevan víveres a comunidades sin acceso terrestre.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/10/04/abastece-marina-por-aire-a-zonas-afectadas-por-el-huracan-polo/",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      },
+      {
+        "title": "Devotos celebran a San Francisco de Asís en Hermosillo",
+        "summary": "Fiesta religiosa congrega a creyentes en conmemoración del santo patrono.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/devotos-san-francisco-asis-celebran-hermosillo-n906683",
+        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+      },
       {
         "title": "Sonora mejora atención de emergencias médicas con nuevo centro",
         "summary": "Centro Coordinador de Salud fortalece capacidad de respuesta en emergencias médicas estatal.",
@@ -87,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-04T01:40:07.421207-07:00"
+  "last_updated": "2026-10-04T12:11:06.967439-07:00"
 }
