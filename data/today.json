@@ -1,8 +1,29 @@
 {
   "date": "2026-10-03",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ofrecen recompensa por tres homicidas en Sonora",
+        "summary": "FGJES ofrece hasta 500 mil pesos por información para localizar a tres personas con órdenes de aprehensión.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/10/03/fgjes-ofrece-hasta-500-mil-pesos-por-informacion-para-localizar-a-tres-personas-con-ordenes-de-aprehension-en-sonora/",
+        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+      },
+      {
+        "title": "Hombre muere en agresión armada en Nogales",
+        "summary": "Persona entre 30 y 35 años fallece tras ataque en colonia Del Valle; sin detenidos hasta el momento.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/nogales/2026/10/03/hombre-de-entre-30-y-35-anos-muere-tras-agresion-armada-en-la-colonia-del-valle-de-nogales-no-hay-detenidos/",
+        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+      },
+      {
+        "title": "Trailer se incendia en carretera Empalme-Ciudad Obregón",
+        "summary": "Cierre de vialidad tras incendio de unidad de transporte en la carretera regional.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/10/03/se-incendia-trailer-en-la-carretera-empalme-ciudad-obregon-cierran-vialidad/",
+        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+      },
       {
         "title": "Joven herido por agresión armada en Hermosillo",
         "summary": "Persona lesionada tras ataque con armas de fuego dentro de vivienda al sur de la capital sonorense.",
@@ -51,16 +72,30 @@
         "source": "Entorno Informativo",
         "url": "https://entornoinformativo.com.mx/ataque-armado-deja-a-un-hombre-lesionado-en-la-colonia-vista-real/",
         "_added_at": "2026-10-03T01:28:36.286652-07:00"
-      },
-      {
-        "title": "Hallan cuerpo en descomposición en Las Cuevitas",
-        "summary": "Descubrimiento de cadáver en avanzado estado de putrefacción activa investigación de autoridades.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/hallan-cuerpo-en-descomposicion-en-las-cuevitas/",
-        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Nogales crea tres nuevas mesas de coordinación municipal",
+        "summary": "Gobierno refuerza coordinación interna con nuevas mesas de trabajo para acelerar resultados.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/03/nogales-refuerza-coordinacion-municipal-crean-tres-nuevas-mesas-acelerar-resultados.html",
+        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+      },
+      {
+        "title": "Lamarque respalda triunfo de Lorenia Valles en Sonora",
+        "summary": "Reconoce victoria electoral y llama a fortalecer la continuidad de políticas estatales.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/reconoce-lamarque-triunfo-lorenia-valles-llama-fortalecer-4t-n906661",
+        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+      },
+      {
+        "title": "Centro Coordinador de Salud refuerza emergencias médicas",
+        "summary": "Gobernador Durazo fortalece respuesta sanitaria con primer centro coordinador en México.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/con-el-primer-centro-coordinador-de-salud-en-mexico-gobernador-durazo-fortalece-respuesta-a-emergencias-medicas/",
+        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+      },
       {
         "title": "FGR presenta pruebas contra Ruffo Appel e Ingemar",
         "summary": "Fiscalía respalda acusaciones contra empresario y empresa con evidencia contundente.",
@@ -99,6 +134,20 @@
     ],
     "economia": [
       {
+        "title": "Durazo encabeza recuperación de comunidades tras huracán Polo",
+        "summary": "Gobernador coordina acciones de reconstrucción de infraestructura vial y comunitaria.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/encabeza-gobernador-durazo-acciones-de-recuperacion-de-comunidades-y-carreteras-tras-paso-de-polo/",
+        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+      },
+      {
+        "title": "Salud refuerza acciones contra dengue tras huracán Polo",
+        "summary": "Secretaría intensifica campañas preventivas tras paso del huracán.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/03/refuerza-secretaria-de-salud-acciones-contra-el-dengue-tras-paso-de-polo/",
+        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+      },
+      {
         "title": "Nogales planea reconstrucción integral de calles",
         "summary": "Municipio abandona reparaciones temporales para ejecutar restauración completa tras daños de lluvias.",
         "source": "El Diario de Sonora",
@@ -128,6 +177,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Nogales inicia colecta contra el cáncer con donativo",
+        "summary": "Arranca campaña solidaria con donación inicial de 50 mil pesos para lucha oncológica.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/03/nogales-une-cancer-arranca-colecta-donativo-50-mil-pesos.html",
+        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+      },
+      {
+        "title": "CEDH responde a protesta de Buscadoras por la Paz",
+        "summary": "Comisión de Derechos Humanos convocará reunión en octubre con familias de desaparecidos.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/cedh-responde-protesta-buscadoras-paz-habra-reunion-octubre-n906655",
+        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+      },
+      {
+        "title": "Presentan queja ante CEDH por agresión a estudiante trans",
+        "summary": "Denuncia de violencia contra menor estudiante en institución educativa de Hermosillo.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/presentan-queja-cedh-agresion-estudiante-trans-hermosillo-n906657",
+        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+      },
+      {
+        "title": "IEE Sonora detecta barreras para personas con discapacidad",
+        "summary": "Instituto Electoral consulta para identificar obstáculos en acceso de población vulnerable.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/consulta-iee-sonora-busca-detectar-barreras-para-personas-con-discapacidad/",
+        "_added_at": "2026-10-03T17:21:40.800580-07:00"
+      },
       {
         "title": "Piden justicia restaurativa tras agresión a estudiante trans",
         "summary": "Caso de violencia en Hermosillo genera demanda de enfoque restaurador y protección estudiantil.",
@@ -169,22 +246,8 @@
         "source": "Uniradio Sonora",
         "url": "https://www.uniradiosonora.com/sociedad/llevan-despensas-agua-afectados-lluvias-cajeme-n906596",
         "_added_at": "2026-10-03T01:28:36.286652-07:00"
-      },
-      {
-        "title": "Campaña \"Adiós al Mosquito\" arranca en Nogales",
-        "summary": "Iniciativa municipal busca frenar propagación de dengue mediante control de vectores.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/arranca-en-nogales-la-campana-adios-al-mosquito-para-frenar-contagios-de-dengue/",
-        "_added_at": "2026-10-03T01:28:36.286652-07:00"
-      },
-      {
-        "title": "Casa de la Cultura celebra 46 aniversario",
-        "summary": "Institución cultural conmemora su fundación con actividades programadas durante el mes.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/celebraran-46-aniversario-de-la-casa-de-la-cultura-durante-todo-este-mes/",
-        "_added_at": "2026-10-03T01:28:36.286652-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-03T12:00:10.684076-07:00"
+  "last_updated": "2026-10-03T17:21:40.800580-07:00"
 }
