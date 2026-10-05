@@ -1,225 +1,91 @@
 {
-  "date": "2026-10-04",
-  "run_count": 3,
+  "date": "2026-10-05",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Huracán Polo genera emergencia en 13 municipios sonorenses",
-        "summary": "Sonora declara emergencia por Polo con 29,230 personas afectadas y más de 8,000 viviendas dañadas en 13 municipios.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/10/04/sonora-declara-emergencia-en-13-municipios-por-el-huracan-polo-con-29-mil-230-personas-afectadas-y-mas-de-8-mil-viviendas-danadas/",
-        "_added_at": "2026-10-04T17:26:19.668498-07:00"
-      },
-      {
-        "title": "Capitán Sol enfrenta audiencia por red de huachicol",
-        "summary": "Presunto líder criminal comparece por investigación de red dedicada al robo de combustible.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/capitan-sol-enfrenta-audiencia-presunta-red-huachicol-fiscal-n906707",
-        "_added_at": "2026-10-04T17:26:19.668498-07:00"
-      },
-      {
-        "title": "Acribillan a transeúnte en Nogales",
-        "summary": "Persona fallece en ataque armado en Nogales. Autoridades investigan el incidente.",
+        "title": "Acribillan a dos automovilistas en Puerto Peñasco",
+        "summary": "Dos conductores fueron atacados a balazos en Puerto Peñasco en hechos de violencia relacionados con la delincuencia.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/acribillan-a-transeunte-en-nogales/",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+        "url": "https://entornoinformativo.com.mx/acribillan-a-dos-automovilistas-en-puerto-penasco/",
+        "_added_at": "2026-10-05T02:30:19.803115-07:00"
       },
       {
-        "title": "Apresan a allanador de vivienda en Nogales",
-        "summary": "Capturan a sujeto acusado de robo a domicilio en Nogales.",
+        "title": "Mujer detenida por posesión de drogas en Centro",
+        "summary": "Autoridades capturaron a una mujer con crystal en su poder en el Centro de la ciudad.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/apresan-a-allanador-de-vivienda-en-nogales/",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+        "url": "https://entornoinformativo.com.mx/atrapan-a-mujer-por-posesion-de-crystal-en-el-centro-de-la-ciudad/",
+        "_added_at": "2026-10-05T02:30:19.803115-07:00"
       },
       {
-        "title": "Vinculan a proceso a dos por posesión de drogas",
-        "summary": "Dos individuos presentados ante juez por delito de narcotráfico.",
+        "title": "Rickettsia sigue cobrando vidas en Sonora",
+        "summary": "Continúan incrementándose las muertes por rickettsia en el estado de Sonora.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/vinculan-a-proceso-a-dos-por-posesion-de-drogas/",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+        "url": "https://entornoinformativo.com.mx/sigue-en-aumento-muertes-por-rickettsia-en-sonora/",
+        "_added_at": "2026-10-05T02:30:19.803115-07:00"
       },
       {
-        "title": "Asesinato en ataque armado en Ciudad Obregón",
-        "summary": "Peatón muere en tiroteo registrado en Ciudad Obregón durante incidente de violencia armada.",
+        "title": "Choque genera tres heridos en colonia Olivares",
+        "summary": "Un fuerte accidente vehicular dejó tres personas lesionadas en la colonia Olivares.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/asesinan-a-peaton-en-ataque-armado-en-ciudad-obregon/",
-        "_added_at": "2026-10-04T01:40:07.421207-07:00"
-      },
-      {
-        "title": "Fiscalía ofrece recompensa por tres homicidas buscados",
-        "summary": "FGJES pone precio a información para capturar a tres personas acusadas de homicidio.",
-        "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/policiaca/fgjes-pone-precio-informacion-capturar-tres-personas-buscadas-n906663",
-        "_added_at": "2026-10-04T01:40:07.421207-07:00"
-      },
-      {
-        "title": "Detienen a sospechoso con arma prohibida en La Cholla",
-        "summary": "Capturan presunto delincuente portando arma ilegal en colonia de Hermosillo.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/cae-presunto-maleante-con-arma-prohibida-en-la-colonia-la-cholla/",
-        "_added_at": "2026-10-04T01:40:07.421207-07:00"
-      },
-      {
-        "title": "Sorprenden a individuo con droga en Centro de Hermosillo",
-        "summary": "Autoridades encuentran a peatón en posesión de sustancias ilícitas en zona céntrica.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/sorprenden-a-peaton-con-cura-de-droga-en-el-centro-de-hermosillo/",
-        "_added_at": "2026-10-04T01:40:07.421207-07:00"
+        "url": "https://entornoinformativo.com.mx/deja-fuerte-choque-tres-heridos-en-la-colonia-olivares/",
+        "_added_at": "2026-10-05T02:30:19.803115-07:00"
       }
     ],
-    "politica": [
-      {
-        "title": "Reforma judicial impacta la inversión en Sonora",
-        "summary": "COPARMEX advierte efectos negativos de cambios constitucionales en negocios.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/10/04/coparmex-la-reforma-judicial-impacta-la-inversion/",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
-      },
-      {
-        "title": "Agresión a estudiante trans señala falta de inclusión",
-        "summary": "Sonora Trans denuncia violencia contra alumno y demanda políticas inclusivas en escuelas.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/10/04/agr3sion-a-estudiante-trans-evidencia-retos-de-inclusion-en-escuelas-sonora-trans/",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
-      },
-      {
-        "title": "Lamarque respalda candidatura de Lorenia Valles",
-        "summary": "Javier Lamarque convoca a apoyar la candidatura de Lorenia Valles en proceso electoral.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/llama-javier-lamarque-a-apoyar-a-lorenia-valles/",
-        "_added_at": "2026-10-04T01:40:07.421207-07:00"
-      },
-      {
-        "title": "Astiazarán permite participación ciudadana en presupuesto de obras",
-        "summary": "Toño Astiazarán implementa presupuesto Creces para que población decida sobre proyectos.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/tono-astiazaran-da-poder-a-poblacion-sobre-obras-a-traves-del-presupuesto-creces/",
-        "_added_at": "2026-10-04T01:40:07.421207-07:00"
-      },
-      {
-        "title": "Bajan 17.49% trámites del INE en Cajeme",
-        "summary": "Disminución significativa en gestiones ante Instituto Nacional Electoral en Ciudad Obregón.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/ciudadobregon/bajan-1749-tramites-de-ine-en-cajeme/144958",
-        "_added_at": "2026-10-04T01:40:07.421207-07:00"
-      }
-    ],
+    "politica": [],
     "economia": [
       {
-        "title": "Sonora rompe récord histórico en exportaciones",
-        "summary": "Gobernador Durazo logra máximo histórico en volumen exportador del estado.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/gobernador-durazo-logra-record-historico-en-exportaciones-de-sonora/",
-        "_added_at": "2026-10-04T17:26:19.668498-07:00"
-      },
-      {
-        "title": "Piden reabrir regularización de vehículos extranjeros",
-        "summary": "Sectores solicitan reapertura del programa de trámite automotriz.",
+        "title": "Aguinaldo 2026: fechas para pensionados IMSS ISSSTE",
+        "summary": "Se informan las fechas de pago de aguinaldo para pensionados del IMSS e ISSSTE durante 2026.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/piden-reabrir-regularizacion-autos-extranjeros-n906697",
-        "_added_at": "2026-10-04T17:26:19.668498-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/aguinaldo-2026-fechas-pensionados-imss-e-issste-n906715",
+        "_added_at": "2026-10-05T02:30:19.803115-07:00"
       },
       {
-        "title": "Ventas repuntan en Centro Histórico de Hermosillo",
-        "summary": "Comerciantes reportan aumento en movimiento en zona céntrica.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/10/04/empiezan-a-repuntar-las-ventas-en-el-centro/",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+        "title": "Diésel supera 27 pesos en diecinueve estados",
+        "summary": "El precio del diésel ha rebasado los 27 pesos por litro en diecinueve entidades del país.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/finanzas/diesel-supera-los-27-pesos-por-litro-en-19-estados-de-mexico/145001",
+        "_added_at": "2026-10-05T02:30:19.803115-07:00"
       },
       {
-        "title": "Sonora lidera producción nacional de papa",
-        "summary": "Estado destaca como principal productor de tubérculo en México.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/10/04/sonora-encabeza-la-produccion-de-papa-2/",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
-      },
-      {
-        "title": "Aumentan precios de alimentos en el estado",
-        "summary": "Inflación en canasta básica afecta economía familiar de sonorenses.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/10/04/aumentan-precios-de-los-alimentos/",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
-      },
-      {
-        "title": "Sistema de presas supera escurrimiento promedio",
-        "summary": "Lluvias de huracán Polo benefician recarga de almacenes de agua.",
-        "source": "Medios OBSON",
-        "url": "https://mediosobson.com/2026/10/04/supera-sistema-de-presas-su-media-de-escurrimiento/",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+        "title": "Inicia programa de Ciencia, Innovación y Tecnología",
+        "summary": "Arranca nuevo programa enfocado en ciencia, innovación y desarrollo tecnológico en Sonora.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/inicia-programa-ciencia-innovacion-y-tecnologia/",
+        "_added_at": "2026-10-05T02:30:19.803115-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Sonora acumula 30 muertes por golpe de calor en año",
-        "summary": "Hermosillo concentra la mitad de decesos relacionados con ondas de calor extremo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/10/04/sonora-suma-30-muertes-por-golpe-de-calor-y-hermosillo-concentra-la-mitad-de-las-victimas/",
-        "_added_at": "2026-10-04T17:26:19.668498-07:00"
-      },
-      {
-        "title": "DIF abre centro de acopio por afectaciones de huracán",
-        "summary": "Sistema asistencial activa punto de recopilación de ayuda para damnificados.",
-        "source": "Radar Sonora",
-        "url": "https://www.radarsonora.com/dif-sonora-abre-centro-de-acopio-por-afectaciones-de-lluvias/",
-        "_added_at": "2026-10-04T17:26:19.668498-07:00"
-      },
-      {
-        "title": "Hermosillo enfrentará temperaturas hasta 42 grados",
-        "summary": "Pronóstico de calor extremo para la capital sonorense durante la semana.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/10/04/hermosillo-tendra-hasta-42c-esta-semana-asi-cambiara-el-calor/",
-        "_added_at": "2026-10-04T17:26:19.668498-07:00"
-      },
-      {
-        "title": "Hermosillo realiza primer foro de salud mental",
-        "summary": "Expertos abordan suicidio, infancia y neurodivergencia el 6 de octubre.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/sonora/2026/10/04/hermosillo-realizara-su-primer-foro-de-salud-mental-este-6-de-octubre-expertos-abordaran-suicidio-infancia-neurodivergencia-y-riesgos-del-autodiagnostico/",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
-      },
-      {
-        "title": "Huracán Polo afecta 514 viviendas en Navojoa",
-        "summary": "COVES evalúa daños y brinda apoyo a familias afectadas tras meteoro.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/10/04/tras-el-huracan-polo-gobierno-de-sonora-evalua-danos-en-514-viviendas-de-navojoa/",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
-      },
-      {
-        "title": "Marina abastece zonas aisladas tras huracán Polo",
-        "summary": "Aviones de la Armada llevan víveres a comunidades sin acceso terrestre.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/son/hermosillo/2026/10/04/abastece-marina-por-aire-a-zonas-afectadas-por-el-huracan-polo/",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
-      },
-      {
-        "title": "Devotos celebran a San Francisco de Asís en Hermosillo",
-        "summary": "Fiesta religiosa congrega a creyentes en conmemoración del santo patrono.",
+        "title": "DIF Sonora solicita donaciones por afectaciones de lluvia",
+        "summary": "El DIF Sonora convoca a la ciudadanía a donar para apoyar a familias damnificadas por lluvias recientes.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/devotos-san-francisco-asis-celebran-hermosillo-n906683",
-        "_added_at": "2026-10-04T12:11:06.967439-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/dif-sonora-llama-donar-familias-afectadas-lluvias-n906720",
+        "_added_at": "2026-10-05T02:30:19.803115-07:00"
       },
       {
-        "title": "Sonora mejora atención de emergencias médicas con nuevo centro",
-        "summary": "Centro Coordinador de Salud fortalece capacidad de respuesta en emergencias médicas estatal.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/sonora-fortalece-atencion-a-emergencias-medicas-con-centro-coordinador-de-salud/",
-        "_added_at": "2026-10-04T01:40:07.421207-07:00"
-      },
-      {
-        "title": "SNTE capacitará escuelas para prevenir violencia",
-        "summary": "Sindicato y Fuerzas Armadas entrenan instituciones educativas en protocolos de seguridad.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/nacional/snte-y-fuerzas-armadas-capacitaran-a-escuelas-para-prevenir-hechos-de-violencia/144967",
-        "_added_at": "2026-10-04T01:40:07.421207-07:00"
-      },
-      {
-        "title": "Ofrecen cursos gratuitos a adultos mayores en municipio",
-        "summary": "Autoridades invitan a personas mayores de 55 años a participar en capacitaciones gratuitas.",
+        "title": "Centro de acopio abierto por afectaciones de lluvia",
+        "summary": "Se abre centro de acopio en oficinas del DIF Sonora para recopilar ayuda por daños de precipitaciones.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/autoridades-municipales-invitan-a-cursos-gratuitos-a-personas-de-mas-de-55-anos/",
-        "_added_at": "2026-10-04T01:40:07.421207-07:00"
+        "url": "https://entornoinformativo.com.mx/abre-centro-de-acopio-por-afectaciones-de-lluvias-en-oficinas-de-dif-sonora/",
+        "_added_at": "2026-10-05T02:30:19.803115-07:00"
+      },
+      {
+        "title": "Gobierno lleva descacharre a familias de La Cholla",
+        "summary": "La administración municipal de Hermosillo realiza jornada de descacharre en la colonia La Cholla.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/llevan-descacharre-a-familias-de-la-cholla-gobierno-de-hermosillo/",
+        "_added_at": "2026-10-05T02:30:19.803115-07:00"
+      },
+      {
+        "title": "Estudiantes de Unison llevan brigada a Costa",
+        "summary": "Alumnos de la Universidad de Sonora realizan jornada comunitaria en la zona de la Costa hermosillense.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/llevan-brigada-comunitaria-a-la-costa-de-hermosillo-estudiantes-de-la-unison/",
+        "_added_at": "2026-10-05T02:30:19.803115-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-04T17:26:19.668498-07:00"
+  "last_updated": "2026-10-05T02:30:19.803115-07:00"
 }
