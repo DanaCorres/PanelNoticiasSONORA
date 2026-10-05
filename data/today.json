@@ -1,8 +1,36 @@
 {
   "date": "2026-10-05",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen al médico investigado por sueros vitaminados",
+        "summary": "Capturan a Maximiano N., señalado de muertes por inyecciones adulteradas en Hermosillo. Queda a disposición judicial.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/fiscalia-confirma-detencion-de-maximiano-n-medico-senalado-de-muertes-por-sueros-vitaminados-en-sonora/",
+        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+      },
+      {
+        "title": "Capturan a cuatro menores en Ciudad Obregón",
+        "summary": "Autoridades detienen a cuatro menores de edad en operativo en Cajeme por actividades delictivas.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/policiaca/capturan-a-cuatro-menores-de-edad-en-ciudad-obregon/145022",
+        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+      },
+      {
+        "title": "Mujer vinculada a proceso por robo de medicamentos",
+        "summary": "Empleada acusada de sustraer dieciocho frascos de medicamento en ISSSTESON Hermosillo es procesada.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/10/05/vinculan-a-proceso-a-mujer-por-robo-de-18-frascos-de-medicamento-en-isssteson-en-hermosillo/",
+        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+      },
+      {
+        "title": "Hombre ejecutado en colonia Del Valle de Nogales",
+        "summary": "Identifican a residente muerto a las puertas de su domicilio en Nogales por acto de violencia.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/05/identifican-hombre-ejecutado-puerta-su-domicilio-colonia-valle.html",
+        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+      },
       {
         "title": "Acribillan a dos automovilistas en Puerto Peñasco",
         "summary": "Dos conductores fueron atacados a balazos en Puerto Peñasco en hechos de violencia relacionados con la delincuencia.",
@@ -32,8 +60,30 @@
         "_added_at": "2026-10-05T02:30:19.803115-07:00"
       }
     ],
-    "politica": [],
+    "politica": [
+      {
+        "title": "Senador Aguilar destaca tres reformas aprobadas",
+        "summary": "Heriberto Aguilar resalta logros legislativos en el Senado durante nuevo periodo de sesiones.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/heriberto-aguilar-tres-reformas-aprobadas-senado/",
+        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+      }
+    ],
     "economia": [
+      {
+        "title": "Sonora alcanza récord en exportaciones este año",
+        "summary": "Estado registra ocho mil millones de dólares en exportaciones durante segundo trimestre de dos mil veintiséis.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/gobierno-de-sonora-logra-record-de-exportaciones-en-2026/265826",
+        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+      },
+      {
+        "title": "Comerciantes de Hermosillo muestran apatía digital",
+        "summary": "Especialistas reportan falta de participación de comercios en cursos de ventas en línea pese a capacitación.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/10/05/hay-apatia-de-comerciantes-de-hermosillo-para-vender-en-linea-si-hay-capacitacion-pero-no-participan-especialista/",
+        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+      },
       {
         "title": "Aguinaldo 2026: fechas para pensionados IMSS ISSSTE",
         "summary": "Se informan las fechas de pago de aguinaldo para pensionados del IMSS e ISSSTE durante 2026.",
@@ -57,6 +107,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Veinticinco mil nogalenses peregrinan a Magdalena",
+        "summary": "Miles de devotos de Nogales participan en peregrinación a Magdalena con saldo blanco sin incidentes.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/05/25-mil-nogalenses-peregrinaron-magdalena-regresaron-saldo-blanco.html",
+        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+      },
+      {
+        "title": "Ciento cincuenta mil estudiantes reciben beca Rita Cetina",
+        "summary": "Gobierno de Sonora realiza pagos de becas a estudiantes a través del programa Rita Cetina.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/mas-150-mil-estudiantes-sonora-recibiran-pago-beca-rita-cetina-n906826",
+        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+      },
+      {
+        "title": "Nogales rehabilitará vialidades y alumbrado público",
+        "summary": "Municipio planea mejoras en calles e iluminación de la colonia Mesa en próximas semanas.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/10/05/nogales-rehabilitara-vialidades-alumbrado-publico-colonia-mesa.html",
+        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+      },
+      {
+        "title": "Máquina Guinda debuta como equipo profesional",
+        "summary": "Nogales estrena equipo de basquetbol profesional para impulsar talentos locales en la disciplina.",
+        "source": "Nuevo Día",
+        "url": "https://www.nuevodia.mx/nogales/2026/10/05/maquina-guinda-debuta-nogales-plataforma-impulsar-talento-local-basquetbol.html",
+        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+      },
       {
         "title": "DIF Sonora solicita donaciones por afectaciones de lluvia",
         "summary": "El DIF Sonora convoca a la ciudadanía a donar para apoyar a familias damnificadas por lluvias recientes.",
@@ -87,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-05T02:30:19.803115-07:00"
+  "last_updated": "2026-10-05T15:19:40.241934-07:00"
 }
