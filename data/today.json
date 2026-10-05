@@ -1,8 +1,22 @@
 {
   "date": "2026-10-04",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Huracán Polo genera emergencia en 13 municipios sonorenses",
+        "summary": "Sonora declara emergencia por Polo con 29,230 personas afectadas y más de 8,000 viviendas dañadas en 13 municipios.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/10/04/sonora-declara-emergencia-en-13-municipios-por-el-huracan-polo-con-29-mil-230-personas-afectadas-y-mas-de-8-mil-viviendas-danadas/",
+        "_added_at": "2026-10-04T17:26:19.668498-07:00"
+      },
+      {
+        "title": "Capitán Sol enfrenta audiencia por red de huachicol",
+        "summary": "Presunto líder criminal comparece por investigación de red dedicada al robo de combustible.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/capitan-sol-enfrenta-audiencia-presunta-red-huachicol-fiscal-n906707",
+        "_added_at": "2026-10-04T17:26:19.668498-07:00"
+      },
       {
         "title": "Acribillan a transeúnte en Nogales",
         "summary": "Persona fallece en ataque armado en Nogales. Autoridades investigan el incidente.",
@@ -92,6 +106,20 @@
     ],
     "economia": [
       {
+        "title": "Sonora rompe récord histórico en exportaciones",
+        "summary": "Gobernador Durazo logra máximo histórico en volumen exportador del estado.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-logra-record-historico-en-exportaciones-de-sonora/",
+        "_added_at": "2026-10-04T17:26:19.668498-07:00"
+      },
+      {
+        "title": "Piden reabrir regularización de vehículos extranjeros",
+        "summary": "Sectores solicitan reapertura del programa de trámite automotriz.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/piden-reabrir-regularizacion-autos-extranjeros-n906697",
+        "_added_at": "2026-10-04T17:26:19.668498-07:00"
+      },
+      {
         "title": "Ventas repuntan en Centro Histórico de Hermosillo",
         "summary": "Comerciantes reportan aumento en movimiento en zona céntrica.",
         "source": "El Imparcial",
@@ -121,6 +149,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sonora acumula 30 muertes por golpe de calor en año",
+        "summary": "Hermosillo concentra la mitad de decesos relacionados con ondas de calor extremo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/10/04/sonora-suma-30-muertes-por-golpe-de-calor-y-hermosillo-concentra-la-mitad-de-las-victimas/",
+        "_added_at": "2026-10-04T17:26:19.668498-07:00"
+      },
+      {
+        "title": "DIF abre centro de acopio por afectaciones de huracán",
+        "summary": "Sistema asistencial activa punto de recopilación de ayuda para damnificados.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/dif-sonora-abre-centro-de-acopio-por-afectaciones-de-lluvias/",
+        "_added_at": "2026-10-04T17:26:19.668498-07:00"
+      },
+      {
+        "title": "Hermosillo enfrentará temperaturas hasta 42 grados",
+        "summary": "Pronóstico de calor extremo para la capital sonorense durante la semana.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/10/04/hermosillo-tendra-hasta-42c-esta-semana-asi-cambiara-el-calor/",
+        "_added_at": "2026-10-04T17:26:19.668498-07:00"
+      },
       {
         "title": "Hermosillo realiza primer foro de salud mental",
         "summary": "Expertos abordan suicidio, infancia y neurodivergencia el 6 de octubre.",
@@ -169,15 +218,8 @@
         "source": "Entorno Informativo",
         "url": "https://entornoinformativo.com.mx/autoridades-municipales-invitan-a-cursos-gratuitos-a-personas-de-mas-de-55-anos/",
         "_added_at": "2026-10-04T01:40:07.421207-07:00"
-      },
-      {
-        "title": "Astrofísico dicta conferencia en Universidad de Sonora",
-        "summary": "Reconocido investigador presenta charla sobre astrofísica en UNISON.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/ofrecera-reconocido-astrofisico-conferencia-en-unison/",
-        "_added_at": "2026-10-04T01:40:07.421207-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-04T12:11:06.967439-07:00"
+  "last_updated": "2026-10-04T17:26:19.668498-07:00"
 }
