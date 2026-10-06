@@ -1,8 +1,36 @@
 {
   "date": "2026-10-06",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Doctor de sueros vitaminados enfrenta audiencia de imputación",
+        "summary": "Maximiano Verduzco comparecerá ante juez por caso de sueros contaminados que causaron muertes en Hermosillo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/10/06/fiscalia-pedira-prision-preventiva-para-el-doctor-maximiano-n-por-el-caso-de-los-sueros-vitaminados-la-audiencia-de-imputacion-sera-este-martes-a-las-1400-horas/",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
+      {
+        "title": "Identifican agresor en muerte de menor en Hermosillo",
+        "summary": "Fiscalía identifica a responsable de ataque fatal en colonia Fuente de Piedra que causó muerte de adolescente.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/hermosillo/2026/10/06/fiscalia-identifica-a-un-agresor-por-la-muerte-de-un-menor-de-13-anos-en-la-colonia-fuente-de-piedra-en-hermosillo/",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
+      {
+        "title": "Accidente vehicular en carretera Obregón-Guaymas deja tres muertos",
+        "summary": "Camionazo en ruta costera causa decesos en zona de tránsito importante del estado.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/policiaca/camionazo-en-carretera-obregonguaymas-deja-tres-muertos/145090",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
+      {
+        "title": "Aprehenden a maltratador de pareja en Los Arroyos",
+        "summary": "Autoridades detienen a individuo por violencia intrafamiliar en fraccionamiento hermosillense.",
+        "source": "Entorno Informativo",
+        "url": "https://entornoinformativo.com.mx/aprehenden-a-maltratador-de-pareja-en-el-fraccionamiento-los-arroyos/",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
       {
         "title": "Menor y adulto asesinados en Hermosillo",
         "summary": "Hallan cuerpos de menor de 13 años y adulto en tiradero de colonia Fuente de Piedra en Hermosillo.",
@@ -34,6 +62,27 @@
     ],
     "politica": [
       {
+        "title": "Julia Huerta llama a unidad de Morena para 2027",
+        "summary": "Dirigente exhorta a cerrar filas y defender proyecto de cuarta transformación de cara a elecciones.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/06/solo-morena-rumbo-2027-julia-huerta-llama-cerrar-filas-defender-4t.html",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
+      {
+        "title": "Durazo niega contratos con empresas de lavado de dinero",
+        "summary": "Gobernador rechaza vinculación con firmas señaladas por blanquear recursos del crimen organizado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/son/sonora/2026/10/06/alfonso-durazo-niega-contratos-con-empresas-senaladas-por-lavado-de-dinero-para-el-cartel-de-sinaloa-y-apunta-a-gobiernos-anteriores/",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
+      {
+        "title": "Durazo garantiza apoyo a damnificados del huracán Polo",
+        "summary": "Gobernador promete obtener recursos necesarios para asistencia a afectados por fenómeno meteorológico.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/10/06/vamos-a-sacar-dinero-de-donde-sea-durazo-garantiza-apoyo-a-damnificados-por-huracan-polo/",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
+      {
         "title": "Declaran emergencia en 13 municipios por Polo",
         "summary": "Autoridades decla aran estado de emergencia en municipios de Sonora afectados por huracán Polo.",
         "source": "Uniradio Sonora",
@@ -57,6 +106,27 @@
     ],
     "economia": [
       {
+        "title": "Presas de Sonora recuperan niveles favorables para agricultura",
+        "summary": "Embalses alcanzan volúmenes adecuados que benefician ciclo agrícola estatal.",
+        "source": "Radio Sonora",
+        "url": "https://www.radiosonora.com.mx/presas-recuperan-nivel-y-abren-panorama-favorable-para-el-ciclo-agricola-en-sonora/",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
+      {
+        "title": "Hermosillo será sede de Foro Mundial de Energía Solar",
+        "summary": "Capital sonorense acogerá evento internacional con participantes de quince países.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/06/hermosillo-sera-sede-del-foro-mundial-de-energia-solar-con-invitados-de-15-paises/",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
+      {
+        "title": "Durazo propone libramiento para Cananea",
+        "summary": "Gobernador anuncia proyecto de infraestructura vial en municipio minero.",
+        "source": "Proyecto Puente",
+        "url": "https://proyectopuente.com.mx/2026/10/06/propone-durazo-libramiento-para-cananea-por-imuris-y-el-aribabi/",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
+      {
         "title": "Hermosillo amplía estímulos para vivienda sustentable",
         "summary": "Municipio expande incentivos fiscales para construcción de viviendas ecológicas.",
         "source": "Uniradio Sonora",
@@ -79,6 +149,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Gobierno gestiona atención para salvar vista de Marianne",
+        "summary": "Autoridades coordinan acceso a servicios médicos especializados para paciente con riesgo visual.",
+        "source": "Medios OBSON",
+        "url": "https://mediosobson.com/2026/10/06/gobierno-de-sonora-gestionara-atencion-para-evitar-que-marianne-pierda-la-vista/",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
+      {
+        "title": "Búho Emprende facilita emprendimiento universitario",
+        "summary": "Programa ofrece espacio fijo a estudiantes para comercializar sus productos y negocios.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/sociedad/buho-emprende-facilita-universitarios-punto-fijo-vender-sus-productos-n907090",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
+      {
+        "title": "Línea Eléctrica Exprés recibe unidades con tecnología avanzada",
+        "summary": "Transporte público se moderniza con equipamiento de seguridad e innovación tecnológica.",
+        "source": "El Diario de Sonora",
+        "url": "https://eldiariodesonora.com.mx/sonora/2026/10/06/equiparan-tecnologia-avanzada-unidades-linea-electrica-expres.html",
+        "_added_at": "2026-10-06T13:47:29.842241-07:00"
+      },
       {
         "title": "Línea Eléctrica Exprés se equipa con tecnología avanzada",
         "summary": "Nuevo transporte de Hermosillo incorpora sistemas inteligentes de seguridad tecnológica.",
@@ -109,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-06T02:14:57.263518-07:00"
+  "last_updated": "2026-10-06T13:47:29.842241-07:00"
 }
