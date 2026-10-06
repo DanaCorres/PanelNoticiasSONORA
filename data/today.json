@@ -1,169 +1,113 @@
 {
-  "date": "2026-10-05",
-  "run_count": 2,
+  "date": "2026-10-06",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detienen al médico investigado por sueros vitaminados",
-        "summary": "Capturan a Maximiano N., señalado de muertes por inyecciones adulteradas en Hermosillo. Queda a disposición judicial.",
-        "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/fiscalia-confirma-detencion-de-maximiano-n-medico-senalado-de-muertes-por-sueros-vitaminados-en-sonora/",
-        "_added_at": "2026-10-05T15:19:40.241934-07:00"
-      },
-      {
-        "title": "Capturan a cuatro menores en Ciudad Obregón",
-        "summary": "Autoridades detienen a cuatro menores de edad en operativo en Cajeme por actividades delictivas.",
-        "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/policiaca/capturan-a-cuatro-menores-de-edad-en-ciudad-obregon/145022",
-        "_added_at": "2026-10-05T15:19:40.241934-07:00"
-      },
-      {
-        "title": "Mujer vinculada a proceso por robo de medicamentos",
-        "summary": "Empleada acusada de sustraer dieciocho frascos de medicamento en ISSSTESON Hermosillo es procesada.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/10/05/vinculan-a-proceso-a-mujer-por-robo-de-18-frascos-de-medicamento-en-isssteson-en-hermosillo/",
-        "_added_at": "2026-10-05T15:19:40.241934-07:00"
-      },
-      {
-        "title": "Hombre ejecutado en colonia Del Valle de Nogales",
-        "summary": "Identifican a residente muerto a las puertas de su domicilio en Nogales por acto de violencia.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/05/identifican-hombre-ejecutado-puerta-su-domicilio-colonia-valle.html",
-        "_added_at": "2026-10-05T15:19:40.241934-07:00"
-      },
-      {
-        "title": "Acribillan a dos automovilistas en Puerto Peñasco",
-        "summary": "Dos conductores fueron atacados a balazos en Puerto Peñasco en hechos de violencia relacionados con la delincuencia.",
+        "title": "Menor y adulto asesinados en Hermosillo",
+        "summary": "Hallan cuerpos de menor de 13 años y adulto en tiradero de colonia Fuente de Piedra en Hermosillo.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/acribillan-a-dos-automovilistas-en-puerto-penasco/",
-        "_added_at": "2026-10-05T02:30:19.803115-07:00"
+        "url": "https://entornoinformativo.com.mx/asesinan-a-menor-de-13-anos-y-a-adulto-en-tiradero-en-la-colonia-fuente-de-piedra/",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
       },
       {
-        "title": "Mujer detenida por posesión de drogas en Centro",
-        "summary": "Autoridades capturaron a una mujer con crystal en su poder en el Centro de la ciudad.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/atrapan-a-mujer-por-posesion-de-crystal-en-el-centro-de-la-ciudad/",
-        "_added_at": "2026-10-05T02:30:19.803115-07:00"
+        "title": "Sentencian a 50 años por secuestro de taxista",
+        "summary": "Condenan a responsable de secuestro de taxista a cinco décadas de prisión en Sonora.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/por-secuestrar-a-un-taxista-estara-50-anos-en-la-carcel/",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
       },
       {
-        "title": "Rickettsia sigue cobrando vidas en Sonora",
-        "summary": "Continúan incrementándose las muertes por rickettsia en el estado de Sonora.",
+        "title": "Capturan trío de presuntos delincuentes con drogas",
+        "summary": "Detienen a tres sujetos en automóvil con distintos tipos de narcóticos en Sonora.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/sigue-en-aumento-muertes-por-rickettsia-en-sonora/",
-        "_added_at": "2026-10-05T02:30:19.803115-07:00"
+        "url": "https://entornoinformativo.com.mx/someten-a-trio-de-tiradores-en-un-auto-traian-distintas-drogas/",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
       },
       {
-        "title": "Choque genera tres heridos en colonia Olivares",
-        "summary": "Un fuerte accidente vehicular dejó tres personas lesionadas en la colonia Olivares.",
+        "title": "Hombre atacado a balazos en Hermosillo",
+        "summary": "Disparan contra individuo en colonia Valle del Portal; atacantes huyen del lugar.",
         "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/deja-fuerte-choque-tres-heridos-en-la-colonia-olivares/",
-        "_added_at": "2026-10-05T02:30:19.803115-07:00"
+        "url": "https://entornoinformativo.com.mx/atacan-a-balazos-a-hombre-y-huyen-en-la-colonia-valle-del-portal/",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Senador Aguilar destaca tres reformas aprobadas",
-        "summary": "Heriberto Aguilar resalta logros legislativos en el Senado durante nuevo periodo de sesiones.",
+        "title": "Declaran emergencia en 13 municipios por Polo",
+        "summary": "Autoridades decla aran estado de emergencia en municipios de Sonora afectados por huracán Polo.",
+        "source": "Uniradio Sonora",
+        "url": "https://www.uniradiosonora.com/gobierno/declaran-emergencia-13-municipios-sonora-polo-n906918",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
+      },
+      {
+        "title": "Diputadas buscan registro para alcaldía de Cajeme",
+        "summary": "Legisladoras sonorenses promueven candidatura para presidencia municipal de Cajeme.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/buscaran-diputadas-registrarse-para-alcaldia-de-cajeme/145065",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
+      },
+      {
+        "title": "Congreso abre parlamento sobre obligaciones alimentarias",
+        "summary": "Legislatura local realiza sesión abierta para debatir temas de pensión alimenticia.",
         "source": "Radio Sonora",
-        "url": "https://www.radiosonora.com.mx/heriberto-aguilar-tres-reformas-aprobadas-senado/",
-        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+        "url": "https://www.radiosonora.com.mx/congreso-realiza-parlamento-abierto-en-materia-de-obligaciones-alimentarias/",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Sonora alcanza récord en exportaciones este año",
-        "summary": "Estado registra ocho mil millones de dólares en exportaciones durante segundo trimestre de dos mil veintiséis.",
-        "source": "Expreso",
-        "url": "https://www.expreso.com.mx/noticias/sonora/gobierno-de-sonora-logra-record-de-exportaciones-en-2026/265826",
-        "_added_at": "2026-10-05T15:19:40.241934-07:00"
-      },
-      {
-        "title": "Comerciantes de Hermosillo muestran apatía digital",
-        "summary": "Especialistas reportan falta de participación de comercios en cursos de ventas en línea pese a capacitación.",
-        "source": "Proyecto Puente",
-        "url": "https://proyectopuente.com.mx/2026/10/05/hay-apatia-de-comerciantes-de-hermosillo-para-vender-en-linea-si-hay-capacitacion-pero-no-participan-especialista/",
-        "_added_at": "2026-10-05T15:19:40.241934-07:00"
-      },
-      {
-        "title": "Aguinaldo 2026: fechas para pensionados IMSS ISSSTE",
-        "summary": "Se informan las fechas de pago de aguinaldo para pensionados del IMSS e ISSSTE durante 2026.",
+        "title": "Hermosillo amplía estímulos para vivienda sustentable",
+        "summary": "Municipio expande incentivos fiscales para construcción de viviendas ecológicas.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/aguinaldo-2026-fechas-pensionados-imss-e-issste-n906715",
-        "_added_at": "2026-10-05T02:30:19.803115-07:00"
+        "url": "https://www.uniradiosonora.com/gobierno/hermosillo-amplia-estimulos-impulsar-vivienda-sustentable-n906922",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
       },
       {
-        "title": "Diésel supera 27 pesos en diecinueve estados",
-        "summary": "El precio del diésel ha rebasado los 27 pesos por litro en diecinueve entidades del país.",
+        "title": "Navojoa acelera recuperación de caminos dañados",
+        "summary": "Municipio intensifica trabajos de reparación de vías afectadas por lluvias recientes.",
         "source": "Diario del Yaqui",
-        "url": "https://diariodelyaqui.mx/finanzas/diesel-supera-los-27-pesos-por-litro-en-19-estados-de-mexico/145001",
-        "_added_at": "2026-10-05T02:30:19.803115-07:00"
+        "url": "https://diariodelyaqui.mx/sonora/navojoa-acelera-recuperacion-de-caminos/145069",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
       },
       {
-        "title": "Inicia programa de Ciencia, Innovación y Tecnología",
-        "summary": "Arranca nuevo programa enfocado en ciencia, innovación y desarrollo tecnológico en Sonora.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/inicia-programa-ciencia-innovacion-y-tecnologia/",
-        "_added_at": "2026-10-05T02:30:19.803115-07:00"
+        "title": "Huatabampo proyecta terminar auditorio municipal",
+        "summary": "Municipio busca completar obra de auditorio antes de cierre de administración actual.",
+        "source": "Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/sonora/huatabampo-proyecta-concluir-auditorio-antes-del-cierre-de-gobierno/145067",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Veinticinco mil nogalenses peregrinan a Magdalena",
-        "summary": "Miles de devotos de Nogales participan en peregrinación a Magdalena con saldo blanco sin incidentes.",
-        "source": "El Diario de Sonora",
-        "url": "https://eldiariodesonora.com.mx/nogales/2026/10/05/25-mil-nogalenses-peregrinaron-magdalena-regresaron-saldo-blanco.html",
-        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+        "title": "Línea Eléctrica Exprés se equipa con tecnología avanzada",
+        "summary": "Nuevo transporte de Hermosillo incorpora sistemas inteligentes de seguridad tecnológica.",
+        "source": "Radar Sonora",
+        "url": "https://www.radarsonora.com/gobernador-durazo-incorpora-tecnologia-y-seguridad-a-nuevas-unidades-de-transporte-de-la-linea-electrica-expres/",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
       },
       {
-        "title": "Ciento cincuenta mil estudiantes reciben beca Rita Cetina",
-        "summary": "Gobierno de Sonora realiza pagos de becas a estudiantes a través del programa Rita Cetina.",
+        "title": "Sonora prepara restricción de celulares en escuelas",
+        "summary": "Planteles escolares aplicarán limitaciones de uso de teléfonos móviles entre estudiantes.",
+        "source": "Expreso",
+        "url": "https://www.expreso.com.mx/noticias/sonora/preparan-escuelas-de-sonora-restriccion-de-celulares/265878",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
+      },
+      {
+        "title": "Jóvenes de Tubutama mejoran espacios comunitarios",
+        "summary": "Grupo de adolescentes se organiza para rehabilitar y embellecer zonas públicas locales.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/gobierno/mas-150-mil-estudiantes-sonora-recibiran-pago-beca-rita-cetina-n906826",
-        "_added_at": "2026-10-05T15:19:40.241934-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/jovenes-tubutama-unen-mejorar-sus-espacios-n906913",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
       },
       {
-        "title": "Nogales rehabilitará vialidades y alumbrado público",
-        "summary": "Municipio planea mejoras en calles e iluminación de la colonia Mesa en próximas semanas.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/10/05/nogales-rehabilitara-vialidades-alumbrado-publico-colonia-mesa.html",
-        "_added_at": "2026-10-05T15:19:40.241934-07:00"
-      },
-      {
-        "title": "Máquina Guinda debuta como equipo profesional",
-        "summary": "Nogales estrena equipo de basquetbol profesional para impulsar talentos locales en la disciplina.",
-        "source": "Nuevo Día",
-        "url": "https://www.nuevodia.mx/nogales/2026/10/05/maquina-guinda-debuta-nogales-plataforma-impulsar-talento-local-basquetbol.html",
-        "_added_at": "2026-10-05T15:19:40.241934-07:00"
-      },
-      {
-        "title": "DIF Sonora solicita donaciones por afectaciones de lluvia",
-        "summary": "El DIF Sonora convoca a la ciudadanía a donar para apoyar a familias damnificadas por lluvias recientes.",
+        "title": "Lanzan descuentos en multas de tránsito",
+        "summary": "Autoridades ofrecen reducciones en pago de infracciones viales en Sonora.",
         "source": "Uniradio Sonora",
-        "url": "https://www.uniradiosonora.com/sociedad/dif-sonora-llama-donar-familias-afectadas-lluvias-n906720",
-        "_added_at": "2026-10-05T02:30:19.803115-07:00"
-      },
-      {
-        "title": "Centro de acopio abierto por afectaciones de lluvia",
-        "summary": "Se abre centro de acopio en oficinas del DIF Sonora para recopilar ayuda por daños de precipitaciones.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/abre-centro-de-acopio-por-afectaciones-de-lluvias-en-oficinas-de-dif-sonora/",
-        "_added_at": "2026-10-05T02:30:19.803115-07:00"
-      },
-      {
-        "title": "Gobierno lleva descacharre a familias de La Cholla",
-        "summary": "La administración municipal de Hermosillo realiza jornada de descacharre en la colonia La Cholla.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/llevan-descacharre-a-familias-de-la-cholla-gobierno-de-hermosillo/",
-        "_added_at": "2026-10-05T02:30:19.803115-07:00"
-      },
-      {
-        "title": "Estudiantes de Unison llevan brigada a Costa",
-        "summary": "Alumnos de la Universidad de Sonora realizan jornada comunitaria en la zona de la Costa hermosillense.",
-        "source": "Entorno Informativo",
-        "url": "https://entornoinformativo.com.mx/llevan-brigada-comunitaria-a-la-costa-de-hermosillo-estudiantes-de-la-unison/",
-        "_added_at": "2026-10-05T02:30:19.803115-07:00"
+        "url": "https://www.uniradiosonora.com/sociedad/lanzan-descuentos-multas-transito-n906887",
+        "_added_at": "2026-10-06T02:14:57.263518-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-05T15:19:40.241934-07:00"
+  "last_updated": "2026-10-06T02:14:57.263518-07:00"
 }
